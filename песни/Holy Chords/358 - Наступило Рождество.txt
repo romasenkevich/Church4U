@@ -1,0 +1,67 @@
+НАРНиЯ — Наступило Рождество
+Источник: https://holychords.pro/358
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>| Bb  C  Dm  F | Bb  Gm  C |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>              Bb                    C            Dm               F</chopds>
+<text>Наступило Рождество Слово Божье ожило</text>
+<chopds>          Bb                   Gm            C</chopds>
+<text>И на землю Божий Сын пришёл</text>
+<chopds>          Bb                C                 Dm                        F</chopds>
+<text>Небеса оставил Он в Вифлееме был рожден</text>
+<chopds>            Bb                   Gm           C</chopds>
+<text>Чтобы я однажды был спасён</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>         Bb                C         Dm     Gm</chopds>
+<text>Ибо так возлюбил Бог этот мир</text>
+<chopds>      Bb            C                 F</chopds>
+<text>Что отдал Сына Своего</text>
+<chopds>         Bb                C         Dm     Gm</chopds>
+<text>Ибо так возлюбил Бог этот мир</text>
+<chopds>      Bb           C                 F</chopds>
+<text>Что отдал Сына Своего</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>В Нем послание небес</text>
+<text>Нам открыл благой Отец,</text>
+<text>Чтобы мы смогли Его принять</text>
+<text>Среди множества грехов</text>
+<text>Среди множества оков</text>
+<text>Иисус нашел и спас меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>               F        Gm                        Bb            C</chopds>
+<text>Дабы всякий верующий в Него не погиб</text>
+<chopds>            F                Gm      C</chopds>
+<text>Но имел жизнь вечную</text>
+<chopds>               F        Gm                        Bb            C</chopds>
+<text>Дабы всякий верующий в Него не погиб</text>
+<chopds>          Gm                C        F      Dm</chopds>
+<text>Но имел жизнь вечную</text>
+<chopds>          Gm                C        F</chopds>
+<text>Но имел жизнь вечную</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>           Bb                        C</chopds>
+<text>Наступило Рождество</text>
+<chopds>          Dm                        F</chopds>
+<text>Наступило Рождество</text>
+<chopds>           Bb       C               F</chopds>
+<text>Наступило Рождество</text>
+</blocks>

@@ -1,0 +1,68 @@
+Hillsong Ukraine — Яхве
+Источник: https://holychords.pro/304
+
+==================================================
+
+<blocks>
+<chopds>E  F#   G#m   H</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>            E          F#    G#m</chopds>
+<text>Наш Бог живет вовеки</text>
+<chopds>             E                              H   C#m7</chopds>
+<text>В любви Он с силой царит</text>
+<chopds>          E              F#          G#m</chopds>
+<text>Земля пред Ним склонится</text>
+<chopds>C#m7       H/D#   E   F#</chopds>
+<text>Превознесён Он</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>        G#m               E         H     C#m7</chopds>
+<text>Стремимся к Тебе, Яхве</text>
+<chopds>    G#m         E         F#</chopds>
+<text>Вовеки Яхве, Яхве</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Велик Бог Всемогущий</text>
+<text>Нигде Ему равных нет</text>
+<text>Почтим и вознесем мы</text>
+<text>Бога Небес всех</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>        G#m               E          H    C#m7</chopds>
+<text>Стремимся к Тебе, Яхве</text>
+<chopds>    G#m                E        F#</chopds>
+<text>Надежда в Тебе, Яхве</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>    H                                           F#</chopds>
+<text>Правь над всем вовеки правь над всем вовеки</text>
+<chopds>C#m7           G#m         E          F#</chopds>
+<text>Правь над всем вовеки и веки</text>
+<chopds>    H                                           F#</chopds>
+<text>Правь над всем вовеки правь над всем вовеки</text>
+<chopds>C#m7           G#m         E          F#                E   G#m   F#   H/D#</chopds>
+<text>Правь над всем вовеки и веки наш Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>        G#m               E         H     C#m7</chopds>
+<text>Стремимся к Тебе, Яхве</text>
+<chopds>    G#m         E         F#</chopds>
+<text>Вовеки Яхве, Яхве</text>
+<chopds>        G#m               E          H    C#m7</chopds>
+<text>Стремимся к Тебе, Яхве</text>
+<chopds>    G#m                E        F#</chopds>
+<text>Надежда в Тебе, Яхве</text>
+</blocks>

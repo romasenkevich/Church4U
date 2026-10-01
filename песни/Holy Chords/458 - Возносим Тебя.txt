@@ -1,0 +1,54 @@
+Слово Жизни Music — Возносим Тебя
+Источник: https://holychords.pro/458
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C#m          A             E</chopds>
+<text>Кто пришел спасти?</text>
+<chopds>C#m         A        E    H</chopds>
+<text>Всех нас исцелить?</text>
+<chopds>C#m        A        E</chopds>
+<text>Сердце обновить?</text>
+<chopds>C#m         A             E   H</chopds>
+<text>Только мой Спаситель</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>         A                     H           A                     H</chopds>
+<text>Другого имени нет, другого имени нет</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                       E         A                              H</chopds>
+<text>Возносим мы Тебя, Господь, всем сердцем!</text>
+<chopds>                     C#m    A                       H</chopds>
+<text>Возносим мы Тебя превыше всех!</text>
+<chopds>    C#m              A                 E                  H</chopds>
+<text>Великий Господь, прими, Бог Всевышний</text>
+<chopds> C#m        A           H</chopds>
+<text>Славу и силу и честь!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Кто возьмет мой грех?</text>
+<text>Кто очистит сердце?</text>
+<text>Кто наполнит дух?</text>
+<text>Только Иисус мой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>          C#m        A             E          H</chopds>
+<text>Ты - мой Господь, великий Бог!</text>
+<chopds>            C#m            A      E            H</chopds>
+<text>И Ты - Тот, в Ком я уверен, тверд!</text>
+<chopds>            C#m  A         E               H</chopds>
+<text>И Ты - Царь! Ты правишь, Бог!</text>
+<chopds>        C#m   A          H</chopds>
+<text>Ты - Царь, мой Царь!</text>
+</blocks>

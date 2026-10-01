@@ -1,0 +1,50 @@
+Они — Она льётся за тебя
+Источник: https://holychords.pro/115
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>      Dm</chopds>
+<text>Терновый венец, кровавые раны</text>
+<chopds>Am</chopds>
+<text>Он не хотел умирать слишком рано,</text>
+<chopds>        Bb</chopds>
+<text>За грешную землю решил пострадать</text>
+<chopds>Gm                                   A</chopds>
+<text>И на кресте жизнь святую отдать!</text>
+<chopds>    Dm</chopds>
+<text>Ревела толпа, плевала в лицо,</text>
+<chopds>     Am</chopds>
+<text>Душа изнывала в разлуке с Отцом</text>
+<chopds>                 Bb</chopds>
+<text>Римский воин на древе Христа распинал,</text>
+<chopds>  Gm                              A</chopds>
+<text>Кровь лилась, а Он тихо шептал:</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                           Dm                                          Gm</chopds>
+<text>Она льется за тебя и к Твоей душе взывает!</text>
+<chopds>                                   Edim                                               C</chopds>
+<text>Знай, что Я люблю тебя! Знай, что Я тебя прощаю!</text>
+<chopds>                             F                                          Gm</chopds>
+<text>Она льется за тебя и понять душа не в силах</text>
+<chopds>A       A/C#                         Dm</chopds>
+<text>Ту любовь, что к нам с небес</text>
+<chopds>         C                              Bb                                                    A</chopds>
+<text>Ту любовь, что к нам с небес, в этот грешный мир спустилась!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ты ищешь ответ на извечный вопрос</text>
+<text>Кто может избавить от горя и слез</text>
+<text>Ты же знаешь - назад ничего не вернуть</text>
+<text>Но поверь, есть иной в жизни путь!</text>
+<text>Не медли, прошу! Свой взор подними!</text>
+<text>И к Богу Живому скорей обратись!</text>
+<text>Он любит, Он ждет! Он тебя искупил!</text>
+<text>И на кресте Кровь святую пролил!</text>
+</blocks>

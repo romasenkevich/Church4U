@@ -1,0 +1,61 @@
+Hillsong Ukraine — Живой
+BPM: 132
+Источник: https://holychords.pro/106
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>           Hm             D/F#     G                       G             Hm        A</chopds>
+<text>По осколкам меня собрал, и навсегда для Себя избрал</text>
+<chopds>            Hm                D/F#     G                      G             Hm        A</chopds>
+<text>Возродил к жизни из руин, теперь навек я в руках Твоих</text>
+<chopds>                Hm               D/F#     G                         G             Hm            A</chopds>
+<text>Превзойдешь все слова мои, лишь за Тобой я пойду все дни</text>
+<chopds>              Hm           D/F#       G                    G                 Hm        A</chopds>
+<text>Не сверну я с Твоих путей, свободу дал благостью навек</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>          Hm            D/F#    G                       G               Hm     A</chopds>
+<text>Ведь Ты, Бог, моя, моя свобода, Тебя возвышаем, возвышаем</text>
+<chopds>  Hm          D/F#      G                          G  Hm   A</chopds>
+<text>Любовь Твоя, Твоя, бесконечна,  о-о-о</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                        Hm  D/F#  G                     G    Hm   A</chopds>
+<text>Живой Ты в нас всегда, таких, как Ты, Бог, нет</text>
+<chopds>            Hm  D/F#  G                              G   Hm  A</chopds>
+<text>Ты свободу дал, нам всем в любви Своей</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Пусть во тьме будет мне сиять ярким светом любовь Твоя</text>
+<text>Всех цепей силу разорвет свободу даст мне Твоя любовь</text>
+<text>В этом мире исчезнет всё но к нашей встрече дойду, мой Бог</text>
+<text>Буду жить, чтобы исполнять Твою волю здесь до конца</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Young & Free — Alive (Live) [Английский]
+  https://holychords.pro/5625
+- Исход Ростов на Дону — Дал нам свободу [Русский]
+  https://holychords.pro/5829
+- Hillsong Young & Free — Alive (Remix) [Английский]
+  https://holychords.pro/8986
+- Влад Фонки — Живий [Украинский]
+  https://holychords.pro/15900
+- Hillsong Young & Free — Alive (Studio) [Английский]
+  https://holychords.pro/16351
+- M.Worship — Ты Оживил Меня [Русский]
+  https://holychords.pro/26771
+- Слово Жизни Music — Живой [Русский]
+  https://holychords.pro/30468
+- The FRGVN — Живой [Русский]
+  https://holychords.pro/43085

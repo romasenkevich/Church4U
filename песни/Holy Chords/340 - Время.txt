@@ -1,0 +1,67 @@
+Божья роса — Время
+Источник: https://holychords.pro/340
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Cm  Fm  G  Cm</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>           Cm                 D#               Bb                          D#</chopds>
+<text>Нас всех рисует время, все пишет свой портрет</text>
+<chopds>       Fm                 Cm   D                                       G</chopds>
+<text>От самой колыбели до тех прощальных лет.</text>
+<chopds>         Cm  G#          D#          Bb                   D#</chopds>
+<text>С дороги не сбиваясь, оно ведет отсчет:</text>
+<chopds>       Fm                      Cm     D                              G</chopds>
+<text>То выстелит морщинку, то складку насечет.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                   Fm     Bb   D#                                Cm</chopds>
+<text>Меняет время лица, Бог - души и сердца.</text>
+<chopds>              Fm    G                         Cm</chopds>
+<text>И это длится века, века, века.</text>
+<chopds>                   Fm     Bb   D#                                Cm</chopds>
+<text>Меняет время лица, Бог - души и сердца.</text>
+<chopds>              Fm    G                         Cm</chopds>
+<text>И это длится века, века, века.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>За радости сверх меры, за прежние грехи</text>
+<text>Безжалостно и строго кладет оно штрихи.</text>
+<text>То длинный штрих положит, а то взмахнет слегка -</text>
+<text>И белая дорожка ложится у виска.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>И снова белым, белым, и входит цвет в права,</text>
+<text>И зимнею порошей повита голова.</text>
+<text>Спешат за годом годы, идет за следом след,</text>
+<text>А время все рисует, все пишет свой портрет.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Песнь Возрождения — Нас всех рисует время [Русский]
+  https://holychords.pro/20047
+- Левчики — Нас всех рисует время [Русский]
+  https://holychords.pro/21525
+- Сусанна Шарикова — Нас всех рисует время [Русский]
+  https://holychords.pro/27456
+- FECG Lahr — Нас всех рисует время [Русский]
+  https://holychords.pro/37641
+- 7я Дегтяревых — Времето рисува ни портрет [Болгарский]
+  https://holychords.pro/57154
+- Неизвестен — Час всіх людей малює [Украинский]
+  https://holychords.pro/66363
+- Світло для світу, м. Хмельницький — Час всіх людей малює [Украинский]
+  https://holychords.pro/66366

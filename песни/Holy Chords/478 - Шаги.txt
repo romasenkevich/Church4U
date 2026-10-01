@@ -1,0 +1,44 @@
+Жизнь — Шаги
+Источник: https://holychords.pro/478
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Am                                          F</chopds>
+<text>Долго, долго ты искала солнце,</text>
+<chopds>       Dm                                                       E</chopds>
+<text>Но было так много на Твоём небе туч.</text>
+<chopds>    Am                                                    F</chopds>
+<text>Много, много было в жизни ошибок</text>
+<chopds>                Dm                                                                E</chopds>
+<text>И невозможным казалось уже куда-то свернуть.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Am                                                                       F</chopds>
+<text>Так или не так, вот делаешь шаг, и не знаешь – смеяться, иль плакать.</text>
+<chopds>      Dm                                                                          E</chopds>
+<text>И вроде бы ничего, казалось бы, пустяк, но сердце твоё всё в ранах!</text>
+<chopds>  Am                                                                 F</chopds>
+<text>Знаешь, где-то есть та страна, где живёт Любовь.</text>
+<chopds>  Dm                                                                  E</chopds>
+<text>Труден этот путь, но… Ты делаешь шаги вновь и вновь…</text>
+<chopds>                             Am                     Dm                        G              C</chopds>
+<text>И пусть только Бог знает об этом - Ему одному ты доверься,</text>
+<chopds>                     F              Dm                         E</chopds>
+<text>И Он подскажет тебе как дальше жить!</text>
+<chopds>                             Am                     Dm                        G              C</chopds>
+<text>И пусть только Бог знает об этом - Ему одному ты доверься,</text>
+<chopds>                     F              Dm                         E</chopds>
+<text>И Он подскажет тебе как дальше жить!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Дни и недели, годы всё куда-то летели,</text>
+<text>Как птицы летят в дальнюю даль.</text>
+<text>А помнишь, в детстве, все когда-то хотели,</text>
+<text>Летать высоко, высоко-высоко.</text>
+</blocks>

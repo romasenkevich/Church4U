@@ -1,0 +1,49 @@
+Игорь Сидоров — Скоро на Небо
+Источник: https://holychords.pro/328
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Fm               D#</chopds>
+<text>Рано утром и поздней ночью,</text>
+<chopds>C#                              D#</chopds>
+<text>Помышляю я о том</text>
+<chopds>Fm                           D#</chopds>
+<text>Что нас ждёт там в вечной славе</text>
+<chopds>C#                                          D#</chopds>
+<text>Приготовленной Христом</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     G#                     D#</chopds>
+<text>Скоро на Небо, Божии дети,</text>
+<chopds>               Fm                              C#</chopds>
+<text>Нас там согреет в объятьях Отец.</text>
+<chopds>                    G#                               D#</chopds>
+<text>Скоро на Небо, закончатся скорби,</text>
+<chopds>                Fm                          C#</chopds>
+<text>Спаситель возложит славы венец.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Fm                D#</chopds>
+<text>Рано утром, и поздней ночью,</text>
+<chopds>C#                                                    D#</chopds>
+<text>Размышляй, мой друг, со мной</text>
+<chopds>Fm                          D#</chopds>
+<text>Что там ждёт нас в вечной славе,</text>
+<chopds>C#                                          D#</chopds>
+<text>Приготовленной Христом.</text>
+<text>Бридж.</text>
+<chopds>A#m              C#                        G#                                  D#</chopds>
+<text>Если изнемог, ты не одинок, с тобою рядом Бог.</text>
+<chopds>A#m                            C#                           G#                                    D#</chopds>
+<text>Что бы не было в пути, ты вперед иди, и на Христа смотри.</text>
+<chopds>A#m                       C#                                      G#                                  D#</chopds>
+<text>Закончится гроза, поднимем мы глаза, и в вечных небесах,</text>
+<chopds>A#m                        C#                                        G#                                          D#</chopds>
+<text>Мы обретем покой, когда придем домой в небесный наш покой.</text>
+</blocks>

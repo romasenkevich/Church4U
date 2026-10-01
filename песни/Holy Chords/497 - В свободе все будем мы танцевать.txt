@@ -1,0 +1,66 @@
+Hillsong Ukraine — В свободе все будем мы танцевать
+Источник: https://holychords.pro/497
+
+==================================================
+
+<blocks>
+<chopds>G   F   Em   F</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>                        G</chopds>
+<text>В свободе все, все, все будем мы танцевать</text>
+<chopds>                   F</chopds>
+<text>В свободе все, все, будем мы танцевать</text>
+<chopds>                      Em</chopds>
+<text>В свободе все, все, все будем мы танцевать</text>
+<chopds>                 F                                                             G  F</chopds>
+<text>Свободу эту для нас Он подарил навечно!</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>G</chopds>
+<text>Хоть весь мир отвергнет Тебя, но знаю в Тебе буду я всегда</text>
+<chopds>            Em                              F                             G  F</chopds>
+<text>Даже после конца земли я буду славить!</text>
+<chopds>G</chopds>
+<text>Любовь мне Он даёт без конца снова оживил мечты для меня</text>
+<chopds>              Em                                         F                                 G  F</chopds>
+<text>Дал надежду воскресший Царь, давайте славить!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>D                                Em           C</chopds>
+<text>Ведь осознать немыслимо, что Он спас меня, взял мою вину</text>
+<chopds>D                      Em                              F</chopds>
+<text>Я теперь эту жизнь люблю и вновь, и вновь, и вновь будем петь мы</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>   G          D                 Em                  F            C</chopds>
+<text>Жизнь мою Он освободил, давай, давай</text>
+<chopds>                         G       D             Em                                    F            C</chopds>
+<text>Давай в свободе петь вся земля и весь мир, давай, давай Его славить!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>G</chopds>
+<text>Пусть все соберутся опять, чтобы сильней возвеличить Тебя!</text>
+<chopds>                   Em                             F                               G   F</chopds>
+<text>Землю всю Ты объединишь, чтобы славить!</text>
+<chopds>G</chopds>
+<text>Нет причин нам что-то скрывать, словно город на горе давай сиять!</text>
+<chopds>                 Em                          F                           G   F</chopds>
+<text>В свете Божьей свободы давай Славить!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — The Freedom We Know (Live) [Английский]
+  https://holychords.pro/69777

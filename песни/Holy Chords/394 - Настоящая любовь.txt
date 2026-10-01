@@ -1,0 +1,48 @@
+Real Ivanna — Настоящая любовь
+Источник: https://holychords.pro/394
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds> Am                                                                         F</chopds>
+<text>То, как я люблю Тебя, не расскажет Тебе ветер,</text>
+<chopds>Dm7                      C                      G</chopds>
+<text>Дождь не нарисует на стекле.</text>
+<chopds>Am                               C                                      F</chopds>
+<text>То, как я люблю Тебя, не покажут Тебе свечи.</text>
+<chopds>Dm7                              C                      G</chopds>
+<text>Только лишь сердце подскажет Тебе.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>        Am                                    F</chopds>
+<text>Настоящая любовь не уйдёт через года,</text>
+<chopds>            C                                        G</chopds>
+<text>Не остынет в холода, не сгорит в пылу огня.</text>
+<chopds>                Am                                    F</chopds>
+<text>Кто бы что ни говорил, не найдет разрушить сил</text>
+<chopds>          C                                        G</chopds>
+<text>Настоящую любовь он никогда.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>То, как я люблю Тебя, не опишут Тебе звёзды,</text>
+<text>Лунный свет не выбьет на окне.</text>
+<text>То, как я люблю Тебя, не докажут мои слёзы,</text>
+<text>Только лишь сердце подскажет Тебе.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>                    F                           G</chopds>
+<text>Ведь она любит, не смотря ни на что,</text>
+<chopds>                     F                      G</chopds>
+<text>Ведь она верит, простираясь вперёд.</text>
+<chopds>                     F                G</chopds>
+<text>Ведь она радость в душу несёт,</text>
+<chopds>           F                                      G</chopds>
+<text>Настоящая любовь никогда не придаёт.</text>
+</blocks>

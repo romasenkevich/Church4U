@@ -1,0 +1,75 @@
+Василий Перебиковский — В жизни есть и трудные минуты
+Источник: https://holychords.pro/433
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>|  Bbm  C  Fm   |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Fm                         Bbm           Fm</chopds>
+<text>В жизни есть и трудные минуты,</text>
+<chopds>     Bbm        C             Fm</chopds>
+<text>Всякое бывает на пути,</text>
+<chopds>Bbm                   C                       Fm     C#</chopds>
+<text>Но как только обращаюсь к Богу,</text>
+<chopds>Bbm             C                Fm  C</chopds>
+<text>Небо вижу небо впереди.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Fm                    Bbm</chopds>
+<text>Небо голубое небо,</text>
+<chopds>                  Eb                                                    Ab</chopds>
+<text>Как прекрасно знать, что там мой дом родной,</text>
+<chopds>F                       Bbm</chopds>
+<text>Небо голубое небо,</text>
+<chopds>         Fm            C                       Fm</chopds>
+<text>Я хочу скорей хочу скорей домой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Fm                Bbm                    Fm</chopds>
+<text>На земле я только лишь прохожий,</text>
+<chopds>Bbm                     C                     Fm</chopds>
+<text>Жду встречаю скоро всё пройдёт,</text>
+<chopds>Bbm                    C                         Fm      C#</chopds>
+<text>Я свой взор направлю в небо к Богу,</text>
+<chopds>Bbm                  C                 Fm  C</chopds>
+<text>Знаю в небе ждёт меня покой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<chopds>Fm                    Bbm                    Fm          C</chopds>
+<text>Друг мой если будет очень трудно,</text>
+<chopds>Fm                      C                                  Fm</chopds>
+<text>Не забудь поднять ты взор свой ввысь,</text>
+<chopds>Bbm                  C                         Fm       C#</chopds>
+<text>И Господь наполнит миром душу,</text>
+<chopds>Bbm               C                Fm     Bbm  C</chopds>
+<text>И напомнит небо впереди.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Стас Бондаренко — Небо [Русский]
+  https://holychords.pro/1759
+- Sharikov Family Band — В жизни есть и трудные минуты [Русский]
+  https://holychords.pro/2799
+- Берники — Небо голубое небо [Русский]
+  https://holychords.pro/33199
+- Вестник Спасения — Хочу домой [Русский]
+  https://holychords.pro/45002
+- Неизвестен — Андэ жизня миндыиг прээ пгаарес ги [Цыганский]
+  https://holychords.pro/53477
+- Брати Степчуки — В жизни есть и трудные минуты [Русский]
+  https://holychords.pro/60126
+- Sharikov Family Band — Небо, о, блакитне небо [Украинский]
+  https://holychords.pro/64301

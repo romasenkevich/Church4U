@@ -1,0 +1,68 @@
+New Beginnings Worship — Я не боюсь
+Источник: https://holychords.pro/493
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C</chopds>
+<text>Мой голос слышишь Ты с утра и до зари,</text>
+<chopds>F/C                                                                    Am            F</chopds>
+<text>Когда ночная тьма не скроет яркий свет, я не боюсь.</text>
+<chopds>C</chopds>
+<text>Ты сокрушил врага под моей пятой.</text>
+<chopds>F/C                                                                                  Am           F</chopds>
+<text>Ты мой надежный щит и в самый трудный миг я не боюсь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Am            G           C  Am               G          C</chopds>
+<text>Я знаю кто со мной и кто вокруг меня,</text>
+<chopds>Am               F                                              G          C</chopds>
+<text>Ведь ангелов небесных всё воинство со мной.</text>
+<chopds>Am                   G             C  Am                     G                C</chopds>
+<text>Кто правит всей землёй, мой самый Лучший Друг</text>
+<chopds>Am         F                                             G          C</chopds>
+<text>И ангелов небесных всё воинство вокруг.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>C</chopds>
+<text>Лишь Имя Иисус оно даёт мне сил,</text>
+<chopds>F/C                                                                             Am             F  Am  F        G</chopds>
+<text>Господь - Спаситель мой, победа только с Ним. Я не боюсь. Я не боюсь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>   F                              C          G    C                                                    F</chopds>
+<text>Нет сильней сил против меня, когда весь мир в Твоих руках.</text>
+<chopds>F                      C            Am     G                  F                            G</chopds>
+<text>Держусь Твоих обещаний я, Ты так верен, Ты так верен.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Fly worship — Не устрашусь (Господь небесных воинств) [Русский]
+  https://holychords.pro/3219
+- Chris Tomlin — Whom Shall I Fear [God of Angel Armies] [Английский]
+  https://holychords.pro/3220
+- Chris Tomlin — Не убоюсь (Господь небесных воинств) [Русский]
+  https://holychords.pro/8371
+- Джерело Життя Здолбунів — Хто настрашить? [Украинский]
+  https://holychords.pro/28323
+- Chris Tomlin — Я не боюсь [Украинский]
+  https://holychords.pro/33332
+- Tommy Iceland — Whom Shall I Fear (God Of Angel Armies) [Английский]
+  https://holychords.pro/33334
+- Exodus 15 — Bóg anielskie armii [Польский]
+  https://holychords.pro/40081
+- Церква Християн Херсон — Я не боюсь! [Украинский]
+  https://holychords.pro/53510
+- Passion — Я не боюсь [Господь небесных воинств] [Русский]
+  https://holychords.pro/70879
+- ReWorship — Я не боюсь [Украинский]
+  https://holychords.pro/85348

@@ -1,0 +1,46 @@
+Imprintband — Вечная любовь
+BPM: 150
+Источник: https://holychords.pro/226
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Am                                F</chopds>
+<text>Я любил тебя всегда когда ты шла во тьму от света</text>
+<chopds>G                                                Em</chopds>
+<text>Моя любовь всегда с тобой она лишь только ждет ответа</text>
+<chopds>Am                                                                                   F</chopds>
+<text>Она лишь только ждет когда, ты устанешь ждать и бороться сама с собою</text>
+<chopds>G                                                                        Em</chopds>
+<text>Она лишь только ждет, когда ты позовёшь чтобы стать твоей.</text>
+<text>Вечная любовь … Вечная любовь …</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     Am                               Em</chopds>
+<text>Вечная любовь вновь зовет тебя</text>
+<chopds>                               Dm          G             Am</chopds>
+<text>Сердце распахни и взлети в небеса</text>
+<chopds>                     Am                               Em</chopds>
+<text>Вечная любовь вновь зовет тебя</text>
+<chopds>                              Dm    G                        D</chopds>
+<text>Сердце распахни и взлети в небеса</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Я любил тебя когда, была в утробе, Я любил тебя,</text>
+<text>Когда позвал на свет, Я ждал, когда ты вырастешь и скажешь слово,</text>
+<text>Я ждал, когда смогу сказать тебе луной, утренней зарей ручьем весенним,</text>
+<text>Соловьем, прохладною росой… Как сильно Я люблю тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Когда ты плакала, я отирал те слезы</text>
+<text>Я влек тебя любовью своей, на руках тебя носил</text>
+<text>Я Сына Своего отдал, ибо не представляю</text>
+<text>Быть в вечности и не иметь тебя с Собой</text>
+</blocks>

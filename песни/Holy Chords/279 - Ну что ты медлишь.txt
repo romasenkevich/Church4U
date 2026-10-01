@@ -1,0 +1,67 @@
+Спасіння Вишневе — Ну что ты медлишь
+Источник: https://holychords.pro/279
+
+==================================================
+
+<blocks>
+<videlit_line>intro</videlit_line>
+<chopds>| Fm C# | D# |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>     Fm                                                C#                        D#</chopds>
+<text>Цени родных, цени друзей, они - подарок свыше,</text>
+<chopds>       C#add9                  Bbm                   Csus              C</chopds>
+<text>Ведь это - часть судьбы твоей,- помогут и услышат...</text>
+<chopds>       Fm                                        C#                 D#</chopds>
+<text>Слова бездумные твои до боли могут ранить,</text>
+<chopds>   C#add9             Bbm                      G                        Csus   C</chopds>
+<text>До слез обидеть, огорчить и шрам в душе оставить.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>     Fm                                                 C#                  C</chopds>
+<text>Куда идешь? Кто впереди? И где душа твоя сегодня?</text>
+<chopds>       Fm                                                      C#                        D#</chopds>
+<text>Ты каждый миг жизни цени, ведь завтра может быть поздно...</text>
+<chopds>       C#          D#            C        Fm</chopds>
+<text>Люби, прощай, живи и знай:</text>
+<chopds>D#   C#     Bbm   G         C</chopds>
+<text>За всё придётся отвечать!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Открой глаза и посмотри - ведь кто-то ожидает</text>
+<text>Помощи твоей руки кому-то не хватает.</text>
+<text>Ну что ты медлишь? - Помоги! Там кто-то умирает!</text>
+<text>Кого-то пустота внутри жестоко убивает!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                    Fm                             C#            D#</chopds>
+<text>Ну что ты медлишь? - Помоги! Там кто-то умирает!</text>
+<chopds>C#add9          Bbm                     G           C</chopds>
+<text>Кого-то пустота внутри жестоко убивает!</text>
+<chopds>       C#          D#            C        Fm</chopds>
+<text>Люби, прощай, живи и знай:</text>
+<chopds>D#   C#     Bbm   G         C</chopds>
+<text>За всё придётся отвечать!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>        C#      Bbm               G    C#   C</chopds>
+<text>За всё придётся отвеча-а-ать!</text>
+<chopds>             Fm</chopds>
+<text>Куда идёшь Ты...</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Спасіння Вишневе — Не зволікай! [Украинский]
+  https://holychords.pro/69374

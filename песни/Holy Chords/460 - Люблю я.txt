@@ -1,0 +1,41 @@
+Слово Жизни Music — Люблю я
+Источник: https://holychords.pro/460
+
+==================================================
+
+<blocks>
+<chopds>E                             H</chopds>
+<text>Люблю я Ты – моя надежда</text>
+<chopds>                     F#m                         C#m                        H</chopds>
+<text>Иисус Христос, возьми, мой Бог, Всю мою жизнь</text>
+<chopds>     A                    E  H  F#m  C#m  H</chopds>
+<text>Всю жизнь.</text>
+<chopds>                 A                                                                                C#m</chopds>
+<text>Ты пришёл во славе света, исцелил и дал надежду мне</text>
+<chopds>               A                                                                                 H</chopds>
+<text>Было трудно – Ты ответил и любовью окружил Своей</text>
+<chopds>                        F#m                                  C#m            H</chopds>
+<text>Той, самой сильной, той, самой крепкой Твоей,</text>
+<chopds>           A                 F#m</chopds>
+<text> Что покрывает грех.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>На вершинах Ты со мной и в долинах мы вместе</text>
+<text>Сына отдал Своего Твоей любви страстно верю</text>
+<text>Той, самой сильной, той, самой крепкой Твоей,</text>
+<text>Что покрывает грех</text>
+<chopds>            E                             H</chopds>
+<text>Люблю я Ты – моя надежда</text>
+<chopds>                     F#m                         C#m                        H</chopds>
+<text>Иисус Христос, возьми, мой Бог, Всю мою жизнь</text>
+<chopds>     A                    E  H  F#m  C#m  H</chopds>
+<text>Всю жизнь.</text>
+<chopds>               E       H         F#m    A</chopds>
+<text>Я Люблю Тебя, Отдаю всего себя Тебе</text>
+<chopds>           E           G#      C#m  H      A</chopds>
+<text>Ты нужен мне, Ты нужен мне</text>
+<chopds>         E                   A           C#m  H  A</chopds>
+<text>Господь я Люблю Тебя.</text>
+</blocks>

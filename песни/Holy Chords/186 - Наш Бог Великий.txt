@@ -1,0 +1,116 @@
+Алексей Каратаев — Наш Бог Великий
+Источник: https://holychords.pro/186
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>G#m         E                    H</chopds>
+<text>Воду вином сделал Ты</text>
+<chopds>G#m                     E                       H</chopds>
+<text>Тем, кто во тьме, Свой свет дал</text>
+<chopds>                      C#m                              F#</chopds>
+<text>Лишь Ты Один, Бог лишь Ты Один</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds> G#m            E             H</chopds>
+<text>Светом Своим озарил</text>
+<chopds>       G#m          E                   H</chopds>
+<text>Из праха Ты нас воскресил</text>
+<chopds>                      C#m                              F#</chopds>
+<text>Лишь Ты Один, Бог лишь Ты Один</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G#m                            E</chopds>
+<text>Наш Бог Великий Наш Бог Сильнейший</text>
+<chopds>H                                       F#/A#</chopds>
+<text>Бог, Ты вошедший превыше небес всех</text>
+<chopds>G#m                                   E</chopds>
+<text>Наш Бог - Целитель правит в победе</text>
+<chopds>           H              F#</chopds>
+<text>Наш Бог, наш Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>G#m                                   E</chopds>
+<text>И если наш Бог с нами то кто нас остановит?</text>
+<chopds>H                                      F#</chopds>
+<text>И если наш Бог с нами то Кто тогда против нас?</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- New Beginnings Worship — Наш Бог Великий [Русский]
+  https://holychords.pro/39
+- Hillsong Ukraine — Наш Бог [Русский]
+  https://holychords.pro/309
+- Слово Жизни Music — Наш Бог Великий [Русский]
+  https://holychords.pro/457
+- Виталий Ефремочкин — Наш Бог великий [Русский]
+  https://holychords.pro/4786
+- Голгофа церква — Наш Бог [Украинский]
+  https://holychords.pro/5084
+- Ольга Маріна — Наш Бог Великий [Русский]
+  https://holychords.pro/9154
+- NG Worship — Наш Бог Всех Больше [Русский]
+  https://holychords.pro/10277
+- UzWorSong — Қудратли Худо [Узбекский]
+  https://holychords.pro/12542
+- Краеугольный Камень Новосибирск — Наш Бог великий [Русский]
+  https://holychords.pro/14833
+- Chris Tomlin — Наш Бог Великий [Украинский]
+  https://holychords.pro/15781
+- JesusMainstream — Наш Бог [Русский]
+  https://holychords.pro/16020
+- Chris Tomlin — Our God
+  https://holychords.pro/22533
+- Phil Wickham — Наш Бог великий [Русский]
+  https://holychords.pro/22858
+- Spiritual Evolution — Наш Бог Великий [Русский]
+  https://holychords.pro/24839
+- Andreas Volz — So bist nur Du [Немецкий]
+  https://holychords.pro/26428
+- Exodus 15 — Nasz Bóg [Польский]
+  https://holychords.pro/27320
+- Нове Покоління Першотравенськ — Наш Бог великий [Русский]
+  https://holychords.pro/34787
+- Петро Грифель — Бог наш Могутній [Украинский]
+  https://holychords.pro/34950
+- Петро Грифель — Бог наш Могутній (Remix) [Украинский]
+  https://holychords.pro/35591
+- Chris Tomlin — Наш Бог великий [Украинский]
+  https://holychords.pro/36489
+- Переображення Сарни — Воду вином Ти зробив [Украинский]
+  https://holychords.pro/37518
+- Denis Pantea — Apa-i schimbat-o în vin [Румынский]
+  https://holychords.pro/37538
+- Надія Sol Family Church — Воду вином Ти зробив [Украинский]
+  https://holychords.pro/37629
+- DNG worship — Наш Бог Великий [Русский]
+  https://holychords.pro/38382
+- Chris Tomlin — Наш Бог Великий [Украинский]
+  https://holychords.pro/39866
+- GRACE CV — Воду в вино [Украинский]
+  https://holychords.pro/40692
+- X-mas BAND — Наш Бог (Воду вином ти зробив) [Украинский]
+  https://holychords.pro/44109
+- Жанна Низевич — Наш Бог Могутній [Украинский]
+  https://holychords.pro/44726
+- United Flames — Xudoyim Buyuksan [Узбекский]
+  https://holychords.pro/64380
+- Bible Music — Our God (Slow Version) [Английский]
+  https://holychords.pro/66151
+- WolArm Worship — Mets e mer Tere | Մեծ է մեր Տերը [Армянский]
+  https://holychords.pro/68757
+- ЕЛЕЙ — Наш Бог великий [Русский]
+  https://holychords.pro/76100
+- ЕПЦ Варна — Господ е силен [Болгарский]
+  https://holychords.pro/79794
+- Неизвестен — Нашиот Бог [Македонский]
+  https://holychords.pro/81127

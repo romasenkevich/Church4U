@@ -1,0 +1,33 @@
+Посольство Божье Симферополь — Аромат любви
+Источник: https://holychords.pro/344
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Hm  F#m  G  D  A</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>                         Hm</chopds>
+<text>Как сладок Твой нектар - пьянящий</text>
+<chopds>                     A                                  F#</chopds>
+<text>Как нежен аромат Твоей любви.</text>
+<chopds>                    G</chopds>
+<text>Наполнил силою - животворящей</text>
+<chopds>       Em                           F#</chopds>
+<text>Мы ветви, Иисус, Твои</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>          Hm                                         G</chopds>
+<text>Растекается аромат любви в сердце моем,</text>
+<chopds>             Em                                                            F#</chopds>
+<text>Для Тебя Иисус, для Тебя, мой Бог, приготовлен он.</text>
+<chopds>       Hm                                                G</chopds>
+<text>Я хочу любить, я хочу творить ради Тебя</text>
+<chopds>         Em                                                               F#</chopds>
+<text>Моё сердце горит, потому что любит Тебя.</text>
+</blocks>

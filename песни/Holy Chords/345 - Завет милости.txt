@@ -1,0 +1,117 @@
+Милана — Завет милости
+Источник: https://holychords.pro/345
+
+==================================================
+
+<blocks>
+<chopds>Hm  F#m  G  Em</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Hm</chopds>
+<text>Мой Господь, снова я ищу Тебя,</text>
+<chopds>A</chopds>
+<text>Снова жаждет дух Тебя,</text>
+<chopds>G</chopds>
+<text>Снова я прошу огня, о Бог мой!</text>
+<chopds>Hm</chopds>
+<text>Твой завет в моем сердце говорит,</text>
+<chopds>A</chopds>
+<text>Словно пламенем горит,</text>
+<chopds>G</chopds>
+<text>Благодатью путь открыт сквозь сердце.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>A                               G</chopds>
+<text>Я вечностью дышу склоняясь пред Тобой,</text>
+<chopds>A                           G</chopds>
+<text>Я о любви кричу увидев образ Твой,</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Hm                   F#m</chopds>
+<text>И я пойду туда, куда ведёт Твой Дух,</text>
+<chopds>G                             Em                       A</chopds>
+<text>С Тобою навсегда, Ты знаешь всё, мой Друг.</text>
+<chopds>Hm                                F#m</chopds>
+<text>Твоя любовь как свет, на моём пути,</text>
+<chopds>G                          Em                 A</chopds>
+<text>И милости завет в душе моей горит.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Hm</chopds>
+<text>Мой Господь, снова я ищу Тебя,</text>
+<chopds>A</chopds>
+<text>Снова жаждет дух Тебя,</text>
+<chopds>G</chopds>
+<text>Снова я прошу огня, о Бог мой!</text>
+<chopds>Hm</chopds>
+<text>Твой завет в моем сердце говорит,</text>
+<chopds>A</chopds>
+<text>Словно пламенем горит,</text>
+<chopds>G</chopds>
+<text>Благодатью путь открыт сквозь сердце.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>A                               G</chopds>
+<text>Я вечностью дышу, склоняясь пред Тобой,</text>
+<chopds>A                           G</chopds>
+<text>Я о любви кричу, увидев образ Твой,</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Hm                   F#m</chopds>
+<text>И я пойду туда, куда ведёт Твой Дух,</text>
+<chopds>G                             D</chopds>
+<text>С Тобою навсегда, Ты знаешь всё мой друг.</text>
+<chopds>Hm                             F#m</chopds>
+<text>Твоя любовь как свет, на моём пути,</text>
+<chopds>G                           D</chopds>
+<text>И милости завет в душе моей горит.</text>
+<chopds>| Hm | A | G | D  A/C# |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>Hm                        F#m</chopds>
+<text>Зная сердце Отца, я пойду за Тобой,</text>
+<chopds>G                          Em            A</chopds>
+<text>Исцеляя сердца, принося Твой покой</text>
+<chopds>Hm                        F#m</chopds>
+<text>Зная сердце Отца, я пойду за Тобой,</text>
+<chopds>G                             D         A/C#</chopds>
+<text>Исцеляя сердца, принося Твой покой</text>
+<chopds>Hm                        F#m</chopds>
+<text>Зная сердце Отца, я пойду за Тобой,</text>
+<chopds>G                             D         A/C#</chopds>
+<text>Исцеляя сердца, принося Твой покой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Hm                   F#m</chopds>
+<text>И я пойду туда, куда ведёт Твой Дух,</text>
+<chopds>G                             D</chopds>
+<text>С Тобою навсегда, Ты знаешь всё, мой Друг.</text>
+<chopds>Hm                             F#m</chopds>
+<text>Твоя любовь как свет, на моём пути,</text>
+<chopds>G                          Em</chopds>
+<text>И милости завет в душе моей горит.</text>
+<chopds>         Hm                         F#m</chopds>
+<text>В душе моей горит Твоя любовь, Отец,</text>
+<chopds>     G                         D</chopds>
+<text>Она меня хранит, как милости венец.</text>
+<chopds>      Hm                                  F#m</chopds>
+<text>Я вечностью дышу, склоняясь пред Тобой,</text>
+<chopds>    G                                         D</chopds>
+<text>Я о любви кричу, увидев образ Твой!</text>
+</blocks>

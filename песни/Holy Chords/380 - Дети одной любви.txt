@@ -1,0 +1,76 @@
+Новый Иерусалим — Дети одной любви
+Источник: https://holychords.pro/380
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>     Gm                     Bb                 Cm7        D7</chopds>
+<text>Ты говоришь, что этот мир устал от боли.</text>
+<chopds>      Gm                      Bb                        Cm7        D7</chopds>
+<text>Ты говоришь, что нету в нём для нас врача.</text>
+<chopds>    Cm                 Bb               D7     Gm  F  Eb</chopds>
+<text>А может это мы, лишь мы с тобою</text>
+<chopds>                    Dm7              Gm</chopds>
+<text>В нём разучились прощать?</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>    Gm                           Bb                      Cm7       D7</chopds>
+<text>Когда в последний раз смотрели мы на звёзды?</text>
+<chopds>        Gm               Bb                          Cm7    D7</chopds>
+<text>Давно уже живём по стрелкам на часах.</text>
+<chopds>     Cm                     Bb                  D7    Gm   F   Eb</chopds>
+<text>А может быть давай друг другу просто</text>
+<chopds>                   Cm7                  D7</chopds>
+<text>Опять посмотрим в глаза?</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                       Gm           Bb   Cm7                 D7</chopds>
+<text>Мы дети одной любви и нет любви иной.</text>
+<chopds>                      Gm          Bb        Cm7                      D7</chopds>
+<text>Мы дети одной мечты - огромной, неземной.</text>
+<chopds>                       Gm          Bb           Cm7                   D7</chopds>
+<text>Мы дети одной страны - нам не найти другой.</text>
+<chopds>                         Gm    Bb2    Cm7    D7</chopds>
+<text>Мы звуки одной струны.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<chopds>     Gm                         Bb                   Cm7        D7</chopds>
+<text>Ты говоришь, что в этом мире всё так сложно -</text>
+<chopds>    Gm                     Bb                  Cm7        D7</chopds>
+<text>Гораздо проще ненавидеть, чем любить.</text>
+<chopds>  Cm                        Bb         D7       Gm   F   Eb</chopds>
+<text>А если б Божий Сын однажды тоже</text>
+<chopds>                      Cm7                 D7</chopds>
+<text>Вдруг не сумел нас простить?</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>     Eb            F                     Gm</chopds>
+<text>Давай звучать аккордами</text>
+<chopds>               F                  Eb    Cm7                   Bb   F</chopds>
+<text>Пусть музыку любви услышит этот мир.</text>
+<chopds>      Eb          F                     Gm</chopds>
+<text>Давай светиться звёздами.</text>
+<chopds>            F                         Eb    Cm7             Gm</chopds>
+<text>Пусть яркий свет небес увидит этот мир.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>Gm                                Bb</chopds>
+<text>Чёрные и белые, богатые и бедные.</text>
+<chopds>         Cm7                                  D7</chopds>
+<text>Мы все такие разные, но всё равно прекрасные.</text>
+<chopds> Gm                                 Bb</chopds>
+<text>Жёлтые и красные, слабые и сильные.</text>
+<chopds>         Cm7                                   D7</chopds>
+<text>Мы все такие разные, но всё равно красивые.</text>
+</blocks>

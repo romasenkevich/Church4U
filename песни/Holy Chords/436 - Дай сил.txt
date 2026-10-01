@@ -1,0 +1,76 @@
+Они — Дай сил
+Источник: https://holychords.pro/436
+
+==================================================
+
+<blocks>
+<videlit_line>Вступление</videlit_line>
+<chopds>Dm   C   Bb     Dm   C   G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds> Dm           C                      G</chopds>
+<text>Помоги! Не оставь! Пробуди! Силы дай!</text>
+<chopds>Gm                                          Em             A</chopds>
+<text>Не сгореть в огне обид и разочарований</text>
+<chopds>Dm            C                 G</chopds>
+<text>Эту боль не унять, как мне быть? Не понять.</text>
+<chopds>Gm                                                   Em                      A</chopds>
+<text>Но приходится признать, что жизнь порою ранит</text>
+<chopds> Gm                                  Dm</chopds>
+<text>Ты только Ты один Иисус у меня остался</text>
+<chopds> Bb                                  C</chopds>
+<text>Тот, Кто безусловно возлюбил</text>
+<chopds>     Gm                                     Dm</chopds>
+<text>Меня, только Ты один Иисус знаешь как несчастных</text>
+<chopds>Bb                                C             A</chopds>
+<text>Избавлять от боли и обид, и обид</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     Dm</chopds>
+<text>О дай мне сил!</text>
+<chopds>                                     F</chopds>
+<text>Признать мое бессилие!</text>
+<chopds>                 C                                          G</chopds>
+<text>И душу черствую слезами окропить</text>
+<chopds>                       Dm</chopds>
+<text>Любить других!</text>
+<chopds>                                        F</chopds>
+<text>Не ждать, чтобы меня любили</text>
+<chopds>          C</chopds>
+<text>Прощать других</text>
+<chopds>                                   G</chopds>
+<text>Как Ты меня простил</text>
+<chopds>         Dm           Am</chopds>
+<text>Дай сил, дай сил</text>
+<chopds>           C                                     G</chopds>
+<text>Дай сил, о Боже дай мне сил</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ты любил до конца, и жестокие сердца</text>
+<text>Ты любовью исцелял, к надежде воскрешая</text>
+<text>Ты страдал, Ты терпел! Отомстить не посмел</text>
+<text>Даже там, когда Тебя жестоко распинали</text>
+<text>Ты, только Ты один Иисус, претерпев распятье</text>
+<text>Нас так безусловно возлюбил..</text>
+<text>А мы.. распинаем любовь Твою..</text>
+<text>И не слышим, порой, как «люблю»</text>
+<text>Нам губы шепчут сквозь века.. С Креста!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>    Gm                                                  Dm</chopds>
+<text>О как ужасно вдруг прозреть однажды</text>
+<chopds>                      C                                          G</chopds>
+<text>И сердца грешного увидеть темноту</text>
+<chopds>                   Gm                                           Dm</chopds>
+<text>И стало вдруг так больно, горько, страшно</text>
+<chopds>                   C                    Bb</chopds>
+<text>Что я не той была и жизнь вела не ту!</text>
+</blocks>

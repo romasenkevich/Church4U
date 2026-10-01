@@ -1,0 +1,60 @@
+Hillsong Ukraine — Ты сияешь Бог
+Источник: https://holychords.pro/318
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                         F#m          C#m        E                     H</chopds>
+<text>Господь нам жизнь дал по огромной любви</text>
+<chopds>F#m     C#m               E            H</chopds>
+<text>Нас позвал ко Спасителю Он</text>
+<chopds>             A     G#        F#m           E</chopds>
+<text>И эту песню поколенья споют</text>
+<chopds>A  G#  F#m  E</chopds>
+<chopds>О-о-о-о</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Вселил надежду, жизнь нам новую дал</text>
+<text>На кресте благодатью нас спас</text>
+<text>И эту песню все народы споют</text>
+<chopds>О-о-о-о</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                  D                            A</chopds>
+<text>Над землей, Ты сияешь, Бог</text>
+<chopds>                               F#m                              E</chopds>
+<text>В жизнях наших Ты, яркий свет спасенья</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Мы прославим Твое Имя во всем</text>
+<text>Жизнью всей Сына мы вознесем</text>
+<text>И эту песню</text>
+<text>Мы в свободе споем О-о-о-о</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<text>Над землей, Ты сияешь, Бог</text>
+<text>В жизнях наших Ты, яркий свет спасенья</text>
+<text>Возгласят все хвалу Тебе</text>
+<text>Ты - святой Господь вознесен вовеки</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>D     A               E            H</chopds>
+<text>Надежда вся, Спаситель наш</text>
+<chopds>F#m      D       E</chopds>
+<text>В любви Твоей.</text>
+<chopds>D      A        E                 H</chopds>
+<text>Земля споет: «Христос - наш Царь,</text>
+<chopds>F#m  D  E</chopds>
+<text>Хвала Тебе!»</text>
+</blocks>

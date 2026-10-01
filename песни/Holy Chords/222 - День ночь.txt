@@ -1,0 +1,41 @@
+Imprintband — День ночь
+BPM: 120
+Источник: https://holychords.pro/222
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds> Hm      D         G</chopds>
+<text>День,ночь время уносит прочь</text>
+<chopds> Hm        D      G</chopds>
+<text>Боль,крик кто бы мог помочь</text>
+<chopds>Hm                    D                          G</chopds>
+<text>Без Тебя совсем бессилен знаю я</text>
+<chopds>Hm                    D                       G</chopds>
+<text>Только Ты даёшь мне силу любя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                               Em G           Hm     D</chopds>
+<text>Когда все отвернулись Ты нет</text>
+<chopds>                           Em    G              Hm          D</chopds>
+<text>Когда сказали уходи Ты позвал меня</text>
+<chopds>                   Em  G                 Hm                  D</chopds>
+<text>Когда я плакал, Ты был рядом со мной</text>
+<chopds>                  Em</chopds>
+<text>Бог,Ты Oдин</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Hm D      G</chopds>
+<text>Я был брошен и позабыт</text>
+<chopds>Hm  D                G</chopds>
+<text>Ты тот Кто услышал души моей крик</text>
+<chopds>Hm                      D               G</chopds>
+<text>Чувствую земля уходит из под ног</text>
+<chopds>Hm                   D                        G</chopds>
+<text>Все ушли, остался только Ты, мой Бог</text>
+</blocks>

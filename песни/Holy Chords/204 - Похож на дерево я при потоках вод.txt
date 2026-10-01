@@ -1,0 +1,28 @@
+Неизвестен — Похож на дерево я при потоках вод
+Источник: https://holychords.pro/204
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>                     D</chopds>
+<text>Похож на дерево я при потоках вод.</text>
+<chopds>                                              A</chopds>
+<text>Верю я в Бога - Он мне силу даёт.</text>
+<chopds>                     D</chopds>
+<text>Похож на дерево я при потоках вод -</text>
+<chopds>G                    A              D</chopds>
+<text>Я надеюсь на Господа.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>           G                                  D</chopds>
+<text>Чем корни глубже, плоды зреют лучше,</text>
+<chopds>              A                        D</chopds>
+<text>Чтоб благословения видели все.</text>
+<chopds>            G                                  D</chopds>
+<text>Чем корни глубже, тем видно лучше,</text>
+<chopds>              E                            A</chopds>
+<text>Что мой Господь - Иисус Христос!</text>
+</blocks>

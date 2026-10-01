@@ -1,0 +1,32 @@
+Holy Generation — Дороже всех
+Источник: https://holychords.pro/367
+
+==================================================
+
+<blocks>
+<chopds>Em               D           C            D/F#  G</chopds>
+<text>Дороже всех желаний моих,</text>
+<chopds>Em               D          C    D/F#  G</chopds>
+<text>Дороже всех друзей.</text>
+<chopds>Em            D                 C               D/F#  G</chopds>
+<text>Ты один, Кто мой мир изменил.</text>
+<chopds>Em                     D            C   D/F#  G</chopds>
+<text>Достоин Ты всей хвалы.</text>
+<chopds>C  D</chopds>
+<chopds>           Em    D/F#            G</chopds>
+<text>Возьми всё сердце моё,</text>
+<chopds>                         C</chopds>
+<text>Всю душу мою,</text>
+<chopds>                               G         D/F#</chopds>
+<text>Собой жизнь мою – заполни.</text>
+<chopds>       Em         D/F#            G</chopds>
+<text>Господь, Тебе поклонюсь,</text>
+<chopds>                                   C</chopds>
+<text>Пред Тобою склонюсь,</text>
+<chopds>                                   G                D/F#</chopds>
+<text>Несмотря ни на что, прославлю Тебя.</text>
+<chopds>          C</chopds>
+<text>Во всем Тебе доверяю,</text>
+<chopds>         G</chopds>
+<text>Во всем на Тебя уповаю.</text>
+</blocks>

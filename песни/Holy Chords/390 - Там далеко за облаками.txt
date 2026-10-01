@@ -1,0 +1,63 @@
+Кучіяші — Там далеко за облаками
+Источник: https://holychords.pro/390
+
+==================================================
+
+<blocks>
+<videlit_line>интро</videlit_line>
+<chopds>| G#  Gm  Cm  D#/Bb | G#  Gm  Cm  D#/Bb |</chopds>
+<chopds>| G#  Gm Cm  D#/Bb | G#  G  Cm  D#/Bb |  G#  G  |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Cm                    Fm        G             G#             Bb       D#</chopds>
+<text>Там, далеко, за облаками, встретит меня Иисус,</text>
+<chopds> Fm              G                             G#                                              G</chopds>
+<text>Нежно обнимет своими руками, с Ним я навеки сольюсь,</text>
+<chopds>     G#                            Bb</chopds>
+<text>С Ним я навеки сольюсь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>         G#      Bb                      D#                          Fm                                 G</chopds>
+<text>А пока живу я в мире странником и с тоской смотрю на небеса.</text>
+<chopds>    Cm                                       D#                           Fm             G          Cm     D#/Bb</chopds>
+<text>С небом связаны мои желания, с небом связана моя судьба.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>G#  G  Cm G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Мне распахнут райские двери Радостно скажут: "Входи!"</text>
+<text>Всё это будет, свято я верю, Но это лишь впереди.</text>
+<text>Но это лишь впереди.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>| G#  Gm  Cm  D#/Bb | G#  Gm  Cm  D#/Bb |</chopds>
+<chopds>| G#  Gm Cm  D#/Bb | G#  G  Cm  D#/Bb |  G#  G  |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Там навсегда Скорби забуду, в небе улыбка царит.</text>
+<text>Там с Иисусом вечно я буду в сладком общении жить,</text>
+<text>в сладком общении жить.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Виктор Рыжков — Там далеко за облаками [Русский]
+  https://holychords.pro/3702
+- Переображення Сарни — Там, далеко, за облаками, встретит меня Иисус [Русский]
+  https://holychords.pro/37476
+- Кучіяші — Там, в небесах, в висі безкрайній [Украинский]
+  https://holychords.pro/69152

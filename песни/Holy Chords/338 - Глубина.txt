@@ -1,0 +1,53 @@
+Краеугольный камень — Глубина
+Источник: https://holychords.pro/338
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Am   Dm   F    E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds> Am                                              A7                               Dm</chopds>
+<text>Дай мне гореть Тобой сильнее, чем горел мечтой,</text>
+<chopds>              F                                                                       E</chopds>
+<text>Сильнее, чем всякая страсть, что жжёт меня изнутри.</text>
+<chopds> Am                                                    A7                                    Dm</chopds>
+<text>Дай мне владеть собой, чтоб жизнь моя служила Тебе,</text>
+<chopds>        F                                                                    E</chopds>
+<text>Была бы живою хвалой, что льётся из глубины.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     Am                                             Dm</chopds>
+<text>Хвалою, Тебе мой Бог - спасенье и надежда моя,</text>
+<chopds>                                    F                                          E</chopds>
+<text>Молюсь, чтобы моя глубина была бы Твоей глубиной.</text>
+<chopds>                            Am                                             Dm</chopds>
+<text>Из глубины живая вода, вода Твоей любви как река</text>
+<chopds>                                           F                                              E</chopds>
+<text>Пусть льется, пробуждая от сна, сердца наполняя хвалой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Дай мне идти вперед, оставив  все кривые пути,</text>
+<text>Идти Твоею тропой, небесной тропой любви.</text>
+<text>Пусть растает в сердце лёд и спящая без неба душа,</text>
+<text>Пусть станет горящей стрелой, летящей из глубины.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                          Am                                             Dm</chopds>
+<text>Стрелою к Тебе, мой Бог - спасенье и надежда моя,</text>
+<chopds>                                    F                                          E</chopds>
+<text>Молюсь, чтобы моя глубина была бы Твоей глубиной.</text>
+<chopds>                            Am                                             Dm</chopds>
+<text>Из глубины живая вода, вода Твоей любви как река</text>
+<chopds>                                           F                                              E</chopds>
+<text>Пусть льется, пробуждая от сна, сердца наполняя хвалой.</text>
+</blocks>

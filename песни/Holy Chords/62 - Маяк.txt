@@ -1,0 +1,36 @@
+Игорь Яловец — Маяк
+Источник: https://holychords.pro/62
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>                           F#m                    C#              F#m</chopds>
+<text>Мой путь к Тебе, был очень долог и колюч,</text>
+<chopds>                Hm                    C#                     F#m</chopds>
+<text>Я часто падал, пробираясь среди круч.</text>
+<chopds>                   Hm              C#          D</chopds>
+<text>Я часто в жизни многое терял,</text>
+<chopds>                     Hm   C#           F#m</chopds>
+<text>Но твой Маяк вдали мерцал.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>               Hm  C#               F#m              F#</chopds>
+<text>Гори Маяк, спасаешь души Ты людей,</text>
+<chopds>                Hm                           C#                 F#m   F#</chopds>
+<text>Иисус страдал за нас с тобою на кресте.</text>
+<chopds>                         Hm C#                    F#m                         D</chopds>
+<text>Он жизнь отдал, чтоб мы смогли к Нему прийти,</text>
+<chopds>              Hm     F#m</chopds>
+<text>Гори Маяк, гори.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>И вот стою я на распутье двух дорог,</text>
+<text>Какую выбрать мне из них, поможет Бог.</text>
+<text>Одна ведет туда, где ложь и суета,</text>
+<text>Но выбираю я дорогу в небеса.</text>
+</blocks>

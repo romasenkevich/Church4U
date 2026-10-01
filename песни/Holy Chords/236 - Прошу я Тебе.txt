@@ -1,0 +1,44 @@
+Imprintband — Прошу я Тебе
+Источник: https://holychords.pro/236
+
+==================================================
+
+<blocks>
+<chopds>| F G | Am | F G || F G | Am | F G ||</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Am                     G                        Dm   F</chopds>
+<text>Серце моє належить лиш Тобі</text>
+<chopds>    Am                       G           Dm   F</chopds>
+<text>Мої почуття для Тебе і Тобі</text>
+<chopds>                C                  G                     F</chopds>
+<text>Кожне діло моє, і кожен мій крок</text>
+<chopds>C                          G                F</chopds>
+<text>Я віддаю для Тебе, мій Бог.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds>                        F          G                    Am           G</chopds>
+<text>Прошу я Тебе - почуй мене, веди мене.</text>
+<chopds>                     Dm            G                 Am    G</chopds>
+<text>Серце запали - візьми життя моє.</text>
+<chopds>                             F     G                   Am                G</chopds>
+<text>Будь зі мною Ти. По всяк час, кожну мить.</text>
+<chopds>                            Dm           G             Am     G</chopds>
+<text>В серці Твій вогонь, його не загасить.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>   Am                    G                 Dm    F</chopds>
+<text>Слово Твоє дало мені життя</text>
+<chopds>       Am                  G                      Dm   F</chopds>
+<text>Вселило в мені віру в майбуття</text>
+<chopds>    C                            G                         F</chopds>
+<text>Словом Своїм наповнив Ти мене</text>
+<chopds>  C                        G                      F</chopds>
+<text>Віру вселив, все в мені змінив.</text>
+</blocks>

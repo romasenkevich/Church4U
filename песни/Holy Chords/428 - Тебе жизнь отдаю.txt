@@ -1,0 +1,64 @@
+Слово Жизни Music — Тебе жизнь отдаю
+Источник: https://holychords.pro/428
+
+==================================================
+
+<blocks>
+<chopds>Am Em7 F7</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Am                  Em                            F</chopds>
+<text>Тебя я слышу, зовешь меня вновь,</text>
+<chopds>          F                  G         Am</chopds>
+<text>Разрушил все стены моих грехов</text>
+<chopds>                  Em                               F</chopds>
+<text>И спасенье пролил, словно дождь,</text>
+<chopds>       F                G                     F  Am  G   F  Am  G</chopds>
+<text>Омыл благодатью, мой Бог, мой Бог.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>F                     G     Am</chopds>
+<text>Тебе жизнь отдаю</text>
+<chopds>            G             C</chopds>
+<text>Всем сердцем я,</text>
+<chopds>                           G</chopds>
+<text>Возьми, мой Бог,</text>
+<chopds>   Am                 F</chopds>
+<text>И обнови меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Оставляю прошлую жизнь,</text>
+<text>Тяжесть потерь, боль мою</text>
+<text>Ты избавил меня от стыда,</text>
+<text>Пришел в мою жизнь навсегда</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>G   Am         G     C</chopds>
+<text>Иисус, Божий Сын,</text>
+<chopds>       G                        Am  F</chopds>
+<text>Наполни сердца хвалой!</text>
+<chopds>         G   Am                 G       C</chopds>
+<text>Святый Бог, жизнь возьми,</text>
+<chopds>      G               Am  F</chopds>
+<text>Я следую за Тобой!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Elevation Worship — Тебе жизнь отдаю [Русский]
+  https://holychords.pro/3836
+- Elevation Worship — Give My Life To You [Английский]
+  https://holychords.pro/4626
+- Исход Ростов на Дону — Я жизнь отдам Тебе [Русский]
+  https://holychords.pro/14209
+- Elevation Worship — Я віддаю Тобі [Украинский]
+  https://holychords.pro/47674

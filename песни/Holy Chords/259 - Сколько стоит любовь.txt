@@ -1,0 +1,54 @@
+Просто сосуды — Сколько стоит любовь
+Источник: https://holychords.pro/259
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Am       C           G     Am       C          G</chopds>
+<text>Что такое любовь? Какова же её цена?</text>
+<chopds>Dm                  Am                            C                           G</chopds>
+<text>Задаю я вопрос вновь и вновь - что такое любовь?</text>
+<chopds>Am        C         G                Am                   C       G</chopds>
+<text>Может это просто слова, что друг другу мы говорим?</text>
+<chopds>Dm                        Am                   C                                     G</chopds>
+<text>Или это лишь страсти порыв, что не можем сдержать внутри?</text>
+<chopds>Am          C              G                    Am                   C                G</chopds>
+<text>Может то, что я должен отдать, чтоб взамен меня кто-то любил?</text>
+<chopds>Dm                        Am                 C                        G</chopds>
+<text>Или страх, что остаться один я могу на своём пути?</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев 1</videlit_line>
+<chopds>F                  G          Am  C/G</chopds>
+<text>Сколько стоит любовь?</text>
+<chopds>F           G      Em   Am  C/G</chopds>
+<text>Какова же её цена?</text>
+<chopds>F                     Em                   Am    C/G</chopds>
+<text>Задаю я вопрос вновь и вновь</text>
+<chopds>F                                 G</chopds>
+<text>Сколько стоит любовь?</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>На кресте Божий Сын показал мне Свою любовь.</text>
+<text>Чтобы я мог любить так, как Он любит нас и  прощать вновь и вновь.</text>
+<text>Он позорную принял смерть, чтобы я вечной жизнью жил.</text>
+<text>Показал Он нам всем пример, как идти по следам любви</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев 2</videlit_line>
+<text>Вот это любовь.</text>
+<text>Велика ее цена.</text>
+<text>Когда мы отдаем свою жизнь,</text>
+<text>Чтобы кто-то другой мог жить.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Просто сосуды — Що таке є любов [Украинский]
+  https://holychords.pro/52437

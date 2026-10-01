@@ -1,0 +1,36 @@
+Слово Жизни Music — Моё сердце
+Источник: https://holychords.pro/455
+
+==================================================
+
+<blocks>
+<chopds>C#m A E H</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<text>Моё сердце стучит для Тебя</text>
+<text>Моё сердце бьется вместе с Тобой</text>
+<text>Моё сердце живет для Тебя</text>
+<text>Иисус, Иисус, живёт для Тебя</text>
+<text>Иисус, Иисус, живёт для Тебя</text>
+<text>Ведь Ты мой Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<text>Мой Бог, буду славить Тебя</text>
+<text>Мой Бог, буду славить Тебя</text>
+<text>Мой Бог, буду славить Тебя</text>
+<text>Иисус, Иисус, живем для Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<text>Я дышу Тобой, я живу Тобой</text>
+<text>Я ищу Тебя, мой Бог</text>
+<text>Я дышу Тобой, я живу Тобой</text>
+<text>Я ищу Тебя, Иисус</text>
+<text>Я дышу Тобой, я живу Тобой</text>
+<text>Я ищу Тебя, мой Господь</text>
+</blocks>

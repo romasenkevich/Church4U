@@ -1,0 +1,68 @@
+IFound Worship — Коснусь Небес
+Источник: https://holychords.pro/196
+
+==================================================
+
+<blocks>
+<chopds>A/C#  D  Esus  F#m</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 КУПЛЕТ</videlit_line>
+<text>Что скрыто за сияньем звёзд?</text>
+<text>Как мне достичь таких высот?</text>
+<text>На полпути свернуть нельзя</text>
+<text>С небес Любовь вдруг спустилась к нам</text>
+</blocks>
+
+<blocks>
+<videlit_line>ПРИПЕВ</videlit_line>
+<text>Сердце бьется парит душа</text>
+<text>Отдав себя обретаю жизнь я</text>
+<text>Стремлюсь выше мой дух летит</text>
+<text>Небес коснусь лишь на колени опущусь</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 КУПЛЕТ</videlit_line>
+<text>Бесценны раны, Бог, Твои</text>
+<text>Мы в них свободу обрели</text>
+<text>С Тобой не нужен мне весь мир</text>
+<text>Ведь Ты пришёл, чтоб меня спасти</text>
+</blocks>
+
+<blocks>
+<videlit_line>МОСТ</videlit_line>
+<text>Пред Тобою я вновь склонюсь</text>
+<text>Всё во мне, Иисус у ног Твоих возложу я</text>
+<text>Вновь пусть наполнит любовь Твоя</text>
+<text>И парить душа будет в танце навечно</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong United — Touch the Sky [Английский]
+  https://holychords.pro/195
+- Elenyi — Touch the Sky / Tocar el Cielo [Английский]
+  https://holychords.pro/10439
+- EfectoMusic — Tocar el Cielo [Испанский]
+  https://holychords.pro/10440
+- 79 Band — Небес коснусь [Русский]
+  https://holychords.pro/14882
+- Living Water Worship — Touch The Sky [Английский]
+  https://holychords.pro/16477
+- Hillsong United — Доторкнутися до небес [Украинский]
+  https://holychords.pro/28094
+- Alfa Church — Небес коснусь [Русский]
+  https://holychords.pro/28877
+- Skeemans Worship — Небес торкнусь (Acoustic Live) [Украинский]
+  https://holychords.pro/35965
+- Hillsong United — Небес торкнусь [Украинский]
+  https://holychords.pro/36599
+- 2Worship — Небес торкнусь [Украинский]
+  https://holychords.pro/48113
+- WOG.Worship — Небес коснусь [Русский]
+  https://holychords.pro/55465
+- Hillsong United — Небес торкнусь [Украинский]
+  https://holychords.pro/60022

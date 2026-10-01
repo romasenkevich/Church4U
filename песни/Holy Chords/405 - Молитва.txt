@@ -1,0 +1,50 @@
+Imprintband — Молитва
+Источник: https://holychords.pro/405
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Em                        D</chopds>
+<text>Я вновь стою перед Алтарём</text>
+<chopds>                         C                                    H</chopds>
+<text> Скорбит душа моя, я потерял покой</text>
+<chopds>           C                        D         Em       D</chopds>
+<text>Не о себе прошу, Отец, я раб навеки Твой</text>
+<chopds>C                                                  H</chopds>
+<text>Прости народ мятежный мой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж 1</videlit_line>
+<chopds>Em                D                    Em    D</chopds>
+<text>Прости отцов, что отступили</text>
+<chopds>Em               D          Em                   Am</chopds>
+<text>Прости детей, что сердцем не чтут</text>
+<chopds>Em                    D                Em     D</chopds>
+<text>Прости, что мы Тебя забыли</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж 2</videlit_line>
+<chopds>Em                D                  Em   D</chopds>
+<text>Смывает грех и как река</text>
+<chopds>Em                 D                        Em   D</chopds>
+<text>Течет с Голгофы Кровь Твоя</text>
+<chopds>Em                D                  Em   D</chopds>
+<text>Смывает грех и как река</text>
+<chopds>Em                 D                        Em   D</chopds>
+<text>Течет с Голгофы Кровь Твоя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>               Em                              D</chopds>
+<text>Ты прости, Отец, своих детей</text>
+<chopds>       А7/С#                             Am             D</chopds>
+<text>Исцели сердца людей любовью Твоей</text>
+<chopds>          Em                                    D</chopds>
+<text>Благодать на нас Свою излей</text>
+<chopds>               А7/С#                                    Am             D</chopds>
+<text>Пусть наполнится земля светлой волей Твоей</text>
+</blocks>

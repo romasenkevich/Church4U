@@ -1,0 +1,44 @@
+Спасіння Вишневе — Україна
+Источник: https://holychords.pro/8
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Am E Am         G C  A</chopds>
+<text>Україна,    Україна!</text>
+<chopds>  Dm         C         E         F        Dm  G Am</chopds>
+<text>Благословенна Богом земля - Україна!</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>    Am</chopds>
+<text>Край наш - осяяний сонцем!</text>
+<chopds>  Am                           G</chopds>
+<text>Край наш - зелені ліси!</text>
+<chopds>    C                  G         Am</chopds>
+<text>Край наш - омріяний Богом!</text>
+<chopds>    F                     G               Am</chopds>
+<text>Край наш - щасливий для всіх!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Край наш, віддай славу Богу!</text>
+<text>Край наш, - ти Божа краса!</text>
+<text>Край наш, - ти знаєш дорогу!</text>
+<text>Край наш, прямуй в Небеса!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>      Dm                             Am</chopds>
+<text>Благословенні поля, благословенні ліси,</text>
+<chopds>        F                        G               Am</chopds>
+<text>Благословенна Земля твоя, Україно!</text>
+<chopds>       Dm                                              Am</chopds>
+<text>Господь дасть мудрість царям, Господь підніме дітей,</text>
+<chopds>        F                               G                      Am</chopds>
+<text>І Ймення Господнє прославиться на Україні!</text>
+</blocks>

@@ -1,0 +1,37 @@
+Hillsong Ukraine — Славу Он явит нам
+Источник: https://holychords.pro/110
+
+==================================================
+
+<blocks>
+<chopds>Hm  F#m  G  D  D2</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>D                  Hm                      F#m D/F# F#m</chopds>
+<text>Ты жизнь явил, надежду подарил</text>
+<chopds>                 G   Dsus2</chopds>
+<text>На кресте</text>
+<chopds>D                         Hm                   F#m D/F# F#m</chopds>
+<text>Ты взял мой грех, милость явил ко мне</text>
+<chopds>                G                  A          D</chopds>
+<text>На кресте, там, где умер Ты</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                G                      D                A           Hm</chopds>
+<text>Словно солнечный свет, славу Он явит нам</text>
+<chopds>  G            D              A</chopds>
+<text>Так в веках Он сиял</text>
+<chopds>              G                  D  Em                 Hm</chopds>
+<text>О-о, в Небе слышна  Ангелов хвала</text>
+<chopds>                      A                          G</chopds>
+<text>Славят:  Святый, наш Господь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Instrumental</videlit_line>
+<chopds>D Em Hm G</chopds>
+</blocks>

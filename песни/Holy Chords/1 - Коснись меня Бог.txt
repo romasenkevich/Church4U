@@ -1,0 +1,54 @@
+Слово Жизни Music — Коснись меня Бог
+BPM: 138
+Источник: https://holychords.pro/1
+
+==================================================
+
+<blocks>
+<videlit_line>интро</videlit_line>
+<chopds>Hm  A/C#  D</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Hm               A/C#        D</chopds>
+<text>Ты дал мне новую песню</text>
+<chopds>           Hm           A/C#           D</chopds>
+<text>На устах моих каждый день</text>
+<chopds>Hm              A/C#                   D</chopds>
+<text>Наполнил жизнь мою смыслом</text>
+<chopds>           Hm      A/C#         D</chopds>
+<text>Доверяю я лишь Тебе</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Оставил прошлую жизнь я</text>
+<text>И стремлюсь к Тебе Одному</text>
+<text>Омой меня благодатью</text>
+<text>И веди меня в глубину</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>Em           F#m  Hm</chopds>
+<text>И в этой жизни одно лишь важно</text>
+<chopds>G                Em  Hm</chopds>
+<text>Искать Твоё  лицо</text>
+<chopds>Em                    F#m  Hm</chopds>
+<text>Мы ждем момент, когда однажды</text>
+<chopds>G</chopds>
+<text>Мы встретимся с Тобой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Hm                                             G</chopds>
+<text>Коснись меня Бог Своей славой и наполни Твой дом</text>
+<chopds>D                                              A</chopds>
+<text>Своим святым присутствием Дух Святой мы так ждём</text>
+<chopds>Hm                                          G</chopds>
+<text>Мы Твоя Церковь наполняй нас мы жаждем Тебя</text>
+<chopds>D                               A</chopds>
+<text>Изливай Дух Святой</text>
+</blocks>

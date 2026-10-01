@@ -1,0 +1,28 @@
+Игорь Иванов — Двигай мной Дух Святой
+Источник: https://holychords.pro/272
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>      G            C                   D                               Em</chopds>
+<text>Течет река от престола сквозь крест через сердца</text>
+<chopds>C           D                         G    D</chopds>
+<text>Благодати нету конца.</text>
+<chopds>       G                     C           D                     Em</chopds>
+<text>Река любви, течет река с Голгофского креста</text>
+<chopds>C                  D                           G   D</chopds>
+<text>Новый Завет в Твоей крови</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>         G                 C                      G                   Em</chopds>
+<text>Двигай мной Дух Святой двигай мной Бог живой</text>
+<chopds>C                         D                      G     D</chopds>
+<text>До пьяна напои нас живою водой</text>
+<chopds>         G                 C                      G                   Em</chopds>
+<text>Двигай мной Дух Святой двигай мной Бог живой</text>
+<chopds>C                         D                      G     D</chopds>
+<text>До пьяна напои нас живою водой.</text>
+</blocks>

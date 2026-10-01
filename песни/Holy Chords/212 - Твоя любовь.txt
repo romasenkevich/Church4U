@@ -1,0 +1,54 @@
+Слово Жизни Music — Твоя любовь
+BPM: 136
+Источник: https://holychords.pro/212
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>G                                       C</chopds>
+<text>Твоя любовь словно солнце</text>
+<chopds>       Em                  C</chopds>
+<text>Согрела нас своим теплом</text>
+<chopds>G                                       C</chopds>
+<text>Твоя любовь словно ветер</text>
+<chopds>   Em                       C              G C Em C</chopds>
+<text>Уносит нас в объятия Твои</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Твоя любовь исцеляет</text>
+<text>В сердца даёт надежду вновь</text>
+<text>В Твоей любви я нуждаюсь</text>
+<text>Как воздух для меня Твоя любовь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C             Am  Em            D</chopds>
+<text>Ты со мной в моих слёзах</text>
+<chopds>C             Am     Em         D</chopds>
+<text>И Твой Дух ведёт меня в глубину</text>
+<chopds>C      Am  Em  D</chopds>
+<text>Освяти моё сердце, Бог</text>
+<chopds>C               D                       G C Em C</chopds>
+<text>Дай познать Твою любовь</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Твоя любовь безусловна</text>
+<text>Не ищет Своего</text>
+<text>Твоя любовь не многословна</text>
+<text>В безмолвии я чувствую Твою любовь.</text>
+<chopds>C  Am  Em  D</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>                  C    G                    D</chopds>
+<text>Твоя любовь дала мне жизнь.</text>
+<chopds>                  C    G                    D</chopds>
+<text>Твоя любовь дала мне жизнь.</text>
+</blocks>

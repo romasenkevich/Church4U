@@ -1,0 +1,47 @@
+Милана — Я смотрю на Крест
+Источник: https://holychords.pro/346
+
+==================================================
+
+<blocks>
+<chopds>D  A  Hm  G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                            D                            A</chopds>
+<text>Я смотрю на Крест, и вижу ответ</text>
+<chopds>                               Hm                                                    G</chopds>
+<text>Ты даришь свою жизнь, Ты платишь за мой грех.</text>
+<chopds>                      D                    A</chopds>
+<text>В агонии смерти из-за меня,</text>
+<chopds>                                 Hm                                                       G</chopds>
+<text>Ты Любящий Спаситель, но Ты – праведный Судья..</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D</chopds>
+<text>Твоя милость через Крест</text>
+<chopds>Hm</chopds>
+<text>Пленяет мое сердце.</text>
+<chopds>A</chopds>
+<text>На коленях пред Тобою,</text>
+<chopds>G</chopds>
+<text>Сокрушен я Твоей любовью.</text>
+<text>2 купет:</text>
+<text>Не хватает слов, чтобы передать,</text>
+<text>Как драгоценен дар, как бесценна благодать.</text>
+<text>Даёшь пройти сквозь Крест, я сораспят с Тобой.</text>
+<text>И там, где царствовала смерть, сейчас царствует любовь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>Em                                        G</chopds>
+<text>Объят присутствием небес.</text>
+<chopds>Em                                                                       G</chopds>
+<text>Ты смерть победил Ты прошёл через Крест,</text>
+<chopds>                               A</chopds>
+<text>Обещал и воскрес!</text>
+</blocks>

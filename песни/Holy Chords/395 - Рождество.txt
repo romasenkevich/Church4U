@@ -1,0 +1,70 @@
+Real Ivanna — Рождество
+BPM: 144
+Источник: https://holychords.pro/395
+
+==================================================
+
+<blocks>
+<chopds>C  Am  F</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>  C                                       G</chopds>
+<text>Бегают люди вокруг снова зима и стужа</text>
+<chopds>     F                                                  G</chopds>
+<text>В город пришло Рождество снег превратился в лужи</text>
+<chopds>  C                                                   G</chopds>
+<text>Каждый готовит свой дом все выбирают подарки</text>
+<chopds>    F                                          G</chopds>
+<text>Мужу, сестре и жене в звёздах конверты и марки.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>            F                                     Am</chopds>
+<text>А я хочу спросить Тебя, Иисус.</text>
+<chopds>                   F                                                                Am</chopds>
+<text>Что подарить Тебе ведь это - Твой день рождения</text>
+<chopds>                       F                                       Am</chopds>
+<text>Ведь этот праздник без Тебя так пуст</text>
+<chopds>                              G</chopds>
+<text>Праздник рождения Творца Спасения</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>      C                                         G</chopds>
+<text>В доме накрыты столы свечи горят все ярче</text>
+<chopds>   F                                               G</chopds>
+<text>Радостным кажется мир снег на ладонях мягче</text>
+<chopds>    C                                         G</chopds>
+<text>Сколько любви и тепла дарят друг-другу люди</text>
+<chopds>F                                           G</chopds>
+<text>Это рожденье Христа мир никогда не забудет</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>             F                                   Am</chopds>
+<text>А я хочу спросить тебя, Иисус..</text>
+<chopds>                   F                                                                 Am</chopds>
+<text>Что подарить Тебе ведь это - Твой день рождения</text>
+<chopds>                    F                                    Am</chopds>
+<text>И чем могу, скажи, Тебя я удивить.</text>
+<chopds>                              G</chopds>
+<text>Творца спасения, Творца Спасения!</text>
+<chopds>A</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>                        G               Hm</chopds>
+<text>С днём рождения, Иисус</text>
+<chopds>                   G                                                       Hm</chopds>
+<text>От всего сердца мы поем, Тебя поздравляем!</text>
+<chopds>                        G               Hm</chopds>
+<text>С днем рождения, Иисус,</text>
+<chopds>                   G                                               A</chopds>
+<text>Твою любовь и радость мы принимаем.</text>
+</blocks>

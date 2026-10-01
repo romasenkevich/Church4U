@@ -1,0 +1,41 @@
+Real Ivanna — Я помню
+Источник: https://holychords.pro/401
+
+==================================================
+
+<blocks>
+<chopds>Cm Gm  Cm Gm</chopds>
+<chopds>Cm Gm  G# G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                 Cm                      A#              Cm  Gm</chopds>
+<text>Я помню первые мгновения с Тобой</text>
+<chopds>                  Cm                      A#                  D#</chopds>
+<text>Я помню как обнял меня Своей рукой</text>
+<chopds>                 D#                     A#                        G                Cm</chopds>
+<text>Я как дитя к Тебе бежал склоняясь на колени пал</text>
+<chopds>                     G#                       A#                  Cm</chopds>
+<text>Я помню день когда Отцом Тебя назвал</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>           Cm            A#                    G         Cm</chopds>
+<text>Твои руки открыты для меня всегда</text>
+<chopds>            Cm                 A#         G    Cm</chopds>
+<text>И в объятьях любви я Отца</text>
+<chopds>                     Cm              A#               G                           Cm</chopds>
+<text>Ждешь меня Ты сейчас и как в самый первый раз</text>
+<chopds>        G#             A#     Cm       G#                A#     Cm</chopds>
+<text>Я пою "люблю Тебя", я пою "люблю Тебя"</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Я буду славить и хвалить имя Твое</text>
+<text>Ты моя жизнь в Тебе спасение мое</text>
+<text>Я руки к небу подниму, чтобы воздать Тебе хвалу!</text>
+<text>Тому, Кто жизнь мне дал любимому Отцу!</text>
+</blocks>

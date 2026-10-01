@@ -1,0 +1,73 @@
+Влад Фонки — Ти Святий Бог
+Источник: https://holychords.pro/417
+
+==================================================
+
+<blocks>
+<videlit_line>Інтро</videlit_line>
+<chopds>| G | C  D |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>              G                         C</chopds>
+<text>Ти Святий Бог,  Всемогутній,</text>
+<chopds>            Am                                       D</chopds>
+<text>Ти достойний достойний хвали.</text>
+<chopds>            G                  C</chopds>
+<text>За Тобою буду йти я</text>
+<chopds>       Am           D             G         D            G</chopds>
+<text>І любити, Тебе завжди, Тебе завжди.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds>            C                          D</chopds>
+<text>Ти є Цар царів Ти є  Пан панів</text>
+<chopds>         Em                        Hm</chopds>
+<text>Ти могутній Бог і Господь всього,</text>
+<chopds>             C                         D</chopds>
+<text>Ти Еммануїл, той хто є завжди</text>
+<chopds>          Em                               Hm</chopds>
+<text>Ти є миру князь, Агнець Божий Ти</text>
+<chopds>           C                                       D</chopds>
+<text>Ти - живий Господь, благодать в Тобі</text>
+<chopds>        Em                    Hm</chopds>
+<text> І царюєш Ти, навіки віків,</text>
+<chopds>           C                                 D</chopds>
+<text>  Ти є Альфа, Омега, Початок, Кінець,</text>
+<chopds>              Em                                 Hm</chopds>
+<text>  Ти Спаситель, Месія, мій Друг, і Отець.</text>
+<chopds>            C                                 D                     G</chopds>
+<text>Ти є Миру Князь, я віддаю життя Тобі</text>
+</blocks>
+
+<blocks>
+<videlit_line>Заспів</videlit_line>
+<text>Я співаю і славлю</text>
+<text>Для Царя, що достойний,</text>
+<text>Я люблю, поклоняюсь,</text>
+<text>Перед Ним я схиляюсь.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Michael W. Smith — You are Holy (Prince of Peace) [Английский]
+  https://holychords.pro/13406
+- Наталья Доценко — Ты Святой Бог [Русский]
+  https://holychords.pro/13407
+- Ян Прадвесьнік царква — Ты - Сьвяты Бог [Белорусский]
+  https://holychords.pro/22059
+- Sonic Praise — You are Holy (Prince of Peace) [Английский]
+  https://holychords.pro/38875
+- Добра Новина Трускавець — Ти Святий Бог [Украинский]
+  https://holychords.pro/44645
+- Davidias — Princ mira [Хорватский]
+  https://holychords.pro/77950
+- Неизвестен — Ти си совршен [Македонский]
+  https://holychords.pro/80227
+- Stichting Opwekking — U bent heilig (609) [Нидерландский]
+  https://holychords.pro/80295
+- Andrea Fontes — Tu És Santo (Príncipe da Paz) [Португальский]
+  https://holychords.pro/80296

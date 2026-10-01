@@ -1,0 +1,62 @@
+Новый Иерусалим — Линии сердца
+Источник: https://holychords.pro/382
+
+==================================================
+
+<blocks>
+<videlit_line>Вступление</videlit_line>
+<chopds>Gm   Bb   Eb  Cm</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Gm                Bb</chopds>
+<text>Нас узнают не по лицам,</text>
+<chopds>Eb              Cm</chopds>
+<text>Не по фото на страницах.</text>
+<chopds>Gm      Bb              Eb            Cm</chopds>
+<text>Скоро __ узнают нас, скоро.</text>
+<text>Не по цвету нашей кожи,</text>
+<text>Не по сотням дел хороших.</text>
+<text>Скоро  узнают нас, скоро.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>                     G5   G5/F</chopds>
+<text>С высоты не видно лиц -</text>
+<chopds>                      G5/E    G5/Eb</chopds>
+<text>Нас читают со страниц.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G5   G5/F                      G5/E    G5/Eb</chopds>
+<text>             По линиям сердца.</text>
+<chopds>G5   G5/F                      G5/E    G5/Eb</chopds>
+<text>             По линиям сердца.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Нас узнают не по нотам, не по песен наших взлётам.</text>
+<text>Скоро узнают нас, скоро.</text>
+<text>Не по самой новой моде, не по выбору мелодий.</text>
+<text>Скоро узнают нас, скоро.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>                     G5   G5/F</chopds>
+<text>С высоты не слышно нот</text>
+<chopds>                      G5/E    G5/Eb</chopds>
+<text>Небо нас с тобой поймёт</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G5   G5/F                      G5/E    G5/Eb</chopds>
+<text>             По линиям сердца.</text>
+<chopds>G5   G5/F                      G5/E    G5/Eb</chopds>
+<text>             По линиям сердца.</text>
+</blocks>

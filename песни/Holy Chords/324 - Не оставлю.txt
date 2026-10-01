@@ -1,0 +1,44 @@
+Екатерина Топчий — Не оставлю
+Источник: https://holychords.pro/324
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>    Em                  D                         C                          H7</chopds>
+<text>Оставлена, оставлена… Так нагло шепчет враг.</text>
+<chopds>      Em                      D                       Am                    H7</chopds>
+<text>Душа стрелой отравлена, и сброшена в овраг.</text>
+<chopds>        Em                 D                   Am                      H7</chopds>
+<text>Не сбудутся желания, не в силах Бог помочь…</text>
+<chopds>          Em                    D                Am                      H7</chopds>
+<text>То вражьи всё старания, гони все мысли прочь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Em                             D</chopds>
+<text>Не оставлю, не оставлю</text>
+<chopds>C                       H7</chopds>
+<text>Не покину Я тебя.</text>
+<chopds>                 Em                     D</chopds>
+<text>Скоро в скорби переплавлю,</text>
+<chopds>         Am               H7</chopds>
+<text>И помилую любя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text> У Меня есть всё для счастья,</text>
+<text>Подниму на высоту,</text>
+<text>И приму в судьбе участье</text>
+<text>Всю открою красоту…</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Не потеряна надежда</text>
+<text>Я – Твой Бог, твой Господин!</text>
+<text>Белоснежную одежду</text>
+<text>Приготовил Я, - Один.</text>
+</blocks>

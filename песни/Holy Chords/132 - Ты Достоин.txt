@@ -1,0 +1,68 @@
+Real Ivanna — Ты Достоин
+Источник: https://holychords.pro/132
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>               Hm                    G</chopds>
+<text>Ты достоин! Ты достоин!</text>
+<chopds>                 D                              A</chopds>
+<text>Ты достоин принять всю честь!</text>
+<chopds>               Hm                    G</chopds>
+<text>Ты достоин! Ты достоин!</text>
+<chopds>              D                                 A</chopds>
+<text>Ты достоин принять всю честь!</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Hm                                          G</chopds>
+<text>Ты оставил славу и престол</text>
+<chopds>                      D                                A</chopds>
+<text>Чтобы открыть нам в Небо дверь</text>
+<chopds>Hm                                                G</chopds>
+<text>Через муки смерти Ты прошёл</text>
+<chopds>                    D                           A</chopds>
+<text>И вся земля поет Тебе теперь:</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Будет день когда все племена</text>
+<text>В страхе склоняться пред Тобой</text>
+<text>Затрепещет Небо и Земля</text>
+<text>Как Ты Велик Велик Наш Бог Святой!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>                        A                                Hm</chopds>
+<text>Там на кресте Ты забрал мой грех</text>
+<chopds>                  A                   Hm</chopds>
+<text>И навсегда искупил нас</text>
+<chopds>                         A                               Hm</chopds>
+<text>Смертью Своей Подарил Ты мне</text>
+<chopds>                    G                  A</chopds>
+<text>Жизнь и дом в Небесах!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds> H          C#m                    A</chopds>
+<text>Ты достоин! Ты достоин!</text>
+<chopds>                 E                               H</chopds>
+<text>Ты достоин принять всю честь!</text>
+<chopds>               C#m                   A</chopds>
+<text>Ты достоин! Ты достоин!</text>
+<chopds>                 E                               H</chopds>
+<text>Ты достоин Бог принять всю честь!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Real Ivanna — You Are Worthy [Английский]
+  https://holychords.pro/7415
+- Real Ivanna — Ти достойний [Украинский]
+  https://holychords.pro/70528

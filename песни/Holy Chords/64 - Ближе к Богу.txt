@@ -1,0 +1,40 @@
+NG Worship — Ближе к Богу
+Источник: https://holychords.pro/64
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>                      Em             G</chopds>
+<text>Ты даешь огонь Свой</text>
+<chopds>                     Em      G</chopds>
+<text>Отдаюсь Тебе я</text>
+<chopds>                              Em      G</chopds>
+<text>Дух Святой приходит</text>
+<chopds>                               C</chopds>
+<text>Взрывает изнутри все</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                Em                       G</chopds>
+<text>Ближе к Богу, ближе к Богу</text>
+<chopds>                   C                   D2</chopds>
+<text>Ближе к Богу, ближе я</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>                     C                         G</chopds>
+<text>Любовь Христа переполняет</text>
+<chopds>              C                  G</chopds>
+<text>Изнутри горит огнём</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Sinach — Наполняй [Русский]
+  https://holychords.pro/8194
+- M.Worship — Ближе к Богу [Русский]
+  https://holychords.pro/27520

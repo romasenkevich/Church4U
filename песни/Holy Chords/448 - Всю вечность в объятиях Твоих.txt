@@ -1,0 +1,66 @@
+Слово Жизни Music — Всю вечность в объятиях Твоих
+Источник: https://holychords.pro/448
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C#m               H        E         A</chopds>
+<text>Бог, Ты открыл нам Себя,</text>
+<chopds>C#m              H   E                 A</chopds>
+<text>Мысли Твои, сердце Твоё,</text>
+<chopds>C#m          H       E              A</chopds>
+<text>Нет ничего, что б смогло</text>
+<chopds>         C#m               H       A</chopds>
+<text>Сравниться с Тобой, Бог!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>          H                    C#m              A</chopds>
+<text>Всю вечность в объятиях Твоих</text>
+<chopds>       E                  H           C#m                A</chopds>
+<text>Хотим провести, все вместе мы поем,</text>
+<chopds>             E                  H            C#m            A</chopds>
+<text>Все вместе мы поем о величии Твоем!</text>
+<chopds>           E                    H             C#m                A</chopds>
+<text>Ты здесь среди нас, все вместе мы поём!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>C#m           H       E                  A</chopds>
+<text>Свет воссиял Твой во тьме,</text>
+<chopds>C#m           H      E                 A</chopds>
+<text>Быть я хочу ближе к Тебе!</text>
+<chopds>C#m          H       E              A</chopds>
+<text>Нет ничего, что б смогло</text>
+<chopds>        C#m                 H      A</chopds>
+<text>Сравниться с Тобой, Бог!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>  E          A               E            A</chopds>
+<text>Ты святой Бог! Ты достоин!</text>
+<chopds>  E          A               E            A</chopds>
+<text>Ты святой Бог! Ты достоин!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>                                  H               C#m     A</chopds>
+<text>Все вместе мы поем! Аллилуйя, поем!</text>
+<chopds>                                  H               C#m     A</chopds>
+<text>Все вместе мы поем! Аллилуйя, поем!</text>
+<chopds>                             H         C#m   A</chopds>
+<text>Все что есть у нас – Твоё!</text>
+<chopds>                             H         C#m   A</chopds>
+<text>Все что есть у нас – Твоё!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Bellarive — Taste of eternity [Английский]
+  https://holychords.pro/23739

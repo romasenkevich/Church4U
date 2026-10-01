@@ -1,0 +1,49 @@
+Слово Жизни Music — Совершенный Бог
+BPM: 124
+Источник: https://holychords.pro/208
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>D                               G</chopds>
+<text>Небеса вещают славу Божью,</text>
+<chopds>                            Hm                                               A</chopds>
+<text>Земля поёт от том же, как Ты велик, наш Бог!</text>
+<chopds>                    D                                  G</chopds>
+<text>День за днем хвала не умолкает,</text>
+<chopds>                                 Hm                                        A</chopds>
+<text>Творение восклицает: Осанна, наш Господь!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>             Hm   F#m G            A</chopds>
+<text>Мы хотим познать, Тебя, наш Бог, ближе!</text>
+<chopds>            Hm  F#m G              A</chopds>
+<text>Жертву осознать нам данную свыше!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>      Em                        D                   A                       Em</chopds>
+<text>Ты совершенный Бог, и мы поём все вместе о любви,</text>
+<chopds>      G                           D                  A</chopds>
+<text>О той любви, что подарила жизнь!</text>
+<chopds>Em                             D                            A              Em</chopds>
+<text>Милость, свет и благодать, с престола Своего излил,</text>
+<chopds>             G                          D                     A</chopds>
+<text>Мы ждём Тебя, приди, Бог, приди!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>          G      Hm                          D          A</chopds>
+<text>Приди Своим святым присутствием, Бог,</text>
+<chopds>         G       Hm                      D        A</chopds>
+<text>Приди, наполни славой это место,</text>
+<chopds>         Em                 D                   Hm               A</chopds>
+<text>Я желаю быть с Тобой и в Тебе найду покой,</text>
+<chopds>          G            Hm               A</chopds>
+<text>Приди, наш Бог! Мы ждём Тебя!</text>
+</blocks>

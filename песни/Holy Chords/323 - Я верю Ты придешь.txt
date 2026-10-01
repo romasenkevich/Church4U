@@ -1,0 +1,32 @@
+Ольга Беглец — Я верю Ты придешь
+Источник: https://holychords.pro/323
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>     D#                                    Cm</chopds>
+<text>Я верю Ты придешь Спаситель мой Христос,</text>
+<chopds>    G#                                  Bb</chopds>
+<text>Я буду, буду ждать Тебя..</text>
+<chopds>          D#                                     Cm</chopds>
+<text>Ты здесь рядом со мной, я чувствую покой</text>
+<chopds>      G#                                                    Bb</chopds>
+<text>Твоя любовь мне греет сердце вновь и вновь...</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                   G#      Bb                Gm          Cm</chopds>
+<text>Ты мой Отец и рядом с Тобою всегда</text>
+<chopds>       Bb         G#          Bb                                D#   Bb  Cm    G#    Bb</chopds>
+<text>Мне хорошо ведь Ты, Ты ведешь меня!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Я верю Ты придешь меня к Себе вернешь</text>
+<text>И вместе вечно будем Ты и я!</text>
+<text>Пусть много еще ждать но верю в благодать</text>
+<text>Твоя любовь мне греет сердце вновь и вновь!</text>
+</blocks>

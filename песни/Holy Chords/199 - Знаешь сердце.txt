@@ -1,0 +1,40 @@
+Skeemans Worship — Знаешь сердце
+Источник: https://holychords.pro/199
+
+==================================================
+
+<blocks>
+<chopds>C  Em  F  G</chopds>
+<chopds>                C                            Em</chopds>
+<text>Мой великий Бог буду славить я</text>
+<chopds>                    F                       G</chopds>
+<text>Каждый день лишь Тебя</text>
+<chopds>            C                              Em</chopds>
+<text>Не остановлюсь будет течь хвала</text>
+<chopds>               F                G</chopds>
+<text>В небеса без конца</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>    C                       Em</chopds>
+<text>Отец мой Ты знаешь сердце</text>
+<chopds>    F                G</chopds>
+<text>Жаждет Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Пусть Твои слова оживут во мне</text>
+<text>Голос Твой в глубине</text>
+<text>За Твои мечты все, что есть отдам</text>
+<text>Я живу для Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<text>Отец мой Ты знаешь сердце</text>
+<text>Жаждет Тебя</text>
+<text>Наполнить Своей любовью</text>
+<text>Воля Твоя</text>
+</blocks>

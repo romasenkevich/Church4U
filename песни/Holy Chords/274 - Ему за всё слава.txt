@@ -1,0 +1,76 @@
+Селах (HDN) — Ему за всё слава
+Источник: https://holychords.pro/274
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em             C      D                  Em</chopds>
+<text>Всё от Него и Им сотворено,</text>
+<chopds>Em             C      D                 Em</chopds>
+<text>Всё от Него и Им сотворено.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Em                   C D</chopds>
+<text>Ему за всё слава</text>
+<chopds>                    G H7 Em</chopds>
+<text>Ему за всё слава,</text>
+<chopds>Em                  C D</chopds>
+<text>Ему за всё слава</text>
+<chopds>                   Em</chopds>
+<text>Во веки, аминь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Em                   C                     D                     Em</chopds>
+<text>О, бездна богатства, премудрости Христа.</text>
+<chopds>Em            C         D                     Em</chopds>
+<text>Непостижимы судьбы Господа.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Gabriela Rocha — A Ele a Glória
+  https://holychords.pro/24640
+- Неизвестен — Din El, prin El şi pentru El [Румынский]
+  https://holychords.pro/30894
+- Анастасия Полянская — Ему за всё слава [Русский]
+  https://holychords.pro/34174
+- Новый Завет Пермь — Ему за все Слава [Русский]
+  https://holychords.pro/34851
+- Gabriela Rocha — Ему за все слава [Русский]
+  https://holychords.pro/38752
+- Live Worship Пермь — Бог, Тебе Слава [Русский]
+  https://holychords.pro/50261
+- Gabriela Rocha — Йому за все слава [Украинский]
+  https://holychords.pro/50284
+- Нове Покоління Дніпро — Бог, Тобі слава [Украинский]
+  https://holychords.pro/59837
+- M.Worship — Тебе за всё слава [Русский]
+  https://holychords.pro/67531
+- Поклонение Бишкек — Всё от Него [Русский]
+  https://holychords.pro/68239
+- Ethnos Church — Йому за все слава [Украинский]
+  https://holychords.pro/68797
+- Live Worship Пермь — Бог Тебе Слава + Дух Твой на мне [Русский]
+  https://holychords.pro/69104
+- Spasinnya Music — Тобі за все слава [Украинский]
+  https://holychords.pro/69398
+- Bethesda Worship — Тобі за все слава [Украинский]
+  https://holychords.pro/73040
+- YCN Worship — Йому за все слава [Украинский]
+  https://holychords.pro/74373
+- Свет Истины Music — Ему за всё слава (Live) [Русский]
+  https://holychords.pro/77425
+- New Hope Church Katowice — Тебе за все слава [Русский]
+  https://holychords.pro/78941
+- Свет Истины Music — Ему за все слава (Live) [Русский]
+  https://holychords.pro/79760
+- IRC worship — Тобі за все слава [Украинский]
+  https://holychords.pro/80018
+- SY Worship — Тобі за все слава [Украинский]
+  https://holychords.pro/85393

@@ -1,0 +1,71 @@
+Hillsong Ukraine — Мы всё отдаём Тебе
+Источник: https://holychords.pro/307
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>H</chopds>
+<text>Мы всё отдаём Тебе, Тебе.</text>
+<text>Мы всё отдаём для Божьих дел.</text>
+<text>Мы всё отдаём Тебе, Тебе.</text>
+<text>Мы всё отдаём для Божьих дел.</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<text>Бог Отец Наш, дал свободу,</text>
+<text>И надежду во Имя Иисуса,</text>
+<text>Отдадим мы, наши жизни,</text>
+<text>И Спаситель любовью нашёл нас.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>E             G#m            H</chopds>
+<text>В Тебе ожили мы, что бы истину нести,</text>
+<chopds>E                G#m                   Gb</chopds>
+<text>Ты наши жизни изменил.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Твой призыв в нас, будет вечно,</text>
+<text>И делами тебя мы прославим,</text>
+<text>Всё что в сердце,  для Тебя Бог,</text>
+<text>Как заря наша жизнь пусть сияет.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                        H</chopds>
+<text>Мы всё отдаём Тебе, Тебе.</text>
+<chopds>                         E           G#m             E</chopds>
+<text>Мы всё отдаём для Божьих дел.</text>
+<chopds>                        H</chopds>
+<text>Мы всё отдаём Тебе, Тебе.</text>
+<chopds>                        E            G#m             E</chopds>
+<text>Мы всё отдаём для Божьих дел.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>C#m                  H                       F#</chopds>
+<text>Ты словом нам глаза открыл, Тебя можем видеть.</text>
+<chopds>C#m                 H                 F#</chopds>
+<text>Путь наш и истина и жизнь..</text>
+<chopds>C#m                         H                      F#</chopds>
+<text>Мы жизнью своей Тебя почтим, Ты освободил нас, освободил нас.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Ukraine — Мы всё отдаём (Go) [Русский]
+  https://holychords.pro/32566
+- Hillsong United — Go [Английский]
+  https://holychords.pro/48833
+- Илья Рябов — Мы все воспоём хвалу [Русский]
+  https://holychords.pro/57016
+- Hillsong United — Залишимо все [Украинский]
+  https://holychords.pro/61840

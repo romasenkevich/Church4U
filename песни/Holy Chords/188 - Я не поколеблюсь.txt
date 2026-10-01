@@ -1,0 +1,44 @@
+Алексей Каратаев — Я не поколеблюсь
+Источник: https://holychords.pro/188
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>D</chopds>
+<text>О, Господь! Жертвою святой</text>
+<chopds>D</chopds>
+<text>Ты дал мне свет, вывел из тьмы.</text>
+<chopds>G</chopds>
+<text>Вся моя жизнь рядом с Тобой</text>
+<chopds>D</chopds>
+<text>В Твоей любви мы все спасены!</text>
+<chopds>    A          G                             D</chopds>
+<text>И я в молитве Тебя прославлю,</text>
+<chopds>    A             G                                      D</chopds>
+<text>И я буду славить Тебя каждый день!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>              G                                    D</chopds>
+<text>И в долине смертной тени не убоюсь</text>
+<chopds>    A                D</chopds>
+<text>Знаю, со мною Иисус!</text>
+<chopds>      G                                       D</chopds>
+<text>И даже если всё вокруг рушится с треском</text>
+<chopds>    A           D</chopds>
+<text>Знаю, я не поколеблюсь!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>G  D/F#  A            D</chopds>
+<text>О-о,  я  не поколеблюсь!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Jared Anderson — Never Be Shaken [Русский]
+  https://holychords.pro/35649

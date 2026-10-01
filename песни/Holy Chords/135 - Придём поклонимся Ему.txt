@@ -1,0 +1,39 @@
+Виталий Ефремочкин — Придём поклонимся Ему
+Источник: https://holychords.pro/135
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Cm                            Bb/D  Eb                      Bb/D  Cm</chopds>
+<text>Придём, поклонимся Ему Слава нашему Царю!</text>
+<chopds>Cm                        Bb/D  Eb                            Bb/D        Cm</chopds>
+<text>Возвысим наши голоса будем прославлять Христа!</text>
+<chopds>O-o, о-o</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Пойте Имени Его Он наш Царь-Господь всего!</text>
+<text>Всё Им дышит и живёт Он Господь над всей землёй!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Пусть узнают все, наш Бог велик! Всё живёт лишь только Им!</text>
+<text>Сольются вместе голоса хвала Царю на все века!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>Bb/D  Ab/C  Bb  Cm7 C#  F  Bb  Eb</chopds>
+<text>Аллилуйя, Аллилуйя, Аллилуйя Наш Бог велик!!!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Християнська Божа Церква — Заспіваймо разом всі [Украинский]
+  https://holychords.pro/65957
+- Tye Tribbett & G.A. — Let Us Worship [Английский]
+  https://holychords.pro/66014

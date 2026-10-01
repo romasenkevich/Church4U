@@ -1,0 +1,50 @@
+Анастасия Яценко — Все дела Твои прекрасны
+Источник: https://holychords.pro/243
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>              Ebm                  Abm                 C#                  F#</chopds>
+<text>Все дела Твои прекрасны бесконечны чудеса</text>
+<chopds>                H                 F#                       C#</chopds>
+<text>Поклонение сердец прими от нас</text>
+<chopds>                Ebm           Abm            C#               F#</chopds>
+<text>Когда стоя на коленях Твоего лица ищу</text>
+<chopds>               H                      F#              C#</chopds>
+<text>Обращаешь Свои очи на меня</text>
+<chopds>Eb</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>ПредПрипев</videlit_line>
+<chopds>             Abm</chopds>
+<text>Невозможно</text>
+<chopds>             C#                                          Bbm</chopds>
+<text>Без света Твоего мгновенье быть.</text>
+<chopds>              Ebm                                                H</chopds>
+<text>Не могу я жить, Иисус мой, без Тебя,</text>
+<chopds>              Abm             C#                    F#</chopds>
+<text>Драгоценнее всего Ты для меня.</text>
+<chopds>Eb</chopds>
+<chopds>              Abm</chopds>
+<text>Невозможно</text>
+<chopds>                 C#                                               Bbm</chopds>
+<text>Без любви Твоей мгновение прожить.</text>
+<chopds>              Ebm                                                H</chopds>
+<text>Не могу я быть, Иисус мой, без Тебя.</text>
+<chopds>             Abm               C#                     F#</chopds>
+<text>Драгоценнее всего Ты для меня.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Ab    Bb          H                 Abm  C#               Bbm</chopds>
+<text>Ты прикоснись, Господь,   ко мне святой рукой.</text>
+<chopds>Ebm            Abm             C#                        F#</chopds>
+<text>Сердце омой слезой, в руках Твоих я счастлив.</text>
+<chopds> Ab  Bb   H        Abm     C#                    Bbm</chopds>
+<text>Тебе я поклонюсь всем сердцем и душой.</text>
+<chopds>Ebm                 Abm          H                   C#             F#</chopds>
+<text>Буду петь Тебе, Иисус, ждать встречи с Тобой.</text>
+</blocks>

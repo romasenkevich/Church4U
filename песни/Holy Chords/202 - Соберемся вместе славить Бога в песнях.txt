@@ -1,0 +1,30 @@
+Неизвестен — Соберемся вместе славить Бога в песнях
+Источник: https://holychords.pro/202
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>  D                                   G</chopds>
+<text>Соберемся вместе славить Бога в песнях,</text>
+<chopds>A                                          D</chopds>
+<text>И народы всей земли позови.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  D                            G</chopds>
+<text>Радость словно солнце,</text>
+<chopds>  D                                G</chopds>
+<text>Тёплый дождик льётся,</text>
+<chopds>  D                         G</chopds>
+<text>Радость как венец златой.</text>
+<chopds>  A</chopds>
+<text>Соберемся вместе славить Бога в песнях.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>D                  Em                  A                  D</chopds>
+<text>Аллилуйя, аллилуйя, аллилуйя, аллилуйя</text>
+</blocks>

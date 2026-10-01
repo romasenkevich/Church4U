@@ -1,0 +1,45 @@
+Ксения Кузнецова — Жажда сердца моего
+BPM: 144
+Источник: https://holychords.pro/119
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>          F#                    D#m</chopds>
+<text>Ты жажда жажда сердца моего</text>
+<chopds>          H                       C#</chopds>
+<text>Ты жизнь моя возлюбленный Иисус!</text>
+<chopds>         F#           D#m</chopds>
+<text>Открой открой во мне источник</text>
+<chopds>        H                       C#</chopds>
+<text>Воды живой возлюбленный Иисус!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                          F#                          Bbm</chopds>
+<text>С Тобой пройду весь путь земной</text>
+<chopds>                    D#m                         H      C#</chopds>
+<text>Все преодолею силой любви Твоей</text>
+<chopds>                     F#                              Bbm</chopds>
+<text>К Отцу приду в свой дом родной</text>
+<chopds>                  D#m                         H        C#</chopds>
+<text>Я не сожалею о судьбе своей теперь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ты правда, Ты праведность моя Господь,</text>
+<text>Спаситель мой возлюбленный Иисус!</text>
+<text>Излей излей Свой Дух безмерный</text>
+<text>На жизнь мою возлюбленный Иисус!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>        F#               Bbm           D#m                 H                       C#</chopds>
+<text>Ты жажда,Ты жажда,Ты жажда, Ты жажда моя Иисус</text>
+<chopds>         F#               Bbm             D#m                 H                     C#</chopds>
+<text>Ты правда,Ты правда,Ты правда, Ты праведность моя</text>
+</blocks>

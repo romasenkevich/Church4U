@@ -1,0 +1,55 @@
+Слово Жизни Music — Ты - Царь
+Источник: https://holychords.pro/474
+
+==================================================
+
+<blocks>
+<chopds>Hm   A   D   Hm   A   G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>  D                           A</chopds>
+<text>Бог, Ты мой Господь</text>
+<chopds>               G                     Hm                 A</chopds>
+<text>И я молюсь лишь Тебе, о, мой Бог</text>
+<chopds>       D                         A</chopds>
+<text>Вовек царство Твоё</text>
+<chopds>                G                 Hm                  A</chopds>
+<text>И я хвалю лишь Тебя, мой Господь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев: 2 раза</videlit_line>
+<chopds>               Em               D/F#                    G</chopds>
+<text>Царь царей, Бог богов величие всё Твоё!</text>
+<chopds>Hm   A/C#   G | Hm   A   G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Бог, Ты мой Король</text>
+<text>И для меня Ты стал всем во всём</text>
+<text>Наполняй, веди за Собой</text>
+<text>Сердце моё лишь Тобою полно</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>          Hm  G                  D            A</chopds>
+<text>Ведь Ты Царь над всею землёй</text>
+<chopds>    Hm   G            D                     A</chopds>
+<text>И Ты, Бог, Господь надо мной</text>
+<chopds>   Hm  G    D            A</chopds>
+<text>Слава Тебе и хвала</text>
+<chopds>           Em              G</chopds>
+<text>Поклоняюсь Тебе я!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>   Hm  A  D                Hm  A  G</chopds>
+<text>Слава вся Тебе во веки!</text>
+<chopds> Hm  A    D                        Hm  A  G</chopds>
+<text>Иисус - Царь и мой Спаситель</text>
+</blocks>

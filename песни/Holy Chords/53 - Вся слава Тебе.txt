@@ -1,0 +1,44 @@
+Слово Жизни Music — Вся слава Тебе
+Источник: https://holychords.pro/53
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds> Hm                                      G          A</chopds>
+<text>Твоя любовь, она велика ко мне,</text>
+<chopds>Hm                                                  G         A</chopds>
+<text>Не знает страх, возносит меня к Тебе.</text>
+<chopds>G                      A</chopds>
+<text>Иисус, искупитель,</text>
+<chopds>  D           A/C#        G</chopds>
+<text>Ты мне путь открыл.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>A        D            G</chopds>
+<text>Вся слава Тебе, Бог, и сила,</text>
+<chopds>A       D                  G</chopds>
+<text>Вся честь и хвала.</text>
+<chopds>A        D              G</chopds>
+<text>Земля Тебе славу поет,</text>
+<chopds>            A                        G</chopds>
+<text>Ты великий, Бог великий.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Твоя любовь хранит все слова Твои.</text>
+<text>Покоишь Ты вечность в руках Своих.</text>
+<text>Иисус, я склоняюсь,</text>
+<text>Своим путем веди.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>                 A                       G</chopds>
+<text>Будем славить, Он великий,</text>
+<chopds>                 A                   G</chopds>
+<text>Будем славить, Он Бог.</text>
+</blocks>

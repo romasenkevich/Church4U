@@ -1,0 +1,58 @@
+Hillsong Ukraine — Ты со мной
+Источник: https://holychords.pro/298
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Am                C                        F      G</chopds>
+<text>Дал Ты любовь мне познать</text>
+<chopds>           Am                C                    F           G</chopds>
+<text>В ней сила для всех, кто разбит и слаб</text>
+<chopds>          Am                C               F                       G</chopds>
+<text>Мой Пастырь и Царь, живёшь в моём сердце</text>
+<chopds>        Am     G        F</chopds>
+<text>Ты здесь со мной</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Пронёс за весь мир тяжкий крест</text>
+<text>Блудных собрал Ты и сирот всех</text>
+<text>Мой Пастырь и Царь, живёшь в моём сердце</text>
+<text>Ты здесь со мной!!! Мой Бог, вовеки</text>
+<text>Ты со мной</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                 G</chopds>
+<text>Прямо здесь Ты со мной</text>
+<chopds>                F                      Dm</chopds>
+<text>Рядом быть хочу с Тобой</text>
+<chopds>                      G</chopds>
+<text>В сердце правь навсегда</text>
+<chopds>                 F</chopds>
+<text>Ты со мной</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Слова Твои - свет для земли</text>
+<text>Вселенную славой наполнил Ты</text>
+<text>Мой Пастырь и Царь, живёшь в моём сердце</text>
+<text>Ты здесь со мной!!! Мой Бог, вовеки</text>
+<text>Ты со мной</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>C                                   G</chopds>
+<text>Ведь та сила, что Христа вознесла</text>
+<chopds>                    F  Am             G</chopds>
+<text>Есть во мне, есть во мне</text>
+<chopds>C                        G</chopds>
+<text>Любовь, что землю спасла</text>
+<chopds>                    F  Am             G</chopds>
+<text>Есть во мне, есть во мне</text>
+</blocks>

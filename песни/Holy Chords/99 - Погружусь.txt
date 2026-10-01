@@ -1,0 +1,88 @@
+Hillsong Ukraine — Погружусь
+Источник: https://holychords.pro/99
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>D                                    D/F#</chopds>
+<text>Пред Тобой здесь стою я</text>
+<chopds>D                              D/F#</chopds>
+<text>Где любовь неотступна</text>
+<chopds>G                                A</chopds>
+<text>Ею Ты сразил меня</text>
+<chopds>D                           D/F#</chopds>
+<text>И в объятиях небесных</text>
+<chopds>D                             D/F#</chopds>
+<text>Обрету покой навеки</text>
+<chopds>  G                                    A</chopds>
+<text>Погружусь я в благодать</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>               Em         Hm    D               A</chopds>
+<text>Мой взгляд к Себе благостью Ты влечёшь</text>
+<chopds>   Em        Hm        A</chopds>
+<text>Всё во мне - Твоё</text>
+<chopds>              Em      Hm         D                       A</chopds>
+<text>Весь страх ушёл дышу Тобой, влечёт меня</text>
+<chopds>   G</chopds>
+<text>Любовь, любовь</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Заблужусь - Ты отыщешь</text>
+<text>Озаришь Своею славой</text>
+<text>Бог всего прекрасен так</text>
+<text>На Твое лицо взирая</text>
+<text>Его блеском восхищаясь</text>
+<text>Здесь в Тебе укроюсь я</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>       D                               Em7</chopds>
+<text>Поток любви Ты на меня излил</text>
+<chopds>               Hm                                G</chopds>
+<text>Лицо Своё явил, Ты для меня - вся жизнь</text>
+<chopds>       D                                            Em7</chopds>
+<text>Иисус Христос, лишь Ты - любовь моя</text>
+<chopds>                       Hm                                   G</chopds>
+<text>Прошу мне силы дай Тебя всей жизнью знать</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Young & Free — Sinking Deep [Английский]
+  https://holychords.pro/1334
+- Hillsong Young & Free — Sinking Deep (Live) [Английский]
+  https://holychords.pro/4385
+- Hillsong Young & Free — Глубокое погружение [Русский]
+  https://holychords.pro/4386
+- Hillsong Young & Free — Утопаю [Русский]
+  https://holychords.pro/5842
+- XY Uwielbienie — Głęboko tak [Польский]
+  https://holychords.pro/11831
+- Слово Жизни Music — Погружусь [Русский]
+  https://holychords.pro/22341
+- Слово Жизни Music — Погружусь [Русский]
+  https://holychords.pro/30228
+- вместе music — Погружусь [Русский]
+  https://holychords.pro/33751
+- Hillsong Young & Free — Пірнаю знов [Украинский]
+  https://holychords.pro/44233
+- Вадим Назарчук — Занурюсь [Украинский]
+  https://holychords.pro/46375
+- Церква Явлення Христа Львів — Ось стою біля Тебе [Украинский]
+  https://holychords.pro/48723
+- psalmaker — Погружусь [Русский]
+  https://holychords.pro/51582
+- Hillsong Young & Free — Пірнаю [Украинский]
+  https://holychords.pro/60031
+- Християнська надія — Занурюсь [Украинский]
+  https://holychords.pro/61253
+- Hillsong Young & Free — Погружаюсь [Русский]
+  https://holychords.pro/81949

@@ -1,0 +1,52 @@
+Виталий Ефремочкин — Я стремлюсь к Тебе
+Источник: https://holychords.pro/142
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Em                 C                              G                   D</chopds>
+<text>Всей душой жажду лишь Тебя, мой Господь.</text>
+<chopds>Em            C                                       G                    D</chopds>
+<text>Взываю я сердцем всем и кричу к Тебе, о Бог!</text>
+<chopds>Em          C                               G                          D</chopds>
+<text>Освятил, защитил, дал мне милость и славу.</text>
+<chopds>Em               C                                 G                                   D</chopds>
+<text>Нет ничего, что б могло сравниться с Тобой, Господь!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C              Em             D                 Hm             C</chopds>
+<text>Я стремлюсь к Тебе, словно лань к воде!</text>
+<chopds>               Em            D     Hm</chopds>
+<text>Жажду лишь Тебя, о Бог мой!</text>
+<chopds>C              Em             D                 Hm             C</chopds>
+<text>Я стремлюсь к Тебе, словно лань к воде!</text>
+<chopds>               Em            D     Hm</chopds>
+<text>Жажду лишь Тебя, о Бог мой!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>Em                         D/F#</chopds>
+<text>Отдаю свою жизнь Тебе!</text>
+<chopds>G                   Hm</chopds>
+<text>Позови за Собой и я пойду!</text>
+<chopds>C</chopds>
+<text>Отдаю свою жизнь Тебе!</text>
+<chopds>       D                              Hm</chopds>
+<text>Вот я,  возьми меня, Бог Сиона!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Spiritual Evolution — Я стремлюсь к Тебе [Русский]
+  https://holychords.pro/8814
+- Антонина Губина — Я стремлюсь к Тебе [Русский]
+  https://holychords.pro/24843
+- Matt Gilman — As the Deer (Live) [Английский]
+  https://holychords.pro/30041
+- VoDa / Дьяков Владимир — Я стремлюсь к Тебе [Русский]
+  https://holychords.pro/30053

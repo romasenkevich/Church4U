@@ -1,0 +1,63 @@
+New Beginnings Worship — Имя выше всех
+Источник: https://holychords.pro/38
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>                F#m                              D</chopds>
+<text>В Тебе моя жизнь свет безмерной любви</text>
+<chopds>      F#m                                 D</chopds>
+<text>Спаситель, Иисус, за Собою веди</text>
+<chopds>                F#m                         D                              F#m   D</chopds>
+<text>И для Тебя песнь, что от сердца звучит, о-о-о-о.</text>
+<chopds>                  F#m                       D</chopds>
+<text>Ты дал надежду грех связал на Кресте</text>
+<chopds>    F#m                        D</chopds>
+<text>Кровью Святою омыты мы все</text>
+<chopds>                       F#m                              D                   F#m   D</chopds>
+<text>Так пусть звучит песнь прославляя Тебя о-о-о-о.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>       D                             A</chopds>
+<text>Иисус, Имя выше всех,</text>
+<chopds>                                    F#m</chopds>
+<text>Ты пришёл к нам всем,</text>
+<chopds>                                E</chopds>
+<text>Любовью и спасеньем.</text>
+<chopds>                D                                          A</chopds>
+<text>Поднимись пред славою Творца,</text>
+<chopds>                         F#m</chopds>
+<text>Оживёт твой дух</text>
+<chopds>                    E</chopds>
+<text>Свято Его Имя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Твоей славой мы в единстве стоим</text>
+<text>Новую жизнь Божий Сын подарил</text>
+<text>Не смолкнет в век песнь прославляя Христа, о-о-о</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>D    F#m     E           C#m         D</chopds>
+<text>Свою любовь Спаситель дал,</text>
+<chopds>    F#m        E</chopds>
+<text>Тебе и мне.</text>
+<chopds>D   F#m   E     C#m             D</chopds>
+<text>Храни её любовь Христа,</text>
+<chopds>    F#m            E</chopds>
+<text>Иисус наш Царь.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Сергей Куликов — Имя выше всех [Русский]
+  https://holychords.pro/81187
+- Hillsong Worship — For Your Name [Английский]
+  https://holychords.pro/82297

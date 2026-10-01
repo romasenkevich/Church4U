@@ -1,0 +1,47 @@
+Siloam Church — Поклоняюсь Тебе
+Источник: https://holychords.pro/342
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em              A             C                D</chopds>
+<text>Перед Тобою Спаситель стою</text>
+<chopds>Em                  A                     C            D</chopds>
+<text>Славу всем сердцем Тебе воздаю</text>
+</blocks>
+
+<blocks>
+<videlit_line>Переход</videlit_line>
+<chopds>Am C Em Hm</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>            Em             Hm</chopds>
+<text>Поклоняюсь Тебе</text>
+<chopds>        Am            Em</chopds>
+<text>Твое имя хвалю</text>
+<chopds>              G                 D</chopds>
+<text>Свою жизнь отдаю</text>
+<chopds>                 Am   D</chopds>
+<text>Лишь Тебе</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>В присутствии славы Твоей нахожусь</text>
+<text>Любовью наполнен я к небу стремлюсь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>        C             G             Em        Hm</chopds>
+<text>Наполнен славой Твоей сейчас</text>
+<chopds>        C    G                Em</chopds>
+<text>Свою жизнь склоняю,</text>
+<chopds>     C           G    Em     Hm</chopds>
+<text>Поет хвалу моя душа</text>
+<chopds>       C      G       Em</chopds>
+<text>Тобою восхищаясь.</text>
+</blocks>

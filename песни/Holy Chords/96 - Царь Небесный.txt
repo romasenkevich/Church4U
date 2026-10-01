@@ -1,0 +1,45 @@
+Hillsong Ukraine — Царь Небесный
+Источник: https://holychords.pro/96
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>F               C/E                              Am</chopds>
+<text>Ночную тишь прервав открыл над миром небеса</text>
+<chopds>F               C/E                         G</chopds>
+<text>Своею славой тьму прогнал</text>
+<chopds>F           C/E                  Am</chopds>
+<text>Соединил миры когда явился во плоти</text>
+<chopds>F                         C/E                    G</chopds>
+<text>Твой план был создан для меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>        F  G  Am     F       C/E</chopds>
+<text>Эммануил, с нами Бог</text>
+<chopds>        F  G  Am  F     C   G</chopds>
+<text>Эммануил, Аллилуйя</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Концы времен в Тебе но выбрал Ты прийти ко мне</text>
+<text>И изменил жизнь навсегда</text>
+<text>Взираем в небеса с надеждой вечной, что нам дал</text>
+<text>Твой план был создан для меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>Dm       Am        C              G</chopds>
+<text>В тишину к нам прошептал с небес</text>
+<text>В нашей тьме, Бог вспыхнул славы свет</text>
+<text>Всех разбитых из пепла поднял нас</text>
+<text>Царь Небесный, с нами Бог сейчас</text>
+<text>Аллилуйя - Ангелы кричат</text>
+<text>Боже Святый - в песнях всем гласят</text>
+<text>Царь Небесный в мир пришел сейчас</text>
+<text>Царь Небесный в мир пришел сейчас</text>
+</blocks>

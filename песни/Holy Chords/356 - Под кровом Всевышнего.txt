@@ -1,0 +1,44 @@
+НАРНиЯ — Под кровом Всевышнего
+Источник: https://holychords.pro/356
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>              Hm</chopds>
+<text>Не унывай, душа моя</text>
+<chopds>                     Em        A</chopds>
+<text>Но славь ещё Господне имя</text>
+<chopds>              Hm</chopds>
+<text>Не унывай, душа моя</text>
+<chopds>                     Em        A</chopds>
+<text>Но славь ещё Господне имя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>             G  A           Hm</chopds>
+<text>Под кровом Всевышнего</text>
+<chopds>           G   A             Hm</chopds>
+<text>Под сенью Всемогущего</text>
+<chopds>             G  A          Hm</chopds>
+<text>Под кровом Всевышнего</text>
+<chopds>          G    A             Hm</chopds>
+<text>Под сенью Всемогущего</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Возрадуюсь и воспою</text>
+<text>Когда войду я в дом Господень</text>
+<text>Возрадуюсь и воспою</text>
+<text>Когда войду я в дом Господень</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Я не умру, но буду жить</text>
+<text>И возвещать дела Господни</text>
+<text>Я не умру, но буду жить</text>
+<text>И возвещать дела Господни</text>
+</blocks>

@@ -1,0 +1,49 @@
+Алексей Каратаев — Твой Свет
+Источник: https://holychords.pro/165
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>             Hm                G                A</chopds>
+<text>Всё творение взывает с хвалою</text>
+<chopds>         Hm          G               A     Hm</chopds>
+<text>Небеса и моря для Тебя поют</text>
+<chopds>            Hm          G                A</chopds>
+<text>Твоё Слово навеки со мною</text>
+<chopds>                  G                    A</chopds>
+<text>Я ищу Тебя, мой Спаситель</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>          Hm     G                 A</chopds>
+<text>Освяти меня Своей славой</text>
+<chopds>       Hm         G             A       Hm</chopds>
+<text>Во свете Твоём засияем мы,</text>
+<chopds>        Hm                G                A</chopds>
+<text>Моё сердце наполни любовью .</text>
+<chopds>                           G                     A</chopds>
+<text>Знаю, только Ты - Мой Спаситель .</text>
+<chopds>                          E     G</chopds>
+<text>О Твоей любви всё на земле поет</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  Hm      G    A</chopds>
+<text>Твой свет воссияет над землей.</text>
+<chopds>  Hm    G     A</chopds>
+<text>Мой Бог, Царь царей, я пред Тобой.</text>
+<chopds>Hm  G  A                  Hm  G                       A</chopds>
+<text>Иисус, Ты жизнь моя, Ты жизнь моя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>О любви Твоей буду петь всегда,</text>
+<text>Никого на земле нет ценней Тебя.</text>
+<text>Вознесу свои руки к Тебе, Царь,</text>
+<text>Благодарю Тебя бесконечно,</text>
+<text>Через кровь Свою дал свободу навечно!</text>
+</blocks>

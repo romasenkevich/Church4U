@@ -1,0 +1,60 @@
+Галим Хусаинов — Превознесен
+Источник: https://holychords.pro/124
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Em                                    Hm</chopds>
+<text>До краёв земли Ты меня с Собой влеки</text>
+<chopds>  C                                                D</chopds>
+<text>Быть хочу с Тобой там, где Ты</text>
+<chopds> Em                                             Hm</chopds>
+<text>Всё, что есть во мне, Ты Себе, Иисус, возьми</text>
+<chopds>   C                                             D</chopds>
+<text>Жизнь мою для славы Твоей</text>
+<chopds>Em                           Hm</chopds>
+<text>Чистые сердца узрят, Господь Тебя</text>
+<chopds>               C                                                     D</chopds>
+<text>Чтобы быть всегда в присутствии Отца</text>
+<chopds> Em                                Hm</chopds>
+<text>Горы и моря, вся вселенная Твоя</text>
+<chopds>     C                                     D</chopds>
+<text>Прославляют лишь Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  Em         Hm     C               D</chopds>
+<text>Превознесён Святый Господь</text>
+<chopds>  Em         Hm     C               D</chopds>
+<text>Превознесён Святый Господь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>Em                           Hm</chopds>
+<text>Святый Господь, Святый Господь,</text>
+<chopds>    C                                                 D</chopds>
+<text>Святый Господь, превознесён</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Виталий Ефремочкин — Превознесён [Русский]
+  https://holychords.pro/592
+- Евгений Сафонов — Превознесён [Русский]
+  https://holychords.pro/12449
+- Спасіння Вишневе — Превознесён [Русский]
+  https://holychords.pro/14807
+- Элиза Белосевич-Дириенко — Превознесен [Русский]
+  https://holychords.pro/16074
+- Fonki Music — Звеличений [Украинский]
+  https://holychords.pro/17498
+- NG Band Riga — Превознесён [Русский]
+  https://holychords.pro/32899
+- Христос для Народов — До краёв земли [Русский]
+  https://holychords.pro/54893
+- Новый Завет, г Москва, Выхино — Превознесён [Русский]
+  https://holychords.pro/66087

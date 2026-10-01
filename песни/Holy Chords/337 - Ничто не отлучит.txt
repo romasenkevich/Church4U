@@ -1,0 +1,48 @@
+Краеугольный камень — Ничто не отлучит
+BPM: 135
+Источник: https://holychords.pro/337
+
+==================================================
+
+<blocks>
+<videlit_line>интро</videlit_line>
+<chopds>Am    G   F   E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>     Am                  G                F                    C</chopds>
+<text>Куда пойду от духа Твоего, мой Господь?</text>
+<chopds>     Am                 G                F           Am</chopds>
+<text>Куда убегу от лика Твоего, мой Бог?</text>
+<chopds>        Dm           Am              Dm                  Am</chopds>
+<text>Взойду ли на небо, сойду ли в преисподнюю –</text>
+<chopds>  Dm          G        C       Dm                    E</chopds>
+<text>И там Твоя защита и там Твоя любовь.</text>
+<chopds>          Dm                   Am            G                         C</chopds>
+<text>Возьму ли крылья ветра и полечу краем моря –</text>
+<chopds>     F                               E</chopds>
+<text>И там рука Твоя ведёт меня</text>
+<chopds>       Dm                           G  E     Am</chopds>
+<text>И удержит меня десница Твоя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>            F                 G           C</chopds>
+<text>И ничто не отлучит меня от любви Твоей,</text>
+<chopds>         F                 G          C</chopds>
+<text>Ничто не отлучит меня.</text>
+<chopds>                 Dm                G                        C   Am</chopds>
+<text>Ни глубина, ни высота, ни тайны бытия</text>
+<chopds>              Dm                       E</chopds>
+<text>Не отлучат меня от Тебя.</text>
+<chopds>                   F                       G    C</chopds>
+<text>Мой Господь - моя защита, моё спасение.</text>
+<chopds>    F               G       C</chopds>
+<text>Я уповаю на Тебя.</text>
+<chopds>                 Dm                G                        C    Am</chopds>
+<text>Ни глубина, ни высота, ни тайны бытия</text>
+<chopds>              Dm                       Am</chopds>
+<text>Не отлучат меня от Тебя.</text>
+</blocks>

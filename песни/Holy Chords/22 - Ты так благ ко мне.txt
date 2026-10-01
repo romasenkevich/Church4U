@@ -1,0 +1,56 @@
+NG Worship — Ты так благ ко мне
+Источник: https://holychords.pro/22
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>G         D                        A           Hm</chopds>
+<text>Когда солнца первый луч пронзает тьму,</text>
+<chopds>G   D      A     Hm</chopds>
+<text>Тебя славлю я.</text>
+<chopds>G              D                    A   Hm</chopds>
+<text>Лишь Тобой одним живу, добрый Бог,</text>
+<chopds>G             D     A       Hm</chopds>
+<text>Лишь Тебя славлю я.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред-припев</videlit_line>
+<chopds>G              A                            Hm</chopds>
+<text>С Тобой, мой Господь, страха нет.</text>
+<chopds>                Hm</chopds>
+<text>Любовь - вот всё, что нужно мне.</text>
+<chopds>G        A                             E7</chopds>
+<text>Моя жизнь сокрыта в Тебе!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>             Hm          G     A</chopds>
+<text>Ты так благ ко мне!</text>
+<chopds>                   Hm      G           A</chopds>
+<text>Всё, что я хочу - Тебя хвалить!</text>
+<chopds>             Hm         G      A</chopds>
+<text>Да, Ты благ ко мне -</text>
+<chopds>                    G                   E7</chopds>
+<text>Буду петь я о Твоей любви!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>G                           A</chopds>
+<text>Ты Бог великий, Ты всемогущий!</text>
+<chopds>G                           A</chopds>
+<text>Хвалы достоин, хвалы достоин.</text>
+<chopds>G                           A</chopds>
+<text>Ты Бог великий, Ты всемогущий!</text>
+<chopds>G                           A</chopds>
+<text>Хвалы достоин, громко славлю я Тебя!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Planetshakers — Good to Me [Английский]
+  https://holychords.pro/6532

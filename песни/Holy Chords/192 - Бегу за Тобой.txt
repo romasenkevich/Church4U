@@ -1,0 +1,54 @@
+Слово Жизни Music — Бегу за Тобой
+BPM: 130
+Источник: https://holychords.pro/192
+
+==================================================
+
+<blocks>
+<chopds>C#m  A  E  H</chopds>
+<chopds>О-о-о-о-о-о-о</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C#m                                      A</chopds>
+<text>Так хочу бежать я за Тобой мой Бог</text>
+<chopds>                               E                                H</chopds>
+<text>И в святости искать Тебя я каждый день</text>
+<chopds>C#m                                     A</chopds>
+<text>Так хочу осознать как любишь Ты</text>
+<chopds>                              E                              H</chopds>
+<text>И показать любовь Твою всем вокруг</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                        A                    C#m</chopds>
+<text>Ты сделал всё чтобы я стоял в свободе</text>
+<chopds>H                         F#m</chopds>
+<text>И поклонялся, руки вознеся к Тебе</text>
+<chopds>        A                    C#m</chopds>
+<text>Ты показал мне путь в Своем Слове</text>
+<chopds>H</chopds>
+<text>И я бегу за Тобой!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Каждый день я волю исполнять хочу</text>
+<text>И пребывать в присутствии Твоем</text>
+<text>Вдохнови мысли и мечты мои</text>
+<text>Хочу я достигать как Ты всех достигал</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>            A                   E                 H</chopds>
+<text>Сотвори во мне, сердце Твоё</text>
+<chopds>               A                        E            H</chopds>
+<text>Дай услышать вновь голос Твой</text>
+<chopds>            A                   E                 H</chopds>
+<text>Сотвори во мне, сердце Твоё</text>
+<chopds>               A                     C#m         H</chopds>
+<text>Дай услышать вновь голос Твой</text>
+</blocks>

@@ -1,0 +1,49 @@
+Божье прикосновение — Неземная мечта
+Источник: https://holychords.pro/178
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Am F#sus  E F Dm E Am</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Am                     H7  E                                       Am</chopds>
+<text>Неземная мечта - быть всегда ближе к небу,</text>
+<chopds>               F                                    Dm                                Esus    E</chopds>
+<text>И на крыльях той веры взлететь, что дарует мне Бог.</text>
+<chopds>Am                             H7  E                                 F</chopds>
+<text>Пребывать вечно там, где конца нету свету,</text>
+<chopds>                Dm                                    Am                          E          Am    A</chopds>
+<text>Где в отчизне Святой наш Христос ожидает тебя и меня.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Dm                              G  C                          F</chopds>
+<text>Пусть окружат меня непростые тревоги,</text>
+<chopds>              Dm                                   E                                Am   A</chopds>
+<text>Всё равно буду славить, хвалить неземного Отца.</text>
+<chopds>Dm                                 G  E/G#                   F/A</chopds>
+<text>Пусть тяжёл будет путь, я живу той надеждой,</text>
+<chopds>                 Dm                   Am         H7             Am</chopds>
+<text>Что на небе увижу Святого Иисуса Христа.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text> Знаю, здесь на земле полон всякой заботы,</text>
+<text>Ты не знаешь тот час, когда Он за тобою придёт.</text>
+<text>Если ты не готов, обрати сердце к Богу, Он - единственный путь,</text>
+<text>В нём покой каждый грешник для сердца найдёт.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Віталій Приймук — Неземная мечта [Русский]
+  https://holychords.pro/32334
+- Slavic Trinity Church — Мрія в мене одна: бути ближче до неба [Украинский]
+  https://holychords.pro/45475

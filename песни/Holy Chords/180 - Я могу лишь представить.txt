@@ -1,0 +1,80 @@
+Алексей Каратаев — Я могу лишь представить
+BPM: 160
+Источник: https://holychords.pro/180
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                                     E</chopds>
+<text>Я могу лишь представить, что произойдет</text>
+<chopds>                     A</chopds>
+<text>Когда пойдём с Тобой вдвоем</text>
+<chopds>                                      E</chopds>
+<text>Я могу лишь представить, что увижу я</text>
+<chopds>                             A</chopds>
+<text>Когда предо мной слава Твоя</text>
+<chopds>                                      E</chopds>
+<text>Я могу лишь представить</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>       A                                           H</chopds>
+<text>В сиянии Твоей славы как поклонюсь тогда?</text>
+<chopds>             E</chopds>
+<text>Закричу для Иисуса? Или буду тихим я?</text>
+<chopds>        A                                   H</chopds>
+<text>Упаду на колени? Или буду я стоять?</text>
+<chopds>            E</chopds>
+<text>Буду петь"аллилуйя"? Или буду я молчать.</text>
+<chopds>                A                              H                                    E</chopds>
+<text>Я могу лишь представить, я могу лишь представить</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Я могу лишь представить, что придет тот день</text>
+<text>И я во славе предстану во Христе</text>
+<text>Я могу лишь представить, что буду делать я</text>
+<text>Это вечно прославлять Тебя</text>
+<text>Я могу лишь представить</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>                                     A                             H</chopds>
+<text>Я могу лишь представить, что буду делать я</text>
+<chopds>       C#m                      E</chopds>
+<text>Это вечно прославлять Тебя</text>
+<chopds>A  H                              E</chopds>
+<text>Я могу лишь представить</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- MercyMe — I can only imagine [Английский]
+  https://holychords.pro/3304
+- Милана — Можу лиш уявити [Русский]
+  https://holychords.pro/3533
+- Милана — Я могу лишь представить [Русский]
+  https://holychords.pro/4849
+- MercyMe — I Can Only Imagine (The Movie Session) [Английский]
+  https://holychords.pro/8753
+- Casting Crowns — Я могу лишь представить [Русский]
+  https://holychords.pro/24070
+- Horizon band — Можу лиш уявити [Украинский]
+  https://holychords.pro/27816
+- Віталій Приймук — Я могу лишь представить [Русский]
+  https://holychords.pro/32214
+- MercyMe — Можу лиш уявити [Украинский]
+  https://holychords.pro/35901
+- ReWorship — Уявити лиш можу [Украинский]
+  https://holychords.pro/43507
+- Петро Грифель — Можу лиш уявити [Украинский]
+  https://holychords.pro/53296
+- APRIORI WORSHIP — Я могу лишь представить [Русский]
+  https://holychords.pro/71209
+- Тина Грозданова — Кога само би можел [Македонский]
+  https://holychords.pro/80673

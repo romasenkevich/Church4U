@@ -1,0 +1,36 @@
+Слово Жизни Music — Надежда в Тебе
+Источник: https://holychords.pro/469
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>            C                F                             C    F</chopds>
+<text>К Тебе, Господь, я душу возношу</text>
+<chopds>          C             F                          C    F</chopds>
+<text>В Тебе Одном я покой найду</text>
+<chopds>        C                     F                        C    F</chopds>
+<text>Даруй мне идти всегда за Тобой</text>
+<chopds>                 C                F                                  C    F</chopds>
+<text>Когда тьма придет, Твое слово со мной</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                          C</chopds>
+<text>Надежда в Тебе, свой путь мне яви</text>
+<chopds>                            Am                                          F</chopds>
+<text>Пусть истины свет ведет меня во все дни</text>
+<chopds>                          C</chopds>
+<text>Надежда в Тебе, свой путь мне яви</text>
+<chopds>                            Am                                          F</chopds>
+<text>Пусть истины свет ведет меня во все дни</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Твоей, Господь, любовью я окружен</text>
+<text>И в Тебе Одном я спасенье нашел</text>
+<text>Даруй мне идти всегда за Тобой</text>
+<text>Когда мой дух сокрушен, Твое слово со мной</text>
+</blocks>

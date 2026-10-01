@@ -1,0 +1,102 @@
+NG Worship — Как Он любит нас
+Источник: https://holychords.pro/70
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>  C</chopds>
+<text>Он заботлив ко мне,</text>
+<chopds>      Am7</chopds>
+<text>Святая любовь наполняет везде.</text>
+<chopds>         G</chopds>
+<text>Как ветка, я гнусь под ветрами</text>
+<chopds>                  Fmaj7</chopds>
+<text>Его благодати.</text>
+<chopds>        C</chopds>
+<text>Когда размышляю о славе Твоей,</text>
+<chopds>     Am7</chopds>
+<text>Уходит весь страх и сомнение,</text>
+<chopds>    G</chopds>
+<text>И я понимаю то, как Ты велик,</text>
+<chopds>       Fmaj7</chopds>
+<text>Любовью даешь утешение...</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>C                              Am7</chopds>
+<text>О как Он любит нас!</text>
+<chopds>                     G                                    Fmaj7</chopds>
+<text>О как Он любит, как Он любит нас!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C                                                   Am7</chopds>
+<text>Как Он любит! О как Он любит!</text>
+<chopds>                          G                                Fmaj7</chopds>
+<text>О как Он любит!  Как Он любит нас!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>            C</chopds>
+<text>Мы взяты в удел Его, Он наш Спаситель,</text>
+<chopds>      Am7</chopds>
+<text>Бесценный подарок, наш Искупитель.</text>
+<chopds>   G                                                                Fmaj7</chopds>
+<text>Его благодать - океан, в котором мы тонем.</text>
+<chopds>       C</chopds>
+<text>И небо так нежно коснется земли,</text>
+<chopds>Am7</chopds>
+<text>Сердце тревожно забьется внутри,</text>
+<chopds>       G                                                                  Fmaj7</chopds>
+<text>А мысли лишь об одном: о том, как Он любит нас!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Размер неба — Любит Бог нас [Русский]
+  https://holychords.pro/48
+- Jesus Culture — How He Loves Us (Live) [Английский]
+  https://holychords.pro/812
+- Роман Белов — Как Ты любишь [Русский]
+  https://holychords.pro/2460
+- Lutsk Bible Worship — Як Він любить нас [Украинский]
+  https://holychords.pro/2519
+- KCLCWORSHIP — Как Он любит [Русский]
+  https://holychords.pro/7086
+- David Crowder Band — How He Loves
+  https://holychords.pro/8348
+- John Mark McMillan — How He Loves [Английский]
+  https://holychords.pro/11842
+- Новое Поколение Кенгарагс — Как Он любит нас [Русский]
+  https://holychords.pro/12324
+- Краеугольный Камень Новосибирск — Как Он Любит [Русский]
+  https://holychords.pro/14215
+- Никита Ярошенко — Как Он любит [Русский]
+  https://holychords.pro/16194
+- Jesus Culture — Он любит [Русский]
+  https://holychords.pro/24884
+- Малин — Оберігає мене [Украинский]
+  https://holychords.pro/27283
+- Alfa Church — Как Он любит нас [Русский]
+  https://holychords.pro/31541
+- вместе music — Как Он любит [Русский]
+  https://holychords.pro/33634
+- CFC Worship — Как Он любит [Русский]
+  https://holychords.pro/42516
+- Jesus Culture — Él Nos Ama [Португальский]
+  https://holychords.pro/51657
+- ReWorship — Як Він любить [Украинский]
+  https://holychords.pro/61971
+- Божий Дар Київ (God's Gift) — О, як Ти любиш [Украинский]
+  https://holychords.pro/63486
+- Преображение VL — Как Он любит [Русский]
+  https://holychords.pro/67607
+- Kim Walker-Smith — How He Loves (Live from Pretoria) [Английский]
+  https://holychords.pro/69438
+- Gabriela Rocha — Me Ama/How He Loves [Португальский]
+  https://holychords.pro/77444

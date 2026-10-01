@@ -1,0 +1,36 @@
+Real Ivanna — Не променяю
+Источник: https://holychords.pro/217
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Hm                                               G</chopds>
+<text>Ты меня пленил Своей Любовью,</text>
+<chopds>Hm                                            G</chopds>
+<text>На меня печать Ты положил!</text>
+<chopds>Hm                                           G</chopds>
+<text>Ты омыл Своей святою Кровью,</text>
+<chopds>D                                                       A</chopds>
+<text>Хоть я этого совсем не заслужил!</text>
+<chopds>Hm                                           G</chopds>
+<text>И когда в безмолвии кричал я,</text>
+<chopds>Hm                                     G</chopds>
+<text>Разрывая душу на куски,</text>
+<chopds>Hm                                       G</chopds>
+<text>Никого вокруг не замечая,</text>
+<chopds>D                                                            A</chopds>
+<text>Не стесняясь Ты назвал меня Своим!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     G                                          D</chopds>
+<text>Не променяю ни на что Твою Любовь,</text>
+<chopds>                 A                                                  G</chopds>
+<text>Не обесценню за меня пролитую Кровь,</text>
+<chopds>                             G                                                 D</chopds>
+<text>Ведь только она дает мне в жизни полноту!</text>
+<chopds>                     A                                                  G</chopds>
+<text>Не променяю я ее, но поделиться могу!</text>
+</blocks>

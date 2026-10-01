@@ -1,0 +1,62 @@
+Виталий Ефремочкин — Будем танцевать
+Источник: https://holychords.pro/86
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                       Dm                      C</chopds>
+<text>Будем танцевать в Его свободе</text>
+<chopds>                       Dm                   C</chopds>
+<text>Будем танцевать в радости</text>
+<chopds>Gm                            Am</chopds>
+<text>Давай, давай прославим,</text>
+<chopds> Gm                        Am</chopds>
+<text>Поднимем шум хвалы.</text>
+<chopds>                        Dm   Dm</chopds>
+<text>Будем танцевать!</text>
+<chopds>                         Dm  Dm</chopds>
+<text>Будем танцевать!</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>                 Bb   F</chopds>
+<text>Есть благая весть для тебя,</text>
+<chopds>    C                  Dm</chopds>
+<text>Он возлюбил так сильно</text>
+<chopds>Bb            F                     C</chopds>
+<text>Призывает в свой свет.</text>
+<chopds>           Bb              F      C         Dm            Eb</chopds>
+<text>Он отдавший жизнь за тебя и за меня</text>
+<chopds>                Bb/D           C</chopds>
+<text>В Нём свободны мы.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>                    Bb      F       C            Dm             Bb</chopds>
+<text>Мой Бог изменил меня, и не буду прежним я</text>
+<chopds>            F          C</chopds>
+<text>Я в Его руках.</text>
+<chopds>               Bb                F   C               Dm          Eb</chopds>
+<text>Он отдавший жизнь, жизнь за тех кто верит</text>
+<chopds>                    Dm         C</chopds>
+<text>В Нем свободны мы.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>D  C  D  G  F</chopds>
+<chopds>D  C  D  G  F G  Ab  G  F</chopds>
+</blocks>
+
+==================================================
+Translation songs
+
+- Ольга Маріна — Будем танцевать [Русский]
+  https://holychords.pro/1603
+- BJ Putnam — Dance [Английский]
+  https://holychords.pro/23943
+- BJ Putnam — Тож танцюймо всі [Украинский]
+  https://holychords.pro/62878

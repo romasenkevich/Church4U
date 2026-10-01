@@ -1,0 +1,66 @@
+Алексей Каратаев — Прославленный час
+Источник: https://holychords.pro/191
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>H                            E</chopds>
+<text>В день, когда слава наполнила Небо,</text>
+<chopds>H                            E</chopds>
+<text>В день, когда грех был, сильнее чем тьма,</text>
+<chopds>H                     E</chopds>
+<text>С неба пришёл, чтоб от девы родиться,</text>
+<chopds>H                            E</chopds>
+<text>Жил средь людей, Он -дорога моя</text>
+<chopds>G#m          E</chopds>
+<text>Слово надежду и свет подарило,</text>
+<chopds>G#m                   E</chopds>
+<text>И слава пришла...</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                                H                       F#</chopds>
+<text>Жил ,благословляя. Умер, спасая.</text>
+<chopds>                  G#m                                    E</chopds>
+<text>Грех победил,дал свободу для нас.</text>
+<chopds>                      H                                  F#</chopds>
+<text>Был погребен,но воскрес и я знаю</text>
+<chopds>                 G#m                                             E    H    E</chopds>
+<text>Ты возвратишься в прославленный час</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>В день, когда шел Он на крестную гору,</text>
+<text>В день, когда был Он распят на кресте,</text>
+<text>Всеми презренный, покинут и брошен,</text>
+<text>Нес все грехи, дал спасение мне,</text>
+<text>Руки пробиты, что нас исцеляли.</text>
+<text>Распятый за меня!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>В день, когда двери гробницы открылись,</text>
+<text>Славой наполнилась наша земля</text>
+<text>Смерть победил Он своим воскресеньем,</text>
+<text>К небу вознесся, Господь навсегда,</text>
+<text>Смерть проиграла, могила разверзлась,</text>
+<text>Воскрес наш Господь!</text>
+<chopds>                                     H  E                                    H  F#</chopds>
+<text>В прославленный час, в прославленный час.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>E                          H               F#                     G#m</chopds>
+<text>В тот день труба возвестит Его славу,</text>
+<chopds>E                           H              F#                       H</chopds>
+<text>В тот день во славе придёт Он с небес,</text>
+<chopds>E                     H                   F#            G#m</chopds>
+<text>Чудесный день всё творение узнает</text>
+<chopds>E</chopds>
+<text>Что Ты Спаситель, Воскрес</text>
+</blocks>

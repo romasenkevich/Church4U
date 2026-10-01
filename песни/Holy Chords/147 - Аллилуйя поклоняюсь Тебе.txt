@@ -1,0 +1,36 @@
+Виталий Ефремочкин — Аллилуйя поклоняюсь Тебе
+Источник: https://holychords.pro/147
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds> Am                        F          G                        Dm</chopds>
+<text>Дух Святой приди, в жизнь мою приди,</text>
+<chopds>               C                       F                              G</chopds>
+<text>Я так жажду прикоснуться лишь к Тебе.</text>
+<chopds> Am                        F         G                       Dm</chopds>
+<text>Сердце мне омой, омой живой водой,</text>
+<chopds>C           F                      G</chopds>
+<text>Сотвори во мне покой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>           Dm-F                 C - G</chopds>
+<text>Аллилуйя, Аллилуйя,</text>
+<chopds>           Dm-F               C              G</chopds>
+<text>Аллилуйя, Поклоняюсь Тебе</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>Bb                                Dm       C</chopds>
+<text>Святостью наполни, изливай с небес свой дождь!</text>
+<chopds>Bb                         Dm               C</chopds>
+<text>Силой и любовью прикоснись!</text>
+<chopds>Bb                                     Dm         C</chopds>
+<text>Хочу я быть с Тобою, жить по истине Твоей!</text>
+<chopds>Bb                               G</chopds>
+<text>Дух Святой наполни!</text>
+</blocks>

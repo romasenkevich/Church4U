@@ -1,0 +1,45 @@
+Слово Жизни Music — Что могу сказать Тебе
+BPM: 138
+Источник: https://holychords.pro/210
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>G#m                             H              F#                  C#m</chopds>
+<text>Вот я, Бог, пред Тобою возьми меня мечты мои</text>
+<chopds>G#m                              H                 F#                        C#m</chopds>
+<text>В присутствии склоняюсь в руках Твоих в невесомости</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>E          G#m                F#              C#m</chopds>
+<text>Ты так рядом со мной ближе сердца голос Твой</text>
+<chopds>E              G#m             F#</chopds>
+<text>Лишь трепещет душа</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G#m                                   H                                             F#</chopds>
+<text>Что могу сказать Тебе? Чем удивить Тебя, мой Бог?</text>
+<chopds>               C#m                    D#m</chopds>
+<text>Только жизнь свою отдать Тебе я смог.</text>
+<chopds>G#m                        H                             F#</chopds>
+<text>Чем могу воздать за все Твои дела?</text>
+<chopds>       C#m                  D#m     G#m          D#m   E   F#</chopds>
+<text>Вот жизнь моя используй - для Себя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>E          G#m                F#              C#m</chopds>
+<text>Ты так рядом со мной ближе сердца голос Твой</text>
+<chopds>E              G#m             F#</chopds>
+<text>Лишь трепещет душа</text>
+<chopds>E          G#m                F#              C#m</chopds>
+<text>Ты так рядом со мной ближе сердца голос Твой</text>
+<chopds>E        G#m      F#</chopds>
+<text>Я Люблю Тебя</text>
+</blocks>

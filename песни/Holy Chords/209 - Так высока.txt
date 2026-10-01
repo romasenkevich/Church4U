@@ -1,0 +1,49 @@
+Слово Жизни Music — Так высока
+BPM: 142
+Источник: https://holychords.pro/209
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C#m           A       E                        H</chopds>
+<text>Так высока цена Твоей любви</text>
+<chopds>C#m        A           E                            H</chopds>
+<text>Так ценна, та кровь что Ты пролил</text>
+<chopds>C#m              A               E                        H      A</chopds>
+<text>Мне не понять как можно так любить</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Вновь и вновь с сокрушенным сердцем я</text>
+<text>Прихожу к престолу благодати</text>
+<text>В этой жизни все что нужно мне</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>              A             C#m  H</chopds>
+<text>Лишь Ты, Лишь Ты Бог,</text>
+<chopds>              A             C#m  H</chopds>
+<text>Лишь Ты, лишь Ты Бог</text>
+<chopds>               A              C#m     H</chopds>
+<text>Подниму к небу руки мои</text>
+<chopds>                A                       C#m                     H</chopds>
+<text>И склонюсь пред Творцом всей Земли</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>За меня сражался до конца мой Бог</text>
+<text>Веришь в меня, что устою я в сильный шторм</text>
+<text>В этой жизни все что нужно мне</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>C#m       A               E                                             H</chopds>
+<text>Так ценна та любовь что спасла, верой вновь подняла</text>
+<chopds>C#m          A                              E                             H</chopds>
+<text>Меня Ты избрал дал мне силу идти все дни.</text>
+</blocks>

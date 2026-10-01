@@ -1,0 +1,40 @@
+Виталий Ефремочкин — Божий Сын
+Источник: https://holychords.pro/85
+
+==================================================
+
+<blocks>
+<chopds>G#m  Bbm  H  | Bbm     F#</chopds>
+<chopds>G#m  Bbm  H             Bbm     F#</chopds>
+<text>Мой Иисус славим мы Тебя</text>
+<chopds>G#m  Bbm  H                E    D#m  C#m</chopds>
+<text>Божий Сын праведный Господь</text>
+<chopds>                        G#m  Bbm  H        Bbm    F#</chopds>
+<text>Царь всей земли взошёл на крест</text>
+<chopds>G#m  Bbm  H            E     D#m C#m</chopds>
+<text>Я был слеп Ты нашёл меня</text>
+<chopds>                   G#m  Bbm    H               F#      G#m  Bbm  H</chopds>
+<text>Бог мой и Царь, прославлю Тебя.</text>
+<chopds>      E    D#m  C#m      G#m  Bbm  H  Bbm  F#</chopds>
+<text>Тебя Иисус, славлю я.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>            H          C#m           H                   C#m</chopds>
+<text>Мой Бог моя сила Спаситель навсегда</text>
+<chopds>          H         C#m                 H                   F#</chopds>
+<text>Мой Бог Искупитель освободил меня</text>
+<chopds>               H                  E               H/D#          F#</chopds>
+<text>Славь Его всей душой славь Его всей душой</text>
+<chopds>               H                   E               H/D#            A</chopds>
+<text>Славь Его всей душой славь Его всей душой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>      C#m</chopds>
+<text>В величии Твоем, Господь</text>
+<chopds>     C#m/D#                                   G#m        F#</chopds>
+<text>Из глубины мой дух поет: &amp;laquo;Святой, Святой!&amp;raquo;</text>
+</blocks>

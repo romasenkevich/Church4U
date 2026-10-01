@@ -1,0 +1,68 @@
+Алексей Каратаев — У ног Твоих
+Источник: https://holychords.pro/162
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C#m         A  E                  H</chopds>
+<text>У ног Твоих склоняется земля,</text>
+<chopds>C#m                      A  E                  H</chopds>
+<text>Блуждал во тьме, но Ты нашёл меня.</text>
+<chopds>         A  E    A</chopds>
+<text>Свободен я.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>У ног Твоих, я обрету покой,</text>
+<text>И день и ночь в Тебе Господь Святой</text>
+<text>Нуждаюсь я, нуждаюсь я.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>A               E           C#m        H</chopds>
+<text>Мой Спаситель пред Тобой</text>
+<chopds>                  A             E         H</chopds>
+<text>Всей душой склоняюсь я.</text>
+<chopds>A                 E      C#m         H</chopds>
+<text>Больше жизни Бог Святой</text>
+<chopds>                   A         E           H</chopds>
+<text>Мне нужна любовь Твоя,</text>
+<chopds>                   A         E           H</chopds>
+<text>Мне нужна любовь Твоя,</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 Куплет</videlit_line>
+<text> У ног Твоих надежду обрету,</text>
+<text>Мои мечты в Тебе ответ найду</text>
+<text>Ты жизнь моя, Ты жизнь Моя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>4 Куплет</videlit_line>
+<text>У ног Твоих я сердце отдаю,</text>
+<text>Ты мой король, я для Тебя живу.</text>
+<text>Душа поёт, душа поёт.</text>
+</blocks>
+
+<blocks>
+<videlit_line>мост</videlit_line>
+<chopds>         A  E   H</chopds>
+<text>Свободен я...</text>
+<text>_________У ног Твоих</text>
+<text>Навсегда...</text>
+<text>_________У ног Твоих</text>
+<text>Жизнь моя...</text>
+<text>_________У ног Твоих, у ног Твоих</text>
+<chopds>C#m        A   E                 H</chopds>
+<text>У ног Твоих я сердце отдаю</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Casting Crowns — At Your feet [Английский]
+  https://holychords.pro/14900

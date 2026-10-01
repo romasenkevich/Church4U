@@ -1,0 +1,64 @@
+New Beginnings Worship — Ты Царь
+Источник: https://holychords.pro/43
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G</chopds>
+<text>Ты - Царь, вся земля поет об этом</text>
+<chopds>C</chopds>
+<text>Ты - Царь, правду и мир принес нам</text>
+<chopds>Em                 D                               C</chopds>
+<text>Ты - Царь, царствуй Царь, вовек</text>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>G</chopds>
+<text>Всех превыше звезд</text>
+<chopds>C</chopds>
+<text>Ты - Создатель всех миров</text>
+<chopds>G</chopds>
+<text>С первых дней назначил Ты</text>
+<chopds>C</chopds>
+<text>Твоей славе жить во мне</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>                D                     Em</chopds>
+<text>Ты сильней всех препятствий и проблем</text>
+<chopds>            D                                          F        C</chopds>
+<text>Я живу, чтоб побеждать с Тобою все!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G</chopds>
+<text>Ты - Царь, вся земля поет об этом</text>
+<chopds>C</chopds>
+<text>Ты - Царь, правду и мир принес нам</text>
+<chopds>Em                 D                               C</chopds>
+<text>Ты - Царь, царствуй Царь, вовек</text>
+<chopds>                    D Em C                    D Em C</chopds>
+<text>Царствуй Ты над всей землёй о Иисус</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>G</chopds>
+<text>Да будет царствие Твоё Иисус-мой Господь</text>
+<chopds>C</chopds>
+<text>Да будет воля ввек Твоя управляй мной Господь</text>
+<chopds>Em                                                                      C</chopds>
+<text>Да будет царствие Твоё Иисус-мой Господь</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- History Makers — Ты - Царь [Русский]
+  https://holychords.pro/29134
+- Citipointe Worship — You Reign [Английский]
+  https://holychords.pro/41309

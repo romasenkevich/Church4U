@@ -1,0 +1,75 @@
+Слово Жизни Music — Ты извлек меня
+BPM: 95
+Источник: https://holychords.pro/15
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>           H                                         E</chopds>
+<text>Ты извлек меня, Ты извлек меня Бог</text>
+<chopds>G#m</chopds>
+<text>Из глубокого рва.</text>
+<chopds>       H                                E</chopds>
+<text>Я пою Тебе, я пою Тебе Бог</text>
+<chopds>G#m</chopds>
+<text>Что Ты спас меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>Вставка</videlit_line>
+<chopds>E  C#m   G#m                                  H</chopds>
+<text>    Нет никого кто сравнится с Тобой</text>
+<chopds>E  C#m        G#m                         H</chopds>
+<text>    Нет не вернусь я назад на Тебе только взгляд мой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G#m                  E</chopds>
+<text>Я посвящаю Тебе мои мысли</text>
+<chopds>H               F#</chopds>
+<text>Мои песни, мою жизнь</text>
+<chopds>G#m                   E</chopds>
+<text>Я отдаю Бог Тебе все сомнения</text>
+<chopds>H                  F#</chopds>
+<text>Все, проблемы страхи забери</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Каждый день мой Бог, наполняешь меня</text>
+<text>Через Слово Твое</text>
+<text>Укрепляешь Бог, наполняешь мой дух</text>
+<text>Силой и огнем</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>C#m</chopds>
+<text>Мне не хватит слов и песен</text>
+<chopds>E</chopds>
+<text>Чтобы описать любовь</text>
+<chopds>H</chopds>
+<text>Что пленила мое сердце</text>
+<chopds>F#</chopds>
+<text>И покрыла все собой</text>
+<chopds>C#m</chopds>
+<text>Буду петь Тебе я громче</text>
+<chopds>E</chopds>
+<text>Буду восклицать я вновь</text>
+<chopds>H</chopds>
+<text>Жажду больше Твоей Славы</text>
+<chopds>F#</chopds>
+<text>Здесь, о Великий Бог.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Слово Жизни Music — Ты извлек меня [Русский]
+  https://holychords.pro/7421
+- Слово Жизни Music — Ти підняв мене [Украинский]
+  https://holychords.pro/76344
+- Слово Жизни Music — Ты извлек меня [Русский]
+  https://holychords.pro/82231

@@ -1,0 +1,59 @@
+NG Worship — Небесный танцпол
+BPM: 128
+Источник: https://holychords.pro/90
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>| Bb/D  Eb | Eb | Bb  F | F |</chopds>
+<text>Когда смотрю в небеса, вспоминаю,</text>
+<text>Как Ты открыл для меня двери рая.</text>
+<chopds>Cm  Gm      Bb                  Eb</chopds>
+<text>Вот я, моё сердце возьми.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Теперь я Твой навсегда, о, Бог вселенной.</text>
+<text>И бьётся за меня Твоё сердце,</text>
+<text>Вот я, мою душу возьми.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>| Bb/D  Eb | Eb | Bb  F | F |</chopds>
+<text>Любовью вечной возлюбил,</text>
+<text>Простёр благоволение.</text>
+<text>Не бросишь Ты на полпути.</text>
+<text>Слышу неба крик:</text>
+<text>"Лучшее впереди! Лучшее впереди!"</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост 1</videlit_line>
+<chopds>Cm  Gm      Bb                  Eb</chopds>
+<text>Вот я, мою душу возьми.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост 2</videlit_line>
+<text>Жива душа, Тобой жива!</text>
+<text>Танцую я, здесь неба танцпол!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Слово Жизни Самара — Божий танцпол [Русский]
+  https://holychords.pro/4594
+- Chris Tomlin — God's Great Dance Floor [Английский]
+  https://holychords.pro/5830
+- Martin Smith — God's Great Dance Floor [Английский]
+  https://holychords.pro/7486
+- Reyer — God's Great Dance Floor (Remix) [Английский]
+  https://holychords.pro/9617
+- Gracetime Worship Band — Твоя любовь не подведет! [Русский]
+  https://holychords.pro/11299
+- Airyne — Смотри наверх [Русский]
+  https://holychords.pro/38264

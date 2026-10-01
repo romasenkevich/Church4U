@@ -1,0 +1,33 @@
+Holy Generation — Я открываю свое сердце
+Источник: https://holychords.pro/362
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Fm  Fm A#m Cm</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Abmaj7</chopds>
+<text>Я открываю своё сердце пред Тобой</text>
+<chopds>     Fm</chopds>
+<text>Великий Бог</text>
+<chopds>Abmaj7</chopds>
+<text>И пред Тобой склонюсь в хвале</text>
+<chopds>       Fm</chopds>
+<text>Ты Бог живой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>      Cm                             A#m</chopds>
+<text>Наполни мое сердце Дух Святой</text>
+<chopds>      Fm</chopds>
+<text>Своей живой водой</text>
+<chopds>Cm                                    A#m</chopds>
+<text>Наполни мое сердце Дух Святой</text>
+<chopds>      Fm</chopds>
+<text>И будь со мной</text>
+</blocks>

@@ -1,0 +1,64 @@
+Слово Жизни Music — Давай прославим
+Источник: https://holychords.pro/453
+
+==================================================
+
+<blocks>
+<chopds>Dm  Bb  Gm  F</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Dm               Bb          Gm           F</chopds>
+<text>Каждым вдохом моим я славлю</text>
+<chopds>Dm             Bb            Gm        F</chopds>
+<text>Каждым шагом моим</text>
+<chopds>Dm           Bb             Gm        F</chopds>
+<text>Всем, что есть у меня я славлю</text>
+<chopds>Dm        Bb              Gm          F</chopds>
+<text>По-другому нельзя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>Dm               Gm6/D           Dm          Gm/D</chopds>
+<text>Сердцем одним мы возносим Тебя</text>
+<chopds> Bb           Gm6              Dm</chopds>
+<text>За все дела мы прославим Царя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Dm             F            C                    G/H</chopds>
+<text>Все кто любит Его - вместе встанем</text>
+<chopds>Dm            F           C                       G/H</chopds>
+<text>Все кто любит Его - давай прославим</text>
+<chopds>Dm           F              C             G/H</chopds>
+<text>Все кто любит Его, тот свободен</text>
+<chopds>    Bb          C</chopds>
+<text>Славу воздай</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>D</chopds>
+<text>Ты, Ты - смысл нашей жизни</text>
+<chopds>D</chopds>
+<text>Ты, Ты - для кого живем мы</text>
+<chopds>Bb                C</chopds>
+<text>Ты, Ты - смысл нашей жизни</text>
+<chopds> Dm</chopds>
+<text>Ты, Ты</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Planetshakers — Get Up [Английский]
+  https://holychords.pro/5749
+- Revelations — Давай прославимо [Украинский]
+  https://holychords.pro/47150
+- Skydoor Worship — Підіймайтесь [Украинский]
+  https://holychords.pro/70058
+- Planetshakers — Get up (Remix) [Английский]
+  https://holychords.pro/70157

@@ -1,0 +1,56 @@
+Они — Поклоняюсь
+Источник: https://holychords.pro/112
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Cm         A#                      G#              A#</chopds>
+<text>Я склоняюсь пред Тобой, мой Царь</text>
+<chopds>Cm        A#                      G#              A#</chopds>
+<text>Я склоняюсь пред Тобой, мой Бог</text>
+<chopds>Cm         A#                      G#      A#</chopds>
+<text>Знаю, любишь Ты меня Иисус</text>
+<chopds>Cm          A#                           G#                A#</chopds>
+<text>Знаю, слышишь Ты мой каждый вздох</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>             Cm    A# G#                A#</chopds>
+<text>Поклоняюсь!  Сердце отдаю Тебе</text>
+<chopds>         Cm     A#  G#                   A#</chopds>
+<text>Нуждаюсь!  Дух Святой живи во мне</text>
+<chopds>      D#         Fm                 G</chopds>
+<text>Наполни! Ты меня Своей любовью</text>
+<chopds> Cm           Fm                       G</chopds>
+<text>Бог мой! Быть хочу с Тобой!</text>
+<chopds>            Cm  F  D#  A#</chopds>
+<text>Поклоняюсь!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Dm             C            A#           C</chopds>
+<text>Жажду Твоего огня! Приди!</text>
+<chopds>Dm            C                     A#         C</chopds>
+<text>Сердце Дух Святой моё зажги!</text>
+<chopds>Dm             C                       A#   C</chopds>
+<text>Сядь на троне сердца моего!</text>
+<chopds>Dm      C                     A#                     C</chopds>
+<text>Это всё, о чем молю Тебя, мой Бог!!</text>
+</blocks>
+
+<blocks>
+<videlit_line>ПРИПЕВ</videlit_line>
+<chopds>            Dm      C  A#                 C</chopds>
+<text>Поклоняюсь! Сердце отдаю Тебе</text>
+<chopds>         Dm    C  A#                        C</chopds>
+<text>Нуждаюсь! Дух Святой живи во мне</text>
+<chopds>        F         Gm                  A</chopds>
+<text>Наполни! Ты меня Своей любовью</text>
+<chopds> Dm            Gm                      A</chopds>
+<text>Бог мой! Быть хочу с Тобой!</text>
+<chopds>            Dm  G  F  C</chopds>
+<text>Поклоняюсь!</text>
+</blocks>

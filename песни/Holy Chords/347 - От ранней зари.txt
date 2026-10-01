@@ -1,0 +1,46 @@
+JoyYouth Worship — От ранней зари
+Источник: https://holychords.pro/347
+
+==================================================
+
+<blocks>
+<chopds>|  Hm  F#m  G  Em  |  Hm  F#m  G  |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em                      G                D                       Hm</chopds>
+<text>От ранней зари Тебя ищу встречи я жду с Тобой</text>
+<chopds>Em                     G                    D               Hm</chopds>
+<text>Видеть, мой Бог, Тебя хочу Твой обрести покой</text>
+<chopds>Em                 G                            D                        Hm</chopds>
+<text>Истинный Бог, Ты нужен мне вновь я к Тебе стремлюсь</text>
+<chopds>Em                     G                      D                        Hm</chopds>
+<text>И в предрассветной тишине я встречу Тебя, Иисус</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>  G                       Hm                Em                         G</chopds>
+<text>Ты Господь Непобедимый Ты прекрасен и силён</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  D                  D/F#        G                        A</chopds>
+<text>Восхваляю Твоё Имя знаю, выше нет имен!</text>
+<chopds>  D                  D/F#        G                        A</chopds>
+<text>Восхваляю Твоё Имя знаю, выше нет имен!</text>
+<chopds>  D                   Am          G</chopds>
+<text>Восхваляю Твоё Имя знаю, выше нет имен!</text>
+<chopds> Hm                 F#m        G                       Em</chopds>
+<text>Восхваляю Твоё Имя знаю, выше нет имен!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>От ранней зари ищу Тебя с новым встречаюсь днём</text>
+<text>Жаждет Тебя душа моя сердце горит огнем</text>
+<text>Мой лучший Друг, моя Любовь Бог мой единственный</text>
+<text>Петь о Тебе не хватит слов Господь таинственный!</text>
+</blocks>

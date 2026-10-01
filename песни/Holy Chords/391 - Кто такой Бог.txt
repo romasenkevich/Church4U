@@ -1,0 +1,69 @@
+Real Ivanna — Кто такой Бог
+Источник: https://holychords.pro/391
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>F#m  C#m  E  H</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C#m</chopds>
+<text>Проходя долиной плача , вытирая свои слёзы.</text>
+<chopds>C#m</chopds>
+<text>Опуская тихо руки , часто ропщем мы .</text>
+<chopds>E                                   C#m</chopds>
+<text>Оставляя откровенья , неба высь , и наставленья</text>
+<chopds>F#m                                      A</chopds>
+<text>Через поле биты раны забываем мы ..</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                      H                                  A</chopds>
+<text>Кто такой Бог! И что Он нам дал!</text>
+<chopds>                         F#m                         G#m         C#m</chopds>
+<text>И как Своего сына за нас на крест Он послал!</text>
+<chopds>                      H                              A</chopds>
+<text>Кто такой Бог , и что Он нам дал!</text>
+<chopds>                         F#m                      G#m             C#m</chopds>
+<text>И как Своего Сына за нас на крест Он послал!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Осуждая своих близких , про свою вину забыли.</text>
+<text>Открывая свое сердце для обид!</text>
+<text>Времена проблем , все ниже Голову к земле склонили .</text>
+<text>И не Богу , а проблемам , поклонились мы ..</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                             H                                 A</chopds>
+<text>А кто ж такой Бог , и что Он нам дал!</text>
+<chopds>                        F#m                          G#m             C#m</chopds>
+<text>И как Своего Сына , за нас на крест Он послал.</text>
+<chopds>                             H                                  A</chopds>
+<text>А кто ж такой Бог , и что Он нам дал!</text>
+<chopds>                          F#m                        G#m             |  F#m    C#m   E   H  |</chopds>
+<text>Зачем Своего Сына за нас на крест Он послал!</text>
+<chopds>Asus2                                             E</chopds>
+<text>Оставь все проблемы и боли у креста!</text>
+<chopds>Asus2                                             E</chopds>
+<text>И вспомни о том кто такой Бог Вселенной!</text>
+<chopds>Asus2                                        C#m    E/H</chopds>
+<text>Ведь не для того Спаситель умирал,</text>
+<chopds>              F#m                                                             H</chopds>
+<text>Чтобы ты поклонялся сегодня своим проблемам .</text>
+<chopds>                          C#                           H</chopds>
+<text>А Он Святой Бог ! И все тебе дал!</text>
+<chopds>                                G#m                        Bbm            D#m</chopds>
+<text>А помнишь, как Сына за тебя на крест Он послал!</text>
+<chopds>                          C#                         H</chopds>
+<text>А Он святой Бог! Ему поклонись!</text>
+<chopds>                                   G#m                    Bbm          D#m</chopds>
+<text>Ведь только лишь милость Его , дает тебе жизнь!</text>
+</blocks>

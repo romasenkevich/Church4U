@@ -1,0 +1,57 @@
+Алексей Каратаев — Измени меня
+BPM: 95
+Источник: https://holychords.pro/182
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>H                 G#m                      D#m        G#m</chopds>
+<text>Измени меня, сердце Ты моё обнови,</text>
+<chopds>                            E                   F#  G#m   F#</chopds>
+<text>Благодать Свою Ты ко мне яви.</text>
+<chopds>H                     G#m                                 D#m              G#m</chopds>
+<text>Я прошу Тебя, лишь так, как хочешь видеть Ты</text>
+<chopds>                        E      F#                      H</chopds>
+<text>Измени меня, е-е, силой любви</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>   E               F#                               Hsus     H</chopds>
+<text>Пусть вокруг будет лишь любовь Твоя</text>
+<chopds>       E   F#                              Hsus   H</chopds>
+<text>С нею я становлюсь сильней</text>
+<chopds>       E           F#                                   Hsus    H</chopds>
+<text>О, как я жду, чтоб расправить крылья</text>
+<chopds>                              E                                    F#                         H</chopds>
+<text>Рядом быть хочу, слышать голос Твой, идти за Тобой</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Я хочу с Тобой встретиться лицом к лицу</text>
+<text>Чтоб узнать любовь ко мне Твою</text>
+<text>Обнови меня, волю Свою Ты мне яви</text>
+<text>Наполни каждый день, е-е, силой любви.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Благодать Христа церковь — Измени меня, сердце моё обнови [Русский]
+  https://holychords.pro/22650
+- Ирина Пройдакова — Сила любви [Русский]
+  https://holychords.pro/29409
+- Darlene Zschech — The Power Of Your Love [Английский]
+  https://holychords.pro/30829
+- Advent Music — В благодаті Твоїй [Украинский]
+  https://holychords.pro/43451
+- KarolinaBand — Я до Тебе йду [Украинский]
+  https://holychords.pro/48773
+- Hillsong Worship — Бог зміни мене [Украинский]
+  https://holychords.pro/61157
+- Darlene Zschech — Прихожу к тебе (Дай познать) [Русский]
+  https://holychords.pro/62560
+- DUHOS band — Snagom ljubavi Tvoje [Хорватский]
+  https://holychords.pro/80861

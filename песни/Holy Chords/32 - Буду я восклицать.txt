@@ -1,0 +1,95 @@
+New Beginnings Worship — Буду я восклицать
+BPM: 100
+Источник: https://holychords.pro/32
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>C#m                                    H</chopds>
+<text>Вот я пред Тобою, любовь влечет услышать Тебя.</text>
+<chopds>    A                                            H</chopds>
+<text>Знаю, благодать Твоя открыла мне Тебя!</text>
+<chopds>      C#m                                                 H</chopds>
+<text>Ты подарил свободу мне, все дни мои отдам Тебе.</text>
+<chopds>         F#m               C#m             E                           H</chopds>
+<text>В присутствии Твоем от счастья я не могу молчать!!!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>            E                                            H</chopds>
+<text>Буду я восклицать! С вершин гор провозглашать,</text>
+<chopds>                      C#m                  A   F#m</chopds>
+<text>Что Ты Бог мой, Ты Бог мой !</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Сколько благ Ты мне явил, прославлю Тебя пусть знают все-</text>
+<text>Пред Тобой Одним колени я склоню.</text>
+<text>И расскажу по всей земле о красоте любви Твоей,</text>
+<text>Преклоняюсь пред Тобой, от счастья я не могу молчать!!!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>           E                                              H</chopds>
+<text>Буду я восклицать! С вершин гор провозглашать,</text>
+<chopds>                        C#m                A</chopds>
+<text>Что Ты Бог мой, Ты Бог мой!</text>
+<chopds>    E                                       H</chopds>
+<text>Все, что во мне, я в руки отдаю Тебе,</text>
+<chopds>                        C#m                  A    F#m</chopds>
+<text>Ведь Ты Бог мой, Ты Бог мой!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>                  E</chopds>
+<text>Пред Тобой стою с открытым сердцем -</text>
+<chopds>         C#m                                                        A                                        F#m</chopds>
+<text>Ты один мой Бог, Ты был и будешь ввек! Ты был и будешь ввек!</text>
+<chopds>                  E</chopds>
+<text>Пред Тобой стою с открытым сердцем -</text>
+<chopds>         C#m                                                         A                                         F#m</chopds>
+<text>Ты один мой Бог, Ты был и будешь ввек! Ты был и будешь ввек!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Милана — Твое имя вознесу [Русский]
+  https://holychords.pro/2748
+- Милана — Твое Имя вознесу [Русский]
+  https://holychords.pro/4960
+- Pure Heart Worship — Я Твой [Русский]
+  https://holychords.pro/6258
+- Скиния Worship — Буду я восклицать [Русский]
+  https://holychords.pro/9280
+- Наталия Братниченко — Буду я восклицать [Русский]
+  https://holychords.pro/12962
+- Jesus Culture — Дахи [Украинский]
+  https://holychords.pro/13177
+- Worthy Life Church — Твое Имя вознесу [Русский]
+  https://holychords.pro/15366
+- Feiert Jesus! — Von den Dächern [Немецкий]
+  https://holychords.pro/26425
+- G12 Lietuva Worship Band — Nuo stogu (Rooftops / Jesus Culture) [Литовский]
+  https://holychords.pro/26713
+- Jesus Culture — Rooftops
+  https://holychords.pro/29548
+- X-mas BAND — Піднесу Твоє Ім'я [Украинский]
+  https://holychords.pro/44238
+- Jesus Culture — Твоє ім'я вознесу [Украинский]
+  https://holychords.pro/45011
+- Jesus Culture — Співатиму з дахів [Украинский]
+  https://holychords.pro/48759
+- Jesus Culture — Rooftops [Английский]
+  https://holychords.pro/62034
+- Надія Sol Family Church — Твоє ім'я піднесу [Украинский]
+  https://holychords.pro/64180
+- Kim Walker-Smith — Rooftops (Live from Cape Town) [Английский]
+  https://holychords.pro/69442
+- ЕЛЕЙ — Твое имя вознесу [Русский]
+  https://holychords.pro/74829

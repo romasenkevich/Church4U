@@ -1,0 +1,57 @@
+Imprintband — Кто скажет
+Источник: https://holychords.pro/438
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Hm                G                 D    A</chopds>
+<text>Всё мне говорило о Тебе</text>
+<chopds> Hm                              G                          D    A</chopds>
+<text>Но слишком был уверенным в себе</text>
+<chopds>Em                    F#m                   G     Hm</chopds>
+<text>Думал, что всего добился сам</text>
+<chopds>         Em                 A                      G</chopds>
+<text>Прости, я много так не понимал</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Столько в жизни я своей не знал</text>
+<text>Я не знал дыхание кто давал</text>
+<text>Я не знал кто исполнял мечты</text>
+<text>Я не знал, а это был Ты!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  Hm                  F#m</chopds>
+<text>Кто скажет я знать так хочу</text>
+<chopds>            G                       Em</chopds>
+<text>Почему без Тебя я жить не могу?</text>
+<chopds>          Hm                         F#m</chopds>
+<text>Почему без Тебя так трудно дышать?</text>
+<chopds>            G                                        Em</chopds>
+<text>Почему только Ты можешь счастье мне дать?</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Ты всегда со мною рядом был</text>
+<text>Жизнь хранил и преданно любил</text>
+<text>Поднимал когда падал я</text>
+<text>Ты прости и измени меня</text>
+<chopds>C#m   G#m   A   F#m</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C#m                    G#m</chopds>
+<text>Ты - Бог мой, теперь знаю я</text>
+<chopds>           A                         F#m</chopds>
+<text>Что вся моя жизнь, она от Тебя</text>
+<chopds>            C#m                          G#m</chopds>
+<text>Что дыхание во мне оно тоже Твоё</text>
+<chopds>            A                                              F#m</chopds>
+<text>Подарил Ты мне жизнь, в Тебе счастье моё!</text>
+</blocks>

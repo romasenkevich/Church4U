@@ -1,0 +1,36 @@
+Виталий Ефремочкин — Мы поклоняемся
+Источник: https://holychords.pro/138
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>           A#m             G#            F#</chopds>
+<text>В смирении склоняюсь Отец перед Тобой</text>
+<chopds>        A#m               G#             F#</chopds>
+<text>С любовью ожидаем присутствие Твое</text>
+<chopds>            D#m              C#                   G#</chopds>
+<text>Возвышаем свой голос к престолу милости</text>
+<chopds>      D#m                    C#        F</chopds>
+<text>Ты Царь Высшей Славы нас посетил</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>         F#</chopds>
+<text>Мы поклоняемся, мы поклоняемся</text>
+<chopds>       A#m</chopds>
+<text>Мы поклоняемся, мы поклоняемся</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Darwin Hobbs — Поклоняемся Тебе [Русский]
+  https://holychords.pro/41471
+- Darwin Hobbs — We Worship You Today [Английский]
+  https://holychords.pro/41474
+- Виталий Ефремочкин — Мы поклоняемся [Русский]
+  https://holychords.pro/57045
+- NG Band Riga — Мы поклоняемся [Русский]
+  https://holychords.pro/59134

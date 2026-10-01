@@ -1,0 +1,60 @@
+НАРНиЯ — Ты праведен и свят
+Источник: https://holychords.pro/357
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C#m                 H                  A    H</chopds>
+<text>Призвал меня в Свой свет.</text>
+<chopds>C#m                     H         A     E/G#</chopds>
+<text>Открыл мне Свой завет.</text>
+<chopds>F#m             G#              C#m      H           A  E/G#</chopds>
+<text>Любовью вечной Ты возлюбил меня.</text>
+<chopds>F#m                                                       G#</chopds>
+<text>И знаю, будешь Ты со мной всегда!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>C#m               H                A    H</chopds>
+<text>Под сенью Божьих крыл</text>
+<chopds>C#m            H        A     E/G#</chopds>
+<text>От зла меня укрыл.</text>
+<chopds>F#m             G#              C#m      H        A   E/G#</chopds>
+<text>И в дни печали не оставил Ты меня,</text>
+<chopds>F#m                                                     G#</chopds>
+<text>Забрал всю скорбь мою и знаю я:</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>       C#m                  H   A           G#</chopds>
+<text>Ты праведен и свят, Агнец Божий!</text>
+<chopds>   C#m             H   F#m      G#</chopds>
+<text>Я на Тебя хочу быть похожим!</text>
+<chopds>      F#m                  G#       C#m  H  A  G#</chopds>
+<text>Во всем хочу являть я славу Божью!</text>
+<chopds>     F#m                                   G#</chopds>
+<text>За всё хочу Тебя благодарить!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Живу в Твоей любви.</text>
+<text>Омыт в Твоей крови.</text>
+<text>Иисус, Ты - Бог мой! Не оставишь Ты меня!</text>
+<text>Ты добрый Пастырь мой и знаю я:</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>     C#m     C#      F#m    A                       G#</chopds>
+<text>И знаю, что всегда Утешитель со мною!</text>
+<chopds>       C#                   F#m         A                G#</chopds>
+<text>И знаю, что всегда на мне рука Твоя!</text>
+<chopds>       F#m                 G#             H        A            G#</chopds>
+<text>Ничто меня, Господь, не разделит с Тобою!</text>
+<chopds>     F#m                                        G#</chopds>
+<text>И Слово Божье укрепит меня!</text>
+</blocks>

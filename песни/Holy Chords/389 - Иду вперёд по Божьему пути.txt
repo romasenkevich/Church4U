@@ -1,0 +1,67 @@
+Светлана Малова — Иду вперёд по Божьему пути
+Источник: https://holychords.pro/389
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Em  Am  D  G  C  Am H</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>    Em</chopds>
+<text>Иду вперёд по Божьему пути,</text>
+<chopds>       Am                      D                       G</chopds>
+<text>Но вот стрела врага меня пронзила,</text>
+<chopds>         Am                                                Em</chopds>
+<text>Мне больно и боюсь, что не дойти,</text>
+<chopds>   Am                                          H</chopds>
+<text>И чувствую, что истекают силы.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                                    Em                            Am</chopds>
+<text>Будет горькой слеза и тревога в груди,</text>
+<chopds>                            D                               G</chopds>
+<text>Я закрою глаза и скажу себе жди,</text>
+<chopds>                       Am           H                Em</chopds>
+<text>Иисус исцелит, оживит вдохновит,</text>
+<chopds>C                                          Am  H                       Em  H</chopds>
+<text>К сердцу нежно прижмёт, на руках понесёт.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Как только, что-то важное грядёт,</text>
+<text>Враг тут же переходит мне дорогу,</text>
+<text>И со спины всегда он больно бьёт,</text>
+<text>Но боль моя пронзает сердце Бога.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Великая борьба всё горячей,</text>
+<text>Мы на передовой, а это значит,</text>
+<text>Сразится Бог за нас своих детей,</text>
+<text>Победа будет Божья не иначе.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                            Em                            Am</chopds>
+<text>И исчезнет слеза и тревога в груди,</text>
+<chopds>                          D                                   G</chopds>
+<text>Я открою глаза и воскликну, гряди!</text>
+<chopds>                          Am      H               Em</chopds>
+<text>И воочию тогда я увижу Христа,</text>
+<chopds>C                                         Am   H                       Em</chopds>
+<text>К сердцу нежно прижмёт, на руках понесёт.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Светлана Малова — Іду вперед по Божій я путі [Украинский]
+  https://holychords.pro/87115

@@ -1,0 +1,29 @@
+Сергей Брикса — Скоро увижу Тебя
+Источник: https://holychords.pro/25
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds> Hm</chopds>
+<text>Скоро увижу Тебя,</text>
+<chopds>    A</chopds>
+<text>Увижу Твои глаза.</text>
+<chopds>      Em</chopds>
+<text>Господь, Ты Спаситель мой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G     Em  A  Hm    D</chopds>
+<text>Аллилуйя, Аллилуйя.</text>
+<chopds>G  D/F#  Em</chopds>
+<text>Аллилуйя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Скоро увижу Тебя,</text>
+<text>Увижу во славе небес.</text>
+<text>Грядущий Спаситель мой.</text>
+</blocks>

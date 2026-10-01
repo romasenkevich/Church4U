@@ -1,0 +1,57 @@
+Филип Реннер — Очисть меня
+Источник: https://holychords.pro/352
+
+==================================================
+
+<blocks>
+<chopds>|C#m  E  A  | C#m  E  H |</chopds>
+<chopds>| C#m  E  A | C#m  A  H |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C#m       E/H</chopds>
+<text>Я не могу дальше идти,</text>
+<chopds>F#m                 A</chopds>
+<text>Потерял себя, упал на колени я.</text>
+<chopds>C#m                       E/H</chopds>
+<text>Мне нужно лишь, держатся за Тебя</text>
+<chopds>F#m                       A</chopds>
+<text>Держатся за Тебя</text>
+<chopds>C#m7 E/G# A</chopds>
+<text>Иисус,</text>
+<chopds>C#m7 A H</chopds>
+<text>Иисус.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Наполняй сердце моё</text>
+<text>Жизнь моя теперь в Твоих руках</text>
+<text>В смирении, припаду ко Христу</text>
+<text>Тобою лишь живу</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>E               G#m/D#</chopds>
+<text>Очисть меня, возьми меня,</text>
+<chopds>A                 E/G#</chopds>
+<text>В Славе Твоей свободен я</text>
+<chopds>F#m7         E/G#</chopds>
+<text>Очисть меня, возьми меня.</text>
+<chopds>A                     Hsus                   A</chopds>
+<text>Вся жизнь моя в Твоих руках.</text>
+<chopds>F#m              C#m     H</chopds>
+<text>Очистить меня Иисус</text>
+<chopds>                          A          F#m</chopds>
+<text>Очистить меня, мой Бог</text>
+<chopds>                     C#m    H       A  F#m  C#m  H</chopds>
+<text>Очистить меня Иисус.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Renner Worship — Empty Me [Английский]
+  https://holychords.pro/15730

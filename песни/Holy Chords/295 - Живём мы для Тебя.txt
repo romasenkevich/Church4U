@@ -1,0 +1,64 @@
+Hillsong Ukraine — Живём мы для Тебя
+Источник: https://holychords.pro/295
+
+==================================================
+
+<blocks>
+<chopds>G  C  G  C</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                      G</chopds>
+<text>Такой любви не видел мир</text>
+<chopds>                   C</chopds>
+<text>Отдав себя, мне жизнь она спасла</text>
+<chopds>                        G</chopds>
+<text>Вознёс на крест наш каждый грех</text>
+<chopds>                            C</chopds>
+<text>Простил всех нас, к Себе вернул опять</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>Em             Dsus    G</chopds>
+<text>Мне жизнь явил, глаза мне открыл</text>
+<chopds>D                                C</chopds>
+<text>Я прославлю Тебя, всей душою моей</text>
+<chopds>Em           Dsus      G</chopds>
+<text>Мне жизнь явил, глаза мне открыл</text>
+<chopds>D                                        Am</chopds>
+<text>Знаю - в мире нет любви сильней</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                 C              G                    D</chopds>
+<text>Сияет свет Твой там, где тьма</text>
+<chopds>                            C           G          Em</chopds>
+<text>Христос прославлен на века</text>
+<chopds>   D     C                                   G</chopds>
+<text>Все! Будем сейчас мы прославлять</text>
+<chopds>                   Em        D           C                          D</chopds>
+<text>Всем, что есть у нас живём мы для Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>                            G</chopds>
+<text>Лишь во Христе прощён весь грех</text>
+<chopds>                       C</chopds>
+<text>Спаситель Царь победу одержал</text>
+<chopds>                      G</chopds>
+<text>В руках Твоих моя вся жизнь</text>
+<chopds>                    C</chopds>
+<text>Через меня твори Свои дела</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>G</chopds>
+<text>И жизнь теперь я не представляю без Тебя</text>
+<chopds>                     C                                   Am</chopds>
+<text>Ведь вся жизнь моя? Только для Тебя, Бог!</text>
+</blocks>

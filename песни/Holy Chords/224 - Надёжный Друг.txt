@@ -1,0 +1,38 @@
+Тропинка — Надёжный Друг
+Источник: https://holychords.pro/224
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>G#m                                               C#m</chopds>
+<text>В моём сердце Христос живет, я отдал Ему жизнь свою.</text>
+<chopds>F#                                                         H          D#</chopds>
+<text>Он меня в беде бережёт, охраняет меня в бою.</text>
+<chopds>G#m                                                       C#m</chopds>
+<text>С Ним не страшен мне враг любой, с Ним могу через все пройти,</text>
+<chopds>F#                                                         H          D#</chopds>
+<text>Его ангелы надо мной распростёрли крылья свои.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G#m                                    C#m</chopds>
+<text>Невидимый Страж – Иисус,</text>
+<chopds>F#                                            H                 D#</chopds>
+<text>К Тебе в небеса я стремлюсь, Спаситель Ты мой!</text>
+<chopds>G#m                                        C#m</chopds>
+<text>В прекрасном Царстве Святом</text>
+<chopds>        D#                                              E</chopds>
+<text>Мы будем вечно с Тобой, Ты там приготовил мне дом,</text>
+<chopds>    C#m                      D#                             G#m</chopds>
+<text>Меня ожидает в нем Твой мир и покой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>На груди Его я усну, пусть бушует буря вокруг,</text>
+<text>Мне не даст Он с пути свернуть, Он мой самый надежный друг.</text>
+<text>С Ним не страшен мне враг любой, с Ним могу через всё пройти,</text>
+<text>Его ангелы надо мной распростёрли крылья свои.</text>
+</blocks>

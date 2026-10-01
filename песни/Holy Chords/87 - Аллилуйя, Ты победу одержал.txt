@@ -1,0 +1,68 @@
+Виталий Ефремочкин — Аллилуйя, Ты победу одержал
+Источник: https://holychords.pro/87
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Gm F       Bb           Cm7  Gm       F</chopds>
+<text>Аллилуйя! Ты победу одержал!</text>
+<chopds>Gm F       Bb            Cm7     Gm           F</chopds>
+<text>Аллилуйя! За меня Ты жизнь отдал!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>                            Cm7        Gm      F</chopds>
+<text>Смерть не смогла сдержать!</text>
+<chopds>                           Cm7         Gm      F</chopds>
+<text>Ты - наш воскресший Царь</text>
+<chopds>                  Cm7    Gm     F</chopds>
+<text>Полон величия!</text>
+<chopds>                           Cm7       Gm      F</chopds>
+<text>Ты - наш воскресший Царь!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- New Beginnings Worship — Аллилуйя Ты победу одержал [Русский]
+  https://holychords.pro/4
+- Слово Жизни Music — Гимн [Русский]
+  https://holychords.pro/475
+- Андрей Кочкин — Гимн (Ты победу одержал) [Русский]
+  https://holychords.pro/8492
+- Planetshakers — The Anthem
+  https://holychords.pro/9082
+- Planetshakers — Гимн [Русский]
+  https://holychords.pro/9270
+- Gracetime Worship Band — Аллилуйя, Ты победу одержал! [Русский]
+  https://holychords.pro/11301
+- ХДН Worship — Аллилуйя, Ты победу одержал! [Русский]
+  https://holychords.pro/15690
+- Церковь Истина — Аллилуйя [Русский]
+  https://holychords.pro/21883
+- Слово Жизни Music — Аллилуйя, Ты победу одержал [Русский]
+  https://holychords.pro/28834
+- Planetshakers — Гімн (Алілуйя) [Украинский]
+  https://holychords.pro/35062
+- Церковь Божия Music — Аллилуйя, Ты победу одержал [Русский]
+  https://holychords.pro/35261
+- Спасіння Вишневе — Алілуя, перемогу Ти нам дав [Украинский]
+  https://holychords.pro/41062
+- Living Stream Worship — Ты победу одержал [Русский]
+  https://holychords.pro/41772
+- Planetshakers — Гімн Алілуя [Украинский]
+  https://holychords.pro/41942
+- Planetshakers — Алилуя, в боротьбі Ти переміг [Украинский]
+  https://holychords.pro/43861
+- Seattle Bethany Teens — Our God has risen (the Anthem) [Английский]
+  https://holychords.pro/55044
+- Planetshakers — Гімн / The Anthem [Украинский]
+  https://holychords.pro/56230
+- Церковь Вефиль Денвер — Аллилуйя Ты победу одержал [Русский]
+  https://holychords.pro/60638
+- ЕЛЕЙ — Аллилуйя, Ты победу одержал (Гимн) [Русский]
+  https://holychords.pro/72611
+- HopeMusic — Гимн [Русский]
+  https://holychords.pro/84943

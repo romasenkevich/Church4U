@@ -1,0 +1,30 @@
+Слово Жизни Music — Дух Святой приди
+Источник: https://holychords.pro/54
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>C#m G#m F#m G#m   C#m      G#m      F#m</chopds>
+<text>Мы ищем, мы любим, мы ждем Тебя.</text>
+<chopds>C#m  G#m  F#m      G#m  C#m  G#m       F#m</chopds>
+<text>Коснись нас Своей силой, зажги сердца.</text>
+<chopds>  A                E             H     A           E        H</chopds>
+<text>Пусть с небес придёт царствие Твоё.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                                 E                            G#m</chopds>
+<text>Дух Святой, приди, Дух Святой, коснись,</text>
+<chopds>                 F#m       E                 A    H</chopds>
+<text>Мы так жаждем, Бог, мы так жаждем.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>C#m    A  H</chopds>
+<text>Ждём Тебя,</text>
+<chopds>        C#m A               H         F#m     (A)</chopds>
+<text> Приди в Своей славе, Иисус.</text>
+</blocks>

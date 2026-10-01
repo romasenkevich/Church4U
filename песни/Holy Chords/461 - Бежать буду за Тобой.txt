@@ -1,0 +1,44 @@
+Слово Жизни Music — Бежать буду за Тобой
+Источник: https://holychords.pro/461
+
+==================================================
+
+<blocks>
+<chopds>H   F#   G#m   E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>H          F#              E                        F#</chopds>
+<text>Мой путь освещаешь Словом Ты</text>
+<chopds>H                 F#          E                                 F#</chopds>
+<text>Сквозь тьму проведешь меня в любви</text>
+<chopds>      G#m               F#/A#</chopds>
+<text>Не в силах иногда понять</text>
+<chopds>       H                  E</chopds>
+<text>Я все Твои пути,</text>
+<chopds>     G#m              F#/A#</chopds>
+<text>Но не оставлю я Тебя</text>
+<chopds>          E</chopds>
+<text>Вся жизнь в руках Твоих</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>H                      F#               G#m</chopds>
+<text>Мне все равно, что говорят</text>
+<chopds>        E</chopds>
+<text>Бежать буду за Тобой</text>
+<chopds>H                F#              G#m</chopds>
+<text>Нет, я не поверну назад</text>
+<chopds>       E</chopds>
+<text>Бежать буду за Тобой</text>
+<chopds>H                   F#                G#m</chopds>
+<text>Неважно, что произойдёт</text>
+<chopds>        E</chopds>
+<text>Бежать буду за Тобой</text>
+<chopds>H            F#                 G#m</chopds>
+<text>Я за Тобой бегу сейчас</text>
+<chopds>      E</chopds>
+<text>Бегу я за Тобой</text>
+</blocks>

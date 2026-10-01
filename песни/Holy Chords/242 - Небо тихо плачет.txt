@@ -1,0 +1,58 @@
+Дарина Кочанжи — Небо тихо плачет
+Источник: https://holychords.pro/242
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Gm                             Cm</chopds>
+<text>Долетели пули в спины сыновей,</text>
+<chopds>D                                Gm               D</chopds>
+<text>Полились рекою слёзы матерей,</text>
+<chopds>Gm                                 Cm</chopds>
+<text>Пересохло в горле плачущих отцов,</text>
+<chopds>D                               Gm                  D</chopds>
+<text>Не хватает нервов, не хватает слов.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Gm                               Cm</chopds>
+<text>Горю не поможешь горькою слезой,</text>
+<chopds>D                                Gm               D</chopds>
+<text>Горе не осилишь пьяною бедой</text>
+<chopds>Gm                          Cm</chopds>
+<text>И ничьей рукою бед не отвести,</text>
+<chopds>D                          Gm                  D</chopds>
+<text>Мир остановите я хочу сойти.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds> Gm                             Cm</chopds>
+<text>Небо тихо плачет позднею грозой,</text>
+<chopds>   D                                 Gm                 D</chopds>
+<text>Небо тихо просит: "Человек, постой!</text>
+<chopds>Gm                                   Cm</chopds>
+<text>Если в своём сердце не найти любовь -</text>
+<chopds>D                             Gm</chopds>
+<text>Это повторится вновь."</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Небо расскажи мне, небо дай ответ,</text>
+<text>Гибнут наши дети, тьма съедает свет</text>
+<text>Помоги, о небо, это как вместить?</text>
+<text>И кому мне верить, и кого любить?</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Yakubowskiy — Небо тихо плачет [Русский]
+  https://holychords.pro/32958
+- Церква Христа Спасителя Луцьк — Небо тихо плаче [Украинский]
+  https://holychords.pro/48022
+- Тріо Малашевич — Небо тихо плаче [Украинский]
+  https://holychords.pro/56202

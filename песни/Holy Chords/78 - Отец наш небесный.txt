@@ -1,0 +1,80 @@
+Виталий Ефремочкин — Отец наш небесный
+Источник: https://holychords.pro/78
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>    G                                          C                            D</chopds>
+<text>Отец наш небесный да святится Имя Твоё</text>
+<chopds>            G                                  C                             D</chopds>
+<text>Твое Царство да придет воля да будет Твоя</text>
+<chopds>                C              Am               Em                 D</chopds>
+<text>На земле как на Небе пусть Небеса придут к нам</text>
+<chopds>                C              Am               Em                 D        C</chopds>
+<text>На земле как на Небе пусть Небеса придут к нам</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>C                                 Em</chopds>
+<text>Пусть Небеса придут</text>
+<chopds>Hm                             C</chopds>
+<text>Пусть Небеса придут</text>
+<chopds>C                                 Em D</chopds>
+<text>Пусть Небеса придут</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>       C                                                    D      Em</chopds>
+<text>Твоё есть Царство Твоя есть Сила Твоя есть</text>
+<chopds>                  Hm</chopds>
+<text>Слава во веки Аминь</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- 4U Band — Царь славы [Русский]
+  https://holychords.pro/1933
+- Bethel Music — Our Father [Английский]
+  https://holychords.pro/2568
+- Bethel Music — Padre Nuestro
+  https://holychords.pro/5483
+- Bethel Music — Отец наш [Русский]
+  https://holychords.pro/5688
+- Элиза Белосевич-Дириенко — Отец наш [Русский]
+  https://holychords.pro/9107
+- Bethel Music — Отче наш [Украинский]
+  https://holychords.pro/13191
+- Церковь Божия Music — Отец Наш [Русский]
+  https://holychords.pro/23702
+- Alfa Church — Отче наш [Русский]
+  https://holychords.pro/26620
+- M.Worship — Царь славы [Русский]
+  https://holychords.pro/27156
+- Слово Жизни Music — Отец наш [Русский]
+  https://holychords.pro/27905
+- Gracetime Worship Band — Отец наш небесный [Русский]
+  https://holychords.pro/31415
+- Bethel Music — Наш Батько [Украинский]
+  https://holychords.pro/35104
+- Worship Achinsk — Отец наш [Русский]
+  https://holychords.pro/38586
+- Новая жизнь Worship — Наш Отец (Live) [Русский]
+  https://holychords.pro/47231
+- Илья Рябов — Отец наш Небесный [Русский]
+  https://holychords.pro/50769
+- Power Of Revival Worship — Наш Батько [Украинский]
+  https://holychords.pro/52167
+- GRACE CV — Отче Наш [Украинский]
+  https://holychords.pro/66310
+- Тимофій Тарасов — Наш Отче [Украинский]
+  https://holychords.pro/67958
+- Поклонение Бишкек — Отец наш Небесный [Русский]
+  https://holychords.pro/68975
+- IGC Zaporozhye — Здесь Твоя Слава [Русский]
+  https://holychords.pro/69422
+- Skydoor Worship — Наш Батько [Украинский]
+  https://holychords.pro/81362

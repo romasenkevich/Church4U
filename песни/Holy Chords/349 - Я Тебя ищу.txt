@@ -1,0 +1,47 @@
+Размер неба — Я Тебя ищу
+BPM: 82
+Источник: https://holychords.pro/349
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Am                   C                  Dm                 F</chopds>
+<text>Бог Великий и Святой оставил небеса.</text>
+<chopds>Am                               C                                  D                            G</chopds>
+<text>Пришёл Ты в этот мир Господь, чтоб нам открыть глаза.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>          Am                    F               C        G</chopds>
+<text>Ты Один дал мне вечную жизнь</text>
+<chopds>          Am                   F                  C       Dm7</chopds>
+<text>За неверье и сомненья прости меня.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Сколько раз не сосчитать я падал и вставал.</text>
+<text>И каждый раз давал ты шанс прощал и обновлял.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>         Am       F             C         G</chopds>
+<text>Прости меня, прости меня,</text>
+<chopds>         Am       F             C         G</chopds>
+<text>Прости меня, прости меня.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>                 Am                        F</chopds>
+<text>Я Тебя ищу, я Тебя прошу,</text>
+<chopds>                                C                         G/B</chopds>
+<text>Дай мне пребывать в Тебе всегда.</text>
+<chopds>                                 Am                            F</chopds>
+<text>Любить детей Твоих, меня Ты научи.</text>
+<chopds>                               C                   G/B</chopds>
+<text>Ослаб я - на руках Своих неси.</text>
+</blocks>

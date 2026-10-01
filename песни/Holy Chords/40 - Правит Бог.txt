@@ -1,0 +1,38 @@
+New Beginnings Worship — Правит Бог
+Источник: https://holychords.pro/40
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>D                                                                            Hm</chopds>
+<text>Своей рукой украсил ночь миллионами звезд</text>
+<chopds>                  G                       D</chopds>
+<text>Все говорит - правит Бог!</text>
+<chopds>D                                                                                       Hm</chopds>
+<text>Так славен мир, что повелел утром солнцу светить</text>
+<chopds>                    G                    D</chopds>
+<text>Поет земля - правит Бог!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                 G                    Hm</chopds>
+<text>Правит Бог всей землей,</text>
+<chopds>                        A   G                D</chopds>
+<text>Всегда и вовеки правит Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Создал моря, Ты горы двигаешь словом Своим</text>
+<text>Пусть песнь звучит - правит Бог</text>
+<text>Ты жизнь мне дал, назвал Своим, знаешь сердце мое</text>
+<text>Живу сказать - правит Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>D A/C# G/H D G A D</chopds>
+<text>Аллилуйя, аллилуйя!</text>
+</blocks>

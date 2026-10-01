@@ -1,0 +1,36 @@
+Радость — Мелодия любви
+Источник: https://holychords.pro/235
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>          Dm                             Gm  A                   Dm      A</chopds>
+<text>Прекрасна музыка любви, в ней звуки неба.</text>
+<chopds>          Dm                             Gm  A                   Dm     D7</chopds>
+<text>Она ценней даров любых, дороже хлеба.</text>
+<chopds>         Gm       C                 A                          Dm       Bb</chopds>
+<text>Кто благо без неё искал, – не видел счастья.</text>
+<chopds>       Gm     E                       A                      Dm</chopds>
+<text>Мелодия любви в веках зовёт к согласью.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                  Gm                         C                       F      Bb</chopds>
+<text>Когда Божественный мотив дух окрыляет,</text>
+<chopds>                Gm                   A                 Dm</chopds>
+<text>Тогда и скорбные пути бывают раем.</text>
+<chopds>                  Gm                         C                       F      Bb</chopds>
+<text>Когда Божественный мотив дух окрыляет,</text>
+<chopds>                 Gm                  A                   D</chopds>
+<text>Тогда и скорбные пути бывают раем.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Средь шума, споров и вражды её не слышно.</text>
+<text>Смиренным звуки красоты даёт Всевышний.</text>
+<text>Скрепите ваш союз любви решеньем твёрдым,</text>
+<text>Внимать чтобы в земные дни святым аккордам.</text>
+</blocks>

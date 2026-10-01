@@ -1,0 +1,49 @@
+Слово Жизни Music — И пусть шумят
+BPM: 125
+Источник: https://holychords.pro/5
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>Hm             A/C# D</chopds>
+<text>Ты провел меня</text>
+<chopds>              A                                G</chopds>
+<text>Через боль, через слезы, нёс на руках</text>
+<chopds>Hm             A/C# D</chopds>
+<text>Ты провел меня</text>
+<chopds>                A                                             G</chopds>
+<text>Чрез долину смертной тени, Ты помог мне стать сильней</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>В сердце Твой покой</text>
+<text>Наполняет, исцеляет</text>
+<text>В мыслях голос Твой</text>
+<text>Он укрепляет, он вдохновляет жить</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G                    A                              Hm              A/C#</chopds>
+<text>И пусть шумят и вздымаются воды, я отдаю мои заботы,</text>
+<chopds>G                 A                    Hm             A/C#</chopds>
+<text>Пусть трясутся сильно горы, с Тобой я все пройду</text>
+<chopds>G                    A                  Hm        A/C#</chopds>
+<text>Ты все во всем, Ты упованье, я верю Тебе</text>
+<chopds>G</chopds>
+<text>Ты целитель, Ты спасенье</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>G                        A</chopds>
+<text>Где Дух Господень - там свобода</text>
+<chopds>Hm              A/C#</chopds>
+<text>Нет тени страха и сомнений</text>
+<chopds>G                        A</chopds>
+<text>Где Дух Господень - торжествуют</text>
+<chopds>Hm                          A/C#</chopds>
+<text>Вера, любовь и надежда</text>
+</blocks>

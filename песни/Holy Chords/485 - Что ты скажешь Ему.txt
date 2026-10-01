@@ -1,0 +1,60 @@
+Пирс — Что ты скажешь Ему
+Источник: https://holychords.pro/485
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Dm  F  Gm  Asus A</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>        Bb                          C                                                       Dm               Am        Bb</chopds>
+<text>Что ты скажешь Ему, когда Он тебя встретит, за порогом земной суеты?</text>
+<chopds>              Gm                A7                                           F                                C                   Dm</chopds>
+<text>Что в смятеньи Ему твоё сердце ответит, в миг когда перед Ним будешь ты?</text>
+<chopds>               Bb                  C                                                             Dm                        Am             Bb</chopds>
+<text>Что ты скажешь Ему когда Он тебя спросит, спросит может лишь взглядом одним?</text>
+<chopds>               Gm         A                                                  F                                       Asus   A</chopds>
+<text>И от взгляда Его, словно ноги подкосит, устоишь ли тогда перед Ним?</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>   Bb         C                Dm  Gm       Am            Dm/F</chopds>
+<text>Что ты скажешь Ему? Что ты скажешь Ему?</text>
+<chopds>  Bb         C                Dm           F   Gm               Asus   A</chopds>
+<text>Что ты скажешь Ему? Что ты скажешь Ему?</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>                Bb                  C                                                          Dm           Am           Bb</chopds>
+<text>Что ты скажешь Ему, в день когда Он откроет, твои тайные мысли, дела?</text>
+<chopds>            Gm            A7                                                F                 Em        Dm</chopds>
+<text>Кто тебя самого от себя же укроет, не найдёшь ты такого угла?</text>
+<chopds>            Bb                  C                                                          Dm             Am             Bb</chopds>
+<text>Что ответишь Ему , когда Он тебе скажет, что любил тебя, ждал и терпел?</text>
+<chopds>           Gm                      A                                                                F                                  Asus   A</chopds>
+<text>И откроет всю жизнь и в мгновенье покажет, как ты слушать о Нём не хотел.</text>
+<chopds>Bb  Gm  Am   Gm  Dm  A</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>                Bb                  C</chopds>
+<text>Что ты скажешь Ему, когда Он тебя встретит,</text>
+<chopds>          Dm              Am         Bb</chopds>
+<text>За порогом земной суеты?</text>
+<chopds>                                    A7</chopds>
+<text>Что в смятеньи Ему твоё сердце ответит,</text>
+<chopds>       F                            Am                 Dm</chopds>
+<text>В миг, когда перед Ним будешь ты?</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Діана Кричильська — Що ти скажеш Йому [Украинский]
+  https://holychords.pro/6604

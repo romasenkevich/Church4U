@@ -1,0 +1,60 @@
+Екатерина Топчий — Невиновна
+Источник: https://holychords.pro/320
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>               D#                   A#/D</chopds>
+<text>Вот я стою пред Судьею всех судов,</text>
+<chopds>                    Cm               G#</chopds>
+<text>Жду приговор, и не счесть моих грехов,</text>
+<chopds>                 D#                      A#/D</chopds>
+<text>А стыд и боль терзают душу мою,</text>
+<chopds>                    Cm                        G#</chopds>
+<text>Настал тот день, ответ за жизнь я отдаю....</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>A#/D                 D#/G            G#</chopds>
+<text>Вдруг глянул мне Судья в глаза,</text>
+<chopds>A#/D    D#/G      D#</chopds>
+<text>Он улыбнулся и сказал:</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D#                 A#/D</chopds>
+<text>Я люблю тебя и знаю,</text>
+<chopds>Cm                     G#</chopds>
+<text>Я жизнь отдал, спасая.</text>
+<chopds>D#            A#/D</chopds>
+<text>Уплачена за грех цена,</text>
+<chopds>Cm                  G#</chopds>
+<text>Вердикт мой: "Невиновна!!!"</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Не может быть, как это можно понять,</text>
+<text>Что за грехи, и вдруг дана благодать??</text>
+<text>Свободна я, и в изумлении смотрю -</text>
+<text>Вижу крест пред собой, слёзы льются рекой, это мог приговор быть мой!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<text>И вижу я опять тот взгляд,</text>
+<text>Слова любви с креста летят</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>D#                                     A#/D</chopds>
+<text>И на коленях я благодарю</text>
+<chopds>Cm                               G#</chopds>
+<text>Тебя, мой Бог, за всю любовь Твою,</text>
+<chopds>D#                                     A#/D Cm                               G#</chopds>
+<text>О, Боже мой, как милости полны Твои слова!!!</text>
+</blocks>

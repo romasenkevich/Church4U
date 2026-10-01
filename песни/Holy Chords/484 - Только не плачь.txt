@@ -1,0 +1,54 @@
+Siloam Church — Только не плачь
+Источник: https://holychords.pro/484
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>          Cm                          D#                              G#</chopds>
+<text>Почему из глаз твоих часто так катятся слёзы</text>
+<chopds>          Fm                   Bb                           D#     G</chopds>
+<text>Твоё сердце болит, и ты плачешь вновь?</text>
+<chopds>          Cm                                                                   Fm</chopds>
+<text>Почему мне не веришь? Ведь Я рядом с Тобою</text>
+<chopds>                           Fm                                  G</chopds>
+<text>Возьми мою руку, иди вслед за мной.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Cm                                     D#/Bb           Fm</chopds>
+<text>Только не плачь, в Своих руках тебя держу,</text>
+<chopds>Bb                                 Fm/G#          D#</chopds>
+<text>Сквозь все земные беды Я с тобой пройду</text>
+<chopds>G#                    Gm                 Fm</chopds>
+<text>Вытру все слёзы, что с лица текут</text>
+<chopds>D                                                        G</chopds>
+<text>Счастье в жизнь твою Я принесу</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Сколько раз я слышу молитвы твои среди ночи,</text>
+<text>В этой тяжести дней, утомилась душа.</text>
+<text>Соберу все то что было разорвано в клочья,</text>
+<text>Я буду рядом, ты услышишь слова.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>Cm                              Gm</chopds>
+<text>Часто так бывает, что душа болит</text>
+<chopds>    Fm                             Cm             C/E</chopds>
+<text>и сердце изнывает молча кричит,</text>
+<chopds>            Fm        Bb           D#              G#</chopds>
+<text>Но Я здесь, Я рядом, почему стоишь?</text>
+<chopds>Fm                                                               G</chopds>
+<text>Смотришь робким взглядом, ко Мне не спешишь?</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>          Cm</chopds>
+<text>Почему из глаз твоих часто так катятся слёзы</text>
+</blocks>

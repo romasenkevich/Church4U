@@ -1,0 +1,48 @@
+Новые Лица — Ты встретил её
+Источник: https://holychords.pro/430
+
+==================================================
+
+<blocks>
+<chopds>F C Dm Bb</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Bb                      C                    Am                            Bb</chopds>
+<text>Ты встретил её из тысячи глаз искавших тебя уже давно</text>
+<chopds>Bb                       C                         Am                        Bb</chopds>
+<text>И что-то внутри сказало: "Твоя" навстречу иди к своей любви</text>
+<chopds>Dm                          C                                        Bb                      Gm</chopds>
+<text>И жизнь расцвела, в твоём сердце весна, настала пора чудесная</text>
+<chopds>Dm                            C                               Bb                                  C</chopds>
+<text>Волненье в сердцах и восторг на устах, и радость в глазах</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                      F                                      C</chopds>
+<text>Ярче, чем солнце, выше, чем звёзды</text>
+<chopds>                 Dm                       Bb</chopds>
+<text>Сильнее ветра ваша любовь</text>
+<chopds>                     F                                       C</chopds>
+<text>Её вы храните, всю жизнь берегите</text>
+<chopds>                  Dm                         Bb</chopds>
+<text>Благословенья она принесет</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>                        Dm   Bb</chopds>
+<text>Та любовь с неба</text>
+<chopds>                        Dm   Bb</chopds>
+<text>Та любовь с неба</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Любовь вам дана, дана навсегда теперь вы одно, уж одно</text>
+<text>Держитесь её, и верность храня,  несите огонь своей любви</text>
+<text>Что б жизнь расцвела, в твоём сердце весна, настала пора чудесная</text>
+<text>Волненье в сердцах и восторг на устах, и радость в глазах</text>
+</blocks>

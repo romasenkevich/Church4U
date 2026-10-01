@@ -1,0 +1,66 @@
+Виталий Ефремочкин — Именем Твоим
+Источник: https://holychords.pro/137
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>              F#m           D                E</chopds>
+<text>Не для улиц Бог создал детей</text>
+<chopds>       F#m                    D                 E</chopds>
+<text>И отцов, чтоб бросать матерей,</text>
+<chopds>            F#m                       D              E</chopds>
+<text>Все не так, как должно было быть,</text>
+<chopds>                 C#m            D     E</chopds>
+<text>Царство пусть придёт.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Не для войн создал нации Бог,</text>
+<text>Нам иначе никто б не помог,</text>
+<text>Все не так как хотел видеть Он,</text>
+<text>Царство пусть придет в сердце мое...</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                A                                     E/G#</chopds>
+<text>Я буду жить! Нести Твое прощение,</text>
+<chopds>          C#m                     D                                                      E</chopds>
+<text>Служить тому, кто сломлен, любить, как любишь Ты...</text>
+<chopds>             A                                       E/G#</chopds>
+<text>И я отдам ту жизнь, что подарил мне,</text>
+<chopds>        C#m                 D                                                 E</chopds>
+<text>Все то, что изменил Ты, чтоб этот мир спасти, Именем Твоим!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Не для горя Господь создал жизнь,</text>
+<text>Нас создал и не сможет забыть,</text>
+<text>Знай что вера без действий мертва,</text>
+<text>Царство пусть придет, Твое Господь!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>                D                                 E</chopds>
+<text>Имя Твое - Убежище для слабых,</text>
+<chopds>       D                               E</chopds>
+<text>Иисус - Утешение мое,</text>
+<chopds>                      D                                      E</chopds>
+<text>Только Иисус - Избавитель угнетенных,</text>
+<chopds>                            D                                  E</chopds>
+<text>Что нужно мне, все есть Имени Твоем!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Lincoln Brewster — The Power of Your Name [Английский]
+  https://holychords.pro/5456

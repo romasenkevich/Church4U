@@ -1,0 +1,70 @@
+Виталий Ефремочкин — Сегодня тот день
+BPM: 120
+Источник: https://holychords.pro/145
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                   D         Hm  A       G              D     Hm  A  G</chopds>
+<text>Заботы уходят прочь и прошлое позади</text>
+<chopds>                      D        Hm      A   G     Em7  G</chopds>
+<text>Сердце и мысли все к Тебе Иисус</text>
+<chopds>                  D     Hm  A  G              D       Hm  A  G</chopds>
+<text>Я руку даю Тебе верю так много благ</text>
+<chopds>                    D      Hm        A           G              Em7  G</chopds>
+<text>Знаю есть у Тебя для нас Господь всегда</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                            D                       A/C#</chopds>
+<text>   Сегодня тот день что Ты создал</text>
+<chopds>                  Hm7                          G</chopds>
+<text>   Радуюсь и веселюсь всегда</text>
+<chopds>                            D                      A/C#</chopds>
+<text>   Сегодня тот день что Ты создал</text>
+<chopds>                 Hm7                            G</chopds>
+<text>   Радуюсь и веселюсь всегда</text>
+<chopds>   Em                           D/F#</chopds>
+<text>   Я не забочусь что будет завтра</text>
+<chopds>    G                             A</chopds>
+<text>   Верю словам Твоим</text>
+<chopds>                             D  Hm  A  G</chopds>
+<text>   Сегодня тот день</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Все страхи уходят прочь сомнения позади</text>
+<text>Мечты отдаю свои Тебе Иисус</text>
+<text>Я руку даю Тебе верю так много благ</text>
+<text>Знаю есть у Тебя для нас Господь всегда</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>      D                                   A</chopds>
+<text>Стою на истинне Твоей</text>
+<chopds>       D                                              A</chopds>
+<text>Живу лишь только для Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<text>Я не забочусь что будет завтра</text>
+<text>Тебе отдам печаль и страх мой</text>
+<text>Куда ведешь иду с Тобою</text>
+<text>Верю словам Твоим</text>
+<text>Сегодня тот день</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- New Beginnings Worship — Сегодня тот день [Русский]
+  https://holychords.pro/41
+- NG Worship — Для Твоей славы [Русский]
+  https://holychords.pro/6187
+- Lincoln Brewster — Today is the Day [Английский]
+  https://holychords.pro/25873

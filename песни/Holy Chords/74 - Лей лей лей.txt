@@ -1,0 +1,50 @@
+Рома Иванько — Лей лей лей
+Источник: https://holychords.pro/74
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>            Em                 C               D</chopds>
+<text>Мне ещё бы поближе к Тебе</text>
+<chopds>       Em                 C                D</chopds>
+<text>И ещё б Тебя громче позвать</text>
+<chopds>           C                  D                  Am</chopds>
+<text>Ещё больше Твоим сыном стать</text>
+<chopds>           C            D        Em</chopds>
+<text>Ещё крепче Тебя обнимать</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Еще глубже забраться в Тебя</text>
+<text>Еще выше взлететь к облакам</text>
+<text>Еще ярче Тебя созерцать</text>
+<text>Свое тело и душу отдать</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C  D  Em  C  D   G</chopds>
+<text>Иисус    Божий Сын,</text>
+<chopds>C  D  Em            C                D</chopds>
+<text>Иисус   выше всех вершин</text>
+<chopds>                                  Em</chopds>
+<text>И глубже всех глубин</text>
+<chopds>C  D  Em  C     D  G</chopds>
+<text>Иисус    Царь царей</text>
+<chopds>C  D  Em    C              D     Em</chopds>
+<text>Иисус от Духа Своего излей</text>
+<chopds>   C      D      Em   C       D       G</chopds>
+<text>Лей, лей, лей Лей, лей, лей</text>
+<chopds>   C      D      Em        C            D         Em</chopds>
+<text>Лей, лей, лей от Духа Своего излей</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Мне бы птицей к Тебе прилететь</text>
+<text>И дождем в Твое сердце пролиться</text>
+<text>Мне бы ветром примчаться к Тебе</text>
+<text>И травой к Твоим ногам расстелиться</text>
+</blocks>

@@ -1,0 +1,56 @@
+Краеугольный камень — Люблю
+Источник: https://holychords.pro/336
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>    Em                                                                Am</chopds>
+<text>В каждом пульсе сердца Твоего - люблю</text>
+<chopds> D                                                        G</chopds>
+<text>Каждое движение Твое - люблю</text>
+<chopds>     C                                                                        Am</chopds>
+<text>В каждом взгляде и в дыхании уст - люблю</text>
+<chopds>    H                                                                  Em</chopds>
+<text>В каждой капле боли Твоих уз - люблю</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Em                                                         Am</chopds>
+<text>В каждом звуке музыки небес - люблю.</text>
+<chopds>D                                                              G</chopds>
+<text>В каждой грани истинных чудес - люблю.</text>
+<chopds>C                                                           Am</chopds>
+<text>В каждом шаге крестного пути - люблю.</text>
+<chopds>H                                                           Em</chopds>
+<text>Птицей рвется сердце из груди - люблю.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  Am                                    H7                                      Em</chopds>
+<text>А я без Твоей любви пуст, без Твоей любви глух,</text>
+<chopds>                                      C</chopds>
+<text>Без Твоей любви слеп, без Твоей любви...</text>
+<chopds>Am                                 H           Em  D  C</chopds>
+<text>Я без Твоей любви чёрств.</text>
+<chopds>Am                                  H                                       Em</chopds>
+<text>Я без Твоей любви нищ, без Твоей любви наг,</text>
+<chopds>                                     C</chopds>
+<text>Без Твоей Любви глуп, без Твоей любви…</text>
+<chopds>Am                                  H</chopds>
+<text>Я без Твоей любви мёртв.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<chopds>Em                                                            Am</chopds>
+<text>В каждой краске милости Твоей - люблю</text>
+<chopds>D                                                             G</chopds>
+<text>В каждом миге уходящих дней - люблю</text>
+<chopds>   C                                                    Am</chopds>
+<text>Каждое поднятие с колен - люблю</text>
+<chopds>H                                                  Em</chopds>
+<text>Каждое прощение измен - люблю</text>
+</blocks>

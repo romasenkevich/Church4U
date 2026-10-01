@@ -1,0 +1,42 @@
+Дарина Кочанжи — Он живой
+Источник: https://holychords.pro/247
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>           Bb/D       C                  F</chopds>
+<text>Его любовью держится земля,</text>
+<chopds>           Bb/D             C                       F</chopds>
+<text>Его любовью живём и ты и я,</text>
+<chopds>                        A             A7                           Dm</chopds>
+<text>Для нас с тобою Он нёс голгофский крест,</text>
+<chopds>                        Bb         C                       F</chopds>
+<text>Для нас с тобою Он умер и воскрес.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>              F        C                   Dm</chopds>
+<text>Он живой - видит Он тебя.</text>
+<chopds>            Bb          F                      C</chopds>
+<text>Он живой - слышит Он тебя.</text>
+<chopds>              F       Bb   A                  Dm</chopds>
+<text>Он живой снова, и верно слово.</text>
+<chopds>             Bb           C                        F</chopds>
+<text>Храм Его построен за три дня.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Он этим словом Землю создавал,</text>
+<text>Он этим словом тебе дыханье дал,</text>
+<text>Но на суде Он ни слова не сказал,</text>
+<text>На том кресте Он нас с тобой спасал.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- SOLWorship — Він живий [Украинский]
+  https://holychords.pro/40157

@@ -1,0 +1,36 @@
+Виталий Ефремочкин — Преклоню колени я
+Источник: https://holychords.pro/140
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>C                      G/H     Dm                         Am</chopds>
+<text>Преклоню колени я пред Тобой Господь.</text>
+<chopds>F                        C                          Dm                G</chopds>
+<text>Только Ты один даёшь мне милость и любовь.</text>
+<chopds>C                     G/H              Dm                     Am</chopds>
+<text>Сотвори во мне, Господь, сердце чистое.</text>
+<chopds>F                         C                 D</chopds>
+<text>И Дух правый обнови, Дух Святой, во мне.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>               G              D      F                        E                     Am</chopds>
+<text>Я поклоняюсь, Бог, жизнь свою я посвящаю Тебе.</text>
+<chopds>          G              C             D</chopds>
+<text>Освяти, обнови, моё сердце.</text>
+<chopds>               G              D      F                        E                     Am</chopds>
+<text>Я поклоняюсь, Бог, жизнь свою я посвящаю Тебе.</text>
+<chopds>           G                       C                   F             G     C</chopds>
+<text>Ты один дал мне мир и вдохнул в меня жизнь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>G            C    D             G   D             G</chopds>
+<text>Аллилуйя, Аллилуйя, Аллилуйя,</text>
+<chopds>             F                   E       Am</chopds>
+<text>Мы поём для Тебя, Иисус.</text>
+</blocks>

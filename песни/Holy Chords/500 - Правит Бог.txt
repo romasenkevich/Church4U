@@ -1,0 +1,40 @@
+Hillsong Ukraine — Правит Бог
+Источник: https://holychords.pro/500
+
+==================================================
+
+<blocks>
+<chopds>G  D  C</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>    G          D                 C          G</chopds>
+<text>Святый Бог наш, Святый Бог</text>
+<chopds>D/F#     Em           A         Dsus    D</chopds>
+<text>Всё творение преклонится</text>
+<chopds>G         D       C        G  D/F#</chopds>
+<text>Аллилуйя, аллилуйя</text>
+<chopds>Em       A/C#          Dsus   D</chopds>
+<text>Богу в вышних слава</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>          G/H                C</chopds>
+<text>Буду петь, буду петь,</text>
+<chopds>Esus4  E        C    Dsus   D</chopds>
+<text>Славить, я вечно</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                 G           Em  D</chopds>
+<text>Правит Бог, правит Бог</text>
+<chopds>         G/H  C       G         Dsus   D</chopds>
+<text>В Небесах Святой Господь наш</text>
+<chopds>               Em                Asus</chopds>
+<text>Правит Бог, правит Бог</text>
+<chopds>        A         C    D</chopds>
+<text>Во все века</text>
+</blocks>

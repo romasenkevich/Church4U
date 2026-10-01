@@ -1,0 +1,40 @@
+Виталий Ефремочкин — Воля Твоя
+Источник: https://holychords.pro/136
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Hm                       G</chopds>
+<text>Иисус, преклоняюсь пред Тобой</text>
+<chopds>                    F#m                                                       Hm</chopds>
+<text>Дай Твои мысли, дай Твои чувства мне познать</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>       Hm                                 G</chopds>
+<text>Господь! Пусть воля Твоя,</text>
+<chopds>             F#m                  Hm</chopds>
+<text>Воля Твоя будет во всём!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>        Em                        C</chopds>
+<text>Люблю Тебя, мой Господь</text>
+<chopds>  G                             Em</chopds>
+<text>Люблю Тебя, мой Господь</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- VNL Worship — Любимый Твой [Русский]
+  https://holychords.pro/9421
+- Misty Edwards — Только Иисус [Русский]
+  https://holychords.pro/26537
+- Misty Edwards — Favorite one [Английский]
+  https://holychords.pro/28351
+- BH Tim za slavljenje — Tvoje srce želim [Хорватский]
+  https://holychords.pro/74914

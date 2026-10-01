@@ -1,0 +1,63 @@
+Алексей Каратаев — Дивный Бог
+BPM: 160
+Источник: https://holychords.pro/183
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>F  Gm7                 Eb  F        Gm7            Eb</chopds>
+<text>     Бог всего живого Бог неба и земли.</text>
+<chopds>F          Gm7              Eb     F             Gm7             Eb</chopds>
+<text>     Небеса, моря и горы славят все дела Твои.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Bb                                                             Fsus       F</chopds>
+<text>Дивный Бог, Ты превыше всей земли,</text>
+<chopds>                  Cm           Eb</chopds>
+<text>Ты - Бог Святой ,Святой!</text>
+<chopds>   Bb                                         Fsus    F</chopds>
+<text>Славит вся земля дела Твои,</text>
+<chopds>                  Cm           Eb</chopds>
+<text>Ты - Бог Святой ,Святой!</text>
+<chopds>  Eb                           F    Eb                         F</chopds>
+<text>Вся земля и небеса превозносят Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Радоваться жизни буду с самого утра,</text>
+<text>Тьма меня не одолеет, уповаю на Тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>Cm7            Eb         F</chopds>
+<text>Аллилуйя, Я превозношу Тебя</text>
+<chopds>Cm7               Eb          F</chopds>
+<text>Аллилуйя, славой наполняй меня</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Third Day — God of Wonders [Английский]
+  https://holychords.pro/3676
+- PREO Worship — Бог землі і неба [Украинский]
+  https://holychords.pro/6332
+- Нове Покоління Першотравенськ — Ты чудесен [Русский]
+  https://holychords.pro/25041
+- E-Praise — God Of Wonders [Английский]
+  https://holychords.pro/38701
+- Нове Покоління Першотравенськ — Ты Чудесен [Русский]
+  https://holychords.pro/38722
+- Sonic Praise — God of Wonders [Английский]
+  https://holychords.pro/38868
+- Церква Християн Херсон — Бог чудес [Украинский]
+  https://holychords.pro/48277
+- Божий Дар Київ (God's Gift) — Бог землі і неба [Украинский]
+  https://holychords.pro/63464
+- Third Day — Бог всего живого [Русский]
+  https://holychords.pro/68986

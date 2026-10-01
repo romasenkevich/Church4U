@@ -1,0 +1,58 @@
+Алексей Каратаев — Твоя любовь сильна
+Источник: https://holychords.pro/164
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Gm                     Eb</chopds>
+<text>Господь Ты моя скала</text>
+<chopds>Bb                                          F</chopds>
+<text>Своей рукою держишь Ты меня</text>
+<chopds>   Gm                          Eb   Bb   F</chopds>
+<text>Твоя любовь сильна</text>
+<chopds>Gm                     Eb</chopds>
+<text>Бывает что неверен я</text>
+<chopds>Bb                                            F</chopds>
+<text>Но милость Божья сохранит меня</text>
+<chopds>   Gm                          Eb   Bb   F</chopds>
+<text>Твоя любовь сильна</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Eb        Bb                        F       Cm</chopds>
+<text>Ты во веки все Тот же, я знаю, все Ты можешь</text>
+<chopds>Eb                      Bb                         F                      Cm</chopds>
+<text>Пусть будут слезы в ночи, но утром будет радость</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Пусть бурей сильной бушует шторм</text>
+<text>Я безопасен в имени Твоем.</text>
+<text>Твоя любовь сильна</text>
+<text>Тернист и нелегок путь</text>
+<text>Как много раз хотел я повернуть</text>
+<text>Но так любовь сильна, Твоя, Твоя...</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Eb        Bb                        F       Cm</chopds>
+<text>Ты во веки все Тот же, я знаю, все Ты можешь</text>
+<chopds>Eb                      Bb                         F                      Cm</chopds>
+<text>Пусть будут слёзы в ночи, но утром будет радость</text>
+<chopds>Eb  Bb                         F           Cm</chopds>
+<text>И пусть шумят ветра я уповаю на Тебя.</text>
+<chopds>Eb            Bb                  F          Cm</chopds>
+<text>Я знаю - Ты не оставишь Твоя любовь сильна</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>Eb               Gm                            F</chopds>
+<text>Лишь Ты жизнь мою изменил навсегда мой Бог</text>
+<chopds>Eb               Gm                            F</chopds>
+<text>Лишь Ты жизнь мою изменил навсегда мой Бог</text>
+</blocks>

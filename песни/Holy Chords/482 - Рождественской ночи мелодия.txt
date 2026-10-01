@@ -1,0 +1,64 @@
+Алла Чепикова — Рождественской ночи мелодия
+Источник: https://holychords.pro/482
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>F  Dm  Gm  C</chopds>
+<chopds>F  A  Dm  Bb  C  F</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>       F                                Dm</chopds>
+<text>Рождественской ночи мелодия,</text>
+<chopds>       Gm                           C</chopds>
+<text>Срывается с уст не спеша.</text>
+<chopds>    F               A                   Dm</chopds>
+<text>Летит в высоту звёзд мерцающих,</text>
+<chopds>    Bb           C             F</chopds>
+<text>Поёт и трепещет душа.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>          F       C             Dm</chopds>
+<text>Рождество, О, Рождество!</text>
+<chopds>              Bb               C             F  A</chopds>
+<text>Жизни смыслом наполнит оно.</text>
+<chopds>          Dm       F            Bb  Bbm</chopds>
+<text>Как сияла на небе Звезда,</text>
+<chopds>          F           C                 F</chopds>
+<text>Так хочу я светить для Тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Много песен еще будет спето,</text>
+<text>И поэты поднимут перо.</text>
+<text>И пусть каждый внесёт свою лепту:</text>
+<text>Кто отдаст Ему сердце своё?</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>F  Dm  Gm  C</chopds>
+<chopds>F  A  Dm  Bb  C  F</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Снег искрится на узких тропинках,</text>
+<text>И в прозрачной, ночной тишине.</text>
+<text>Для Спасителя льются ввысь песни,</text>
+<text>В День Рожденья Его на Земле.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Перлина — Рождество [Русский]
+  https://holychords.pro/8424
+- Slavic Trinity Church — Різдвяної ночі мелодія [Украинский]
+  https://holychords.pro/51577

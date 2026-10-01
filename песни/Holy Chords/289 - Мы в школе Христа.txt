@@ -1,0 +1,71 @@
+Lena Isayev — Мы в школе Христа
+Источник: https://holychords.pro/289
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                 E                               H</chopds>
+<text>Мы в школе Христа в ней учимся жить</text>
+<chopds>            A                                      H</chopds>
+<text>В смирении и страхе пред Богом ходить</text>
+<chopds>       E                    C#m</chopds>
+<text>Законы Его во всём соблюдать</text>
+<chopds>            A                               H</chopds>
+<text>Кaк звёзды на небе желаем сиять</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                              E                                C#m</chopds>
+<text>Мы в школе Христа, учитель наш Бог</text>
+<chopds>                      A                                         H</chopds>
+<text>Порою бывает к нам очень Он строг</text>
+<chopds>                             E                                   C#m</chopds>
+<text>Но знаем что любит Он нас без конца</text>
+<chopds>                       A                                   H</chopds>
+<text>Спасения двери открыл в небеса</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Стремись к совершенству, письмом будь Христа</text>
+<text>Без пятен, ошибок, коварства и зла</text>
+<text>Чтобы люди читали, смирялись сердца,</text>
+<text>В письме отрази облик Бога Христа</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Закончим мы школу, труба прозвучит</text>
+<text>И Ангел на небе диплом нам вручит</text>
+<text>Награды получим, окончится труд</text>
+<text>Проблемы земные навеки уйдут, навеки уйдут</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>A H C#</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>F# D#m</chopds>
+<text>Мы в школе Христа, учитель наш Бог</text>
+<chopds>H C#</chopds>
+<text>Порою бывает к нам очень Он строг</text>
+<chopds>F# D#m</chopds>
+<text>Но знаем что любит Он нас без конца</text>
+<chopds>H C#</chopds>
+<text>Спасения двери открыл в небеса</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>H G#m</chopds>
+<text>Мы в школе Христа</text>
+<chopds>F# D#m</chopds>
+<text>Мы в школе Христа</text>
+<chopds>H Hm F#</chopds>
+<text>Мы в школе Христа</text>
+</blocks>

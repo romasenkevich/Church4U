@@ -1,0 +1,42 @@
+Слово Жизни Music — Жизнь свою Тебе я отдаю
+Источник: https://holychords.pro/468
+
+==================================================
+
+<blocks>
+<videlit_line>интро</videlit_line>
+<chopds>Am  F  C  G</chopds>
+<chopds>Та-ра-ра-тарам-тарам</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Am               F                          C    G</chopds>
+<text>Вот я, Господь, перед Тобою</text>
+<chopds>Am            F                       C              G</chopds>
+<text>Как велика цена, что Ты заплатил за меня.</text>
+<chopds>Am             F                   C         G</chopds>
+<text>Веди меня Своей рукою,</text>
+<chopds>Am                  F                            C             G             Am</chopds>
+<text>Вот жизнь моя, возьми, используй её для Себя</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Царь Небес, Ты мой Спаситель!</text>
+<text>Великий Бог пришел отдать свою жизнь за меня.</text>
+<text>За Твою любовь и милость, о Бог,</text>
+<text>Чем могу, Господь, Тебе я воздать?</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds> Am                        F              G</chopds>
+<text>Жизнь свою Тебе я отдаю,</text>
+<chopds>           Am  F           C  G</chopds>
+<text>Ты достоин, достоин!</text>
+<chopds>         Am                   F                     G</chopds>
+<text>Возьми меня и всё, чем я живу,</text>
+<chopds>           Am  F          C  G</chopds>
+<text>Ты достоин, достоин!</text>
+</blocks>

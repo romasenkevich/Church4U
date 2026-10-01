@@ -1,0 +1,36 @@
+Пирс — Вечный свет
+Источник: https://holychords.pro/491
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>G                               D</chopds>
+<text>За густой пеленой наших будничных дел,</text>
+<chopds>Em                                      D                                 C</chopds>
+<text>За сплошной маетой наших будничных дел;</text>
+<chopds>G                                    D</chopds>
+<text>Мы увидеть должны тот сияющий свет,</text>
+<chopds>                 Em                D                            C</chopds>
+<text>Вечный свет, без которого радости нет.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>         G                   D  Em                          E</chopds>
+<text>Я хочу, чтобы в нас этот свет не погас,</text>
+<chopds>Am                                                D</chopds>
+<text>Я мечтаю увидеть сияние глаз,</text>
+<chopds>          G                 D    Em                           E</chopds>
+<text>Я хочу, чтоб исчезли сомненья и страх,</text>
+<chopds>                  Am                                                        D</chopds>
+<text>Чтоб любовь навсегда поселилась в сердцах.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Сквозь унылые тени обид и забот,</text>
+<text>Сквозь тугое сплетенье житейских невзгод;</text>
+<text>Мы услышать должны дивной музыки звук,</text>
+<text>Этот голос любви, покоряющей слух.</text>
+</blocks>

@@ -1,0 +1,65 @@
+Алексей Каратаев — Запад-Восток
+Источник: https://holychords.pro/169
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>D/F#  E/G#    F#m                 A</chopds>
+<text>Иисус, я утопаю, в этом море забвения,</text>
+<chopds>D/F#   E/G#                 F#m                       A</chopds>
+<text>Цепи прошлого сжимают, как же трудно без Тебя.</text>
+<chopds>D                         E                             F#m              A/C#              D</chopds>
+<text>Я не хочу вернуться к прошлой жизни, это мучает меня,</text>
+<chopds>       E                      D</chopds>
+<text>И не даёт мне спать.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Мои грехи так далеки как от запада восток,</text>
+<text>И я стою перед Тобой, милостивый Бог.</text>
+<text>И я всегда хочу быть рядом с Тобой,</text>
+<text>Не остаться без Тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D                                        F#m                      A         E</chopds>
+<text>Иисус, открой мне как далёк от запада восток,</text>
+<chopds>                        Hm                                                           D                   E</chopds>
+<text>Чтоб мне не видеть кем я раньше был, чтоб прошлое навек забыл.</text>
+<chopds>        F#m                                A      E</chopds>
+<text>Я нашёл свой покой у Твоих ног,</text>
+<chopds>                     Hm                          A/C#      D                       E</chopds>
+<text>Ты знаешь как далёк от запада восток, так велика Твоя милость.</text>
+<chopds>F#m   E   F#m   E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Вот новый день и снова в бой, к долгожданной свободе,</text>
+<text>Свою любовь и милость Бог, прошу яви мне сегодня.</text>
+<text>И я всегда хочу быть рядом с Тобой,</text>
+<text>Не остаться без Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>A                           E/G#                                      F#m</chopds>
+<text>Ведь Ты меня омыл, все грехи мои простил,</text>
+<chopds>                                       D</chopds>
+<text>Мне нужен Твой покой чтоб я хоть день ещё прожил.</text>
+<chopds>A                              C#m                               F#m</chopds>
+<text>Я не чувствую Тебя, но я знаю что Ты есть,</text>
+<chopds>                                             D                    F#m     E</chopds>
+<text>Открою сердце для Тебя такой как есть.</text>
+<chopds>                   F#m         E</chopds>
+<text>Я такой как есть.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Casting Crowns — East to West [Английский]
+  https://holychords.pro/14647

@@ -1,0 +1,45 @@
+Вадим Ятковский — Зажигай огонь
+Источник: https://holychords.pro/384
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds> Em           C/E   D/E                  Em</chopds>
+<text>Зажигай огонь у меня внутри,</text>
+<chopds>C               Am                 Hm                  Em</chopds>
+<text>Я хочу гореть светом Божьей любви.</text>
+<chopds>   Em               C/E  D/F#         G</chopds>
+<text>Свои руки к небу я возношу,</text>
+<chopds>C               Am            Hm      C</chopds>
+<text>Иисус Тебе сердце я отдаю</text>
+<chopds>C              Am            Hm     Em</chopds>
+<text>Иисус Тебе сердце я отдаю</text>
+<chopds>Em C/E | Em Hm/E |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em               C/E                     Em                      C/E</chopds>
+<text>Пусть уходят все сомнения и печали прочь.</text>
+<chopds>Em                       C/E                       Em                          C/E</chopds>
+<text>Он пришел, чтоб дать спасение, Он пришел помочь.</text>
+<chopds>D                         A/C#                        C                                        Em</chopds>
+<text>Загорелась на небе звезда, и светом пронзила всю тьму.</text>
+<chopds>D                                A/C#                            C                                 Hsus  H</chopds>
+<text>Знай теперь Иисус рядом всегда, ты только доверься Ему.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Пусть пылает, а не тлеет первая любовь,</text>
+<text>Радость сердце наполняет, благодатью вновь.</text>
+<text>Даже, если небо снова молчит, Бог слышит голос твой,</text>
+<text>Открывай свои уста, не молчи, провозглашай и пой.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Вадим Ятковский — Боже, дай вогню [Украинский]
+  https://holychords.pro/82128

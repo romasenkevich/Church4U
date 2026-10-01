@@ -1,0 +1,42 @@
+Божье прикосновение — Иисус к Тебе иду
+Источник: https://holychords.pro/179
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>             A                 E/G#              F#m                         A</chopds>
+<text>Иней белый на берёзе, под ногами снег скрипит,</text>
+<chopds>        Hm                        A                  Dm/F                 E</chopds>
+<text>А на тёмном небосводе новый год уже спешит.</text>
+<chopds>                A                    E/G#               F#m                      A</chopds>
+<text>В этот праздник новогодний веселиться может тот,</text>
+<chopds>                    Hm                        D/A               G                    Esus   E</chopds>
+<text>В сердце чьём любовь Господня и богатый веры плод.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                   A                    E/G#                F#m              A/C#</chopds>
+<text>Пусть мороз трещит порою, стынут руки на ветру,</text>
+<chopds>              D              A/C#       Hm                    E</chopds>
+<text>Но с горячею душою, Иисус, к Тебе иду.</text>
+<chopds>                   A                    E/G#                F#m              A/C#</chopds>
+<text>Пусть мороз трещит порою, стынут руки на ветру,</text>
+<chopds>              D              A/C#      Hm  E                A</chopds>
+<text>Но с горячею душою, Иисус, к Тебе иду.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Пусть бушует ветер вьюжный, заметая след в саду,</text>
+<text>Нам Спаситель очень нужен в наступающем году.</text>
+<text>В этот праздник новогодний веселиться может тот,</text>
+<text>В сердце чьём любовь Господня и богатый веры плод.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Божье прикосновение — Ісус до тебе йду [Украинский]
+  https://holychords.pro/13420

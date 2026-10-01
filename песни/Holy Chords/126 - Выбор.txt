@@ -1,0 +1,48 @@
+Артём Янский — Выбор
+Источник: https://holychords.pro/126
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>         Em                            Am</chopds>
+<text>Человек душа твоя пуста</text>
+<chopds>              D                                  G</chopds>
+<text>Ты измучен и ищешь утешение.</text>
+<chopds>          Em                                          Am</chopds>
+<text>Говоришь что веришь в Господа</text>
+<chopds>                   H7                                Em</chopds>
+<text>Но ведь вера писанье исполненье.</text>
+<chopds>             E                                          Am</chopds>
+<text>А ты знаешь что на кресте творил</text>
+<chopds>                D                                            G  D</chopds>
+<text>Божий Сын пролил там много крови</text>
+<chopds>            Em                               Am</chopds>
+<text>А ты знаешь ради нас Он жил</text>
+<chopds>                H7                                   Em</chopds>
+<text>И пронзили ради нас Ему ладони.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев: 2р</videlit_line>
+<chopds>          E                                      Am</chopds>
+<text>Выбирай или смерть или жизнь</text>
+<chopds>           D                            G   D</chopds>
+<text>Выбирай или ад или рай</text>
+<chopds>           Em                                    Am</chopds>
+<text>Выбирай с кем по жизни идти</text>
+<chopds>            H7                                Em</chopds>
+<text>Не погибни на грешном пути.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>По жизни Христа ты предавал</text>
+<text>И грехами распинал Его повторно</text>
+<text>За путями ты не наблюдал</text>
+<text>Тебя похоть влекла к себе покорно</text>
+<text>Но не спроста ты слышишь эту весть</text>
+<text>И судьба твоя в этом не виновна</text>
+<text>А сам Бог пребывает прямо здесь</text>
+<text>Говорит приди ко мне с любовью.</text>
+</blocks>

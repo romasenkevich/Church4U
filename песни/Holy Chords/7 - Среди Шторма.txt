@@ -1,0 +1,55 @@
+Reallife band — Среди Шторма
+Источник: https://holychords.pro/7
+
+==================================================
+
+<blocks>
+<videlit_line>интро</videlit_line>
+<chopds>Am  G   F  G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>Am                    G</chopds>
+<text>Когда ветер и волны окружили меня,</text>
+<chopds>F   Dm         G</chopds>
+<text>И нет сил больше для борьбы,</text>
+<chopds>Am              G              Dm                 G</chopds>
+<text>Я устал, я слаб, и остаётся у меня только одно:</text>
+<chopds>        Dm          F    G</chopds>
+<text>Звать имя Твоё.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<chopds>Am                          G</chopds>
+<text>Когда сердце смутилось, и унывает Душа,</text>
+<chopds>F      Dm      G</chopds>
+<text>Взгляну навек я в небеса,</text>
+<chopds>Am                               G</chopds>
+<text>Ты придёшь, Ты спасёшь,</text>
+<chopds>                  Dm                                   G</chopds>
+<text>Протянешь руку Свою ,  скажешь: "Ты не один,</text>
+<chopds>             Dm         F        Dm   G</chopds>
+<text>Тебя я не отпущу"</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>               Dm              Em</chopds>
+<text>Среди шторма и бури я не один,</text>
+<chopds>Am                   F</chopds>
+<text>Я не тону, я иду по волнам,</text>
+<chopds>         Dm                            Em</chopds>
+<text>Твой мир и любовь окружили меня,</text>
+<chopds>Am                       F                      Dm       Gsus4  G</chopds>
+<text>Я не сдаюсь, я иду по волнам.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>Am                                F</chopds>
+<text>Как солнце утром приходит надежда Твоя</text>
+<chopds>Dm                     Em</chopds>
+<text>Я окружен Тобой , Ты вдохнул жизнь в меня.</text>
+</blocks>

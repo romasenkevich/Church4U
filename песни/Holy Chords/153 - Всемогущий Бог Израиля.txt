@@ -1,0 +1,36 @@
+Виталий Ефремочкин — Всемогущий Бог Израиля
+Источник: https://holychords.pro/153
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Am                   C</chopds>
+<text>Всемогущий Бог Израиля,</text>
+<chopds> G                         Dm</chopds>
+<text>Только Ты Живой и Праведный.</text>
+<chopds>Am               C</chopds>
+<text>Я Тебя, Святого Бога,</text>
+<chopds> G                      Dm</chopds>
+<text>Буду славить каждый день!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>  Am                          C</chopds>
+<text>Нет прекрасней, нет другого,</text>
+<chopds> G                   Dm</chopds>
+<text>Нашего Живого Бога.</text>
+<chopds>Am                C</chopds>
+<text>Восседает на престоле,</text>
+<chopds>      G                         Dm</chopds>
+<text>В Нём вся радость и свобода!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Алексей Захаренко — Всемогущий Бог Израиля [Русский]
+  https://holychords.pro/7923
+- Анастасія Тітова — Всемогутній Бог Ізраїля [Украинский]
+  https://holychords.pro/48996

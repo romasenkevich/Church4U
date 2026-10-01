@@ -1,0 +1,72 @@
+Ross Bramirskyy — Живу Тобой
+Источник: https://holychords.pro/325
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Em  C  G  D</chopds>
+<chopds>Em7</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em                                    D</chopds>
+<text>Я доверяю Тебе всю жизнь свою</text>
+<chopds>                                           C                       D</chopds>
+<text>Ты дороже всего с Тобою я всё смогу</text>
+<chopds>Em                                    D</chopds>
+<text>Сердце моё Ты изменил,</text>
+<chopds>                                        C                                  D</chopds>
+<text>Кровью Своей обновил, грехи все простил.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>C                              D</chopds>
+<text>Я пройду через тернии - о,Ты со мной.</text>
+<chopds>C                                                D</chopds>
+<text>Буду смотреть лишь на крест Твой, Спаситель мой.</text>
+<chopds>D</chopds>
+<text>Все, что хочу, Быть с Тобой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Em                            C                                    G         D</chopds>
+<text>Ты показал мне путь через кровь Свою, Иисус к Тебе я бегу</text>
+<chopds>Em                            C                                      G         D</chopds>
+<text>Всё что нужно мне лишь в Тебе я найду, Иисус-себя отдаю.</text>
+<chopds>Em        C            G                              D</chopds>
+<text>Святой, Святой, Ты искупил меня - навеки я Твой!</text>
+<chopds>Em        C            G                        D                          Em</chopds>
+<text>Святой, Святой, Твоя благодать всегда со мной.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Каждая трудность,каждое испытание Ты со мной</text>
+<text>Твоя ЛЮБОВЬ ДЕРЖИТ МЕНЯ</text>
+<text>В Твоих объятиях чувствую покой, слышу голос Твой</text>
+<text>Я всегда с Тобой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<text>Никогда не забуду мой Бог Тебя</text>
+<text>Ты дороже и прекрасней, знаю я.</text>
+<text>Сердце мое ВСЕ ДЛЯ ТЕБЯ</text>
+<chopds>C  D  C  D C  D</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>G                                    D</chopds>
+<text>Моё сердце так томится, Без Тебя мой Бог.</text>
+<chopds>C                                          D</chopds>
+<text>Лишь в Тебе хочу я скрыться, В глубине любви Твоей.</text>
+<chopds>C                            D                                            C</chopds>
+<text>Через боль и смерть Ты смотрел на меня мой Бог</text>
+<chopds>     D                                   Em</chopds>
+<text>У ног Твоих склоняюсь я …</text>
+</blocks>

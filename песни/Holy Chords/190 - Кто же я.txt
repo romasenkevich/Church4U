@@ -1,0 +1,78 @@
+Алексей Каратаев — Кто же я
+Источник: https://holychords.pro/190
+
+==================================================
+
+<blocks>
+<chopds>H  E  G#m  F#</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>              H            H/A#                     G#m</chopds>
+<text>Кто же я, что Царя Вселенной всей</text>
+<chopds>         F#                   E       F#                      E    F#</chopds>
+<text>Волнует боль моя и мир в душе моей?</text>
+<chopds>              H            H/A#                    G#m</chopds>
+<text>Кто же я, что чудесный Божий свет</text>
+<chopds>       F#                      E                F#                          E    F#</chopds>
+<text>Ведет меня всегда, когда мира в сердце нет?</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>             E                       F#             G#m            F#/A#</chopds>
+<text>Не за то, что сделал я, но по милости Твоей.</text>
+<chopds>           G#m          F#/A#           E                            F#</chopds>
+<text>Не за все мои дела Ты любовь даруешь мне.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>H                   H/A#                   G#m</chopds>
+<text>Я - лишь цветок, что расцветает</text>
+<chopds>              F#                 E</chopds>
+<text>И мгновенно увядает.</text>
+<chopds>          F#                         E                F#</chopds>
+<text>Пришел в мир и исчезну, как утренний туман.</text>
+<chopds>H                  H/A#                    G#m</chopds>
+<text>Но Ты мольбам моим внимаешь.</text>
+<chopds>          F#                   E</chopds>
+<text>Если упаду, прощаешь.</text>
+<chopds>             F#                               E                  H  E    G#m   F#</chopds>
+<text>Ты сказал мне, что я  Твой, навсегда, навсегда.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Кто же я, что Всевидящий Господь,</text>
+<text>Простив мои грехи, дарует мне любовь?</text>
+<text>Кто же я, чтобы Бог, смиривший шторм,</text>
+<text>Дарил мне Свой покой, когда вокруг лишь зло?</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Casting Crowns — Who am I [Английский]
+  https://holychords.pro/1554
+- Father's House Worship — Хто я є [Украинский]
+  https://holychords.pro/4164
+- Малин — Хто я, що Господь землі й небес [Украинский]
+  https://holychords.pro/24791
+- Юлія Шутенко — Хто є я [Украинский]
+  https://holychords.pro/30572
+- Дім Євангелія Рівне — Хто є я [Украинский]
+  https://holychords.pro/40719
+- Юлія Кучинська — Хто я є [Украинский]
+  https://holychords.pro/43977
+- Casting Crowns — Who Am I [Английский]
+  https://holychords.pro/48338
+- Алексей Каратаев — Jak to jest, że wszechświata Władca Pan [Польский]
+  https://holychords.pro/60802
+- Відроджені — Хто є я [Украинский]
+  https://holychords.pro/71990
+- Casting Crowns — Хто я, що Господь землі й небес [Украинский]
+  https://holychords.pro/75958
+- Тора (Македонија) — Кој сум јас [Македонский]
+  https://holychords.pro/80215

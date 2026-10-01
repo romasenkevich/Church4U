@@ -1,0 +1,44 @@
+New Beginnings Worship — Воскрес воскрес
+Источник: https://holychords.pro/34
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>Hm                  A                     Hm                                           A</chopds>
+<text>Его нет во гробе, Он воскрес, смертью смерть попрал,</text>
+<chopds>Hm                         A                                 Hm                      A</chopds>
+<text>И всех кого избрал и к Себе призвал тех и оправдал.</text>
+<chopds>Hm                 G            A                    Hm           G               A</chopds>
+<text>Наполнил жизнь, светом любви, мир и радость дал,</text>
+<chopds>Hm                       A                                 Hm             G        A</chopds>
+<text>Я буду вечно жить с Тобой мой Бог, Ты мне обещал.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>           G                           D</chopds>
+<text>Воскрес, воскрес, вовеки живой</text>
+<chopds>         Em                             Hm</chopds>
+<text>Воскрес, Воскрес, Иисус.</text>
+<chopds>      G                        D</chopds>
+<text>Теперь всегда я буду с Тобой,</text>
+<chopds>        Em               A</chopds>
+<text>Я смерти не боюсь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Когда-то мертвой жизнь была моя, во тьме я погибал.</text>
+<text>Но светом жизни Ты пришел, Господь любовью Ты объял.</text>
+<text>Теперь живу, люблю пою, и славлю я Тебя</text>
+<text>Спасен Тобою Мой Господь, надежда Ты Моя.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Игорь Сидоров — Воскрес [Русский]
+  https://holychords.pro/10149
+- New Beginnings Worship — Воскрес, воскрес [Украинский]
+  https://holychords.pro/49163

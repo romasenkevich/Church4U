@@ -1,0 +1,38 @@
+Fonki Music — Рай в серці моїм
+Источник: https://holychords.pro/378
+
+==================================================
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds>H        D#m G#m</chopds>
+<chopds>О-о-о-о-оо,</chopds>
+<chopds> E         F#         H</chopds>
+<text>Рай в серці моїм,</text>
+<chopds>H        D#m G#m</chopds>
+<chopds>О-о-о-о-оо,</chopds>
+<chopds> E         F#         H</chopds>
+<text>Рай в серці моїм.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds> H                 F#</chopds>
+<text>Бог такий добрий,</text>
+<chopds>F#                  H</chopds>
+<text>Бог такий добрий,</text>
+<chopds>  H                E</chopds>
+<text>Бог такий добрий,</text>
+<chopds>         H  F#           H</chopds>
+<text>Він любить мене.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Bob Fitts — Heaven Is In My Heart [Английский]
+  https://holychords.pro/3678
+- Bob McKay — Heaven Is In My Heart [Английский]
+  https://holychords.pro/39553
+- Игорь Мельничук — В сердце моем - Господь [Русский]
+  https://holychords.pro/39593

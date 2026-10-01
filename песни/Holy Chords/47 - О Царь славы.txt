@@ -1,0 +1,53 @@
+Размер неба — О Царь славы
+BPM: 148
+Источник: https://holychords.pro/47
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>     Dm                                   Bb</chopds>
+<text>Твое лицо, как солнца свет</text>
+<chopds>                         F                                   Am</chopds>
+<text>Иисус, прекрасен Ты, о, как прекрасен Ты.</text>
+<chopds>         Dm                            Bb</chopds>
+<text>В Твоих глазах горит огонь</text>
+<chopds>                         F                                    Am</chopds>
+<text>Иисус, прекрасен Ты, о, как прекрасен Ты.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Dm                        Bb</chopds>
+<text>О, Царь Славы, будь прославлен.</text>
+<chopds>G/H                       Dm       Bb  G/H   F/C</chopds>
+<text>О, Царь Славы, будь прославлен.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Твой Голос словно водопад</text>
+<text>Иисус, Ты сильный Бог, Иисус, Ты сильный Бог.</text>
+<text>И звезды держишь Ты в руках</text>
+<text>Иисус, Ты сильный Бог, Иисус, Ты сильный Бог.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Ольга Маріна — Царь славы [Русский]
+  https://holychords.pro/758
+- Jesus Culture — King of Glory [Английский]
+  https://holychords.pro/1803
+- Скиния Worship — Царь славы [Русский]
+  https://holychords.pro/7903
+- Церковь Истина — Ты Царь славы [Русский]
+  https://holychords.pro/21681
+- Feiert Jesus! — Herr der Ehre [Немецкий]
+  https://holychords.pro/26426
+- Християнська Божа Церква — Славний Царю [Украинский]
+  https://holychords.pro/50198
+- Церква Ісуса Назарянина — О, Цар слави! [Украинский]
+  https://holychords.pro/52786
+- Неизвестен — Цар На Слава [Македонский]
+  https://holychords.pro/80166

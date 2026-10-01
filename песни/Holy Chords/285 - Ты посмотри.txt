@@ -1,0 +1,44 @@
+Lena Isayev — Ты посмотри
+Источник: https://holychords.pro/285
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em                         D</chopds>
+<text>Ты посмотри туда в небеса,</text>
+<chopds>      D                                H</chopds>
+<text>Туда где Христос живёт.</text>
+<chopds>Em                           D</chopds>
+<text>Ты посмотри, в высь в небеса,</text>
+<chopds>         D                 H</chopds>
+<text>Где родина твоя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Am                D                  G           C</chopds>
+<text>Там в небесах мой Иисус живёт,</text>
+<chopds>Am                      D              G</chopds>
+<text>К нему стремлюсь я туда,</text>
+<chopds>C                 D         G                C</chopds>
+<text>Что бы мне душой отдохнуть,</text>
+<chopds>Am     Hm               Em</chopds>
+<text>В небесах у Творца.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Сияет свет, там грёз больше нет,</text>
+<text>Все слёзы Бог отрёк.</text>
+<text>Изменимся мы во славе Отца,</text>
+<text>Не будет больше зла.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>И там далеко, где мир царит,</text>
+<text>Где радость без конца.</text>
+<text>Скоро встречу Тебя мой Иисус дорогой,</text>
+<text>И буду там всегда.</text>
+</blocks>

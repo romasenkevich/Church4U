@@ -1,0 +1,62 @@
+Дмитрий Шлетгауэр — Я люблю тебя
+Источник: https://holychords.pro/257
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>D</chopds>
+<text>Я украшу твой мир цветами</text>
+<chopds>Em</chopds>
+<text>И тебя обниму руками</text>
+<chopds>G                    Hm</chopds>
+<text>Я люблю тебя</text>
+<chopds>D</chopds>
+<text>Для тебя напишу куплеты</text>
+<chopds>Em</chopds>
+<text>Расскажу свои секреты</text>
+<chopds>G                   Hm</chopds>
+<text>Я люблю тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>A                                       Hm</chopds>
+<text>Весь этот мир не знает, весь этот мир не слышал</text>
+<chopds>G                                         D</chopds>
+<text>Как велика любовь моя</text>
+<chopds>Hm                                  G</chopds>
+<text>Весь этот мир узнает, весь этот мир услышит</text>
+<chopds>Em                                          A</chopds>
+<text>Как я люблю, люблю тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Для тебя наполню море</text>
+<text>Подниму до неба горы</text>
+<text>Я люблю тебя</text>
+<text>Понесу на крыльях ветра</text>
+<text>И возьму тебя на небо</text>
+<text>Я люблю тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>D</chopds>
+<text>Этот день любви, этот день любви,</text>
+<chopds>Em</chopds>
+<text>Этот день любви, этот день любви,</text>
+<chopds>G                                                       Hm</chopds>
+<text>Этот день любви, запомнишь ты.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Растворю твои болезни,</text>
+<text>И твое наполню сердце.</text>
+<text>Я люблю тебя.</text>
+<text>Ты тревоги все забудешь,</text>
+<text>И всегда со Мною будешь.</text>
+<text>Я люблю тебя.</text>
+</blocks>

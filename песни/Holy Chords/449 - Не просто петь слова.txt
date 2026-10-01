@@ -1,0 +1,17 @@
+Слово Жизни Music — Не просто петь слова
+Источник: https://holychords.pro/449
+
+==================================================
+
+<blocks>
+<chopds>G#m           H             G#m     H</chopds>
+<text>Дай мне сердце Твоё</text>
+<chopds>G#m            H             G#m     H</chopds>
+<text>Дай мне мысли Твои</text>
+<chopds>G#m                            H                                G#m   H</chopds>
+<text>Помоги идти все глубже, глубже в Тебе</text>
+<chopds>E                             H                                           F#</chopds>
+<text>Не просто говорить, не просто петь слова</text>
+<chopds>                                        C#                   E</chopds>
+<text>Не просто ждать, я жажду сердцем!</text>
+</blocks>

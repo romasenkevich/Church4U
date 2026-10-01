@@ -1,0 +1,60 @@
+Hillsong Ukraine — Ты знаешь
+Источник: https://holychords.pro/308
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Hm                                                   E            D</chopds>
+<text>Весь мир Ты держишь на ладони своей,</text>
+<chopds>Hm                                     E                  D</chopds>
+<text>И по кусочкам Ты собрал наши жизни все.</text>
+<chopds>Hm                                    E                           D</chopds>
+<text>Ты оживил нас и открыл нам Свой план,</text>
+<chopds>Hm                                                           E                D</chopds>
+<text>И держишь нас, Ты держишь в крепких руках.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>Hm                                      E                      D</chopds>
+<text>Теперь всегда возглашать будем громко всем,</text>
+<chopds>Hm                                     E                   D</chopds>
+<text>Мы без конца возглашать будем о Тебе,</text>
+<chopds>Hm                                                    E</chopds>
+<text>Ты знаешь, ведь знаешь для нас Ты Свой план,</text>
+<chopds>Hm                                                    A                       D</chopds>
+<text>Ты знаешь, ведь знаешь для нас Ты Свой план.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>      Hm                              D                E</chopds>
+<text>И всё в нас Твоё, в Тебе и доверяем мы,</text>
+<chopds>      Hm                                    D                   E</chopds>
+<text>И всё в нас Твоё, - ведь мы Твои на вечно,</text>
+<chopds>      Hm                              D                 E</chopds>
+<text>И всё в нас Твоё, в Тебе, и доверяем мы,</text>
+<chopds>Hm                                                         D                       E</chopds>
+<text>Ведь знаешь, ведь знаешь для нас Ты Свой план.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>И нам не нужно наслаждения мирских,</text>
+<text>Не поддадимся по желанию мы плотских,</text>
+<text>Всё что блестит сейчас на этой земле,</text>
+<text>Нельзя сравнить с Благодатью Твоей.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>  Hm                         D</chopds>
+<text>Огонь в нас зажигаешь,</text>
+<chopds>          A                        E</chopds>
+<text>С Твоею верой стучат сердца в нас.</text>
+<chopds>     Hm                               D</chopds>
+<text>Любовь Твою мы желаем,</text>
+<chopds>        A                                       E</chopds>
+<text>Живём мы с целью, с Твоею целью.</text>
+</blocks>

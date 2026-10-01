@@ -1,0 +1,59 @@
+Алексей Каратаев — Как не славить Тебя
+BPM: 208
+Источник: https://holychords.pro/184
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                Bb                              F/A</chopds>
+<text>У песни нет конца, что звучит в сердцах</text>
+<chopds>     Gm   F/A  Bb   Eb</chopds>
+<text>Душа Творцу поет,</text>
+<chopds>                     Bb                                      F/A</chopds>
+<text>И если придёт вдруг шторм, верю я спасен</text>
+<chopds>     Gm  F/A  Bb      Eb</chopds>
+<text>Меня Господь ведёт</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Bb                                                      F</chopds>
+<text>Как удержать мне песню хвалы?</text>
+<chopds>                Eb           Bb/D Eb F</chopds>
+<text>Как я могу не воспеть, о великой любви?</text>
+<chopds>Bb                                                          F</chopds>
+<text>Как мне молчать, не славить Тебя?</text>
+<chopds>                    Eb                      Bb/D      Eb                      F                       Bb</chopds>
+<text>Ведь велика любовь Творца и поют славу Тебе наши сердца</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Я подниму глаза, не страшен ночи мрак,</text>
+<text>Знаю я мой Бог со мной,</text>
+<text>С Тобою Господь пройду сквозь горе и беду,</text>
+<text>Славлю Тебя, Спаситель мой!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>      Cm7               Bb/D                      Eb              F</chopds>
+<text>Я пою даже в трудный час, пою, когда победил.</text>
+<chopds>      Cm7            Bb/D                         Eb                        F</chopds>
+<text>Я пою, когда сбился с пути, и упал вновь без сил,</text>
+<chopds>      Cm7                 Bb/D                                Eb              F</chopds>
+<text>Я пою, ведь поднимешь Ты, не оставишь меня</text>
+<chopds>      Cm7                 Bb/D                                  Eb                 F</chopds>
+<text>Я пою ведь Ты слышишь, Господь когда взываю я</text>
+<chopds>             Cm7               Bb/D           Eb                                  F</chopds>
+<text>Даже в самый последний час будет песнь на устах</text>
+<chopds>      Cm7                  Bb/D                  Eb                F</chopds>
+<text>Ведь я знаю, что буду петь Тебе на небесах!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Chris Tomlin — How Can I Keep From Singing [Английский]
+  https://holychords.pro/25545

@@ -1,0 +1,77 @@
+Влад Фонки — Пришло Рождество
+Источник: https://holychords.pro/421
+
+==================================================
+
+<blocks>
+<videlit_line>интро</videlit_line>
+<chopds>H  E  C#m  E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>      H</chopds>
+<text>И вот опять снегом белым зима вокруг всё одела</text>
+<chopds>     E</chopds>
+<text>Опять на сердце так светло в окно стучится Рождество</text>
+<chopds>C#m                                         E</chopds>
+<text>Ведь оно звездой засияет и надежду миру подарит</text>
+<chopds>H</chopds>
+<text>Сердца наполнит вновь что любовь пришла к нам вновь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>G#m        E                        H                   F#</chopds>
+<text>Она зимы растопит лёд свет среди темноты зажжёт</text>
+<chopds>G#m         E                            H</chopds>
+<text>Согреет душу, жизнь подарит тем кто верит.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>             H</chopds>
+<text>Пришло Рождество вся земля поёт, о Христе поёт</text>
+<chopds>             E</chopds>
+<text>Пришло Рождество мы откроем дверь для него теперь</text>
+<chopds>          C#m</chopds>
+<text>Пришло Рождество</text>
+<chopds>         E                                          H</chopds>
+<text>На землю пришло Рождество</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Смех и радость повсюду и так легко верить в чудо</text>
+<text>А чудо рядом, чудо здесь Иисус Христос Пришёл с небес</text>
+<text>Что бы дать спасение всем людям давай Его славить мы будем,</text>
+<text>Мы будем</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<text>Так Бог людей всех возлюбил что миру Сына подарил</text>
+<text>Что б каждый кто в Него поверил мил вовеки</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<text>Святый святый святый, Бог с небес пришёл.</text>
+<text>Нам рожден Спаситель в ночь на Рождество.</text>
+<text>Святый святый святый, Бог с небес пришёл.</text>
+<text>Нам рожден Спаситель в ночь на Рождество.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- TobyMac — Christmas This Year [Английский]
+  https://holychords.pro/12027
+- M.Worship — В Ночь На Рождество [Русский]
+  https://holychords.pro/25422
+- Эдем — Пришло Рождество [Русский]
+  https://holychords.pro/33378
+- SW YOUTH — Різдво знов прийшло [Украинский]
+  https://holychords.pro/64131
+- TobyMac — І знов на Різдво [Украинский]
+  https://holychords.pro/77900

@@ -1,0 +1,78 @@
+Hillsong Ukraine — Скоро Он придёт
+Источник: https://holychords.pro/111
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>    D                                  Hm</chopds>
+<text>Скоро Он придёт, вернётся Царь мой</text>
+<chopds>       G                                         Em</chopds>
+<text>В праведность одет, в венце Любви.</text>
+<chopds>    D                                     Hm</chopds>
+<text>Стану вдруг как Он при этой встрече</text>
+<chopds>   G       A             D</chopds>
+<text>Скоро Он придёт.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Скоро Он придёт и я отправлюсь</text>
+<text>В Дом, что сотворил Он для меня.</text>
+<text>Там где грех мой стёрт, позор забыт мой-</text>
+<text>Скоро Он придёт.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>          A/C#            G            D</chopds>
+<text>Буду я с тем, Кого люблю,</text>
+<chopds>   A      Hm   G    D</chopds>
+<text>Его лицо увижу.</text>
+<chopds>       A/C#                 Hm  A     G</chopds>
+<text>И душа вдруг покой найдёт,</text>
+<chopds>   Em     A            D</chopds>
+<text>Скоро Он придёт.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Скоро Он придёт, увижу трон я,</text>
+<text>Ангелов и старцев вокруг Него.</text>
+<text>Там венцы свои пред Ним склоню я,</text>
+<text>Скоро Он придёт.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>         Em              A</chopds>
+<text>Сейчас Его не вижу,</text>
+<chopds>          D                      Hm</chopds>
+<text>Но знаю - Он во мне.</text>
+<chopds>Em                              D</chopds>
+<text>Агнец-Иисус Христос,</text>
+<chopds>                       A             G</chopds>
+<text>Господь небес всех.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>   Em   A             Hm</chopds>
+<text>Скоро Он придёт.</text>
+<chopds>   Em   A             Hm</chopds>
+<text>Скоро Он придёт.</text>
+<chopds>   Em   A              D</chopds>
+<text>Скоро Он придёт.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Ukraine — Скоро прийде Він [Украинский]
+  https://holychords.pro/41814
+- Hillsong United — Soon [Английский]
+  https://holychords.pro/41815
+- Brooke Ligertwood — Soon [Английский]
+  https://holychords.pro/46919
+- Brooke Ligertwood — Soon ∞ [Английский]
+  https://holychords.pro/62261

@@ -1,0 +1,101 @@
+Слово Жизни Music — Отче наш
+BPM: 130
+Источник: https://holychords.pro/197
+
+==================================================
+
+<blocks>
+<videlit_line>Припев: х4</videlit_line>
+<chopds>G#m     G#m    H     F#/Bb</chopds>
+<chopds>О-о-о-о</chopds>
+<chopds>C#m      G#m    H    F#/Bb</chopds>
+<chopds>О-о-о-о</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>G#m                                              H</chopds>
+<text>Отче наш, сущий на небесах, да придет царствие Твоё, Бог!</text>
+<chopds>G#m                                               H</chopds>
+<text>Да святится имя Твоё вовек! И да будет Твоя воля всегда!</text>
+<chopds>C#m                                G#m             H                                        F#</chopds>
+<text>Всё для славы Твоей мы отдаём: все таланты, мысли, наши дела!</text>
+<chopds>C#m                   G#m               H                                     F#</chopds>
+<text>Радикально Тобою живем, и поют все вместе наши сердца</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев: х2</videlit_line>
+<chopds>G#m     G#m    H     F#</chopds>
+<chopds>О-о-о-о</chopds>
+<chopds>C#m      G#m    H    F#</chopds>
+<chopds>О-о-о-о</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>G#m                                              H</chopds>
+<text>Отче наш, сущий на небесах, да придёт царствие Твоё, Бог!</text>
+<chopds>G#m                                               H</chopds>
+<text>Да святится имя Твоё вовек! И да будет Твоя воля всегда!</text>
+<chopds>C#m                                G#m             H                                        F#</chopds>
+<text>Громче наших слов - наши дела, пусть наша жизнь отражает Тебя!</text>
+<chopds>C#m                   G#m               H                                     F#</chopds>
+<text>За Тобою мы без страха пойдём, и поют все вместе наши сердца</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев: х4</videlit_line>
+<chopds>G#m     G#m    H     F#</chopds>
+<chopds>О-о-о-о</chopds>
+<chopds>C#m      G#m    H    F#</chopds>
+<chopds>О-о-о-о</chopds>
+<chopds>C#m      G#m    H    F#</chopds>
+<chopds>О-о-о-о</chopds>
+<chopds>C#m      G#m    H    F#</chopds>
+<chopds>О-о-о-о</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж: х2</videlit_line>
+<chopds>   E                                           G#m</chopds>
+<text>Жизнь моя в руках Твоих, Ты Создатель всей земли</text>
+<chopds>                       H                      F#</chopds>
+<text>Возьми меня, Бог, вот он я</text>
+<chopds>   E                                            G#m</chopds>
+<text>Пусть услышат все вокруг, пусть узнают, что Ты Царь</text>
+<chopds>                        H                   F#</chopds>
+<text>Мы будем петь и достигать!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев: х4</videlit_line>
+<chopds>E      G#m    H    F#</chopds>
+<chopds>О-о-о-о</chopds>
+<chopds>C#m      G#m    H    F#</chopds>
+<chopds>О-о-о-о</chopds>
+<chopds>C#m      G#m    H    F#</chopds>
+<chopds>О-о-о-о</chopds>
+<chopds>C#m      G#m    H    F#</chopds>
+<chopds>О-о-о-о</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка: х1</videlit_line>
+<chopds>G#m                                              H</chopds>
+<text>Отче наш, сущий на небесах, да придёт царствие Твоё, Бог!</text>
+<chopds>G#m                                               H</chopds>
+<text>Да святится имя Твоё вовек! И да будет Твоя воля всегда!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Слово Жизни Music — Отче наш [Русский]
+  https://holychords.pro/2042
+- Влад Фонки — Отче наш (REMIX) [Русский]
+  https://holychords.pro/8900
+- Слово Жизни Music — Отче наш (Rock Version) [Русский]
+  https://holychords.pro/82833
+- Слово Жизни Music — Отче наш [Украинский]
+  https://holychords.pro/84764

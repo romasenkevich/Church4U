@@ -1,0 +1,34 @@
+Виталий Ефремочкин — Песня небес
+Источник: https://holychords.pro/83
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C#m        A                  C#m                       H</chopds>
+<text>Спасение в руках Твоих, о мой Господь</text>
+<chopds>C#m          A                      C#m                  H      C#m   A   C#m  H</chopds>
+<text>Ты восседаешь на престоле в славе и хвале.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>    A            H    C#m     A                     H         C#m</chopds>
+<text>С ангелами поём, славим мы вместе с небесами</text>
+<chopds>  A                   H         C#m              A      H    C#m</chopds>
+<text>Вечный и славный Он - Наш Бог.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>    A  H  C#m    A  H  C#m</chopds>
+<text>Святой,       Святой</text>
+<chopds>    A  H  C#m    A  H  C#m</chopds>
+<text>Святой,       Святой</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Достоин только Агнец Божий принять</text>
+<text>Власть и силу, мудрость, славу, всю хвалу и честь.</text>
+</blocks>

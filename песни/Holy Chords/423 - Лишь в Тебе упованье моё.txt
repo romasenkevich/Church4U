@@ -1,0 +1,34 @@
+Слово Жизни Music — Лишь в Тебе упованье моё
+Источник: https://holychords.pro/423
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Hm            A/C#      D             G</chopds>
+<text>Лишь в Тебе упованье моё,</text>
+<chopds>Hm            A/C#  D        G</chopds>
+<text>Лишь  в  Тебе  сила моя,</text>
+<chopds>Hm  A/C#        D        Em                  G</chopds>
+<text>Одного прошу – используй меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>Em                   D             A</chopds>
+<text>Нет сил, но Ты поведёшь за Собой,</text>
+<chopds>Em                        D              A</chopds>
+<text>Голос Твой не даст сойти с пути,</text>
+<chopds>Em                  D             A             Em</chopds>
+<text>Так хочу исполнить волю Твою</text>
+<chopds>   G             A</chopds>
+<text>Дай мне сил</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>    Hm     F#m              G                A</chopds>
+<text>Идти, идти… За Тобой, За Тобой…</text>
+<chopds>    Hm     F#m              G                A</chopds>
+<text>Идти, идти… За Тобой, За Тобой…</text>
+</blocks>

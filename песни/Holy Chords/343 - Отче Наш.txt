@@ -1,0 +1,122 @@
+Посольство Божье Симферополь — Отче Наш
+Источник: https://holychords.pro/343
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>A  C#m  F#m  G#m</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C#m                               G#m</chopds>
+<text>Отче Наш, Сущий на Небесах,</text>
+<chopds>H                               F#m</chopds>
+<text>Да, святится Имя Твоё.</text>
+<chopds>C#m                                         G#m</chopds>
+<text>Жизнь мою держишь в Своих руках,</text>
+<chopds>H                                             F#m</chopds>
+<text>Мир вокруг на ладонях Твоих.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>  A                              C#m</chopds>
+<text>Тайное желание в сердце Ты Своём сокрыл,</text>
+<chopds> F#m                                 G#m</chopds>
+<text>Кто увидит боль Твою за вселенную?</text>
+<chopds>   A                                C#m</chopds>
+<text>Цепи ада разорвал, выкуп смерти заплатил,</text>
+<chopds>   F#m                                  G#m</chopds>
+<text>Время Царства Твоего, Царство Твоё пришло!</text>
+</blocks>
+
+<blocks>
+<videlit_line>instrumental</videlit_line>
+<chopds>|  C#m  |  H  A  |  G#m  F#m  |  G#m |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>C#m                                            G#m</chopds>
+<text>Голос Свой поднимал за меня, молясь,</text>
+<chopds>H                                                F#m</chopds>
+<text>Ко кресту руки пригвождены.</text>
+<chopds>C#m                                       G#m</chopds>
+<text>Не могу промолчать о Твоей любви,</text>
+<chopds>H                                     F#m</chopds>
+<text>На земле Тебе славу верну!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>  A                              C#m</chopds>
+<text>Тайное желание в сердце Ты Своём сокрыл,</text>
+<chopds> F#m                                 G#m</chopds>
+<text>Кто увидит боль Твою за вселенную?</text>
+<chopds>   A                                C#m</chopds>
+<text>Цепи ада разорвал, выкуп смерти заплатил,</text>
+<chopds>   F#m                                  G#m</chopds>
+<text>Время Царства Твоего, Царство Твоё пришло!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                   C#m                H                  A</chopds>
+<text>Да, будет воля Твоя! Да, будет слава Твоя!</text>
+<chopds>G#m           F#m                       G#m</chopds>
+<text>Да, будет сила Твоя на земле людей!</text>
+<chopds>                C#m                      H                A</chopds>
+<text>Я - твои руки, Господь! Я - Твои ноги, Господь!</text>
+<chopds>G#m         F#m                            G#m</chopds>
+<text>Голосом буду Твоим, чтобы Царство Твоё пришло!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<chopds>C#m                                     G#m</chopds>
+<text>Дай мне быть сыном Твоим, Господь!</text>
+<chopds>H                                                      F#m</chopds>
+<text>Сердце Отца для меня всех дороже.</text>
+<chopds>C#m                                                  G#m</chopds>
+<text>Буду жить, чтоб исполнить мечту Твою,</text>
+<chopds>H                                                       F#m</chopds>
+<text>Царство Твоё на земле, как на Небе.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Iota worship — Отче Наш [Русский]
+  https://holychords.pro/2658
+- Скиния Worship — Отче Наш Сущий на Небесах [Русский]
+  https://holychords.pro/10091
+- Спасіння Вишневе — Отче Наш [Русский]
+  https://holychords.pro/14809
+- Нотки — Отче наш [Украинский]
+  https://holychords.pro/27604
+- Скиния Worship — Хай буде воля Твоя (Отче наш) [Украинский]
+  https://holychords.pro/29671
+- Новый Завет NTWorship — Отче Наш, Сущий на Небесах [Русский]
+  https://holychords.pro/33124
+- Неизвестен — Отче наш [Украинский]
+  https://holychords.pro/41158
+- Скиния Worship — Отче наш, що існує на небесах [Украинский]
+  https://holychords.pro/41902
+- Белый Ангел — Отче Наш [Русский]
+  https://holychords.pro/44823
+- SFGC Music, Hartville, Ohio — Отче наш [Украинский]
+  https://holychords.pro/47284
+- Посольство Божье Симферополь — Отче наш [Украинский]
+  https://holychords.pro/49827
+- Скиния Worship — Отче наш, що є на небесах [Украинский]
+  https://holychords.pro/51678
+- H.Worship — Отче наш, Ти є на небесах [Украинский]
+  https://holychords.pro/52309
+- Церква Ісуса Назарянина — Отче Наш, що є на Небесах [Украинский]
+  https://holychords.pro/52841
+- Spasinnya Music — Отче Наш [Украинский]
+  https://holychords.pro/75945
+- Smotrych Worship — Отче наш [Украинский]
+  https://holychords.pro/85809

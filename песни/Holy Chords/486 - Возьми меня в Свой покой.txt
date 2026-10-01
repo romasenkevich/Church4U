@@ -1,0 +1,52 @@
+Денис Никитин — Возьми меня в Свой покой
+Источник: https://holychords.pro/486
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>     A                              E             F#m            D</chopds>
+<text>В облаках Твоей любви таю</text>
+<chopds>      A                             E                             F#m         D</chopds>
+<text>Невозможно без Тебя я без Тебя скучаю</text>
+<chopds>       A                      E                 F#m        D</chopds>
+<text>Знаю я Твои глаза видят сердце</text>
+<chopds>        A                         E                    F#m                               D</chopds>
+<text>От Твоей любви Иисус мне никуда не деться</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                         A                  E</chopds>
+<text>Возьми меня в Свой покой</text>
+<chopds>                      F#m            D</chopds>
+<text>В Себе укрой обними</text>
+<chopds>                          A                     E</chopds>
+<text>Возьми меня не отпускай</text>
+<chopds>                    F#m         D</chopds>
+<text>Крепче держи меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>В облаках Твоей любви таю</text>
+<text>Невозможно без Тебя я без Тебя скучаю</text>
+<text>Знаю я Твои глаза видят сердце</text>
+<text>От Твоей любви Иисус мне никуда не деться</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>    D                  A           E</chopds>
+<text>Крепче держи Иисус моя скала</text>
+<chopds>F#m                                 D</chopds>
+<text>Иисус моя любовь</text>
+<chopds>D                     E               F#m</chopds>
+<text>Даже если все оставят меня</text>
+<chopds>   Hm                E                F#m</chopds>
+<text>Ты будешь верным всегда</text>
+<chopds>   D                 E             A                  F#m</chopds>
+<text>Не выпускай из рук Своих меня</text>
+<chopds>    D                 Hm  E</chopds>
+<text>Никогда, никогда</text>
+</blocks>

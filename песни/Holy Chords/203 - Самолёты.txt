@@ -1,0 +1,52 @@
+МеждуПрочим — Самолёты
+Источник: https://holychords.pro/203
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     A</chopds>
+<text>Каждый день улетают самолёты,</text>
+<chopds>                    E</chopds>
+<text>Каждый час уезжают поезда,</text>
+<chopds>            H</chopds>
+<text>Ну, а я - останусь с Иисусом</text>
+<chopds>             A           H       E</chopds>
+<text>Навсегда, навсегда, навсегда.</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>                    A</chopds>
+<text>В мире много суеты,</text>
+<chopds>          E</chopds>
+<text>От неё устанешь ты.</text>
+<chopds>                H</chopds>
+<text>Только Бог даёт покой</text>
+<chopds>             A           H       E</chopds>
+<text>Любящей своей рукой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<chopds>           A</chopds>
+<text>Доверяй Ему всегда -</text>
+<chopds>           E</chopds>
+<text>Не покинет никогда.</text>
+<chopds>           H</chopds>
+<text>Он отдал всю жизнь Свою,</text>
+<chopds>                A            H           E</chopds>
+<text>Чтобы был ты с Ним в раю.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 Куплет</videlit_line>
+<chopds> A</chopds>
+<text>Никогда не унывай,</text>
+<chopds>E</chopds>
+<text>В небе есть заветный край.</text>
+<chopds>H</chopds>
+<text>Ты в него всегда смотри,</text>
+<chopds>                 A        H         E</chopds>
+<text>Помощь Господа прими.</text>
+</blocks>

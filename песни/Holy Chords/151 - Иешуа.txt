@@ -1,0 +1,86 @@
+Виталий Ефремочкин — Иешуа
+BPM: 140
+Источник: https://holychords.pro/151
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>     Dm  Am</chopds>
+<text>Иешуа</text>
+<chopds>       Bb  C  Dm</chopds>
+<text>Иешуа</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>   Dm                               Am</chopds>
+<text>Приходи ко мне, Господь мой,</text>
+<chopds>  Bb            C            Dm</chopds>
+<text>Мой Возлюбленный.</text>
+<chopds>   Dm                           Am</chopds>
+<text>Ждёт Тебя Твоя Невеста,</text>
+<chopds>                      Bb     C            Dm</chopds>
+<text>Церковь ждёт Тебя, гряди.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Инструментал</videlit_line>
+<chopds>О-О-О-О</chopds>
+<chopds>Dm  C  G/H  Bb x2</chopds>
+<chopds>Dm</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>     Em  Hm</chopds>
+<text>Иешуа</text>
+<chopds>       C  D  Em</chopds>
+<text>Иешуа</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>   Em                               Hm</chopds>
+<text>Приходи ко мне, Господь мой,</text>
+<chopds>  C            D            Em</chopds>
+<text>Мой Возлюбленный.</text>
+<chopds>   Em                           Hm</chopds>
+<text>Ждёт Тебя Твоя Невеста,</text>
+<chopds>                      C     D            Em</chopds>
+<text>Церковь ждёт Тебя, гряди.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Ольга Маріна — Иешуа [Русский]
+  https://holychords.pro/774
+- Краеугольный камень Челябинск — Иешуа [Русский]
+  https://holychords.pro/27664
+- Неизвестен — Иешуа [Русский]
+  https://holychords.pro/32063
+- NG Band Riga — Иешуа [Русский]
+  https://holychords.pro/32898
+- Анастасия Зиновкина — Иешуа (Live) [Русский]
+  https://holychords.pro/43830
+- Fernandinho — Yeshua [Португальский]
+  https://holychords.pro/43831
+- Fernandinho — Єшуа [Украинский]
+  https://holychords.pro/43899
+- M.Worship — Иешуа [Русский]
+  https://holychords.pro/44004
+- Fernandinho — Єшуа [Украинский]
+  https://holychords.pro/44211
+- Надія Sol Family Church — Єшуа [Украинский]
+  https://holychords.pro/44687
+- Fernandinho — Єшуа [Украинский]
+  https://holychords.pro/51797
+- Неизвестен — Ієшуа (Ти прийшов спасти народ свій.) [Украинский]
+  https://holychords.pro/55000
+- New Hope Church Katowice — Приходи ко мне [Русский]
+  https://holychords.pro/72469
+- Виталий Ефремочкин — Yeshua [Испанский]
+  https://holychords.pro/79283
+- Трајче Ефремов — Јешуа [Македонский]
+  https://holychords.pro/80314

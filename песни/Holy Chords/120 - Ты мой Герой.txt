@@ -1,0 +1,33 @@
+Ксения Кузнецова — Ты мой Герой
+BPM: 88
+Источник: https://holychords.pro/120
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>F#m                                      A</chopds>
+<text>Ты собрал нас вместе. Мы - Твоя Невеста!</text>
+<chopds>  H7                                              D</chopds>
+<text>Мы будем поклоняться Тебе!</text>
+<chopds>F#m                         A</chopds>
+<text>И на этом месте нам уже известно,</text>
+<chopds>   H7                                      D</chopds>
+<text>Кто победит в этой войне!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  D      E         F#m     C#m7</chopds>
+<text>Бог Живой! Бог Святой!</text>
+<chopds>      D       E                F#m</chopds>
+<text>Иисус - Ты наш Герой!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>D    E     F#m               C#m7</chopds>
+<text>Иисус - Ты мой Победитель!</text>
+<chopds>D    E                        F#m</chopds>
+<text>Иисус - Ты мой Герой!</text>
+</blocks>

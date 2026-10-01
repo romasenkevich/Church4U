@@ -1,0 +1,64 @@
+Краеугольный камень — Покажи мне моё сердце
+Источник: https://holychords.pro/270
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em               D</chopds>
+<text>Покажи мне мое сердце,</text>
+<chopds>   C         Am             H</chopds>
+<text>Что там на глубине.</text>
+<chopds>    Em                       D</chopds>
+<text>Я так хочу, чтоб не было тесно</text>
+<chopds>    C           D             Em</chopds>
+<text>Твоему Духу во мне.</text>
+</blocks>
+
+<blocks>
+<videlit_line>ПредПрипев</videlit_line>
+<chopds>G                D</chopds>
+<text>Чтобы Твое дыханье</text>
+<chopds>F                              Am</chopds>
+<text>Наполняло мой дом,</text>
+<chopds>G          D</chopds>
+<text>Это мое желанье -</text>
+<chopds>Am</chopds>
+<text>Самое главное,</text>
+<chopds>C          D</chopds>
+<text>Я прошу Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Em       C  Am                D</chopds>
+<text>Дай мне сердце святое,</text>
+<chopds>Em     G Am          H</chopds>
+<text>Сердце чистое дай.</text>
+<chopds>Em C          D       Hm</chopds>
+<text>Боже - мое упованье</text>
+<chopds>C              G             D              C</chopds>
+<text>Только Ты меня не отпускай,</text>
+<chopds>C       Am            D            Em</chopds>
+<text>От Себя меня не отпускай.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Em                      D</chopds>
+<text>Подари новую песню</text>
+<chopds>C          Am             H</chopds>
+<text>О Своей вечной любви,</text>
+<chopds>Em                     D</chopds>
+<text>Я так хочу быть с Тобой вместе</text>
+<chopds>C         D                 Em</chopds>
+<text>Каждый миг во все мои дни.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Краеугольный камень — Покажи що в моїм серці [Украинский]
+  https://holychords.pro/33840
+- Александр Контузоров — Дай мне сердце святое [Русский]
+  https://holychords.pro/61707

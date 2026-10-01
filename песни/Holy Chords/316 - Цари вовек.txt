@@ -1,0 +1,79 @@
+Hillsong Ukraine — Цари вовек
+BPM: 82
+Источник: https://holychords.pro/316
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                 D</chopds>
+<text>Бог, Ты Добр, Бог, Ты Добр, если нет добра во мне</text>
+<chopds>              A/C#</chopds>
+<text>Ты - Любовь, Ты - Любовь, та Любовь, что видят все</text>
+<chopds>                     D</chopds>
+<text>Бог, Ты - Свет, Бог, Ты - Свет, если вдруг сгустится тьма</text>
+<chopds>         A/C#</chopds>
+<text>Верю я, верю я, от грехов Ты Спас меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>                  D</chopds>
+<text>Ты мой мир, Ты мой мир, если в страхе буду я</text>
+<chopds>              A/C#</chopds>
+<text>Ты всегда истина, если сомневаюсь я</text>
+<chopds>                    D</chopds>
+<text>Радость - Ты, Радость - Ты, песню мне в уста вложил</text>
+<chopds>                A/C#                                                                            D  Hm  G</chopds>
+<text>Бог, Ты - Жизнь, Бог, Ты - Жизнь, жало смерти победил</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D                              F#m                                 Hm</chopds>
+<text>О, в Твои объятья я бегу, мой Бог, всегда</text>
+<chopds>                                        A                          G</chopds>
+<text>Одной Твоей Любви довольно для меня</text>
+<chopds>                         Hm             A           G</chopds>
+<text>Объятьям Твоим сравнений нет</text>
+<chopds>                        Hm         A       D</chopds>
+<text>Свет для земли, Цари Вовек</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Ты Велик, так Велик, что в словах не объяснить</text>
+<text>Ты - Господь, Ты - Господь, все творенье возгласит</text>
+<text>Бог, Ты здесь, Бог, Ты здесь, полнота моя в Тебе</text>
+<text>Ты - мой Бог, Ты - мой Бог, это все, что нужно мне</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>Hm                 G</chopds>
+<text>Имен других не вознесу</text>
+<chopds>D        A</chopds>
+<text>Иисус, Иисус</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>D                       A</chopds>
+<text>Аллилуйя вовеки!</text>
+<chopds>Hm                       A</chopds>
+<text>И вся Слава вовеки!</text>
+<chopds>G             A       D</chopds>
+<text>Вся хвала Тебе!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — Forever Reign [Английский]
+  https://holychords.pro/2281
+- Fonki Music — Царюй повік (Добрий Ти) [Украинский]
+  https://holychords.pro/37180
+- Exodus 15 — Dobry Jest [Польский]
+  https://holychords.pro/40801
+- 2Worship — Ти мій мир [Украинский]
+  https://holychords.pro/54456

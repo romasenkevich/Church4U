@@ -1,0 +1,45 @@
+Игорь Сидоров — На небе
+BPM: 104
+Источник: https://holychords.pro/332
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Hm         D/F#                         G</chopds>
+<text>Я поднимаю взор свой к небесам</text>
+<chopds>Hm         D/F#                         G</chopds>
+<text>Откуда помощь Господа</text>
+<chopds>Hm         D/F#                         G</chopds>
+<text>Я вспоминаю как любовь Твоя</text>
+<chopds>        A                       G</chopds>
+<text>Меня нашла, меня нашла.</text>
+<text>Всё во мгновенье изменилось вдруг</text>
+<text>Открыл слепые ты глаза</text>
+<text>Теперь Иисус мой самый верный друг</text>
+<text>Люблю Тебя, люблю Тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Em                 Hm</chopds>
+<text>На небе, на небе</text>
+<chopds>        A                          G</chopds>
+<text>Отцовский дом чудесно в нём.</text>
+<chopds>Em                 Hm</chopds>
+<text>На небе, на небе</text>
+<chopds>     A                          G</chopds>
+<text>Моя семья, там буду я.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Я поднимаю взор свой к небесам</text>
+<text>И знаю скоро Ты придёшь.</text>
+<text>Ведь на земле не буду вечно я</text>
+<text>Я жду Господь когда придёшь.</text>
+<text>Возьмёшь искупленный святой народ</text>
+<text>В обитель славы и любви</text>
+<text>И Дух с невестой говорят: "Приди!"</text>
+<text>И слышавший скажи: "Приди!"</text>
+</blocks>

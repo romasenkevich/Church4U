@@ -1,0 +1,52 @@
+Holy Generation — Мне не вменится
+Источник: https://holychords.pro/365
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>     Em9                                 Am7      Hm7</chopds>
+<text>Великий Бог, в Тебе нашли поддержку.</text>
+<chopds>       Em9                            Am7             Hm7</chopds>
+<text>Ты вывел из греха, не стало нас прежних.</text>
+<chopds>  Em9                                    Am7              Hm7</chopds>
+<text>Милостью окутал, призвал в Свою обитель.</text>
+<chopds>        Em9                                               Am7       Hm7</chopds>
+<text>Смиряюсь пред Тобою, Бог сильный и великий.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                   Am7          Hm7</chopds>
+<text>Мне не вменится моя неверность,</text>
+<chopds>                 Em9</chopds>
+<text>Мне не вменится мой грех,</text>
+<chopds>                   Am7           Hm7</chopds>
+<text>Мне не вменятся мои сомненья,</text>
+<chopds>              Em9</chopds>
+<text>Я был слеп, но вижу свет.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>   Em9                                 Am7             Hm7</chopds>
+<text>В жизненном пути с Тобою будем рядом,</text>
+<chopds>        Em9                                 Am7                      Hm7</chopds>
+<text>В Тебе обрели, Господь, все, что нам так надо.</text>
+<chopds>       Em9                                           Am7          Hm7</chopds>
+<text>Благословенье на нас, Твоей славою согреты.</text>
+<chopds>              Em9                               Am7              Hm7</chopds>
+<text>Лишь для Тебя хвала, Бог крепкий и чудесный.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>Am        Cmaj7</chopds>
+<text>Ты подарил мне радость,</text>
+<chopds>Fmaj7     Em7</chopds>
+<text>Ты подарил Свою заботу,</text>
+<chopds>Am     Cmaj7</chopds>
+<text>Ты пролил свой яркий свет,</text>
+<chopds>      Fmaj7                  Em7</chopds>
+<text>В Тебе теперь я имею свободу.</text>
+</blocks>

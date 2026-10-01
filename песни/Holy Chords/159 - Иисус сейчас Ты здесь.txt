@@ -1,0 +1,27 @@
+Виталий Ефремочкин — Иисус сейчас Ты здесь
+Источник: https://holychords.pro/159
+
+==================================================
+
+<blocks>
+<chopds>C                   D       G</chopds>
+<text>Иисус сейчас Ты здесь,</text>
+<chopds>C                    D       G</chopds>
+<text>Иисус сейчас Ты здесь…</text>
+<chopds>C               D                     Hm                        Em</chopds>
+<text>Твоя могучая сила здесь, чтобы спасти меня,</text>
+<chopds>C              D                     Hm              Em</chopds>
+<text>Твоя могучая сила здесь исцелить меня,</text>
+<chopds>C               D                     Hm                 Em</chopds>
+<text>Твоя могучая сила здесь освободить меня,</text>
+<chopds>C                  D       G</chopds>
+<text>Иисус сейчас Ты здесь…</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Doorway To Heaven Church — Иисус сейчас Ты здесь [Русский]
+  https://holychords.pro/38447
+- Виталий Ефремочкин — Ісус Ти зараз тут [Украинский]
+  https://holychords.pro/47109

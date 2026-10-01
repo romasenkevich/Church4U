@@ -1,0 +1,60 @@
+Hillsong Ukraine — Голгофа
+Источник: https://holychords.pro/92
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>             A                      F#m7</chopds>
+<text>Спаситель Один крест тот понес</text>
+<chopds>                        D                           Esus E</chopds>
+<text>И каждый мой долг Он оплатил</text>
+<chopds>                   F#m7                    E/G#  A</chopds>
+<text>Спасенье свершил дал свободу навек</text>
+<chopds>         D                  E                A</chopds>
+<text>Покрыл на Голгофе Он всё</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>       A                               F#m7</chopds>
+<text>Голгофский крест покрыл все собой</text>
+<chopds>             D                          Hm7</chopds>
+<text>Мой стыд и грех не вспомнит мне Бог</text>
+<chopds>            A                              F#m7</chopds>
+<text>Вся слава Тому Кто искупил жизнь мою</text>
+<chopds>          D                 E                A</chopds>
+<text>Покрыл на Голгофе Он всё</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ничто на земле ни жизнь и ни смерть</text>
+<text>Не в силах отнять Его благодать</text>
+<text>Своей кровью спасет знаю, не подведет</text>
+<text>Покрыл на Голгофе Он всё</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>              F#m7             D                            E</chopds>
+<text>Только Иисус нас очистил словно снег</text>
+<chopds>F#m7               A</chopds>
+<text>В свободе стоим мы</text>
+<chopds>         D                  E                A</chopds>
+<text>Покрыл на Голгофе Он всё</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — Calvary [Английский]
+  https://holychords.pro/1306
+- Ян Прадвесьнік царква — Галгофа [Белорусский]
+  https://holychords.pro/9942
+- Малин — Голгофа [Украинский]
+  https://holychords.pro/13696
+- Hillsong Ukraine — Голгофа
+  https://holychords.pro/33779
+- Hillsong Auf Deutsch — Golgatha [Немецкий]
+  https://holychords.pro/39507

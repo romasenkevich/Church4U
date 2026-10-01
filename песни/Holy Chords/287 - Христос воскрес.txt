@@ -1,0 +1,36 @@
+Lena Isayev — Христос воскрес
+Источник: https://holychords.pro/287
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>  C#m                                         E/H                         A</chopds>
+<text>Крест, тяжелая дорога умирал Христос за нас</text>
+<chopds>        F#m                 A          C#m</chopds>
+<text>Там чашу Он испил, но грех Он победил.</text>
+<chopds>          F#m                                          A</chopds>
+<text>Этим подвигом Он нас освободил</text>
+<chopds>         F#m                                H</chopds>
+<text>И спасение нам Он подарил.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                            E                       C#m</chopds>
+<text>Христос воскрес! Да Он воскрес!</text>
+<chopds>            F#m                                       A                  H</chopds>
+<text>Он попрал все силы зла все оковы разорвал</text>
+<chopds>                            E                         C#m</chopds>
+<text>Христос воскрес! Прозвучала весть</text>
+<chopds>             F#m                                  A             H                        | E  A  E  A |</chopds>
+<text>Нас забрал из рук врага, и мы, воскресли вместе с Ним.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Много лет с тех пор прошло, но Господь воскрешает сердца.</text>
+<text>Нежно в двери Он стучит. Хочет сердце твое он воскресить.</text>
+<text>Доверь, ему всю жизнь свою</text>
+<text>И всем сердцем Спасителя прославь.</text>
+</blocks>

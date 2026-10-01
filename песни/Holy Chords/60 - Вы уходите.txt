@@ -1,0 +1,36 @@
+Игорь Яловец — Вы уходите
+Источник: https://holychords.pro/60
+
+==================================================
+
+<blocks>
+<chopds>G#m  E  C#m  D#</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет 1</videlit_line>
+<chopds>           G#m                             F#                   E     D#                     G#m</chopds>
+<text>В это время холодных ночей, в это время холодных дождей.</text>
+<chopds>          G#m                                      F#                         E                D#            G#m</chopds>
+<text>Погрустим и мы вспомним о тех, кто здесь жил, кого рядом уж нет.</text>
+<chopds>       G#m                           F#                E   D#                     G#m</chopds>
+<text>И куда-то бегут всё года, не вернёшь их уже никогда.</text>
+<chopds>             G#m                                     F#         E               D#             G#m</chopds>
+<text>Только память хранит их всегда, провожая их путь в небеса.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>        C#m    D#                 G#m           C#m     D#                           F#</chopds>
+<text>Вы уходите, вас не вернуть, вы уходите, в долгий свой путь.</text>
+<chopds>           C#m      D#                          E                   C#m               D#          G#m</chopds>
+<text>И как хочется в след прокричать, вы вернитесь, вернитесь опять.</text>
+<chopds>           C#m      D#                          E                   C#m               D#          G#m</chopds>
+<text>И как хочется в след прокричать, вы вернитесь, вернитесь опять.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет 2</videlit_line>
+<text>Как порой нам без вас тяжело, как порой нам без вас нелегко.</text>
+<text>Но надежда на встречу тверда, ожидают нас всех небеса.</text>
+</blocks>

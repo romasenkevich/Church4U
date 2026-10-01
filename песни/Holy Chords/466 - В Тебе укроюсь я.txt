@@ -1,0 +1,50 @@
+Слово Жизни Music — В Тебе укроюсь я
+Источник: https://holychords.pro/466
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>                         Hm        G                          D   A</chopds>
+<text>В тишине найду Тебя на вершинах гор</text>
+<chopds>                              Hm                G                 D</chopds>
+<text>Найду, когда ищу лицо Твоё, о, мой Бог</text>
+<chopds>                             Hm           G                               D                               A</chopds>
+<text>Найду Тебя, когда я жду когда колени преклоню, пред Тобой.</text>
+<chopds>                              Hm              G                         D</chopds>
+<text>Найду Тебя, когда молюсь Тебе, о мой Бог.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>                           G  A/G     D/F#</chopds>
+<text>Сотвори во мне сердце чистое</text>
+<chopds>                        G        A          Hm    A/C#</chopds>
+<text>Дух правый обнови внутри</text>
+<chopds>                              G  A/G  D/F#</chopds>
+<text>Дай увидеть мне,  Господь, Тебя</text>
+<chopds>             Hm                        A</chopds>
+<text>Возврати мне радость от спасения</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Hm             G        D            A             Hm  G  D  A</chopds>
+<text>В Тебе укроюсь, в Тебе укроюсь я.</text>
+<chopds>Hm             G        D            A             Hm  G  D  A</chopds>
+<text>В Тебе укроюсь, в Тебе укроюсь я.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Исход Краснодар — В Тебе укроюсь [Русский]
+  https://holychords.pro/7281
+- Christian City Church Oxford Falls — Hiding Place [Английский]
+  https://holychords.pro/22083
+- Spiritual Evolution — В Тебе укроюсь я [Русский]
+  https://holychords.pro/24841
+- KR - Алғыслар — Тынышлықта Сени таўаман [Каракалпакский]
+  https://holychords.pro/41466
+- New Life Church — В Тобі сховаюсь я [Украинский]
+  https://holychords.pro/55293

@@ -1,0 +1,54 @@
+Теплый дождь — Теплий дощ
+Источник: https://holychords.pro/13
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Dm                                Gm/Bb</chopds>
+<text>Теплий дощ нагадає мені</text>
+<chopds>A7                                      Dm</chopds>
+<text>Ті слова, що приходили з неба</text>
+<chopds>Dm                          Gm/Bb</chopds>
+<text>Так буває тільки у сні,</text>
+<chopds>A7                                    Dm</chopds>
+<text>А мені більш нічого не треба</text>
+<chopds>         Dm7                                         Bb</chopds>
+<text>Я так хочу чути, те що скажеш мені</text>
+<chopds>  C                                             Dm</chopds>
+<text>Ти прийдеш, запросити лиш треба</text>
+<chopds>         Dm7                                        Bb</chopds>
+<text>Я так хочу чути, те що скажеш мені</text>
+<chopds>  C                                             Dm</chopds>
+<text>Ти прийдеш, запросити лиш треба</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds>Bb                      F     C              Dm</chopds>
+<text>Вічність не зітре Твої слова і подих мрій</text>
+<chopds>    Bb               F     C             Dm</chopds>
+<text>Моя душа живе і житиме вона завжди</text>
+<chopds>                Bb    Am7            Dm</chopds>
+<text>Тому що Ти є правда і життя</text>
+<chopds>                Bb    Am7            Dm</chopds>
+<text>Тому що Ти є правда і життя</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Теплий дощ розкаже мені</text>
+<text>Про любов, про минулі дні</text>
+<text>Про те що бачив руку Твою</text>
+<text>Над усім життя моїм</text>
+<text>І я почую: "Тебе я люблю"</text>
+<text>Ти знаєш Твій я за Тобою іду</text>
+<text>І я почую: "Тебе я люблю"</text>
+<text>Ти знаєш Твій я за Тобою іду.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Скиния Worship — Теплий дощ [Украинский]
+  https://holychords.pro/9268

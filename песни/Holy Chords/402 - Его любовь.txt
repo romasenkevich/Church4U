@@ -1,0 +1,86 @@
+Ross Bramirskyy — Его любовь
+Источник: https://holychords.pro/402
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Am  F  C  G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>    Am                          F                 C                         G</chopds>
+<text>Остановите вашу веру, в дела теории людей!</text>
+<chopds>   Am                              F                           C                            G</chopds>
+<text>Чтобы хоть раз и в ваши двери стучал Господь рукой Своей.</text>
+<chopds>     Am                                  F                C                          G</chopds>
+<text>Оставьте за спиной печали, Господь всегда слезу утрет.</text>
+<chopds>    Am                        F                         C                                        G</chopds>
+<text>Я так хочу, чтоб вы узнали, что Он велик, что Он поймет тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>      F                              G                        Am</chopds>
+<text>Дверь за которой  ты стоишь отделяет тебя</text>
+<chopds>      F                      G                          F                G</chopds>
+<text>Просто скажи ты Ему - без Тебя я не могу</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>            F                      Am       G         F</chopds>
+<text>Оглянись и посмотри ты на Него</text>
+<chopds>               Am             G           F</chopds>
+<text>Он страдал за тебя и меня</text>
+<chopds>          Am                    G                     F</chopds>
+<text>Сам Бог Жизнь Свою за нас Отдал</text>
+<chopds>              Am   G                 F</chopds>
+<text>Что бы ты и я любовь Его принял!</text>
+<chopds>Am G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Он создал всё на этом свете, травинку, лепесток, тебя.</text>
+<text>На этой голубой планете ты должен жить Его любя!</text>
+<text>Ты должен Господа прославить, в молитве к Богу устремись.</text>
+<text>Чтобы грехи все обезглавить, попробуй, просто помолись... ЕМУ!!!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<text>Вера это все, что нужно для тебя</text>
+<text>Веруй в Него, и будешь спасен навсегда!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>Am        G                       F</chopds>
+<text>Это Любовь, это Любовь.</text>
+<chopds>Am        G                      F</chopds>
+<text>Это Любовь,это Любовь.</text>
+<chopds>     Am     G</chopds>
+<text>Любовь!</text>
+<chopds>Am  F  C  G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>    F                  G        Am</chopds>
+<text>Его любовь самая лучшая</text>
+<chopds>    F                  G                Am</chopds>
+<text>Его любовь самая красивая</text>
+<chopds>    F                  G               Am</chopds>
+<text>Его любовь самая любимая!</text>
+<chopds>F            G</chopds>
+<text>Его любовь!!!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<text>Это Любовь, это Любовь</text>
+<text>Это Любовь, это Любовь</text>
+<text>Иешуа! Иешуа!!!</text>
+</blocks>

@@ -1,0 +1,50 @@
+Сила Веры Киев — Иисус за Кровь Твою
+Источник: https://holychords.pro/280
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Dm                               C                              Bb</chopds>
+<text>Иисус, за Кровь Твою я Тебя благодарю,</text>
+<chopds>               Dm                       C</chopds>
+<text>Что пролил Ты на кресте!</text>
+<chopds>Dm                                      C                                           Bb</chopds>
+<text>Ты был мучим и страдал, жизнь Свою за нас отдал,</text>
+<chopds>             Dm                   C</chopds>
+<text>Чтобы я искуплен стал!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>Gm                                   Dm                            C</chopds>
+<text>Знаю, что не тленным золотом и серебром</text>
+<chopds>              Bb</chopds>
+<text>Был искуплен от греха!</text>
+<chopds>Gm                            Dm                                    C</chopds>
+<text>Знаю я, что нет цены, Иисус, Твоей Крови,</text>
+<chopds>                    Bb</chopds>
+<text>Твоей Крови!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Dm                                     C                                  Bb</chopds>
+<text>Ранами Твоими исцелён, милостью прощён,</text>
+<chopds>           Dm                 C</chopds>
+<text>Благодатью я спасён,</text>
+<chopds>Dm                          C                                Bb</chopds>
+<text>Не забуду никогда, какова Твоя цена -</text>
+<chopds>                   C                     Dm</chopds>
+<text>Кровь Иисуса! Кровь Христа!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Живое Слово Сочи — Иисус за Кровь Твою [Русский]
+  https://holychords.pro/3612
+- Церква Віфанія Буча — Ісус, за Кров Твою [Украинский]
+  https://holychords.pro/52272
+- Василь Сав'юк — Ісус за Твою Кров [Украинский]
+  https://holychords.pro/56432

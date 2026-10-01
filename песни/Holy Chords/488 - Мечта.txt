@@ -1,0 +1,44 @@
+Пирс — Мечта
+Источник: https://holychords.pro/488
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>   Bbm                                       Ab</chopds>
+<text>Опять пришли на землю холода,</text>
+<chopds>        Gb</chopds>
+<text>От летних дней не видно и следа,</text>
+<chopds>       Bbm     Ab</chopds>
+<text>И в небе журавлиный крик:</text>
+<chopds>       Gb                                          Cm    F7</chopds>
+<text>Ах, если бы понять мне их язык,</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ах, если бы за ними к те края...</text>
+<text>А, впрочем ,мы летим - и ты, и я:</text>
+<text>Земля под нами, и душа поёт</text>
+<text>О тех краях, где кончится полёт.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>          Bbm                                                      Ebm7</chopds>
+<text>Там дом наш, наше счастье, вечный свет,</text>
+<chopds>         Ab                                                  Db  F7</chopds>
+<text>Там горя, слёз, вражды и боли нет,</text>
+<chopds>            Bbm                                                   Ebm7</chopds>
+<text>Лишь там душа, лишь там найдёт покой -</text>
+<chopds>    Gb                                                   Cm    F7</chopds>
+<text>Мы долететь должны туда с тобой!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Устали крылья веры и любви:</text>
+<text>Мы на Земле свои и не свои...</text>
+<text>Зовут края святой любви туда,</text>
+<text>Где светит солнце радости всегда</text>
+</blocks>

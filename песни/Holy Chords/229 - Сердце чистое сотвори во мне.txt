@@ -1,0 +1,40 @@
+Дмитрий Шлетгауэр — Сердце чистое сотвори во мне
+Источник: https://holychords.pro/229
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Cm7                                  C#maj7</chopds>
+<text>Измученный грехом, иду к Тебе,</text>
+<chopds>Cm7                                C#maj7</chopds>
+<text>Уставший от себя, молюсь Тебе.</text>
+<chopds>G#                                         C#2</chopds>
+<text>Услышь мой голос, откройся мне</text>
+<chopds>G#                                              C#                           C#/D#</chopds>
+<text>Пошли мне милость, я устал ходить во тьме.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G#        D#/G   Fm         D#          C#       D#</chopds>
+<text>Сердце чистое сотвори во мне. О, Боже.</text>
+<chopds>G#     D#/G  Fm        D#         C#    D#</chopds>
+<text>Дух правый обнови внутри.</text>
+<chopds>G#        D#/G   Fm         D#          C#       D#</chopds>
+<text>Сердце чистое сотвори во мне. О, Боже.</text>
+<chopds>G#     D#/G  Fm        D#         C#    D#</chopds>
+<text>Дух правый обнови внутри.</text>
+<chopds>G# D#/G  Fm   D#        C#      D#</chopds>
+<text>Водою чистой окропи меня, Господь.</text>
+<chopds>G# D#/G  Fm   D#       C#     D#</chopds>
+<text>Водою чистой окропи.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ты видел что я погибаю и принял смерть.</text>
+<text>Ты возлюбил меня и пошёл на крест.</text>
+<text>Возьми мою жизнь теперь, омой в воде</text>
+<text>Пошли Свою милость, я не хочу ходить во тьме.</text>
+</blocks>

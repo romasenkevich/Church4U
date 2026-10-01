@@ -1,0 +1,56 @@
+Hillsong Ukraine — Новое творишь
+Источник: https://holychords.pro/95
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>        E                    H       F#</chopds>
+<text>Любовь обновляет всё</text>
+<chopds>    E             H              F#</chopds>
+<text>Зло обратит в добро</text>
+<chopds>                     E             H             G#m           F#</chopds>
+<text>Ведь для мира всего есть надежда вновь</text>
+<chopds>               C#m              G#m       F#</chopds>
+<text>В жизни той, что в Тебе найдём</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>         E    H         F#</chopds>
+<text>Ты новое творишь</text>
+<chopds>          E     H        F#</chopds>
+<text>Все новое творишь</text>
+<chopds>                 H                 E            G#m       F#</chopds>
+<text>Твоя любовь неизменно во веки и веки</text>
+<chopds>         H                 E      G#m     F#     E</chopds>
+<text>Не угаснет надежда Аллилуйя</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Не вижу, но верю я</text>
+<text>Все вокруг оживет опять</text>
+<text>Скажешь слово свое и станет так</text>
+<text>Бог мой   Ты жизнь моя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>                             G#m                            F#   E</chopds>
+<text>Ведь небеса открыл Ты я знаю, что я избран</text>
+<chopds>                                H         G#m                          F#</chopds>
+<text>Ты моя жизнь  Иисус, Ты моя жизнь   Иисус</text>
+<chopds>                         G#m                            F#        E</chopds>
+<text>Бог, Ты восстановишь всё для Своей славы</text>
+<chopds>                                H         G#m                          F#</chopds>
+<text>Ты моя жизнь  Иисус, Ты моя жизнь  Иисус</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — All Things New [Английский]
+  https://holychords.pro/1308
+- Hillsong Auf Deutsch — Du machst alles neu [Немецкий]
+  https://holychords.pro/39503

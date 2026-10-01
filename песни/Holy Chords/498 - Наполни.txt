@@ -1,0 +1,64 @@
+Hillsong Ukraine — Наполни
+Источник: https://holychords.pro/498
+
+==================================================
+
+<blocks>
+<chopds>Am  D  Em  C</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Am            D                 Em             C</chopds>
+<text>Да, я нашёл всё, что я так искал - в Тебе, мой Бог</text>
+<chopds>Am      D                        Em              C</chopds>
+<text>То, чего не мог мне дать никто</text>
+<chopds>Am             D               Em          C</chopds>
+<text>Нет никого на земле и на небе Кто бы смог</text>
+<chopds>Am           D                           Em</chopds>
+<text>Так как Ты, Господь, любить меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>         Am                   D                    Em                       C    Am  D</chopds>
+<text>Ты меня простил, изменил, свет зажёг во мне, и я пою.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>        C                      G                     D                         Em</chopds>
+<text>Наполни Бог Своим огнём и дай мне сил стоять на слове</text>
+<chopds>       C           G            D</chopds>
+<text>Твоём, Иисус, Ты нужен мне.</text>
+<chopds>         C                         G                         D                          Em</chopds>
+<text>Направь меня на путь святой, и дай мне сил держаться крепко</text>
+<chopds>        C            G            D</chopds>
+<text>На нём, Иисус, Ты нужен мне.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>                       Am    D    Em    C                               Am    D    Em    C</chopds>
+<text>Ты нужен мнеееееееееееее… Ты нужен мнеееееееееееее…</text>
+<chopds>                        Am          D               Em                 C</chopds>
+<text>Ты нужен мнеееееееееееее</text>
+<text>-----------------------И в сердце моём Бог всегда Ты рядом</text>
+<chopds>                        Am           D             Em     C</chopds>
+<text>Ты нужен мнеееееееееееее</text>
+<text>-----------------------Держусь я Тебяяяяяяяяя</text>
+<chopds>                        Am         D               Em           C</chopds>
+<text>Ты нужен мнеееееееееееее</text>
+<text>-----------------------Ты создал меня по одной причине</text>
+<chopds>                       Am            D              Em   C</chopds>
+<text>Ты нужен мнеееееееееееее</text>
+<text>-----------------------Прославить Тебяяяяяяяяя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>Em                 C       G            D</chopds>
+<text>Пою я всегда Иисус, Ты нужен мне.</text>
+<chopds>Em                 C       G            D</chopds>
+<text>Пою я всегда Иисус, Ты нужен мне.</text>
+</blocks>

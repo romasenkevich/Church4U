@@ -1,0 +1,36 @@
+Real Ivanna — К Тебе
+Источник: https://holychords.pro/219
+
+==================================================
+
+<blocks>
+<chopds>| Hm A | G-A D |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Hm                                          A</chopds>
+<text>Ты простил мне мой грех, Ты забрал мою боль</text>
+<chopds>G                                            A                   D</chopds>
+<text>Развязал руки мне и поверил в меня</text>
+<chopds>Hm                           A</chopds>
+<text>Я искал силу в тех кто забыл про любовь</text>
+<chopds>G                                   A                                D</chopds>
+<text>Ты открыл мне глаза и наполнил меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Без Тебя я никто, в этой жизни пустой</text>
+<text>Все вокруг суета если нет Тебя</text>
+<text>Опустился на дно, стал я веткой сухой</text>
+<text>Но Ты поднял тогда и утешил меня мой Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>         Hm                           A                                  G</chopds>
+<text>К Тебе летит моя хвала и больше нет меня</text>
+<chopds>                                              A</chopds>
+<text>Лишь Ты живешь во мне Иисус</text>
+</blocks>

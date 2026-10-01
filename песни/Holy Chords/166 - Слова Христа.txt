@@ -1,0 +1,68 @@
+Алексей Каратаев — Слова Христа
+Источник: https://holychords.pro/166
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>  E                                      C#m                                            A</chopds>
+<text>Как бы я хотел иметь веру что поможет мне пойти вперёд</text>
+<chopds>                          D                 A</chopds>
+<text>К Тебе навстречу по воде</text>
+<chopds>       E                                                 C#m                                        A</chopds>
+<text>Оставить все, с чем я знаком и верою дойти туда, где мой Господь</text>
+<chopds>            D                    A</chopds>
+<text>Он зовёт меня к Себе</text>
+<chopds>               H                     A                               E</chopds>
+<text>Но вокруг меня бушует шторм, и я слышу смех</text>
+<chopds>     H                  A                  E</chopds>
+<text>Я вижу как я утону в пучинах многих вод</text>
+<chopds>      H                          A                         H      C#m</chopds>
+<text>И волны грозно шепчут мне, давая понять</text>
+<chopds>              A                      H</chopds>
+<text>То, что я не смог, опять не смог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>E                          H                               C#m</chopds>
+<text>Но Слова Христа мне говорят другое</text>
+<chopds>                      A                                              E</chopds>
+<text>Слова Христа мне шепчут:  Не страшись</text>
+<chopds>                  H                                              C#m</chopds>
+<text>Твои слова: Прославлюсь в этом шторме</text>
+<chopds>                                         A</chopds>
+<text>Много разных слов звучит вокруг меня,</text>
+<chopds>C#m                 A                                                      E   C#m   A</chopds>
+<text>Но я хочу услышать только лишь слова Христа</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Как бы я хотел иметь такую смелость, чтоб стоять пред Голиафом</text>
+<text>Лишь с одной пращей в руках.</text>
+<text>Когда вокруг меня десятки воинов, но все дрожат от страха.</text>
+<text>У них смелость лишь в мечтах.</text>
+<text>Но Голиаф завет меня, и слышу смех</text>
+<text>Все говорят он сокрушит меня в своих руках</text>
+<text>Слова его дают понять, что я проиграл,</text>
+<text>Внушая только страх, только страх</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>C                                       D</chopds>
+<text>Но достаточно лишь камня чтобы рухнул Голиаф</text>
+<chopds>C                                   D</chopds>
+<text>И Когда пошел я смело, он как будто меньше стал</text>
+<chopds>C                                     D</chopds>
+<text>Я расправил свои крылья, когда однажды</text>
+<chopds>A                                                    H              E</chopds>
+<text>Я услышал зов Христа и эти Его Слова</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Casting Crowns — Voice of truth [Английский]
+  https://holychords.pro/1555

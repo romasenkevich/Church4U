@@ -1,0 +1,78 @@
+Виталий Ефремочкин — Не умру я но буду
+Источник: https://holychords.pro/487
+
+==================================================
+
+<blocks>
+<videlit_line>1 Verse</videlit_line>
+<chopds>Em    C       G          D</chopds>
+<text>Не умру я но буду жить истиной Твоей</text>
+<chopds>Em     C         G         D</chopds>
+<text>В тесноте я воззвал, Он услышал меня</text>
+<chopds>Em      C       G       D</chopds>
+<text>Окружили и сильно толкнули меня</text>
+<chopds>Em    C         G            D</chopds>
+<text>Но Господь поддержал, Он защита моя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Chorus</videlit_line>
+<chopds>Em    C          G         D</chopds>
+<text>Вот, Кому принадлежит вся жизнь моя</text>
+<chopds>Em    C             G           D</chopds>
+<text>Агнец Божий взял мой грех дал распять Себя</text>
+<chopds>Em    C          G         D</chopds>
+<text>Вот, кому принадлежит вся жизнь моя</text>
+<chopds>Em    C          G          D</chopds>
+<text>В каждой ране Твоей - крик «люблю Тебя»</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Verse:*</videlit_line>
+<chopds>Em    C         G        D</chopds>
+<text>Мой Господь моя сила спасение мое</text>
+<chopds>Em    C         G         D</chopds>
+<text>Отвори врата правды- и к Тебе я войду</text>
+<chopds>Em      C       G           D</chopds>
+<text>Гласом радости буду славить имя Твое</text>
+<chopds>Em    C         G       D</chopds>
+<text>Поспеши же ко мне-и Тебя я найду</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 Verse:*</videlit_line>
+<chopds>Em     C         G          D</chopds>
+<text>Ты мой Бог и я буду вечно славить Тебя!</text>
+<chopds>Em       C           G         D</chopds>
+<text>Ты - Тот Камень, который отвергли зря.</text>
+<chopds>Em    C        G        D</chopds>
+<text>На Тебя уповать, лучше чем на людей.</text>
+<chopds>Em     C         G            D</chopds>
+<text>Благ и милостив Ты во всей жизни моей!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- BibleMyLove — Не умру я, но буду жить истиной Твоей! [Русский]
+  https://holychords.pro/30217
+- Михаил Курлыков — Не умру я но буду [Русский]
+  https://holychords.pro/33623
+- SOLWorship — Не помру та буду жить [Украинский]
+  https://holychords.pro/40159
+- Seattle Sulamita Church — Не умру я, но буду жить истиной Твоей! [Русский]
+  https://holychords.pro/42989
+- Християнська надія — Не помру буду жити [Украинский]
+  https://holychords.pro/47274
+- Виталий Ефремочкин — Не умру я но буду жить (live) [Русский]
+  https://holychords.pro/51032
+- Церква Живі Камені, с. Вишневе — Не помру - буду жити! [Украинский]
+  https://holychords.pro/55647
+- Виталий Ефремочкин — Не помру - буду жити я в істині Твоїй [Украинский]
+  https://holychords.pro/58438
+- BibleMyLove — Не помру, але буду жити в істині Твоїй [Украинский]
+  https://holychords.pro/63891
+- Lebendiges Wort Worship — Ich sterbe nicht, doch ich lebe [Немецкий]
+  https://holychords.pro/80930
+- Левиты Band — Не умру я но буду [Русский]
+  https://holychords.pro/82085

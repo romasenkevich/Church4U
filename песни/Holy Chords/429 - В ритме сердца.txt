@@ -1,0 +1,54 @@
+Слово Жизни Music — В ритме сердца
+Источник: https://holychords.pro/429
+
+==================================================
+
+<blocks>
+<chopds>D   Hm    G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>         D                                                                 Hm</chopds>
+<text>Я хочу как дитя оказаться в объятьях Твоих!</text>
+<chopds>        G                                               D</chopds>
+<text>О-о-о, я знаю, Ты всегда со мной!</text>
+<chopds>             D                                                                           Hm</chopds>
+<text>Хочу жить без стыда и кричать Твое Имя с вершин!</text>
+<chopds>        G                                              D              A</chopds>
+<text>О-о-о, я знаю Ты всегда со мной мой Бог!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D                                       Hm                  Em</chopds>
+<text>Ждем Тебя, Дух Святой, излей поток свой!</text>
+<chopds>         G                       D                                 A</chopds>
+<text>Танцую в ритме  сердца Твоего, Господь мой!</text>
+<chopds>D                            Hm                     Em</chopds>
+<text>Моё сердце зажги огнем  любви!</text>
+<chopds>           G                      D                                 A</chopds>
+<text>Я танцую в ритме сердца Твоего, Господь мой!</text>
+<chopds>G                                   D</chopds>
+<text>Оно бьется для меня!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ты все больше меня  наполняешь любовью своей,</text>
+<text>О-о-о, я знаю, Ты всегда со мной!</text>
+<text>Я хочу одного: пребывать, Боже, в доме Твоем!</text>
+<text>О-о-о, я знаю, Ты всегда со мной!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>                                Hm   G   D</chopds>
+<text>Я все ближе к Тебе!</text>
+<chopds>                        Hm   G   D</chopds>
+<text>Я закрою глаза!</text>
+<chopds>                  A</chopds>
+<text>Бог, Ты здесь!</text>
+<chopds>                G            Hm   G   D</chopds>
+<text>Бог, Ты рядом!</text>
+</blocks>

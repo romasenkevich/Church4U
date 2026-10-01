@@ -1,0 +1,31 @@
+Слово Жизни Music — Бог, ищу Тебя
+BPM: 154
+Источник: https://holychords.pro/422
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>D#m       C#      F#</chopds>
+<text>Бог, ищу Тебя,</text>
+<chopds>              G#m                      A#m</chopds>
+<text>Я на коленях моих молюсь.</text>
+<chopds>D#m              C#             F#</chopds>
+<text>Дай мне в сердце мир,</text>
+<chopds>                        G#m                  A#m</chopds>
+<text>Исполнить волю Твою хочу</text>
+<chopds>  C#</chopds>
+<text>Наполняй...</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>       G#m                 F#              C#</chopds>
+<text>Зажги Бог во мне Твой огонь</text>
+<chopds>            G#m              F#                C#</chopds>
+<text>Дай вновь пережить первую любовь</text>
+<chopds>        G#m              F#               C#</chopds>
+<text>Сойди в мою жизнь, обнови</text>
+<chopds>      G#m        F#                   C#</chopds>
+<text>Я всё отдаю в руки Твои</text>
+</blocks>

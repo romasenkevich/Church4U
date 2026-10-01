@@ -1,0 +1,128 @@
+USDAY — Великий Бог
+Источник: https://holychords.pro/44
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>A                                             D</chopds>
+<text>Великий Бог! Коли на світ погляну,</text>
+<chopds>A          E                         A - E</chopds>
+<text>І бачу все, що Ти створив в красі,</text>
+<chopds>A                             D</chopds>
+<text>Як кожний квіт склада Тобі пошану,</text>
+<chopds>A        E               A</chopds>
+<text>І як обняв любов’ю Ти усіх.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds>  E                A              D                   A</chopds>
+<text>Тоді, Господь, мій дух співа Тобі:</text>
+<chopds>                    Hm E                 A</chopds>
+<text>Великий Ти, великий Ти!</text>
+<chopds>E                A              D                   A - F#m</chopds>
+<text>Тоді, Господь, мій дух співа Тобі:</text>
+<chopds>                   Hm         E         A</chopds>
+<text>Великий Ти, великий Ти!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>КОЛИ БЕРУ Я КНИГУ ЗАПОВІТІВ</text>
+<text>І ПРО ТВОЇ ЧИТАЮ Я ДІЛА</text>
+<text>ЯК ПОЛЮБИВ ТИ НАС, ЛЮДЕЙ, НА СВІТІ</text>
+<text>І СВОГО СИНА З НЕБА НАМ ПОСЛАВ</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>КОЛИ ГОСПОДЬ МЕНЕ САМ ЗАКЛИКАЄ</text>
+<text>І СВІТИТЬ ПРОМІНЬ СЯЄВА ЙОГО</text>
+<text>ТОДІ МІЙ ДУХ В ПОКОРІ ЗАМОВКАЄ</text>
+<text>ПРИЗНАВШИ ВЕЛИЧ ГОСПОДА СВОГО</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Песнь Возрождения — Великий Бог, когда на мир смотрю я [Русский]
+  https://holychords.pro/2048
+- Віктор Павлік — Великий Бог коли на світ погляну [Украинский]
+  https://holychords.pro/3606
+- Новая Земля Минск — Великий Бог [Русский]
+  https://holychords.pro/4234
+- Simon Khorolskiy — Великий Бог (How Great Thou Art) [Русский]
+  https://holychords.pro/7105
+- Анита Гезо — Великий Бог [Русский]
+  https://holychords.pro/12058
+- David Leonard — How Great Thou Art [Английский]
+  https://holychords.pro/15522
+- Hillsong United — How Great Thou Art [Английский]
+  https://holychords.pro/22003
+- Jesus Image — How Great Thou Art (Live) [Английский]
+  https://holychords.pro/29852
+- JG Youth Worship — Как Ты велик [Русский]
+  https://holychords.pro/32335
+- Слово Жизни Москва — Как Ты велик [Русский]
+  https://holychords.pro/32668
+- FECG Lahr — Великий Бог! Когда на мир смотрю я [Русский]
+  https://holychords.pro/38175
+- Not2us — Великий Бог [Русский]
+  https://holychords.pro/40383
+- Seattle Sulamita Church — Великий Бог! Коли на світ погляну [Украинский]
+  https://holychords.pro/42962
+- Виолина Лунгу — Великий Бог [Русский]
+  https://holychords.pro/43611
+- Благая весть music — Великий Бог [Русский]
+  https://holychords.pro/46137
+- Нова Пісня — Великий Боже! Як на світ погляну [Украинский]
+  https://holychords.pro/50786
+- Псалмоспіви — Великий Бог! Коли на світ погляну [Украинский]
+  https://holychords.pro/51058
+- Matt Redman — How Great Thou Art (Until That Day) [Английский]
+  https://holychords.pro/52122
+- Mission House — How Great Thou Art [Английский]
+  https://holychords.pro/52746
+- Церква Ісуса Назарянина — Великий Бог [Украинский]
+  https://holychords.pro/53386
+- Церква Християн Херсон — Великий Ти! [Украинский]
+  https://holychords.pro/53507
+- Песнь Возрождения — Mare Dumnezeu, când privesc lumea [Румынский]
+  https://holychords.pro/57980
+- Слово Веры Минск — Великий Бог [Русский]
+  https://holychords.pro/58209
+- Християнська Божа Церква — Тоді співа мій дух, Господь, Тобі [Украинский]
+  https://holychords.pro/60680
+- KECH Chrzanów — Gdy na ten świat spoglądam wielki Boże [Польский]
+  https://holychords.pro/60876
+- NB Worship — How Great Though Art [Английский]
+  https://holychords.pro/63387
+- Песнь Возрождения — Баро Дэвэл [Цыганский]
+  https://holychords.pro/67308
+- Bible Music — How great You are! [Английский]
+  https://holychords.pro/70684
+- Smotrych Worship — Великий Бог [Украинский]
+  https://holychords.pro/73640
+- Reveil TV SAT — Dieu tout-puissant [Французский]
+  https://holychords.pro/73823
+- Spring Harvest — How Great Thou Art [Английский]
+  https://holychords.pro/74007
+- БХБЦ — О, Боже мой, стоя с благоговение [Болгарский]
+  https://holychords.pro/74008
+- PP Festival — Suur Jumal Kui Ma Näen [Эстонский]
+  https://holychords.pro/76192
+- Добра Новина Трускавець — Великий Бог [Украинский]
+  https://holychords.pro/78146
+- Tommee Profitt — How Great Thou Art [Английский]
+  https://holychords.pro/82194
+- Андрій Дрозда — Великий Бог [Украинский]
+  https://holychords.pro/82997
+- Cece Winans — How Great Thou Art [Английский]
+  https://holychords.pro/84157
+- Fruška Zvona — O Bože moj (Tad moja duša srećno slavi Te) [Сербский]
+  https://holychords.pro/84596
+- Worship Achinsk — Великий Бог [Русский]
+  https://holychords.pro/85315
+- Fieles Voces — Señor mi Dios [Испанский]
+  https://holychords.pro/86075

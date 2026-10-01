@@ -1,0 +1,30 @@
+Виталий Ефремочкин — Лучше уповать на Господа
+Источник: https://holychords.pro/160
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>       Cm                          Gm  Bb</chopds>
+<text>Уповай (уповай), уповай, уповай на Него.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Cm                             Gm             Bb</chopds>
+<text>Лучше уповать на Господа, нежели надеяться на человека!</text>
+<chopds>Cm                             Gm             Bb</chopds>
+<text>Лучше уповать на Господа, нежели надеяться на человека!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>   Cm                                                     D#</chopds>
+<text>Славьте Господа, ибо Он благ, славьте Господа, ибо Он благ,</text>
+<chopds>     F                                                        G#                       Bb</chopds>
+<text>Славьте Господа, ибо Он благ, славьте Господа, ибо Он благ!</text>
+<chopds>            Cm                                                         D#</chopds>
+<text>Ибо вовек (вовек!) милость Его, ибо вовек (вовек!) милость Его,</text>
+<chopds>               F                                                          G#                    Bb</chopds>
+<text>Ибо вовек (вовек!) милость Его, ибо вовек (вовек!) милость Его!</text>
+</blocks>

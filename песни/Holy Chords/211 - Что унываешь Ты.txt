@@ -1,0 +1,50 @@
+Слово Жизни Music — Что унываешь Ты
+BPM: 150
+Источник: https://holychords.pro/211
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                 E</chopds>
+<text>Что унываешь Ты и что смущаешься душа моя</text>
+<chopds>      C#m                   H/D#                             E</chopds>
+<text>Уповай на Бога ибо я буду славить Его</text>
+<chopds>              C#m                              H/D#                          E</chopds>
+<text>Что унываешь Ты и что смущаешься душа моя</text>
+<chopds>      C#m                   H/D#                             E</chopds>
+<text>Уповай на Бога ибо я буду славить Его</text>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>    F#m             A                                    E                        H</chopds>
+<text>Жаждет Тебя душа моя, к Богу крепкому Богу сильному</text>
+<chopds>     F#m                  A                            E</chopds>
+<text>Когда приду явлюсь я пред Тобой</text>
+<chopds>    F#m                        A                                          E                        H</chopds>
+<text>Слезы мои были хлебом для меня в те дни когда говорила душа:</text>
+<chopds> F#m                                 A                      E</chopds>
+<text>"Где Бог твой?" - Но в Тебе нашел покой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>         A                               H                               C#m       H/D#</chopds>
+<text>Как лань желает к потокам воды, так душа моя жаждет Тебя</text>
+<chopds>         A                               H                               C#m       H/D#</chopds>
+<text>Как лань желает к потокам воды, так душа моя жаждет Тебя</text>
+<chopds>       C#m                        H/D#                               E         H/D#</chopds>
+<text>Как лань желает к потокам воды, так душа моя жаждет тебя</text>
+<chopds>       C#m                        H/D#                               E         H/D#</chopds>
+<text>Как лань желает к потокам воды, так душа моя жаждет тебя</text>
+<chopds>             A                         H                         C#m                 H/D#</chopds>
+<text>Богу крепкому, Богу сильному, Богу мудрому и Великому</text>
+<chopds>             A                         H                         C#m                 H/D#</chopds>
+<text>Богу крепкому, Богу сильному, Богу мудрому и Великому</text>
+</blocks>

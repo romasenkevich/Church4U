@@ -1,0 +1,46 @@
+Алла Чепикова — Мы что-то теряем
+Источник: https://holychords.pro/480
+
+==================================================
+
+<blocks>
+<chopds>Am G F</chopds>
+<text>Мы что-то теряем, Что-то находим, куда-то спешим.</text>
+<chopds>Am G Am7 A</chopds>
+<text>За времени птицей остановиться мы не хотим.</text>
+<chopds>Dm Am H</chopds>
+<text>Дороги, дороги, печали, тревоги, но я иду</text>
+<chopds>Dm Am Dm Dm/H</chopds>
+<text>К Тебе, Отец. Тебя я зову, с Тобою, Боже, иду,</text>
+<chopds>Am A</chopds>
+<text>Прошу, Ты будь со мной.</text>
+<text>Мы что-то теряем, Что-то находим, куда-то спешим.</text>
+<text>За времени птицей остановиться мы не хотим.</text>
+<text>Потери земные, печали глубокие обратит</text>
+<text>К Себе Отец.</text>
+<text>К Тебе, Отец. Тебя я зову, с Тобою, Боже, иду,</text>
+<text>Прошу, Ты будь со мной.</text>
+<chopds>Am G F</chopds>
+<text>Ведь Ты мне близок, словно берег морю.</text>
+<chopds>Am G A</chopds>
+<text>Как риф широкий для бескрайних волн,</text>
+<chopds>Dm G C</chopds>
+<text>Как крылья птиц нуждаются в просторе -</text>
+<chopds>Dm H E7</chopds>
+<text>Так я хочу дышать, чтоб жить Тобой.</text>
+<text>бридж</text>
+<chopds>Am Dm</chopds>
+<text>Тебе лишь в этом мире равных нет.</text>
+<chopds>G C</chopds>
+<text>Тебе лишь моя песня и мой стих.</text>
+<chopds>Dm A</chopds>
+<text>Тобою лишь душа моя согрета,</text>
+<chopds>H7 E7 A</chopds>
+<text>И сердце лишь Тобой стучит, стучит.</text>
+<chopds>Dm</chopds>
+<text>И сердце лишь Тобой</text>
+<chopds>Am</chopds>
+<text>И сердце лишь Тобой</text>
+<chopds>H7 E7 Am</chopds>
+<text>И сердце лишь Тобой стучит, стучит.</text>
+</blocks>

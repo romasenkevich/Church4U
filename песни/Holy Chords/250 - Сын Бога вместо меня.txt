@@ -1,0 +1,58 @@
+Дарина Кочанжи — Сын Бога вместо меня
+Источник: https://holychords.pro/250
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Dm  C/E  F  A</chopds>
+<chopds>Dm  Gm   A  A</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Gm       A         Dm         Bb</chopds>
+<text>В моей душе уже нету сомненья,</text>
+<chopds>Gm      A         Dm          Bb</chopds>
+<text>Его любовь не имеет сравнения,</text>
+<chopds>Gm       C      F          Bb</chopds>
+<text>К Его ногам паду без сожаленья,</text>
+<chopds>Gm                E/G#          A</chopds>
+<text>Он сделал всё для меня.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Когда в Него, вбивали ржавые гвозди,</text>
+<text>Народ кричал, сердца сжимались от злости,</text>
+<text>А Он молчал, Он был уверен в победе</text>
+<text>Любви на этой планете.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Dm                C/E             F</chopds>
+<text>Сын Бога вместо меня,</text>
+<chopds>    A/C#     Dm  Gm   C    A/C#</chopds>
+<text>Вместо меня умирал,</text>
+<chopds>Dm                     C/E          F</chopds>
+<text>Он знал, что в Его крови,</text>
+<chopds>A/C#      Dm   Gm             C</chopds>
+<text>Вечная жизнь для меня.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Пройду свой путь, назад не озираясь,</text>
+<text>Скажу Ему: люблю, не сомневаюсь!</text>
+<text>Ни страх, ни боль, уже не помешают</text>
+<text>Найти дорогу к Нему.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Дарина Кочанжи — На хрест зійшов Божий Син [Украинский]
+  https://holychords.pro/5792
+- Дарина Кочанжи — Син Бога [Украинский]
+  https://holychords.pro/75102

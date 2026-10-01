@@ -1,0 +1,62 @@
+Слово Жизни Music — Словно пламя
+Источник: https://holychords.pro/451
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                 Am                                     G</chopds>
+<text>Словно пламя внутри меня горит</text>
+<chopds>                                           F                        G</chopds>
+<text>Хочу, чтоб знал весь мир, что Ты – Бог</text>
+<chopds>               Am                                 G</chopds>
+<text>Есть желание в глубине души</text>
+<chopds>                                           F                     G</chopds>
+<text>Хочу, чтоб знал весь мир, что Ты жив</text>
+<chopds>Am    F     G</chopds>
+<chopds>Dm    F     G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Окружи нас присутствием Своим</text>
+<text>И все, что хочешь Ты, измени</text>
+<text>Своим Духом коснись моей души</text>
+<text>Приди и обнови, мне нужен Ты</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                           F      Am      G</chopds>
+<text>Иисус, я нуждаюсь в Тебе</text>
+<chopds>                                F      Am         G</chopds>
+<text>Открой Свой источник во мне</text>
+<chopds>                   F       Am      G</chopds>
+<text>Я простираюсь к Тебе</text>
+<chopds>                 Dm       Am           G</chopds>
+<text>Бог, Ты всё, что нужно мне</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>          F                             C</chopds>
+<text>Приди, как поток воды живой</text>
+<chopds>      Am                       G</chopds>
+<text>Меня наполни Собой</text>
+<chopds>          F                      C</chopds>
+<text>Как ветер приди и обнови</text>
+<chopds>      Am                         G</chopds>
+<text>Иисус, мне нужен Ты</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- New Beginnings Worship — Дух Святой [Русский]
+  https://holychords.pro/35
+- Planetshakers — Like a fire [Английский]
+  https://holychords.pro/7498
+- JesusMainstream — Словно пламя [Русский]
+  https://holychords.pro/16029
+- Matsepa — Дух Святий [Украинский]
+  https://holychords.pro/74444

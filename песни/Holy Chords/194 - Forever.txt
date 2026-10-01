@@ -1,0 +1,140 @@
+Kari Jobe — Forever
+Источник: https://holychords.pro/194
+
+==================================================
+
+<blocks>
+<videlit_line>Intro</videlit_line>
+<chopds>G#   D#   A#m   C#</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 Verse</videlit_line>
+<chopds>G#                                        D#</chopds>
+<text>The moon and stars they wept</text>
+<chopds>                                       Fm</chopds>
+<text>The morning sun was dead</text>
+<chopds>                                 C#</chopds>
+<text>The Savior of the world was fallen</text>
+<chopds>G#                         D#</chopds>
+<text>His body on the cross</text>
+<chopds>                                       Fm</chopds>
+<text>His blood poured out for us</text>
+<chopds>                                     C#</chopds>
+<text>The weight of every curse upon Him</text>
+</blocks>
+
+<blocks>
+<videlit_line>Interlude</videlit_line>
+<chopds>G#   D#   A#m   C#</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 Verse</videlit_line>
+<chopds>G#                                D#</chopds>
+<text>One final breath He gave</text>
+<chopds>                                    Fm</chopds>
+<text>As Heaven looked away</text>
+<chopds>                               C#</chopds>
+<text>The Son of God was laid in darkness</text>
+<chopds>G#                        D#</chopds>
+<text>A battle in the grave</text>
+<chopds>                                          Fm</chopds>
+<text>The war on death was waged</text>
+<chopds>                         C#</chopds>
+<text>The power of hell forever broken</text>
+</blocks>
+
+<blocks>
+<videlit_line>Chorus</videlit_line>
+<chopds>G#                                    D#</chopds>
+<text>The ground began to shake</text>
+<chopds>                                         Fm</chopds>
+<text>The stone was rolled away</text>
+<chopds>                                         C#</chopds>
+<text>His perfect love could not be overcome</text>
+<chopds>G#/C                                       D#</chopds>
+<text>Now death where is your sting</text>
+<chopds>                              Fm</chopds>
+<text>Our resurrected King</text>
+<chopds>                                     C#</chopds>
+<text>Has rendered you defeated</text>
+<chopds>   G#            D#</chopds>
+<text>Forever, He is glorified</text>
+<chopds>   Fm                 C#</chopds>
+<text>Forever, He is lifted high</text>
+<chopds>    G#                 D#</chopds>
+<text>Forever, He is risen</text>
+<chopds>              Fm                C#</chopds>
+<text>He is alive; He is alive</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- 4U Band — Вовеки [Русский]
+  https://holychords.pro/20
+- Bethel Music — Forever [Английский]
+  https://holychords.pro/1007
+- New Beginnings Worship — Вовеки [Русский]
+  https://holychords.pro/1205
+- Evan Craft — Por Siempre [Испанский]
+  https://holychords.pro/1627
+- Alaniaworshipband — Вовеки [Русский]
+  https://holychords.pro/1669
+- Generación 12 — Por siempre [Испанский]
+  https://holychords.pro/5916
+- RussiaWorship — Навеки (Слава Аллилуйя) [Русский]
+  https://holychords.pro/7704
+- Андрей Кочкин — Навечно [Русский]
+  https://holychords.pro/8510
+- Роман Белов — Навеки [Русский]
+  https://holychords.pro/13470
+- Катя Овчаренко — Навіки [Украинский]
+  https://holychords.pro/15702
+- Kari Jobe — Навіки [Украинский]
+  https://holychords.pro/18996
+- Надія Sol Family Church — Навіки [Украинский]
+  https://holychords.pro/28481
+- United Flames — Абадий [Узбекский]
+  https://holychords.pro/28717
+- Слово Жизни Music — Навеки [Русский]
+  https://holychords.pro/28796
+- Kari Jobe — Навіки [Украинский]
+  https://holychords.pro/29115
+- Natalia Iventeva — Навеки [Русский]
+  https://holychords.pro/33725
+- Metamorphosis — Навіки [Украинский]
+  https://holychords.pro/42664
+- Слово Жизни Music — Навеки [Русский]
+  https://holychords.pro/42843
+- Kari Jobe — Вовеки [Русский]
+  https://holychords.pro/42940
+- Надія Sol Family Church — Навіки [Украинский]
+  https://holychords.pro/42952
+- IGC Worship — Вовеки [Русский]
+  https://holychords.pro/43533
+- X-mas BAND — Навіки [Украинский]
+  https://holychords.pro/44110
+- Джерело Життя Здолбунів — Навіки [Украинский]
+  https://holychords.pro/47904
+- Християнська Божа Церква — Навіки /Forever [Украинский]
+  https://holychords.pro/50206
+- Християнська надія — Навіки [Украинский]
+  https://holychords.pro/54815
+- Bethel Music — Forever [Английский]
+  https://holychords.pro/56167
+- psalmaker — Вовеки [Русский]
+  https://holychords.pro/56321
+- Kari Jobe — Плачуть небеса [Украинский]
+  https://holychords.pro/71116
+- ЕЛЕЙ — Вовеки [Русский]
+  https://holychords.pro/72612
+- CCS Young Families Choir — Навіки [Украинский]
+  https://holychords.pro/81243
+- Zhanna Arbatskiy — Вовеки [Русский]
+  https://holychords.pro/81827
+- Благодать Минск — Вовеки [Русский]
+  https://holychords.pro/85235
+- Bethel Music — Forever (We Sing Hallelujah) [Английский]
+  https://holychords.pro/87174

@@ -1,0 +1,196 @@
+Hillsong Ukraine — Океаны
+BPM: 127
+Источник: https://holychords.pro/104
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Hm /// A/C# / D //// A //// G //// x2</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Hm                            A/C#       D</chopds>
+<text>В глубины вод меня призвал Ты</text>
+<chopds>                         A                     G</chopds>
+<text>Мне не пройти их без Тебя</text>
+<chopds>Hm                            A/C#    D</chopds>
+<text>Но вера крепнет в океанах</text>
+<chopds>              A                                   G</chopds>
+<text>Там явишь мне, Господь, Себя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G             D                  A</chopds>
+<text>Я имя, Бог, Твоё зову</text>
+<chopds>G                      D                         A</chopds>
+<text>И взгляд я с волн на Тебя смещу</text>
+<chopds>                 G                          D                        A</chopds>
+<text>Душе моей Ты дашь покой во время бурь</text>
+<chopds>                      G        A          Hm</chopds>
+<text>Ведь я в Тебе, а Ты во мне</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>Hm /// A/C# / D //// A //// G ////</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Hm                               A/C#   D</chopds>
+<text>В пучинах больше благодати</text>
+<chopds>                         A                     G</chopds>
+<text>Рукой Своей меня спасешь</text>
+<chopds>Hm                            A/C#       D</chopds>
+<text>Где страх объял и нет опоры</text>
+<chopds>                           A                          G</chopds>
+<text>Ты не подводил и не подведешь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G             D                  A</chopds>
+<text>Я имя, Бог, Твоё зову</text>
+<chopds>G                        D                            A</chopds>
+<text>И взгляд я с волн на Тебя смещу</text>
+<chopds>                 G                          D                        A</chopds>
+<text>Душе моей Ты дашь покой во время бурь</text>
+<chopds>                      G        A          Hm</chopds>
+<text>Ведь я в Тебе, а Ты во мне</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>Hm /// A/C# / D //// A //// G ////  x2</chopds>
+<chopds>Hm //// G //// D //// A //// x2</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 Бридж: х3</videlit_line>
+<chopds>Hm                               G</chopds>
+<text>Безгранично доверяюсь Духу Бога</text>
+<chopds>                 D                                       A</chopds>
+<text>Пусть ведёт меня по водам туда, куда призвал Он</text>
+<chopds>Hm                                     G</chopds>
+<text>И в глубинах тех, что не преодолеть мне</text>
+<chopds>               D                                          A</chopds>
+<text>Станет вера моя крепче когда рядом мой Спаситель</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Бридж: х1</videlit_line>
+<chopds>G                                 D</chopds>
+<text>Безгранично доверяюсь Духу Бога</text>
+<chopds>                  A                                     Em</chopds>
+<text>Пусть ведёт меня по водам туда, куда призвал Он</text>
+<chopds>G                                        D</chopds>
+<text>И в глубинах тех, что не преодолеть мне</text>
+<chopds>               A                                          Em</chopds>
+<text>Станет вера моя крепче когда рядом мой Спаситель</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 Бридж: х2</videlit_line>
+<chopds>Hm                  A/C#    D</chopds>
+<text>Безгранично доверяюсь Духу Бога</text>
+<chopds>                  A                                     Em</chopds>
+<text>Пусть ведёт меня по водам туда, куда призвал Он</text>
+<chopds>Hm                   A/C#         D</chopds>
+<text>И в глубинах тех, что не преодолеть мне</text>
+<chopds>                  A                                     Em</chopds>
+<text>Станет вера моя крепче когда рядом мой Спаситель</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>Hm /// A/C# / D //// A //// Em //// x2</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G             D                  A</chopds>
+<text>Я имя, Бог, Твоё зову</text>
+<chopds>G                        D                            A</chopds>
+<text>И взгляд я с волн на Тебя смещу</text>
+<chopds>G                          D                        A</chopds>
+<text>Ты дашь покой во время бурь</text>
+<chopds>              G        A          Hm      A   D</chopds>
+<text>Я в Тебе, а Ты во мне</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Брія Блессінг — Океани [Украинский]
+  https://holychords.pro/232
+- Hillsong United — Oceans (Where Feet May Fail)
+  https://holychords.pro/445
+- Новый Завет NTWorship — Океаны [Русский]
+  https://holychords.pro/3395
+- Дерево Жизни music — Океаны [Русский]
+  https://holychords.pro/6047
+- Albert Frey — Meer (Feiert Jesus! 20) [Немецкий]
+  https://holychords.pro/6325
+- Соль — Океаны [Русский]
+  https://holychords.pro/8628
+- Нове місто — Мене Ти кличеш над водою [Украинский]
+  https://holychords.pro/10339
+- Gracetime Worship Band — Океаны [Русский]
+  https://holychords.pro/11304
+- Исход Ростов на Дону — Океаны [Русский]
+  https://holychords.pro/13967
+- Свет — В глубины вод меня призвал Ты [Русский]
+  https://holychords.pro/17369
+- UzWorSong — Уммoн [Узбекский]
+  https://holychords.pro/25501
+- Bri Babineaux — Oceans (Where Feet May Fail) [Английский]
+  https://holychords.pro/26102
+- Exodus 15 — Oceany [Польский]
+  https://holychords.pro/27318
+- Hillsong Ukraine — Океани (Крок в незвідане)
+  https://holychords.pro/33848
+- Слово Жизни Москва — Океаны [Русский]
+  https://holychords.pro/34201
+- AGAPAO Worship — 주 날 물 위로 부르셨네 [Корейский]
+  https://holychords.pro/36671
+- The Voice of One Calling — Oceans (Where Feet May Fail) [Еврейский]
+  https://holychords.pro/40107
+- Hillsong United — Oceans (Remix) [Английский]
+  https://holychords.pro/43096
+- IGC Worship — Meer [Немецкий]
+  https://holychords.pro/43411
+- Hillsong En Français — Océans (Quand mes pieds tremblent) [Французский]
+  https://holychords.pro/48278
+- Agnes Alba — Oceans/La Niña de Tus Ojos/ Here I Am To Worship [Английский]
+  https://holychords.pro/52017
+- Hillsong United — Океаны (Ступать по водам) [Русский]
+  https://holychords.pro/53657
+- Илья Рябов — Океаны [Русский]
+  https://holychords.pro/56764
+- Titus Major — Oceans [Английский]
+  https://holychords.pro/58965
+- Harvest Arad — Oceane [Румынский]
+  https://holychords.pro/59078
+- psalmaker — Океаны [Русский]
+  https://holychords.pro/60532
+- Неизвестен — Znad oceanów mnie wezwałeś [Польский]
+  https://holychords.pro/61038
+- Hillsong Worship — Океани [Украинский]
+  https://holychords.pro/64243
+- Wolrus WORSHIP — Океаны [Русский]
+  https://holychords.pro/67888
+- Stephen McWhirter — Oceans [Английский]
+  https://holychords.pro/69913
+- Неизвестен — Με κάλεσε να περπατήσω [Греческий]
+  https://holychords.pro/73272
+- Божий Дар Київ (God's Gift) — Йти по водах (Океани) [Украинский]
+  https://holychords.pro/73487
+- Неизвестен — Океани [Македонский]
+  https://holychords.pro/80300
+- Дети Бога — Океаны [Русский]
+  https://holychords.pro/84318
+- Anne Elizabeth Tsyba — Océans [Французский]
+  https://holychords.pro/87659

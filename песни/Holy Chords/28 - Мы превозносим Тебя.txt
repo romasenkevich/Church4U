@@ -1,0 +1,39 @@
+Armageddon — Мы превозносим Тебя
+Источник: https://holychords.pro/28
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Cm G# D# F</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>  Cm                      D#</chopds>
+<text>Милость Твоя выше небес</text>
+<chopds>F                                          Cm</chopds>
+<text>Истина Твоя из рода в род</text>
+<chopds>  Cm                    D#</chopds>
+<text>Милость Твоя выше небес</text>
+<chopds>F                                           G</chopds>
+<text>Истина Твоя из рода в род</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     Cm                   G#</chopds>
+<text>Мы превозносим Тебя, воля Твоя</text>
+<chopds>  D#                               F  G</chopds>
+<text>Выше небес и земли</text>
+<chopds>                     Cm                  G#</chopds>
+<text>Мы превозносим Тебя, о Господь</text>
+<chopds>         D#                                    F   G</chopds>
+<text>Воссядь на престоле хвалы</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Fonki Music — Ми величаєм Тебе [Украинский]
+  https://holychords.pro/82661

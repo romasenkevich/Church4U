@@ -1,0 +1,75 @@
+Татьяна Прохор — Крик души
+Источник: https://holychords.pro/399
+
+==================================================
+
+<blocks>
+<chopds>| Am  F  C  G | Am  G  F  C | Dm  G |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>        Am7            Em/G                 Dm</chopds>
+<text>Как хочется в Твоих руках согреться</text>
+<chopds>      Am           Em/G                  Dm</chopds>
+<text>От суеты земной и серых дней.</text>
+<chopds>         Dm                    Am/C                G/H</chopds>
+<text>К Святой одежде с верой прикоснуться</text>
+<chopds>     Dm                       F               G    E7/Ab</chopds>
+<text>И подкрепиться силою Твоей.</text>
+<chopds>     Am7               Em/G              Dm</chopds>
+<text>Твоя любовь не ведает границы,</text>
+<chopds>       Am7                Em/G                Dm</chopds>
+<text>Нет на земле нигде такой любви,</text>
+<chopds>       Dm                    Am/C                   G/H</chopds>
+<text>Все как песчинки мы в Твоей деснице,</text>
+<chopds>      Dm                       F                        G         E7/Ab</chopds>
+<text>Но каждый дорог и спасён в Твоей крови.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                Am</chopds>
+<text>В Тебе я так нуждаюсь, мой Господь</text>
+<chopds>                 F</chopds>
+<text>О, исцели мою больную душу</text>
+<chopds>                                C</chopds>
+<text>Дай сердцем мне Твою любовь вдохнуть</text>
+<chopds>              Dm7                          E</chopds>
+<text>И облегчи мою земную ношу..</text>
+<chopds>                Am</chopds>
+<text>В Тебе я так нуждаюсь, мой Господь</text>
+<chopds>                     F</chopds>
+<text>Присутствием Твоим дай насладиться!</text>
+<chopds>                        C</chopds>
+<text>Дай мне Твоей Святой любви глоток,</text>
+<chopds>                     Dm                             E</chopds>
+<text>Чтобы в Тебе могла я раствориться!</text>
+<chopds>                             Am</chopds>
+<text>Могла я раствориться...</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>В молитве мы порой не многословны,</text>
+<text>Лишь выдает наш взгляд промокших глаз,</text>
+<text>Безмолвный крик души Ты слышишь, Боже</text>
+<text>Любовь Твоя оберегает нас.</text>
+<text>Мы прячем нашу слабость и обиды,</text>
+<text>Сжимая губы рвёмся в бой с грехом,</text>
+<text>Но понимаем, to что мы бессильны</text>
+<text>В Тебе победа и спасение одном.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<text>В Тебе я так нуждаюсь, мой Господь</text>
+<text>Дай мне Твоей Святой любви глоток</text>
+<text>Услышь безмолвный крик моей больной души</text>
+<text>Прикосновением горячим исцели!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<text>В Тебе я так нуждаюсь,мой Господь...</text>
+</blocks>

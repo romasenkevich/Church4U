@@ -1,0 +1,104 @@
+NG Worship — Святый Святый
+Источник: https://holychords.pro/71
+
+==================================================
+
+<blocks>
+<chopds>D  Em  A/C#</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>D                    Em7          A/C#</chopds>
+<text>Желание моё быть ближе к Тебе</text>
+<chopds>D                        Em7          A/C#</chopds>
+<text>Где небо престол и тьмы больше нет</text>
+<chopds>Hm                  Em7        A/C#</chopds>
+<text>И дай мне услышать Ангелов песнь</text>
+<chopds>D                            Em7        A/C#</chopds>
+<text>Что в Вышних взывают</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>A        Hm                         G</chopds>
+<text>Аллилуйя, Святый, Святый</text>
+<chopds>             D                            A</chopds>
+<text>Всемогущий, Царь небес</text>
+<chopds>             Hm                      G</chopds>
+<text>Ты достоин, Ты прославлен</text>
+<chopds>              D                                     A</chopds>
+<text>Во вселенной, Ты больше всех</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Хочу быть с Тобой чтобы любить</text>
+<text>Тех кто еще не знает Тебя</text>
+<text>Видеть позволь как они оживут</text>
+<text>И воспоют</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>Hm</chopds>
+<text>Дрожат моря и горы бежит от света тьма</text>
+<chopds>G</chopds>
+<text>Когда слышат голос Твой Царь Величия</text>
+<chopds>D</chopds>
+<text>Не в силах устоять ни сатана ни ад</text>
+<chopds>A</chopds>
+<text>Пред силою и славою Того Кто больше всех</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Алексей Каратаев — Хочу я быть ближе [Русский]
+  https://holychords.pro/326
+- New Beginnings Worship — Он был и есть [Русский]
+  https://holychords.pro/494
+- Jared Anderson — Great I Am [Английский]
+  https://holychords.pro/1801
+- Ольга Маріна — Аллилуйя Святой Святой [Русский]
+  https://holychords.pro/2104
+- Виталий Ефремочкин — Хочу я быть ближе [Русский]
+  https://holychords.pro/2937
+- Gracetime Worship Band — Хочу я быть ближе [Русский]
+  https://holychords.pro/11302
+- Християнська Божа Церква — Ты Велик [Русский]
+  https://holychords.pro/11748
+- Exodus 15 — Bog Jam Jest [Польский]
+  https://holychords.pro/12673
+- Нове місто — Ближче до Тебе [Украинский]
+  https://holychords.pro/14040
+- New Life Worship — Great I Am
+  https://holychords.pro/15797
+- Слово Жизни Music — Больше всех [Русский]
+  https://holychords.pro/28442
+- GRACE CV — Великий Ти [Украинский]
+  https://holychords.pro/35080
+- Jared Anderson — Я бути з Тобою [Украинский]
+  https://holychords.pro/35139
+- New Life Worship — Цар Небес [Украинский]
+  https://holychords.pro/35413
+- New Life Worship — Алілуя, Святий,Святий [Украинский]
+  https://holychords.pro/35758
+- New Life Worship — Величний Ти [Украинский]
+  https://holychords.pro/49378
+- Християнська Божа Церква — Величний Ти [Украинский]
+  https://holychords.pro/50190
+- Християнська надія — Ближче до Тебе [Украинский]
+  https://holychords.pro/50417
+- New Life Worship — Той, Хто Є [Украинский]
+  https://holychords.pro/51534
+- WOG.Worship — Желание моё быть ближе к Тебе [Русский]
+  https://holychords.pro/55530
+- Samuel et Katelyn — Grand Je Suis [Французский]
+  https://holychords.pro/72862
+- Worship Minsk — Как воск растают горы [Русский]
+  https://holychords.pro/72967
+- worship cover — Хочу Я Быть Ближе [Русский]
+  https://holychords.pro/77704
+- Emmanuil Worship Kiev — Алілуя [Украинский]
+  https://holychords.pro/81606

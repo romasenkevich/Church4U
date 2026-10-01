@@ -1,0 +1,71 @@
+Алексей Грудинский — Свет пролился
+Источник: https://holychords.pro/375
+
+==================================================
+
+<blocks>
+<chopds>Em                           C</chopds>
+<text>Свет пролился тьма ушла</text>
+<chopds>  Em                     C</chopds>
+<text>Дочь ожила, дочь Царя</text>
+<chopds>Am                                             Em</chopds>
+<text>И раскинув руки Царь в объятия зовёт</text>
+<chopds>      C                               D</chopds>
+<text>Туда где нет разлуки где любовь живёт</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                C</chopds>
+<text>Там где Имя словно звезда</text>
+<chopds>                  Em</chopds>
+<text>Там где слёзы Слёзы надежды</text>
+<chopds>                C</chopds>
+<text>От престола льётся река</text>
+<chopds>      Am                            D</chopds>
+<text>В этот мир где так много сомнений</text>
+<chopds>                C</chopds>
+<text>Что бы маски сняли сердца</text>
+<chopds>               Em</chopds>
+<text>Что бы дети оделись в прозрения</text>
+<chopds>          C</chopds>
+<text>Умирала но вновь ожила</text>
+<chopds>       Am                D</chopds>
+<text>Его дочь драгоценная вера</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Свет пролился тьма ушла</text>
+<text>Дочь ожила , Дочь Царя</text>
+<text>Задышало сердце пробудившись для Отца</text>
+<text>Духом обновилась и за ним пошла</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                C</chopds>
+<text>Туда где Имя словно звезда</text>
+<chopds>                  Em</chopds>
+<text>Туда где слёзы Слёзы надежды</text>
+<chopds>                C</chopds>
+<text>От престола льётся река</text>
+<chopds>      Am                            D</chopds>
+<text>В этот мир где так много сомнений</text>
+<chopds>                C</chopds>
+<text>Что бы маски сняли сердца</text>
+<chopds>               Em</chopds>
+<text>Что бы дети оделись в прозрения</text>
+<chopds>          C</chopds>
+<text>Умирала но вновь ожила</text>
+<chopds>       Am                D</chopds>
+<text>Его дочь драгоценная вера</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<text>И воскресла пробудившись от сна</text>
+<text>И прижалась к Его совершенству</text>
+<text>Оставляя в дали берега</text>
+<text>Этот мир, где так много сомненья.</text>
+</blocks>

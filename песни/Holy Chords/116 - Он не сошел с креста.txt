@@ -1,0 +1,116 @@
+Они — Он не сошел с креста
+Источник: https://holychords.pro/116
+
+==================================================
+
+<blocks>
+<videlit_line>Вступление</videlit_line>
+<chopds>Dm  Bb | Dm  G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                Dm                    Am/C                 Gm                     A</chopds>
+<text>Тебя распяли, мой Господь, а Ты с креста благословлял</text>
+<chopds>              Dm          Am/C              Bb                        C</chopds>
+<text>Тебя хулили и кляли, а Ты им, Боже, все прощал...</text>
+<chopds>                    F                 Dm              Gm                   A</chopds>
+<text>Они с Тобою на кресте свои надежды хоронили,</text>
+<chopds>                      Bb                                      Gm                  A</chopds>
+<text>О царстве славы на земле - о небесах же позабыли...</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>                    Dm               Am/C                Gm                           A</chopds>
+<text>Им нужно было все и здесь, им нужен был земной правитель,</text>
+<chopds>                Dm       Am/C                Bb                 C</chopds>
+<text>Они не поняли Тебя, и не признали, Искупитель</text>
+<chopds>                      F                             Dm                Gm                  A</chopds>
+<text>Стекала струйкой кровь из ран, Собою землю орошая,</text>
+<chopds>                Bb                                          Gm                           A</chopds>
+<text>И содрогались небеса, за ходом действий наблюдая</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                  Dm             Am/C             Gm                          A</chopds>
+<text>Он не сошёл с креста! Распятый Царь Своим твореньем..</text>
+<chopds>                 Dm              Dm/F                 Gm                     C/E</chopds>
+<text>Он не сошёл с креста! Он принял смерть без сожаленья</text>
+<chopds>                    F               Bb                    Gm/E                A</chopds>
+<text>Он не сошёл с креста! И в муках боль превозмогая..</text>
+<chopds>              Bb             Gm            A</chopds>
+<text>Он взывал: Прости им, как Я прощаю!!!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<chopds>              Dm                Am/C               Gm                    A</chopds>
+<text>Слеза упала на ладонь, пронзенную руками грешных-</text>
+<chopds>                   Dm          Am/C           Bb                C</chopds>
+<text>То небо плакало о Нем, рыдая тихо, безутешно</text>
+<chopds>                          F                 Dm                      Gm                 A</chopds>
+<text>Отвергнут, брошен и забыт! Толпа ушла, не понимая,</text>
+<chopds>                     Bb                                                 Gm                   A</chopds>
+<text>Что в этот миг там, на кресте Твои страданья их спасали..</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                  Dm             Am/C             Gm                          A</chopds>
+<text>Он не сошёл с креста! Распятый Царь Своим твореньем..</text>
+<chopds>                 Dm              Dm/F                 Gm                     C/E</chopds>
+<text>Он не сошёл с креста! Он принял смерть без сожаленья</text>
+<chopds>                    F               Bb                    Gm/E                A</chopds>
+<text>Он не сошёл с креста! И в муках боль превозмогая..</text>
+<chopds>              Bb             Gm            A</chopds>
+<text>Он взывал: Прости им, как Я прощаю!!!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>Gm | Dm/F | C/E | Bb Ab/Bb Bb</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>4 куплет: (модуляция)</videlit_line>
+<chopds>                     D#m               Bbm/C#        G#m                     Bb</chopds>
+<text>Воскрес из мертвых, победил ценою жизни смерти жало!</text>
+<chopds>                    D#m           Bbm/C#   H                                    C#</chopds>
+<text>С Отцом Собою примирил Он нас - и пропасти не стало.</text>
+<chopds>                  F#                       D#m              G#m               Bb</chopds>
+<text>Он на Себе замкнул войну добра и зла, от века сущих..</text>
+<chopds>                H                                                     G#m                        Bb</chopds>
+<text>И победил, о, мой Господь! Ты Царь царей - Бог Всемогущий!!!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>                  D#m    Bbm/C#                G#m    Bb</chopds>
+<text>ОН не сошёл с креста! Распятый Царь</text>
+<chopds>                 D#m             D#m/F#     G#m    C#/F</chopds>
+<text>ОН не сошёл с креста!!!</text>
+<chopds>                    F#              H    G#m/F    Bb</chopds>
+<text>ОН не сошёл с креста!!!</text>
+<chopds>H      G#m           Bb</chopds>
+<text>Прости им, как Я прощаю</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Angelika Dukart — Тебя распяли мой Господь [Русский]
+  https://holychords.pro/37734
+- Алекс и Лена Исаевы — Он не сошел с креста [Русский]
+  https://holychords.pro/40878
+- FECG Lahr — Ти Бе Разпнат [Болгарский]
+  https://holychords.pro/57261
+- Они — Він не зійшов з хреста [Украинский]
+  https://holychords.pro/69783
+- Они — Він не зійшов з хреста [Украинский]
+  https://holychords.pro/81063
+- Adonai Worship — Він не зійшов з хреста! [Украинский]
+  https://holychords.pro/82036
+- Domik Story — Він не зійшов з хреста [Украинский]
+  https://holychords.pro/82282

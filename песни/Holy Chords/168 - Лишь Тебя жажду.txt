@@ -1,0 +1,50 @@
+Алексей Каратаев — Лишь Тебя жажду
+Источник: https://holychords.pro/168
+
+==================================================
+
+<blocks>
+<chopds>A    E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>A</chopds>
+<text>Для Тебя живу, воздаю хвалу</text>
+<chopds>C#m                          H</chopds>
+<text>Победитель Ты, лишь Тебя я жажду</text>
+<chopds>A</chopds>
+<text>Ты такой, как есть, не меняешься</text>
+<chopds>C#m                          H                                C#m</chopds>
+<text>Ты Великий Бог, лишь Тебя жажду</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>         A                        C#m       E</chopds>
+<text>Вся жизнь моя сильна Тобою,</text>
+<chopds>       A                  C#m         E</chopds>
+<text>Душа полна Твоей любовью</text>
+<chopds>         A                  C#m                     H</chopds>
+<text>На всей земле, яви нам Свою волю.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>E    E/G#     A</chopds>
+<text>Иисус, Тебя прославлю</text>
+<chopds>C#m  E/G#  A</chopds>
+<text>Иисус, любовь моя,</text>
+<chopds>E/G#                A</chopds>
+<text>Сердцем Тебя желаю,</text>
+<chopds>C#m  E/G#  A            H</chopds>
+<text>Жажду я лишь Тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Свет Ты нам явил и любовь открыл,</text>
+<text>Совершенный Бог, лишь Тебя жажду,</text>
+<text>Ты меня поднял, Свою силу дал,</text>
+<text>О Тебе пою, лишь Тебя жажду.</text>
+</blocks>

@@ -1,0 +1,79 @@
+Hillsong Ukraine — Таков Бог наш
+Источник: https://holychords.pro/293
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>E  G#m  C#m  A</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>E                                G#m</chopds>
+<text>Всё, что нужно мне - Лишь благодать</text>
+<chopds>C#m    A</chopds>
+<text>Верю я в Твои Слова</text>
+<chopds>E              G#m</chopds>
+<text>Я жду Тебя приди опять</text>
+<chopds>C#m                 A</chopds>
+<text>Пусть Твой Дух обновит меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>H                E                 A                   F#m</chopds>
+<text>У ног Твоих я склонюсь пред Тобой я склонюсь</text>
+<chopds>H                    E               A</chopds>
+<text>И здесь Тебе поклонюсь</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>E                         G#m</chopds>
+<text>Ты в сердце моём, осияй мой путь</text>
+<chopds>C#m         A</chopds>
+<text>Силой Слова Своего</text>
+<chopds>E                     G#m</chopds>
+<text>Меня искупил, и восстановил</text>
+<chopds>C#m         A</chopds>
+<text>Мне свободу подарил</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>H                E                 A                   F#m</chopds>
+<text>У ног Твоих я склонюсь. Пред Тобой я склонюсь</text>
+<chopds>H                    E               A</chopds>
+<text>И здесь Тебе поклонюсь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                           E</chopds>
+<text>Отдал добровольно всё за всех</text>
+<chopds>                           G#m7</chopds>
+<text>И жизнь подчинил, взойдя на крест</text>
+<chopds>                        F#m7                        C#m        A              E</chopds>
+<text>Столько любви, излил на всех нас - Таков Бог наш!</text>
+<chopds>                           E</chopds>
+<text>К жизни от смерти вознесён</text>
+<chopds>                        G#m7</chopds>
+<text>Вовеки прославлен наш Господь</text>
+<chopds>                   F#m7                     C#m         A             E</chopds>
+<text>Царь и Слуга, мир целый спас - Таков Бог наш!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Spasenie Worship — Таков Бог наш [Русский]
+  https://holychords.pro/13511
+- Hillsong Worship — Такий Бог наш [Украинский]
+  https://holychords.pro/35186
+- Hillsong Ukraine — Потрібна мені тільки благодать [Украинский]
+  https://holychords.pro/35829
+- Hillsong Worship — This Is Our God [Английский]
+  https://holychords.pro/48781
+- Salem Astana Worship — Таков Бог наш [Русский]
+  https://holychords.pro/72094

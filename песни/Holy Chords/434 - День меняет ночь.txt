@@ -1,0 +1,30 @@
+Алексей Грудинский — День меняет ночь
+Источник: https://holychords.pro/434
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em      C                      G               D</chopds>
+<text>Оторвусь я от земли и взлечу стрелою ввысь,</text>
+<chopds>Em           C                      G                   D</chopds>
+<text>Там, где ангелы поют, где слышны песни хвалы.</text>
+<chopds>Em               C              G                 D</chopds>
+<text>Сквозь туманы суеты в Духе Божьем вознесусь,</text>
+<chopds>Em       C                      G               D</chopds>
+<text>Оставляя всё позади я к Отцу сейчас прийду.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  Em                    C    G                  D</chopds>
+<text>День меняет ночь, и что-то неизбежно,</text>
+<chopds> Em                       C   G                          D</chopds>
+<text>Лишь Твоя любовь в сердцах детей навечно.</text>
+<chopds>Em                 C  G                    D</chopds>
+<text>Ты моя скала, и Ты мой Хлеб насущный,</text>
+<chopds>  Em                            C  G                   D</chopds>
+<text>Пью любовь до дна, Ты мой Господь зовущий.</text>
+<chopds>Em      C          G              D            Em  C  G  D</chopds>
+<text>Небеса поют - открываются больше.</text>
+</blocks>

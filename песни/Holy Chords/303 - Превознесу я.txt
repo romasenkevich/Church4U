@@ -1,0 +1,48 @@
+Hillsong Ukraine — Превознесу я
+Источник: https://holychords.pro/303
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>         H        E</chopds>
+<text>Превознесу я</text>
+<chopds>         H        E</chopds>
+<text>Превознесу я</text>
+<chopds>         H        E</chopds>
+<text>Превознесу я</text>
+<chopds>      F#           H</chopds>
+<text>Тебя, мой Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>     F#                  C#m</chopds>
+<text>Укроюсь я в Тебе всегда</text>
+<chopds>        F#                H</chopds>
+<text>Сокровище моё</text>
+<chopds>              F#                    C#m  H  E</chopds>
+<text>Мой Друг и Царь помазанник</text>
+<chopds>        G#m  F#</chopds>
+<text>Святой Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ведь Ты со мною</text>
+<text>Ведь Ты со мною</text>
+<text>Ведь Ты со мною</text>
+<text>Я не боюсь</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — Тебе Я Славлю [Украинский]
+  https://holychords.pro/13171
+- Hillsong Worship — I Will Exalt You [Английский]
+  https://holychords.pro/13179
+- Brooke Ligertwood — I Will Exalt You [Английский]
+  https://holychords.pro/48943
+- Brooke Ligertwood — Тебе я славлю [Украинский]
+  https://holychords.pro/62919

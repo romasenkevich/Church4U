@@ -1,0 +1,61 @@
+Hillsong Ukraine — Прославь Царя
+Источник: https://holychords.pro/305
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                          C</chopds>
+<text>Прославь Царя, прославь Царя.</text>
+<chopds>                         G                              F                          Bb</chopds>
+<text>Прославь Того, кто правит В вечности на небесах</text>
+<chopds>                          C</chopds>
+<text>Прославь Царя, прославь Царя</text>
+<chopds>                      G                           F                              Bb</chopds>
+<text>За то, что жизнь Он миру дал – Ты Его прославь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>F                                C</chopds>
+<text>Иисус, в душе моей всегда</text>
+<chopds>                  G                      C</chopds>
+<text>Будь Царём, будь Царём</text>
+<chopds>F                                                     C      Am</chopds>
+<text>Жизнь возношу к святому трону я</text>
+<chopds>            Bb</chopds>
+<text>Пусть видит мир, как Царствие придёт.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>                           C</chopds>
+<text>Прославь Царя, прославь Царя</text>
+<chopds>                G                          F                                     Bb</chopds>
+<text>Взираю я на Того, Кто жизнь мою на небе спас</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>           F                                                                             C</chopds>
+<text>Ты сияй, Ты сияй ярче всех свет Твой видим мы (о-о-о-о)</text>
+<chopds>             F                                                                                 C</chopds>
+<text>Всё отдал, мне отдал, всё отдал мне Один лишь Ты</text>
+<chopds>                   F                                                                             Am</chopds>
+<text>Жизнь моя для Тебя Ты Господь, Ты Господь всего</text>
+<chopds>            Bb</chopds>
+<text>Пусть видит мир как Царствие придёт.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>                 C        Am            Bb</chopds>
+<text>Прославь Царя, прославь Царя.</text>
+<text>Прославь Царя, прославь Царя.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong London — Hail to the king [Английский]
+  https://holychords.pro/82476

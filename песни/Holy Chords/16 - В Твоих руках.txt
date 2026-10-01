@@ -1,0 +1,42 @@
+Skeemans Worship — В Твоих руках
+Источник: https://holychords.pro/16
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>C#m                             A               H      G#m</chopds>
+<text>Словом сильным Ты из земли меня создал</text>
+<chopds>C#m                A             H         G#m</chopds>
+<text>Когда во тьму я уходил, Ты тихо звал</text>
+<chopds>C#m                   A                     H      G#m</chopds>
+<text>Стерпев всю боль на кресте, меня избрал</text>
+<chopds>C#m           A                         H      G#m</chopds>
+<text>И для меня есть Твой план</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>           C#m                  A         H</chopds>
+<text>Растворяюсь в Святых руках</text>
+<chopds>   G#m                C#m         A           H</chopds>
+<text>В них покой Отца испаряет страх</text>
+<chopds>G#m                    C#m                    A             H</chopds>
+<text>Мир меняешь мой, лишь Своим теплом</text>
+<chopds>     G#m        C#m                     A              H      G#m</chopds>
+<text>Ты был распят, теперь навек я спасён</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Я не знал любви, и Ты пришел, ее мне дать</text>
+<text>Я был глухим, но Ты нашел, что мне сказать</text>
+<text>Сквозь весь мой грех Ты лишь смог меня обнять</text>
+<text>Твою любовь не отнять</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Skeemans Worship — В Твоїх руках [Украинский]
+  https://holychords.pro/71356

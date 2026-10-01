@@ -1,0 +1,60 @@
+Анна и Андрей Лукашины — Алиллуйя
+Источник: https://holychords.pro/252
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>E                 H      E          F#m   C#      F#m</chopds>
+<text>Прошу Тебя Господь пошли душе покой,</text>
+<chopds>A            E              D             A</chopds>
+<text>И удали от суеты людской,</text>
+<chopds>E              H                 C#m</chopds>
+<text>И среди всех соблазнов мира</text>
+<chopds>A                                  E</chopds>
+<text>Не дай создать себе кумира,</text>
+<chopds>C#m                    A                     H</chopds>
+<text>И огради от праздности уста,</text>
+<chopds>                             A                          H                     E</chopds>
+<text>Чтоб совесть пред Тобой всегда была чиста.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Молю Тебя Господь со мной всегда пребудь</text>
+<text>И если предначертанный мой путь</text>
+<text>Усеян будет не цветами</text>
+<text>А злыми острыми шипами</text>
+<text>Хочу тебя за все благодарить</text>
+<text>И веры жар в скорбях своих не охладить.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>H                                E</chopds>
+<text>И все что дышит да прославит</text>
+<chopds>C#m                 A</chopds>
+<text>Его величье торжествуя</text>
+<chopds>F#m                            A</chopds>
+<text>Тому кто всей вселенной правит</text>
+<chopds>F#m</chopds>
+<text>Да будет Слава</text>
+<chopds>H                 E              C#m               A</chopds>
+<text>Аллилуйя (Аллилуйя Аллилуйя Аллилуйя)</text>
+<chopds>H                 E              C#m               A</chopds>
+<text>Аллилуйя (Аллилуйя Аллилуйя Аллилуйя)</text>
+<chopds>H                 E              C#m               A</chopds>
+<text>Аллилуйя (Аллилуйя Аллилуйя Аллилуйя)</text>
+<chopds>H                 E              C#m               A                   E  F#m  E  D</chopds>
+<text>Аллилуйя (Аллилуйя Аллилуйя Аллилуйя)</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Молю Тебя Господь храни меня в пути</text>
+<text>Дай мне с надеждой к вечности идти</text>
+<text>Чтобы всегда в Духовной битве</text>
+<text>Поддержку находя в молитве</text>
+<text>Лукавого мог стрелы отражать</text>
+<text>И верой твердою Ему противостать.</text>
+</blocks>

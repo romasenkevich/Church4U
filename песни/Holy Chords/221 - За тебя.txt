@@ -1,0 +1,85 @@
+Imprintband — За тебя
+Источник: https://holychords.pro/221
+
+==================================================
+
+<blocks>
+<videlit_line>Intro</videlit_line>
+<chopds>Cm Bb Gm Cm Bb Gm</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>   Cm                      Eb</chopds>
+<text>Кровь, святая кровь,</text>
+<chopds>                    Bb                                               Gm</chopds>
+<text>На землю капает с креста, как снег невинна и чиста</text>
+<chopds>                    Cm                         Eb</chopds>
+<text>Я слышу вновь, я слышу вновь</text>
+<chopds>                Bb                                              Gm</chopds>
+<text>Через года, через века, сквозь поколение этот зов:</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>      Ab                      Bb                             Cm             Bb</chopds>
+<text>«Дитя моё, Я за тебя отдал на муки Сына Своего</text>
+<chopds>                      Ab                    Bb                  Cm                                  Bb</chopds>
+<text>Он стал как агнец, Он отдал всего Себя, и эта кровь с креста за тебя.»</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>          Cm            Ab                                 Eb       Bb</chopds>
+<text>За тебя боль, агония, смерть и мученья</text>
+<chopds>          Cm         Fm                                 Bb</chopds>
+<text>За тебя беззаконием распята любовь</text>
+<chopds>          Cm           Ab                                      Eb        Bb</chopds>
+<text>За тебя бесконечностью стали мгновенья</text>
+<chopds>          Cm                           Fm                             Bb</chopds>
+<text>За тебя с этих ран истекает священная кровь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Interlude</videlit_line>
+<chopds>Cm Bb Gm</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Крик, безмолвный крик,</text>
+<text>Любовь, пронзившая сердца, великой силою креста</text>
+<text>И в этот миг, священный миг,</text>
+<text>Смешалась с кровию слеза, так плачут только небеса</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>Fm Eb Bb</chopds>
+<text>              Это кровь за тебя</text>
+<chopds>Fm Eb Bb</chopds>
+<text>              Это боль за тебя</text>
+<chopds>Fm Eb Bb</chopds>
+<text>              Это смерть за тебя</text>
+<chopds>Fm Eb Bb</chopds>
+<text>              Этот крест за тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Instrumental</videlit_line>
+<chopds>Dm Bb F C  Dm Gm C</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Припев: модуляция</videlit_line>
+<chopds>        Dm                Bb                               F           C</chopds>
+<text>За тебя боль, агония, смерть и мученья</text>
+<chopds>        Dm           Gm                                C</chopds>
+<text>За тебя беззаконием распята любовь</text>
+<chopds>       Dm           Bb                                F            C</chopds>
+<text>За тебя бесконечностью стали мгновенья</text>
+<chopds>       Dm                             Gm                          C</chopds>
+<text>За тебя с этих ран истекает священная кровь.</text>
+<chopds>      Dm</chopds>
+<text>За тебя, за тебя</text>
+</blocks>

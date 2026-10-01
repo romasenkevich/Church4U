@@ -1,0 +1,42 @@
+Денис Никитин — Гимн Молодежи
+Источник: https://holychords.pro/441
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C</chopds>
+<text>Может мой друг ты меня не поймёшь,</text>
+<chopds>     Em</chopds>
+<text>Но это так классно, когда молодежь</text>
+<chopds>            F                                     C</chopds>
+<text>Собирается в месте, для Него!</text>
+<chopds>         C</chopds>
+<text>Молитва в единстве и крепкая дружба</text>
+<chopds>    Em</chopds>
+<text>И лишних напитков и слов нам не нужно</text>
+<chopds>       F                                C</chopds>
+<text>Зачем? Когда рядом Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>F                       G                                   C        Am</chopds>
+<text>Не думай, что это для тебя не возможно</text>
+<chopds>F                       G                                 C          Am</chopds>
+<text>Не думай, что Бог это скучно и сложно.</text>
+<chopds>F                        G                                C         Am</chopds>
+<text>Возьми Его в руки и крепко держись</text>
+<chopds>F                                G                       C</chopds>
+<text>Он для тебя приготовил новую жизнь!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Хочешь иметь ты хороших друзей</text>
+<text>Тогда иди к Богу как можно скорей</text>
+<text>Он ждёт тебя , Он тебя поймёт .</text>
+<text>Пойми что Иисус твой самый преданный Друг</text>
+<text>И ты не смотри, что творится вокруг</text>
+<text>Он завёт тебя, Он даст тебе всё!</text>
+</blocks>

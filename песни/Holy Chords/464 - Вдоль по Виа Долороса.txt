@@ -1,0 +1,130 @@
+Пирс — Вдоль по Виа Долороса
+Источник: https://holychords.pro/464
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                 Em           D                   C                H</chopds>
+<text>Вдоль по Виа Долороса, на Голгофу по пути</text>
+<chopds>             Em                           D                      C</chopds>
+<text>К месту казни толпы жаждали пройти</text>
+<chopds>      Am                    Em         F#</chopds>
+<text>И солдаты расчищали дорогу</text>
+<chopds>                  H                Em</chopds>
+<text>Скорби, грусти и тоски.</text>
+<text>Кровь текла струёю алой осуждённого на смерть,</text>
+<text>Разрывал венец терновый кости твердь</text>
+<text>И презренье нёс Он тех,</text>
+<text>Кто кричал, что совершил Он смертный грех.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>   E           Am           H                  Em           E7</chopds>
+<text>Вдоль по Виа Долороса  по страдания пути</text>
+<chopds>                 Am              H                         E7</chopds>
+<text>Шёл Мессия, словно Агнец нас спасти.</text>
+<chopds>           Am                  H                       Em          D      C</chopds>
+<text>Но Он выбрал ту дорогу, чтоб открыть нам небеса,</text>
+<chopds>        Em                         D              C   H    Em</chopds>
+<text>Шёл Христос по Долороса за тебя и за меня.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>            Em                        D                   C</chopds>
+<text>Он молчал, Он был спокоен, хоть устал и изнемог,</text>
+<chopds>               Em                        D                            C</chopds>
+<text>Так молчать в смиреньи полном мог лишь Бог.</text>
+<chopds>           Am                    Em</chopds>
+<text>Не клемил Он палачей,</text>
+<chopds>               F#                H                   Em</chopds>
+<text>Но с любовию смотрел Он на людей.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>     H                         C</chopds>
+<text>А солнце палит и небо молчит,</text>
+<chopds>      D                 H               Em  D    G   E</chopds>
+<text>Оставлен Сын Божий Самим Отцом,</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>   E           Am              H                Em                   E7</chopds>
+<text>Вдоль по Виа-Долороса до холма на всём пути</text>
+<chopds>               Am              H                     E7</chopds>
+<text>Капли крови будто маки расцвели,</text>
+<chopds>            Am                  H                     Em          H      Em</chopds>
+<text>Но Он выбрал ту дорогу, чтоб открыть нам небеса,</text>
+<chopds>  Em                              D                C   H    Em</chopds>
+<text>Шёл Христос по Долороса за меня и за тебя</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Андрей Максимов — Вдоль по Виа Долороса [Русский]
+  https://holychords.pro/3384
+- Виктория Гончарова — Виа Долороса [Русский]
+  https://holychords.pro/9534
+- Ян Прадвесьнік царква — Віа Далароса [Белорусский]
+  https://holychords.pro/9947
+- Благодать Минск — Via Dolorosa [Русский]
+  https://holychords.pro/10972
+- Ангелина Неволько — Виа Долороса [Русский]
+  https://holychords.pro/11707
+- Глиняный сосуд — Виа Долороса [Русский]
+  https://holychords.pro/16471
+- M.Worship — Там На Виа Долороса [Русский]
+  https://holychords.pro/30842
+- Dana Oprea — Jos în Via Dolorosa [Румынский]
+  https://holychords.pro/32173
+- Ben Shramovich — Віа Долороса [Украинский]
+  https://holychords.pro/35568
+- МСЦ ЕХБ — Виа Долороса [Русский]
+  https://holychords.pro/35585
+- Оксана Полищук — Шлях по Вiа ДоЛороса [Украинский]
+  https://holychords.pro/36497
+- Ангелина Фомина — Виа Долороса [Русский]
+  https://holychords.pro/38740
+- VifaniaWorship — Виа Долороса [Русский]
+  https://holychords.pro/42972
+- Хор Одесской Церкви — Вдоль по Виа Долороса [Русский]
+  https://holychords.pro/43055
+- Family Prokopenko — По дороге скорби Виа [Русский]
+  https://holychords.pro/43285
+- Спасіння Вишневе — Віа Долороса [Украинский]
+  https://holychords.pro/43322
+- Виталий Ефремочкин — Вдоль по Виа Долороса [Русский]
+  https://holychords.pro/48824
+- Неизвестен — Там, на Віа Долороса [Украинский]
+  https://holychords.pro/49671
+- Виноградівська Баптистська Церква — Там, на Віа Долороса [Украинский]
+  https://holychords.pro/49674
+- Молодіжний хор — Скорбний Віа Долороса [Украинский]
+  https://holychords.pro/53524
+- Любящий Бога Пилигрим — Jos in Via Dolorosa [Румынский]
+  https://holychords.pro/57846
+- Irina Kalnoy — Виа Долороса [Русский]
+  https://holychords.pro/61670
+- Неизвестен — Вздовж по Віа Долороса [Украинский]
+  https://holychords.pro/64475
+- Not An Idol — Via Dolorosa [Русский]
+  https://holychords.pro/69762
+- Ангелина Фомина — Пътят води към Голгота [Болгарский]
+  https://holychords.pro/69992
+- IRC worship — Там, на Віа Долороса [Украинский]
+  https://holychords.pro/70439
+- Наталья Жуковская — Виа Долороса [Русский]
+  https://holychords.pro/75310
+- Veronika Chesheiko — Віа Далароса [Белорусский]
+  https://holychords.pro/82248
+- RAOG Music — Виа Долороса [Русский]
+  https://holychords.pro/82453
+- Alina Jyhila — Вдоль по Виа Долороса [Русский]
+  https://holychords.pro/82479
+- Світлана Демко — Віа Долороса [Украинский]
+  https://holychords.pro/87220

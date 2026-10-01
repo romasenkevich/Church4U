@@ -1,0 +1,58 @@
+Skeemans Worship — Милость Твоя
+Источник: https://holychords.pro/231
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>  C            Em  C                      Em</chopds>
+<text>Верный Бог  утешение моё</text>
+<chopds>  C                    Em       C                               Em</chopds>
+<text>За каждый вдох прославляю имя Твоё</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>       D        C</chopds>
+<text>Куда уйду?</text>
+<chopds>                  Em                  G</chopds>
+<text>Нужен мне лишь Ты только Ты</text>
+<chopds>      D     C</chopds>
+<text>Не убоюсь</text>
+<chopds>               Em                 G</chopds>
+<text>Только рядом будь Иисус</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Твой покой сердце наполняет вновь</text>
+<text>Ты здесь со мной в каждом Твоем слове любовь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев: 2раза</videlit_line>
+<text>Куда уйду?</text>
+<text>Нужен мне лишь Ты только Ты</text>
+<text>Не убоюсь</text>
+<text>Только рядом будь Иисус</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>C                           Em</chopds>
+<text>Бог, жаждет Тебя сердце моё</text>
+<chopds>D                    Am</chopds>
+<text>Милость Твоя льется дождем</text>
+<chopds>C                          Em</chopds>
+<text>В дух мой пролей силу Свою</text>
+<chopds>D                     Am</chopds>
+<text>Вновь оживи веру мою</text>
+<text>Ты за меня столько отдал</text>
+<text>Падал не раз но ты поднимал</text>
+<text>Отче, прошу благослови</text>
+<text>Не отпущу и не уйду</text>
+<text>Жаждет Тебя сердце мое</text>
+<text>Милость Твоя льется дождем</text>
+<text>В дух мой пролей силу Свою</text>
+<text>Вновь оживи веру мою</text>
+</blocks>

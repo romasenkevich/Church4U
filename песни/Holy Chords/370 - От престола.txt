@@ -1,0 +1,56 @@
+Алексей Грудинский — От престола
+Источник: https://holychords.pro/370
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>F#m         D                  A  E</chopds>
+<text>От престола от Отца</text>
+<chopds>F#m      D                               A  E</chopds>
+<text>Благодать течёт в сердца.</text>
+<chopds>D                                   A</chopds>
+<text>Наполняет всё вокруг</text>
+<chopds>  E          F#m    D            A   E</chopds>
+<text>Божий Дух, Божий Дух.</text>
+<chopds>F#m          D                    A   E</chopds>
+<text>Льётся песня в небеса,</text>
+<chopds>F#m            D                       A  E</chopds>
+<text>Прославляем мы Христа,</text>
+<chopds>D                                  A</chopds>
+<text>Отдаём любовь Ему -</text>
+<chopds>  E               F#m D                F#</chopds>
+<text>Богу своему, Богу своему!</text>
+<text>Припев</text>
+<chopds>   F#m  D  A            E</chopds>
+<text>Слава, Тебе Господь мой!</text>
+<chopds>  F#m D  A               E</chopds>
+<text>Слава за Дух Святой Твой.</text>
+<chopds> F#m D  A              E</chopds>
+<text>Слава за избавление от оков.</text>
+<chopds>  F#m D  A             E</chopds>
+<text>Слава за бесконечную любовь.</text>
+<chopds>   F#m  D  A            E</chopds>
+<text>Слава, Тебе Господь мой!</text>
+<chopds>  F#m D  A               E</chopds>
+<text>Слава за Дух Святой Твой,</text>
+<chopds> F#m D  A              E</chopds>
+<text>Слава за избавление от оков.</text>
+<chopds>  F#m D  A             E                  D</chopds>
+<text>Слава за бесконечную любовь.</text>
+<chopds>E</chopds>
+<text>Твою любовь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>От престола от Отца</text>
+<text>Благодать течёт в сердца.</text>
+<text>Он любовью сохранил</text>
+<text>Этот мир этот мир.</text>
+<text>Опустились небеса,</text>
+<text>И наполнились сердца</text>
+<text>От величия Царя</text>
+<text>Вся дрожит земля,</text>
+<text>Вся дрожит земля.</text>
+</blocks>

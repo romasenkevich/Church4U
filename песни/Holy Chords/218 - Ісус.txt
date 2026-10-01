@@ -1,0 +1,55 @@
+Real Ivanna — Ісус
+Источник: https://holychords.pro/218
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Gm  D#  Cm                                       Dm</chopds>
+<text>Ісус,   я люблю люблю люблю Тебе!</text>
+<chopds>Gm  D#  Cm                                       Dm</chopds>
+<text>Ісус,   я люблю люблю люблю Тебе!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds> Bb                                     Dm/A</chopds>
+<text>Помирав Ти на хресті за мене</text>
+<chopds>  Bb                                 D#</chopds>
+<text>Гріх мій Ти на Себе взяв</text>
+<chopds>Bb                             Dm/A</chopds>
+<text>І тепер я живу для Тебе я</text>
+<chopds>Cm                                             F</chopds>
+<text>Я, мій Бог, тепер лише Твоя!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ісус, дав мені надію і любов!</text>
+<text>Ісус, проливав Свю святую кров!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Програш</videlit_line>
+<chopds>| Gm D# Bb F | Gm D# Cm F |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Брідж</videlit_line>
+<chopds>Gm                                            D#</chopds>
+<text>Я Тобою живу, я Тобою радію!</text>
+<chopds>Cm                                              Dm</chopds>
+<text>Я без Тебе себе у житті не знайду!</text>
+<chopds>Gm                                                 D#</chopds>
+<text>Я Тобою живу, я інакше не вмію</text>
+<chopds>Cm                                                   Dm</chopds>
+<text>Я Тобі, як мені Ти життя віддаю!</text>
+<chopds>Gm                                                 D#</chopds>
+<text>Я Тобою живу, я інакше не вмію</text>
+<chopds>Cm                                                   Dm</chopds>
+<text>Я Тобі, як мені Ти життя віддаю!</text>
+<chopds>Gm                                            D#</chopds>
+<text>Я Тобою живу, я Тобою радію!</text>
+<chopds>Cm                                              Dm</chopds>
+<text>Я без Тебе себе у житті не знайду!</text>
+</blocks>

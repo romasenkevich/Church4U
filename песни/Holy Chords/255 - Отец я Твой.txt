@@ -1,0 +1,68 @@
+Павел Плахотин — Отец я Твой
+Источник: https://holychords.pro/255
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Hm     A                        D   G  D/F#  Em                      F#m    Hm</chopds>
+<text>Твоё сердце меня манит,                 за собой меня зовёт,</text>
+<chopds>Hm         A                   D  G  D/F#  Em                          F#m     Hm</chopds>
+<text>Не предаст и не оставит,                   не разрушит, не уйдёт.</text>
+<chopds>Hm           A                     D  G  D/F#  Em                          F#m    Hm</chopds>
+<text>В Твоём сердце я покоюсь,              в Твоём сердце я живу,</text>
+<chopds>Hm                 A                     D  G  D/F#  Em                      F#m        Hm</chopds>
+<text>В нём от стрел врага укроюсь,        в нём любовь свою найду.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Hm  G             A                             Hm</chopds>
+<text>Отец, я Твой, что прекрасней может быть,</text>
+<chopds>Hm            G                 A                                Hm</chopds>
+<text>Твой дом - мой дом, в нём мы вечно будем жить,</text>
+<chopds>Hm        G              A                            Hm</chopds>
+<text>Любить, творить, нету зла, лишь Ты один,</text>
+<chopds>Hm     G       A                      Hm</chopds>
+<text>И я с Тобой, возлюбленный Твой сын.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>В Твоём сердце океаны, утонуть я в них хочу,</text>
+<text>Твоё сердце лечит раны, в нём от счастья я кричу,</text>
+<text>Твоё сердце компас верный, путь, ведущий в небеса,</text>
+<text>И на улицах небесных петь я буду без конца.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Hm  G             A                             Hm</chopds>
+<text>Отец, я Твой, что прекрасней может быть,</text>
+<chopds>Hm            G                 A                                Hm</chopds>
+<text>Твой дом - мой дом, в нём мы вечно будем жить,</text>
+<chopds>Hm        G              A                            Hm</chopds>
+<text>Любить, творить, нету зла, лишь Ты один,</text>
+<chopds>Hm     G       A                      Hm</chopds>
+<text>И я с Тобой, возлюбленный Твой сын.</text>
+<chopds>Hm  G             A                             Hm</chopds>
+<text>Отец, я Твой, что прекрасней может быть,</text>
+<chopds>Hm            G                 A                                Hm</chopds>
+<text>Твой дом - мой дом, в нём мы вечно будем жить,</text>
+<chopds>Hm       G            A                       Hm</chopds>
+<text>А здесь, сейчас, посреди греховной тьмы,</text>
+<chopds>Hm      G               A     Hm</chopds>
+<text>Живём, в любви мы.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>Em                F#              Hm  A        G</chopds>
+<text>Возьми меня и положи как печать</text>
+<chopds>Em                F#              Hm       A        G</chopds>
+<text>На сердце Ты Своё, и на руку Свою,</text>
+<chopds>Em            F#                Hm  A        G</chopds>
+<text>О, мой Отец, хочу тебя я познать,</text>
+<chopds>Em        F#                  Hm</chopds>
+<text>Познать любовь Твою.</text>
+</blocks>

@@ -1,0 +1,42 @@
+Skeemans Worship — Мой Бог
+Источник: https://holychords.pro/36
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>          Am                 F                               C</chopds>
+<text>Мой Бог, причинял Тебе не раз я боль</text>
+<chopds>                Em                         Am</chopds>
+<text>Своей святостью меня омой,</text>
+<chopds>          F                                   C</chopds>
+<text>Научи ходить путем Твоим</text>
+<chopds>           Em                                    (F)</chopds>
+<text>И служить другим как Ты.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>F                G</chopds>
+<text>Я здесь вновь прошу Тебя</text>
+<chopds>                Am              Em</chopds>
+<text>О милости ко мне Ты моя опора</text>
+<chopds>                    F                  G                                      Am</chopds>
+<text>Пусть любовь Твоя наполняет сердце и уста</text>
+<chopds> Em                                     Am</chopds>
+<text>Наполняет сердце и уста</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Отец, как никто Ты знаешь боль мою</text>
+<text>Всей душей к Тебе сейчас стремлюсь</text>
+<text>В мире нет надежней рук Твоих</text>
+<text>Только Ты так возлюбил.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Церква Ісуса Назарянина — Бог мій, завдавав Тобі не раз я біль [Украинский]
+  https://holychords.pro/52842

@@ -1,0 +1,49 @@
+Филип Реннер — На шаг ближе
+BPM: 162
+Источник: https://holychords.pro/412
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>E                   F#m</chopds>
+<text>Стою я здесь вся жизнь моя в Тебе</text>
+<chopds>E/G#                      A</chopds>
+<text>Я знаю рядом Ты Ты так нужен мне</text>
+<chopds>E                       F#m</chopds>
+<text>Вся жизнь моя желание одно</text>
+<chopds>E/G#                                A</chopds>
+<text>Гореть лишь для Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                          E                          H                             F#m     A</chopds>
+<text>Хочу я быть на шаг ближе, на шаг ближе к Тебе</text>
+<chopds>                          E                          H                             F#m     A</chopds>
+<text>Хочу я быть на шаг ближе, на шаг ближе к Тебе</text>
+<chopds>                          E                          H                             F#m     A</chopds>
+<text>Хочу я быть на шаг ближе, на шаг ближе к Тебе</text>
+<chopds>                          E                          H                             F#m     A</chopds>
+<text>Хочу я быть на шаг ближе, на шаг ближе к Тебе</text>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>               E                              H</chopds>
+<text>Лишь один, только Ты один,</text>
+<chopds>                      C#m        E/H              A</chopds>
+<text>Все чем я живу, все чем я дышу.</text>
+<chopds>                      E                                       H</chopds>
+<text>Ещё один день, он только для Тебя,</text>
+<chopds>                              C#m      E/H                       A</chopds>
+<text>В присутствии Твоем хочу я быть всегда</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>E           H/D#       C#m    E/H      A</chopds>
+<text>Иисус, Иисус, Ты первая любовь</text>
+<chopds>E           H/D#       C#m    E/H      A</chopds>
+<text>Иисус, Иисус, Ты первая любовь</text>
+</blocks>

@@ -1,0 +1,57 @@
+Imprintband — Бог мой
+BPM: 132
+Источник: https://holychords.pro/439
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Hm            G              A                    Hm</chopds>
+<text>Когда я вижу небо, его святую синь,</text>
+<chopds>Hm       G                          A                      Hm</chopds>
+<text>Я думаю о том, что сделал Божий Сын!</text>
+<chopds>Hm                               G                                 A                           Hm</chopds>
+<text>Мне никогда б не видеть солнца, не поднять к небу глаз,</text>
+<chopds>Hm                       G                          A                   Hm</chopds>
+<text>Если б Он не пролил кровь и не избавил нас.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>D                                   A/C#                      Hm</chopds>
+<text>Мне никогда б не видеть святость неба,</text>
+<chopds>D                                   A/C#                      Hm</chopds>
+<text>И не взлететь на крыльях в эту синеву.</text>
+<chopds>D                                 A/C#                      Hm</chopds>
+<text>Я жаждал, как голодный жаждет хлеба.</text>
+<chopds>D                          A/C#                     Hm</chopds>
+<text>Я просто погибал в глубоком рву.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  G                     A  Hm                          A</chopds>
+<text>Бог мой, Бог мой, как мне благодарить Тебя?</text>
+<chopds>Em                    A                           Hm   A</chopds>
+<text>Бог мой, Бог мой, где найти слова?</text>
+<chopds>  G                     A  Hm                      A</chopds>
+<text>Бог мой, Бог мой, Ты первая любовь моя!</text>
+<chopds>Em                    A                         Hm</chopds>
+<text>Бог мой, Бог мой, я люблю Тебя!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Когда я вижу святость, что миру Ты явил,</text>
+<text>Прошу лишь об одном: дай веры и любви.</text>
+<text>Ты дал мне жизнь и я хочу, так прожить её,</text>
+<text>Чтобы, придя к Тебе сказать: Господь, я сделал все!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<text>Я не искал богатства, власти, славы,</text>
+<text>Я ждал и жаждал Одного Тебя!</text>
+<text>Я шел Твоим путем дорогой правды,</text>
+<text>Не важно радуясь или скорбя.</text>
+</blocks>

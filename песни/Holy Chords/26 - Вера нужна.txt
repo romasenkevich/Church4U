@@ -1,0 +1,83 @@
+Божье прикосновение — Вера нужна
+Источник: https://holychords.pro/26
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Bbm  D#  G#  C#</chopds>
+<chopds>Bbm  Fm/G#  Bbm  C7</chopds>
+<chopds>Bbm  D#  G#  C#</chopds>
+<chopds>Bbm  Fm/G#  Bbm  C7</chopds>
+<chopds>Fm</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>Bbm                           D#             G#                              C#</chopds>
+<text>Как к Тебе Боже рвётся душа, в небо мысли уносят меня,</text>
+<chopds>Bbm                           C7                                     Fm                  F7</chopds>
+<text>В ту страну где Отцом приготовлен нам дом навсегда.</text>
+<chopds>C#                    D#/C#           Cm7                               C#</chopds>
+<text>Но для этого вера нужна та, что свыше от Бога дана,</text>
+<chopds>Bbm                     C7                              Fm                  F7</chopds>
+<text>Что надежду даёт, наполняет любовью сердца.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                       Bbm                           D#</chopds>
+<text>Каждому из нас здесь в мире вера нужна,</text>
+<chopds>                  G#                     C#</chopds>
+<text>Только с нею в небо рвётся душа,</text>
+<chopds>            Bbm       C7          Fm       F7</chopds>
+<text>Размягчая застывшее сердце.</text>
+<chopds>                   Bbm                  D#</chopds>
+<text>Огонёк надежды светит ярко в груди,</text>
+<chopds>        G#                      C#</chopds>
+<text>Это Бог со мной идёт впереди,</text>
+<chopds>                  Bbm                 C7      Fm</chopds>
+<text>Так войдёт Он в открытое сердце.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Если сердце тоскою щемит и душа от чего-то болит,</text>
+<text>Он поддержит, поможет и с верою всё исцелит.</text>
+<text>Только сильная вера нужна та, что только от Бога дана,</text>
+<text>Та, что свята, чиста ободряет надеждой сполна.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     Hm                        E</chopds>
+<text>Каждому из нас здесь в мире вера нужна,</text>
+<chopds>                  A                  D</chopds>
+<text>Только с нею в небо рвётся душа,</text>
+<chopds>             Hm       C#7     F#m   F#7</chopds>
+<text>Размягчая застывшее сердце.</text>
+<chopds>                Hm                   E</chopds>
+<text>Огонёк надежды светит ярко в груди,</text>
+<chopds>          A                   D</chopds>
+<text>Это Бог со мной идёт впереди,</text>
+<chopds>           Hm                   C#7     F#m    F#7</chopds>
+<text>Так в войдёт Он в открытое сердце.</text>
+<chopds>                Hm             C#7       F#m</chopds>
+<text>Так в войдёт Он впусти Его в сердце.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Brynza Brothers — Вера нужна [Русский]
+  https://holychords.pro/5101
+- Перлина — Вера нужна [Русский]
+  https://holychords.pro/8408
+- Божье прикосновение — Віра жива (Як душа, Боже, прагне Тебе) [Украинский]
+  https://holychords.pro/38184
+- Спасение Барановичи — Как к Тебе, Боже, рвётся душа [Русский]
+  https://holychords.pro/39607
+- Любов Шендер — Як до Тебе Бог рветься душа [Украинский]
+  https://holychords.pro/82116
+- Лариса Кузан — Віра жива [Украинский]
+  https://holychords.pro/87984

@@ -1,0 +1,42 @@
+Skeemans Worship — Будем славить Бога
+Источник: https://holychords.pro/322
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds> Em  C     G                       D</chopds>
+<text>Знаем мы одну звезду</text>
+<chopds>      Em  C     G                          D</chopds>
+<text>Что ярче всех сокровищ мира</text>
+<chopds>  Em    C      G                          D</chopds>
+<text>Спас нас, Тот, кто отдал жизнь</text>
+<chopds>                    Em   C    G                          D</chopds>
+<text>Из- за любви мы будем славить Бога</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>         Em      C                       G     D</chopds>
+<text>Ты один милостив я стою счастлив</text>
+<chopds>             Em           C                           G       D</chopds>
+<text>Что нашел другую жизнь и никак иначе</text>
+<chopds>                  Em      C                                 G           D</chopds>
+<text>Каждый день лишь в Тебе наполняюсь силой</text>
+<chopds>               Em   C                             G    D</chopds>
+<text>Мне надежду дает лишь Твоя милость</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Каждый день лишь в Тебе наполняюсь силой</text>
+<text>Мне надежду дает лишь Твоя милость</text>
+<text>Каждый день лишь в Тебе наполняюсь силой</text>
+<text>Мне надежду дает лишь Твоя милость</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- BibleMyLove — Бога будем славити [Украинский]
+  https://holychords.pro/34173

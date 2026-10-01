@@ -1,0 +1,53 @@
+Imprintband — Не плачь
+BPM: 142
+Источник: https://holychords.pro/223
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Am                                   F                   G                       Dm</chopds>
+<text>Когда рушатся все планы и мечты и когда неудачи твою жизнь рушат</text>
+<chopds>Am                    F                             G                           Dm</chopds>
+<text>И когда говорить не можешь ты потому что слёзы душат</text>
+<chopds>Am                                F                             G                             Dm</chopds>
+<text>Тогда кажется что выхода больше нет тогда сердце биться не желает</text>
+<chopds>Am                                    F                                       G</chopds>
+<text>Но есть Тот, Кто зажжёт в темноте яркий свет.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>      Dm                      Am   C           F                         Dm</chopds>
+<text>Он говорит:  Не плачь! Постарайся услышать эти слова,</text>
+<chopds>         Am  C  F                      Dm</chopds>
+<text>Не плачь!  И закрыв глаза:</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                       Am     F           G                    Dm</chopds>
+<text>Дай руки мне свои Я тебя согреть сумею.</text>
+<chopds>                      Am        F            G                          Dm</chopds>
+<text>Разбившиеся мечты Я любовью своей склею</text>
+<chopds>                      Am         F             G                   Dm</chopds>
+<text>Только скажи, что ты со мною будешь рядом</text>
+<chopds>                   Am          F             G              Dm</chopds>
+<text>Ценою своей крови тебя вытащу из ада.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Когда страх тебя преследует, словно тень от него ты избавиться не можешь.</text>
+<text>В темноте ты стучишь сквозь закрытую дверь свободным быть так хочешь.</text>
+<text>Ты на ощупь сквозь мрак постарайся пойти за этим голосом что совсем где-то рядом</text>
+<text>Он тебя проведет, он поможет дойти</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>Dm                                 C  Dm                        E</chopds>
+<text>Прошу, прости меня!  Я не хочу так жить</text>
+<chopds>Dm                         C  Bb                                        E</chopds>
+<text>И знаю только Ты жизнь сможешь изменить</text>
+</blocks>

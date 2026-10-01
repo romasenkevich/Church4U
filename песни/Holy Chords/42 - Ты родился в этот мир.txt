@@ -1,0 +1,92 @@
+New Beginnings Worship — Ты родился в этот мир
+Источник: https://holychords.pro/42
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>   D                           Gmaj7</chopds>
+<text>Вся земля полна славы и хвалы</text>
+<chopds>        D                        Gmaj7           A</chopds>
+<text>Любовь Отца нам явилась в Сыне</text>
+<chopds>D                            Gmaj7</chopds>
+<text>И зажглась в небе яркая звезда</text>
+<chopds>     D                             Gmaj7              A</chopds>
+<text>Она, мой друг, светит ярко и доныне</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>Em  D/F#  Asus/C#  A/C#</chopds>
+<text>Иисус!</text>
+<chopds>Em D/F# Asus  A</chopds>
+<text>Иисус!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Chorus</videlit_line>
+<chopds>A/F#    G                       A</chopds>
+<text>Ты родился в этот мир</text>
+<chopds>            F#m7            Hm</chopds>
+<text>Чтобы жизнь мне дать</text>
+<chopds>                    G                   A</chopds>
+<text>Чтоб всегда со мною быть</text>
+<chopds>     F#/A#                Hm</chopds>
+<text>Спасителем мне стать</text>
+<chopds>Hm/A   G                A</chopds>
+<text>Ты любовию Своей</text>
+<chopds>       F#/A#                      Hm               A      G</chopds>
+<text>Изменил меня, изменил весь этот мир</text>
+<chopds>                 A</chopds>
+<text>Иисус! Мой Иисус!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Подними к небу руки и тогда,</text>
+<text>Льется пусть слава и хвала Иисусу,</text>
+<text>Ликуй Земля, ведь открыты Небеса,</text>
+<text>Родился Царь и грех мира разрушен</text>
+</blocks>
+
+<blocks>
+<videlit_line>Instrumental</videlit_line>
+<chopds>E H     F#m     E H/D#     F#m A</chopds>
+<chopds>C#m H     A     F#m E     H/D# H</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Chorus 2</videlit_line>
+<chopds>             A                      H</chopds>
+<text>Ты родился в этот мир,</text>
+<chopds>              G#m             C#m</chopds>
+<text>Чтобы жизнь мне дать.</text>
+<chopds>                    A                     H</chopds>
+<text>Чтоб всегда со мною быть,</text>
+<chopds>      G#/C                C#m</chopds>
+<text>Спасителем мне стать.</text>
+<chopds>C#m/H  A               H</chopds>
+<text>Ты любовию Своей</text>
+<chopds>         G#/C</chopds>
+<text>Изменил меня,</text>
+<chopds>         C#m        C#m/H A                      H</chopds>
+<text>Изменил весь этот мир, Иисус! Мой Иисус!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- New Beginnings Worship — Вся земля повна слави і хвали [Украинский]
+  https://holychords.pro/31797
+- To God Music — Народився Ти в цей світ [Украинский]
+  https://holychords.pro/38558
+- New Beginnings Worship — Ти народжений для нас [Украинский]
+  https://holychords.pro/49231
+- Glorious Bands — Ты родился в этот мир [Русский]
+  https://holychords.pro/52989
+- Jem Worship — Ты родился в этот мир [Русский]
+  https://holychords.pro/52992
+- Anna Chekhovskyy — Ти родився у цей світ
+  https://holychords.pro/65584
+- LifeSource music — Ти народжений для нас [Украинский]
+  https://holychords.pro/66837

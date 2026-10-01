@@ -1,0 +1,111 @@
+Hillsong Ukraine — Иисус мой Спаситель
+Источник: https://holychords.pro/269
+
+==================================================
+
+<blocks>
+<videlit_line>интро</videlit_line>
+<chopds>A  D  F#m  D</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>A                  E                       F#m           E                    D</chopds>
+<text>Иисус мой, Спаситель, славы достоин лишь Ты,</text>
+<chopds>    D          A/C#    D           A/C#      F#m           G   D/F#   E</chopds>
+<text>Все мои дни буду хвалить я чудеса Твоей любви.</text>
+<chopds>A                   E                        F#m           E                  D</chopds>
+<text>Покой мой, приют мой, сила спасенья в Тебе,</text>
+<chopds>  D                        A/C#    D          A/C#   F#m            G   D/F#   E</chopds>
+<text>Каждый мой вздох будет всегда славу возносить Тебе.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>     A                F#m          D                   E</chopds>
+<text>Громко для Бога воспой вся земля,</text>
+<chopds>  A            F#m             D               E</chopds>
+<text>Сила, величье, хвала для Царя!</text>
+<chopds> F#m                               D                                E    F#m    E/G#</chopds>
+<text>Горы склонятся, моря восшумят, имя Бога вознося.</text>
+<chopds>  A        F#m                   D                 E</chopds>
+<text>Радуюсь я всем плодам Твоих рук!</text>
+<chopds>   A                   F#m             D              E</chopds>
+<text>Знают пусть все, как Тебя я люблю</text>
+<chopds>  F#m                             D                  E                 A</chopds>
+<text>Нет ничего, что могло бы сравниться с Тобой.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Олег Сивачев — Господу радостно пой вся земля [Русский]
+  https://holychords.pro/1740
+- Hillsong United — Мой Иисус - Спаситель [Русский]
+  https://holychords.pro/5936
+- Hillsong Worship — Shout to the Lord [Английский]
+  https://holychords.pro/13543
+- Благодать Киев — Ісусе, Спаситель [Украинский]
+  https://holychords.pro/14703
+- Spasenie Worship — Иисус мой Спаситель [Русский]
+  https://holychords.pro/33102
+- Новый Завет Пермь — Иисус мой, Спаситель [Русский]
+  https://holychords.pro/35094
+- Фіміам — Ісус - мій Спаситель [Украинский]
+  https://holychords.pro/37035
+- SHiP Worship — Громко воскликну [Русский]
+  https://holychords.pro/38189
+- Ultrabeat — Ropa Till Gud [Шведский]
+  https://holychords.pro/38486
+- J.C. Music — Пусть вся земля [Русский]
+  https://holychords.pro/38522
+- Церковь Відродження — Ісус мій - Спаситель [Украинский]
+  https://holychords.pro/38669
+- Various Artists — Mein Jesus, mein Retter [Немецкий]
+  https://holychords.pro/39532
+- Спасение Барановичи — Иисус мой, Спаситель [Русский]
+  https://holychords.pro/39626
+- Петро Грифель — Ісусе Спаситель (Слава Належить Тобі) [Украинский]
+  https://holychords.pro/47325
+- Християнська Божа Церква — Кличте до Бога [Украинский]
+  https://holychords.pro/53250
+- Gateway Director Project — Shout to the Lord [Английский]
+  https://holychords.pro/54414
+- Caleb and Kelsey — Shout To The Lord [Английский]
+  https://holychords.pro/55043
+- Hillsong Worship — Иисус мой Спаситель [Русский]
+  https://holychords.pro/56699
+- Скиния Worship — Ісусе, Ти - Спас мій [Украинский]
+  https://holychords.pro/58080
+- Grace Baptist Church Philadelphia — Иисус Мой Спаситель [Русский]
+  https://holychords.pro/59848
+- Darlene Zschech — Shout To The Lord (2024 Version) [Английский]
+  https://holychords.pro/60300
+- NG Band Riga — Иисус мой Спаситель [Русский]
+  https://holychords.pro/65054
+- Hillsong Chapel — Shout To The Lord [Английский]
+  https://holychords.pro/65812
+- Hillsong Chapel — Иисус мой, Спаситель [Русский]
+  https://holychords.pro/70667
+- Даніела Щербина (Пуршага) — Земле співай [Украинский]
+  https://holychords.pro/72152
+- Вифания Краснодар — Иисус мой Спаситель [Русский]
+  https://holychords.pro/72542
+- House of Worship — Иисус мой Спаситель [Русский]
+  https://holychords.pro/74704
+- Emanuel — Moj Isus, moj Gospod [Хорватский]
+  https://holychords.pro/76802
+- Маги Петкова — Иисусе, Спасител [Болгарский]
+  https://holychords.pro/78864
+- Emanuel Roro — Shout To The Lord [Еврейский]
+  https://holychords.pro/78865
+- Веритас — Мој Исус, мој Господ [Македонский]
+  https://holychords.pro/80093
+- Die Schola — Mój Jezu, mój Zbawco [Польский]
+  https://holychords.pro/80390
+- House of Worship — Shout To The Lord [Английский]
+  https://holychords.pro/80691
+- Spasinnya Music — Ісусе Ти Спас Мій [Украинский]
+  https://holychords.pro/81484
+- Bethel Community — Иисус мой, Спаситель [Русский]
+  https://holychords.pro/82874

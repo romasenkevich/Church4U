@@ -1,0 +1,49 @@
+Божье прикосновение — Бог Сына отдал
+Источник: https://holychords.pro/173
+
+==================================================
+
+<blocks>
+<chopds>Dm Bb C Am</chopds>
+<chopds>Dm Bb C Am</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Dm                  F                                    Bb Gm                      C</chopds>
+<text>Бог Сына отдал, чтоб каждый узнал цену Его любви,</text>
+<chopds>Dm                  F                                    Bb Gm                        C</chopds>
+<text>Цена так велика за меня грешника, мне трудно понять.</text>
+<chopds>Bb                         Gm                                   Dm   A</chopds>
+<text>За что Он возлюбил меня, ведь я грешил.</text>
+<chopds>  Gm                           Bb                     A</chopds>
+<text>В сердце впустить Его я не спешил.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds> F#m     F#m/E</chopds>
+<text>Отец, Отец,</text>
+<chopds>        D                    A/C#                     Esus  E</chopds>
+<text>Спасибо Тебе за дар святой с небес.</text>
+<chopds>      F#m                                    E           Asus   A</chopds>
+<text>Ты Сына нам дал, Он меня оправдал,</text>
+<chopds> F#m                           E/H                   E      F#m  E/G#</chopds>
+<text>Вечную жизнь Иисус мне даровал.</text>
+<chopds> F#m     F#m/E</chopds>
+<text>Отец, Отец,</text>
+<chopds>        D                    A/C#                     Esus  E</chopds>
+<text>Спасибо Тебе за дар святой с небес.</text>
+<chopds>      F#m                                    E           Asus   A</chopds>
+<text>Ты Сына нам дал, Он меня оправдал,</text>
+<chopds> F#m                           E                       A</chopds>
+<text>Вечную жизнь Иисус мне даровал.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Приди скорей к Христу, отвергнув суету, мы без Него никто,</text>
+<text>Тебя давно Он ждёт, но время всё идёт, а ты всё далеко,</text>
+<text>Спеши скорей, спеши, ведь дни все сочтены,</text>
+<text>Царство придёт, Творец нас заберёт.</text>
+</blocks>

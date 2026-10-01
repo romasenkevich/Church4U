@@ -1,0 +1,42 @@
+Новый Иерусалим — Я подарю тебе
+Источник: https://holychords.pro/379
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>F</chopds>
+<text>Я подарю тебе, милая, славная,</text>
+<chopds>Dm7</chopds>
+<text>Самое лучшее, самое главное</text>
+<chopds>Gm7                           F                             C  Dm7  C/E</chopds>
+<text>Ноты мелодий моих и песни дождей.</text>
+<chopds>F</chopds>
+<text>Я подарю тебе море жемчужное</text>
+<chopds>Dm7</chopds>
+<text>Самая лучшая, самая нужная.</text>
+<chopds>Gm7                           F                            C  Dm7  C/E</chopds>
+<text>Лучшие дни подарю из жизни моей.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>             Dm  C  Bb</chopds>
+<text>Я подарю тебе</text>
+<chopds>                      F                                     C2</chopds>
+<text>Песню знакомую только лишь нам.</text>
+<chopds>             Dm  C  Bb</chopds>
+<text>Я подарю тебе</text>
+<chopds>                 F                             C                        F    Bb</chopds>
+<text>И никогда никому не отдам, её не отдам.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Я подарю тебе небо безбрежное,</text>
+<text>Самая лучшая, самая нежная,</text>
+<text>Россыпи звёзд подарю в букетах стихов.</text>
+<text>И подарю я любовь бесконечную,</text>
+<text>Самую чистую, верную, вечную.</text>
+<text>Ту, что до самых небес нести я готов.</text>
+</blocks>

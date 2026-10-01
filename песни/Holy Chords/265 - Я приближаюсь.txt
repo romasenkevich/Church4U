@@ -1,0 +1,38 @@
+Просто сосуды — Я приближаюсь
+Источник: https://holychords.pro/265
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Dm           C                Bb  C Dm                 C                 Bb  C</chopds>
+<text>Твоё желанье Господь построить скинию с небес</text>
+<chopds>Gm                                          Bb      Gm                                   C</chopds>
+<text>Дом где будешь Ты прославлен в доме живых камней</text>
+<chopds>Dm                  Bb       C     Dm</chopds>
+<text>Возьми моё сердце и сокруши его</text>
+<chopds>Dm                        Bb   Csus4       C</chopds>
+<text>Пусть льются слёзы в доме Сына Твоего</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Gm              C       A</chopds>
+<text>Я приближаюсь я приближаюсь к Тебе</text>
+<chopds>Bb             C             Dm</chopds>
+<text>Я поклоняюсь Тебе</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Когда я стану как ты Войду в Твой вечный дом</text>
+<text>Буду я в Твоей любви Ты желание моё</text>
+<text>А сейчас пока я здесь в твоё присутствии останусь</text>
+<text>Я твоя и Ты мой весь любить Тебя не перестану</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds> Gm C Dm Bb Csus4 C</chopds>
+<text>Изнемогаю от любви,Тебе все слова мои,я на веки твоя</text>
+</blocks>

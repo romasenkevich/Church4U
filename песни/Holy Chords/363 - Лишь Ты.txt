@@ -1,0 +1,36 @@
+Holy Generation — Лишь Ты
+Источник: https://holychords.pro/363
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C                                        D                    Em</chopds>
+<text>Всё, что хотел иметь, я нашел в Тебе.</text>
+<chopds>C                                                              D                               Em</chopds>
+<text>Я знаю Ты со мной всегда, лишь Ты один нужен мне.</text>
+<chopds>C                                                D                         Em</chopds>
+<text>Я забываю с Тобой про все, что тянет меня вниз.</text>
+<chopds>C                                                           D</chopds>
+<text>Храню я слово внутри, Твоя свобода во мне горит.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>C                                                D                       Em</chopds>
+<text>Держать меня в руке способен только Ты.</text>
+<chopds>C                                                  D</chopds>
+<text>Я знаю Ты со мной, Лишь Ты один.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>             Em                G                       C              D</chopds>
+<text>Лишь Ты один отдал за меня жизнь Свою.</text>
+<chopds>             Em                            G                          Am  Hm</chopds>
+<text>Лишь Ты освободил, я больше не в плену.</text>
+<chopds>             Em                G                       C              D</chopds>
+<text>Лишь Ты один отдал за меня жизнь Свою.</text>
+<chopds>             Em                            G                          Am  Hm</chopds>
+<text>Лишь Ты освободил, я больше не в плену.</text>
+</blocks>

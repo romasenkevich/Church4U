@@ -1,0 +1,44 @@
+Артём Янский — Дай помнить милость Твою
+Источник: https://holychords.pro/127
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>            Em                      Am                 D                       G</chopds>
+<text>Вне Тебя мне жизни нет, вне Тебя лишь пустота.</text>
+<chopds>              C                  Am                       H                           Em</chopds>
+<text>Эта схватка много лет в жизни смертность суть проста</text>
+<chopds>                Em                       Am               D                        G</chopds>
+<text>Как ни легок каждый крест очищенье нужно так</text>
+<chopds>                  C                    Am                       H</chopds>
+<text>Только в этом счастье есть быть с Тобой во всех летах.</text>
+</blocks>
+
+<blocks>
+<videlit_line>ПРИПЕВ:  2р.</videlit_line>
+<chopds>                  Am                     D                    G      Em</chopds>
+<text>Дай никогда мне не забыть Твоей милости.</text>
+<chopds>          Am                   H                  Em         E</chopds>
+<text>О, даруй мне, Иисус, твердости в пути.</text>
+<chopds>      Am                     D                      G        Em</chopds>
+<text>Научи меня, Господь, пути Твои познать,</text>
+<chopds>                   Am                       H                    Em              E</chopds>
+<text>В Твоем страхе каждый день путь свой совершать.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ты - Источник Жизни мой. Отраду нахожу в Тебе</text>
+<text>Что внутри меня - открой, слышать Духа дай в себе.</text>
+<text>Зовы плоти отвергать Духом жажду я</text>
+<text>Для себя мне умирать, посвятив всего себя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Что желанье есть мое? Не скройся от раба.</text>
+<text>Тебе хваление мое, хоть каменистая тропа.</text>
+<text>Почитать здесь все за сор -Тебя приобретать.</text>
+<text>Посещать Твой храм и двор - плоть свою мне усмирять.</text>
+</blocks>

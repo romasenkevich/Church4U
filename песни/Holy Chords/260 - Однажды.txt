@@ -1,0 +1,36 @@
+Просто сосуды — Однажды
+Источник: https://holychords.pro/260
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em                         Am                D</chopds>
+<text>Эта музыка с небес мне напомнит о Тебе</text>
+<chopds>Em                               Am                   D</chopds>
+<text>Как Ты умер и воскрес, чтобы снова жить во мне</text>
+<chopds>G                                D</chopds>
+<text>Как меня освободил от печали и вины,</text>
+<chopds>Am                               C</chopds>
+<text>Чтоб с Тобой мог жить во веки.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G     D               Am                     C</chopds>
+<text>Однажды я увижу Тебя таким, как Ты есть</text>
+<chopds>G         D            Am                               C</chopds>
+<text>И не важно, сколько дней пройдёт и сколько лет.</text>
+<chopds>Em          Am                          Hm         Em</chopds>
+<text>Всю вечность ожидать я буду встречи</text>
+<chopds>                   Am            Hm        Em</chopds>
+<text>К лицу лицом...с моим Отцом</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Эти вечные слова, что из уст Твоих текут</text>
+<text>Оживляют все вокруг, за собой меня влекут</text>
+<text>Побежать за облака прикоснуться до Небес,</text>
+<text>Вечность разделить с Тобою.</text>
+</blocks>

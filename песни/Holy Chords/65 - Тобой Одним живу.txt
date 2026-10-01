@@ -1,0 +1,52 @@
+NG Worship — Тобой Одним живу
+Источник: https://holychords.pro/65
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>        A                  E/G#</chopds>
+<text>Ты верный, Ты сильный,</text>
+<chopds>            F#m                             D</chopds>
+<text>Ты любящий, благой, Ты истинный , Ты Бог Святой.</text>
+<chopds>         A                  E/G#</chopds>
+<text>Всё видишь и знаешь,</text>
+<chopds>            F#m                             D</chopds>
+<text>Ты самый близкий друг, я всей душой Тебя люблю.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>       A                                   E/G#</chopds>
+<text>Тобой Одним живу я, Тобой Одним дышу я,</text>
+<chopds>       F#m                                         D</chopds>
+<text>Всегда со мною рядом, не бросишь, не оставишь.</text>
+<chopds>        A                                       E/G#</chopds>
+<text>Я знаю здесь сейчас Ты, и сердце мое жаждет</text>
+<chopds>         F#m               D</chopds>
+<text>Быть с Тобой, cнова слышать голос Твой</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Спаситель, Целитель,</text>
+<text>Ты милосердный Бог. Ты удивителен во всем.</text>
+<text>Ты мудрый, Ты щедрый,</text>
+<text>Ты самый близкий друг, я всей душой Тебя люблю</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Марина Подколзина — Ты все для меня [Русский]
+  https://holychords.pro/21337
+- Kari Jobe — You Are For Me [Английский]
+  https://holychords.pro/22085
+- Християнська Божа Церква — Я знаю, Ти зі мною [Украинский]
+  https://holychords.pro/50454
+- psalmaker — Тобой одним живу я [Русский]
+  https://holychords.pro/61027
+- Kari Jobe — Ти для мене [Украинский]
+  https://holychords.pro/61166
+- Неизвестен — Ти вірний [Украинский]
+  https://holychords.pro/71298

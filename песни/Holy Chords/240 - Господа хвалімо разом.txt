@@ -1,0 +1,48 @@
+Голгофа церква — Господа хвалімо разом
+Источник: https://holychords.pro/240
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>  C                                        Em</chopds>
+<text>Господа хвалімо разом, у Його Святому храмі.</text>
+<chopds>     F                          Am   G</chopds>
+<text>Слава! Господу слава!</text>
+<chopds>  C                                     Em</chopds>
+<text>За Його чини могутні Господа хвалімо, люди.</text>
+<chopds>     F                          Am   G</chopds>
+<text>Слава!   Господу слава!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Заспів</videlit_line>
+<chopds> G                                 F</chopds>
+<text>Хай лунає хвала з заходу на схід,</text>
+<chopds>G                           F</chopds>
+<text>І від півдня на північ, від неба до землі!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds>C                                     F</chopds>
+<text>Хай все, що дихає, Господу співає,</text>
+<chopds>Am                           F</chopds>
+<text>Усе, що дихає, Слав Його!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Славте Бога звуком трубним, і на арфі, і на гуслах –</text>
+<text>Слава! Господу слава!</text>
+<text>Славте на дзвінких цимбалах, і на бубні, і у танці.</text>
+<text>Слава! Господу слава!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Ukraine — Славь Его [Русский]
+  https://holychords.pro/6394
+- Сила Веры Киев — Славим в этом Божьем Храме [Русский]
+  https://holychords.pro/14686

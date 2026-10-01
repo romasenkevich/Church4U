@@ -1,0 +1,65 @@
+Real Ivanna — Я с тобой
+Источник: https://holychords.pro/400
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>| Dm Bb C F/A | Bb Gm A Hm A/C# |</chopds>
+<chopds>| Dm Bb C F/A | Bb Gm A |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Dm                                            F</chopds>
+<text>Не грусти, ты слышишь, не грусти,</text>
+<chopds>             Bb                      Gm                    A</chopds>
+<text>Вся Моя любовь принадлежит тебе.</text>
+<chopds>Dm                              F</chopds>
+<text>Ты иди, не бойся, иди</text>
+<chopds>            Bb                   Gm                      A</chopds>
+<text>По пути, назначенном Мною, тебе</text>
+<chopds>    Gm                                             A</chopds>
+<text>Твоя рука сейчас в Моей руке</text>
+<chopds>| Dm  Bb  C  Am  | Bb  Gm  A  |</chopds>
+<chopds>   Dm                                  Bb               C</chopds>
+<text>Что бы не случилось, Я с тобой, сын Мой ,</text>
+<chopds> Am              | Bb  Gm  A  |</chopds>
+<text>Я с тобой...</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds> Dm                                 F</chopds>
+<text>Не понять , тебе же не понять ,</text>
+<chopds>             Bb                     Gm         A</chopds>
+<text>Что за болью Я скрываю порой .</text>
+<chopds>Dm                                F</chopds>
+<text>Но беги , молю , беги опять</text>
+<chopds>             Bb                       Gm          A</chopds>
+<text>В те объятья , что накроют рекой</text>
+<chopds>           Bb                 Gm                     A</chopds>
+<text>И когда не видно солнца за горой</text>
+<chopds>               Bb                    Gm                           A</chopds>
+<text>Ты не смей бояться , сын Мой , Я с Тобой !</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>   Dm                                            Bb               C</chopds>
+<text>Что бы не случилось, Я с тобой, сын Мой ,</text>
+<chopds>           Am                     Bb</chopds>
+<text>Я с тобой, каждый миг ,</text>
+<chopds>             Gm             A</chopds>
+<text>Твою грусть Я готов стереть любовью ,</text>
+<chopds>   Dm                                            Bb                 C</chopds>
+<text>Что бы не случилось , Я с тобой , сын Мой ,</text>
+<chopds>      Am       Bb              Gm                       A           Dm</chopds>
+<text>Я с тобой твою жизнь на кресте , Я спасал Своею Кровью!</text>
+<text>"Не бойся , ибо Я искупил тебя, назвал тебя по имени твоему , ты - Мой .</text>
+<text>Будешь ли переходить через воды , Я с тобою .</text>
+<text>Через реки ли - они не потопят тебя .</text>
+<text>Пойдёшь ли через огонь - не обожжёшься и пламя не опалит тебя, ибо Я - Господь , Бог Твой!"</text>
+<text>И когда не видно солнца за горой</text>
+<text>Ты не смей бояться , сын Мой , Я с тобой!</text>
+</blocks>

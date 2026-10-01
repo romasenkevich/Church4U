@@ -1,0 +1,38 @@
+Hillsong Ukraine — Я не стыжусь
+Источник: https://holychords.pro/300
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Em  G  C  Am  Em  G  C  Am</chopds>
+<text>В миг, когда Ты жизнь мою спас</text>
+<chopds>Em  G  C  Am</chopds>
+<text>Весь мой мир стал другим</text>
+<chopds>Em  G  C  Am  Em  G  C  Am</chopds>
+<text>Видят пусть все Ты - Свобода</text>
+<chopds>Em  G  C  Am</chopds>
+<text>Свет в мою тьму пролил</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>C                        G         D          C</chopds>
+<text>В объятья Свои меня позвал</text>
+<chopds>                           G              D</chopds>
+<text>И жизнь мне вечную дал</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G                                     D</chopds>
+<text>Я не стыжусь благовестия, Бог</text>
+<chopds>        Em                C</chopds>
+<text>Спасла меня Твоя любовь</text>
+<chopds>       G        D</chopds>
+<text>Меня Ты оживил</text>
+<chopds>Em                                   C</chopds>
+<text>Дал жизнь мне воскресший Сын</text>
+<chopds>A ---- 5-5-6-6-3-3---3-3-5-5----------5-5-6-6-3-3-3-3-6-6----------</chopds>
+<chopds>E 3-3---------------3-3---------6-6-3-3--------------------------6-6-5-5</chopds>
+</blocks>

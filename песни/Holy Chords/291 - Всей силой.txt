@@ -1,0 +1,81 @@
+Hillsong Ukraine — Всей силой
+BPM: 138
+Источник: https://holychords.pro/291
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>        H                                  F#</chopds>
+<text>Глаза нам открой на всё, что ранит</text>
+<chopds>G#m                         E</chopds>
+<text>Сердце Твоё Ты нас послал</text>
+<chopds>           H                   F#               G#m             E</chopds>
+<text>Как Церковь Свою сиять на весь мир</text>
+<chopds>  H                                          F#</chopds>
+<text>Гордость смиряй в сердцах у нас</text>
+<chopds>       G#m                            E</chopds>
+<text>Все стены сломай к ногам Твоим</text>
+<chopds>         H                           F#                 G#m       E</chopds>
+<text>Возложим свой план и земные венцы</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>               G#m       E     H                           F#</chopds>
+<text>С надеждой встань, пусть тьма трепещет</text>
+<chopds>               G#m        E  H                 F#</chopds>
+<text>Свет Святой являй, и пусть увидят все</text>
+<chopds>E                G#m   F#             C#m             E           F#</chopds>
+<text>Иисус - наш Бог, И Он достоин славы всей</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>  H                                F#</chopds>
+<text>Бог всех времён, славен Ты</text>
+<chopds>         G#m                          E</chopds>
+<text>В творении всём Твоё Имя чудно</text>
+<chopds>   H                         F#                            G#m            E</chopds>
+<text>Над всей землей благодать для всех в Нём</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>             E                         G#m</chopds>
+<text>Всей силой мы. Всей силой мы</text>
+<chopds>                H                     F#</chopds>
+<text>Возглашать будем славу</text>
+<chopds>            E                          G#m</chopds>
+<text>Всей силой мы. Всей силой мы</text>
+<chopds>                H                   F#</chopds>
+<text>Возглашать будем честь</text>
+<chopds>            E                     G#m</chopds>
+<text>Сердца поют, прославлен будь</text>
+<chopds>          H                            F#</chopds>
+<text>Превознесён превыше всех</text>
+<chopds>       E                                  G#m</chopds>
+<text>Тебе, наш Царь, всем, что есть в нас</text>
+<chopds>                H                    F#</chopds>
+<text>Возглашать будем честь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>     E  G#m      H         F#</chopds>
+<chopds>О-о, о-о, о-о-о, о-о-о...</chopds>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — With Everything [Английский]
+  https://holychords.pro/28428
+- Нове Життя Черкаси — Усим, що є [Украинский]
+  https://holychords.pro/32944
+- Hillsong United — Дай увидеть(Всем сердцем здесь) [Русский]
+  https://holychords.pro/44817
+- CLF WORSHIP — Всей силой [Русский]
+  https://holychords.pro/63060
+- Kingdom Culture Worship — With Everything [Английский]
+  https://holychords.pro/86567

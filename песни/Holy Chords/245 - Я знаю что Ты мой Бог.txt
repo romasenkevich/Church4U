@@ -1,0 +1,41 @@
+Дарина Кочанжи — Я знаю что Ты мой Бог
+Источник: https://holychords.pro/245
+
+==================================================
+
+<blocks>
+<chopds>F  C/E  Gm  Bb</chopds>
+<chopds>F  C/E  Gm  Bb-C</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Dm                      Bb   F                             A</chopds>
+<text>Если не для Тебя, не зачем жить, не зачем.</text>
+<chopds>Dm                            Bb       F                      C</chopds>
+<text>Если б не Твой покой, мелочи всё, мелочи.</text>
+<chopds>Dm                             Bb     F                       A</chopds>
+<text>Если Ты скроешь лик, вечная боль, вечная.</text>
+<chopds>Dm                           Bb   F                          C</chopds>
+<text>Если не дней Твоих, нечего ждать, нечего.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>        F                          C/E       Gm                           Bb</chopds>
+<text>Я знаю что Ты мой Бог, источник воды живой.</text>
+<chopds>        F                      C/E                 Bb   C</chopds>
+<text>Ты сердце моё омой этой водой.</text>
+<chopds>     F                               C/E   Gm                        Bb</chopds>
+<text>Я семя в Твоей земле, я глина в Твоих руках.</text>
+<chopds>         F                 C/E                        Gm  Bb-C</chopds>
+<text>Расти, лепи меня, Ты знаешь как.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Искры Твои во мне, выстрадан путь, выстрадан,</text>
+<text>Знаю что Ты Один, истинный Бог, истинный.</text>
+<text>Сердце моё уже, видела свет, видела,</text>
+<text>И как не тяжёл сей путь, выберу жизнь, выберу.</text>
+</blocks>

@@ -1,0 +1,56 @@
+Слово Жизни Music — Искупитель
+Источник: https://holychords.pro/55
+
+==================================================
+
+<blocks>
+<chopds>Dm   F   Bb</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>                        Bb      C       F</chopds>
+<text>Возложу заботы на Тебя</text>
+<chopds>                              Bb   C        F</chopds>
+<text>Грех свой оставляю у креста</text>
+<chopds>                              Bb          C        Dm</chopds>
+<text>Мне гордиться нечем без Тебя</text>
+<chopds>                C      Bb</chopds>
+<text>Ты - хвала моя</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Жизнь моя, Господь, в руках Твоих</text>
+<text>Ты Творец судьбы и дней моих</text>
+<text>Каждый миг, что дал, Господь, Ты мне</text>
+<text>Я доверю Тебе</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                        Bb      C                        F</chopds>
+<text>Ты мой Искупитель Ты мой Целитель</text>
+<chopds>                      Bb      C                       F</chopds>
+<text>Ты мой Спаситель Ты мой Господь</text>
+<chopds>                     Bb  C                                 Dm   C/E</chopds>
+<text>Ты моя защита источник для меня</text>
+<chopds>               Bb      C                            Dm   F   Bb</chopds>
+<text>Моя надежда Ты жизнь моя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>    Gm                        Bb              F                      C</chopds>
+<text>Иисус – мой Искупитель стою перед Тобой</text>
+<chopds>     Gm                     Bb                    F                          C</chopds>
+<text>Иисус – мой Искупитель Ты спас меня, мой Бог</text>
+<chopds>          Gm                Bb              Dm                     C</chopds>
+<text>Искупитель, Спаситель, покой мой и Целитель</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Cathy Burton — Redeemer [Английский]
+  https://holychords.pro/6426

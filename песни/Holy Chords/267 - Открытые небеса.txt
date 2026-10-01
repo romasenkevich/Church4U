@@ -1,0 +1,49 @@
+Просто сосуды — Открытые небеса
+Источник: https://holychords.pro/267
+
+==================================================
+
+<blocks>
+<chopds>Dm  C  Dm  C</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Dm               C             Dm                     C</chopds>
+<text>В порывы ветра хочу отдать себя</text>
+<chopds>Dm                Am                   C</chopds>
+<text>Лететь свободно как орёл</text>
+<chopds>G                                  D</chopds>
+<text>Дух Святой стал ветром для меня</text>
+<chopds>Dm            C                      Dm   C</chopds>
+<text>Я Твои крылья приобрёл</text>
+<text>К небесам хочу лететь</text>
+<text>Чтобы быть всегда с Тобой</text>
+<text>В Твоём пламени гореть</text>
+<text>Изменяясь в образ Твой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C                         Am</chopds>
+<text>Небеса открыл мою душу искупил</text>
+<chopds>Dm           C                 Bb</chopds>
+<text>На кресте Божий Сын</text>
+<chopds>C                           Am</chopds>
+<text>И теперь я Твой Ты Себя мне показал</text>
+<chopds>Dm           C                  G                   Gm              Am</chopds>
+<text>На кресте крылья дал чтоб летал в небеса</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Одного прошу Господь</text>
+<text>Созерцать Твою красу</text>
+<text>Поклоняясь день и ночь</text>
+<text>Возносить Тебе хвалу</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<text>В порывы ветра хочу отдать себя…</text>
+</blocks>

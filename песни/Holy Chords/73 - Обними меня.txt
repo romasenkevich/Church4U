@@ -1,0 +1,46 @@
+Рома Иванько — Обними меня
+Источник: https://holychords.pro/73
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Am Am/H C</chopds>
+<chopds>Am Am/H C</chopds>
+<chopds>Dm</chopds>
+<chopds>F G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>           Am                 C</chopds>
+<text>Заблудился, и дорогой пошёл не той,</text>
+<chopds>            F                Dm                          G</chopds>
+<text>Зацепился, и Тебя обошёл стороной.</text>
+<chopds>                Am                     C</chopds>
+<text>Ты приснился, и так плакал в месте со мной,</text>
+<chopds>              F                   Dm                                G</chopds>
+<text>Я вцепился, и просил стать Твоею женой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>         C              G                     Dm</chopds>
+<text>Я хочу смотреть в Твои глаза Иисус,</text>
+<chopds>             C                G                      Dm</chopds>
+<text>Хочу знать, что вижу, что к Тебе стремлюсь.</text>
+<chopds>                 C             G                        Dm</chopds>
+<text>Что в Тебя влюбляюсь, что с Тобой иду.</text>
+<chopds>             F                                               G</chopds>
+<text>Обними меня по крепче, обними меня покрепче,</text>
+<chopds>       Dm                       F   G</chopds>
+<text>Любимый мой Иисус. Любимый мой Иисус.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Я вцепился, и просил стать Твоею женой,</text>
+<text>Ты приснился, и сказал твой светильник пустой.</text>
+<text>Наклонился, и сосуд мой наполнил с горой,</text>
+<text>Заблудился, я в Тебе и пошёл за Тобой.</text>
+</blocks>

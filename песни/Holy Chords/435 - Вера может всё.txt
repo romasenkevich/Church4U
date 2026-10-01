@@ -1,0 +1,52 @@
+Алексей Грудинский — Вера может всё
+Источник: https://holychords.pro/435
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>E                             A             H7</chopds>
+<text>У каждой битвы есть причина</text>
+<chopds>E                             A          H7</chopds>
+<text>У каждого сраженья срок</text>
+<chopds>E                                  A         H7</chopds>
+<text>И будешь только молодчина</text>
+<chopds>E                          A          H7</chopds>
+<text>А если ты открыл замок</text>
+<chopds>E                           A          H7</chopds>
+<text>Смотри, гора упала в море</text>
+<chopds>E                                A       H7</chopds>
+<text>На сердце высохла слеза</text>
+<chopds>E                            A         H7</chopds>
+<text>Знай сотворили это Трое</text>
+<chopds>E                                        A     H7</chopds>
+<text>Твой Бог живущий в небесах</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>E                         A  H7</chopds>
+<text>Вера может всё</text>
+<chopds>E                         A  H7</chopds>
+<text>Вера может всё о-о</text>
+<chopds>E                         A            H7</chopds>
+<text>Вера может всё даже горы толкать</text>
+<chopds>E                         A  H7</chopds>
+<text>Вера может всё</text>
+<chopds>E                         A  H7</chopds>
+<text>Вера может всё о-о</text>
+<chopds>E                         A         H7</chopds>
+<text>Вера может всё это надо понять</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>И в каждое сомненья выстрел</text>
+<text>Она мой Щит моя защита</text>
+<text>Она то семя, что упало</text>
+<text>И что так долго прорастала</text>
+<text>Она дарованная свыше</text>
+<text>Отцом небесным от начала</text>
+<text>И Он её конечно слышит</text>
+<text>Когда она к нему взывала</text>
+</blocks>

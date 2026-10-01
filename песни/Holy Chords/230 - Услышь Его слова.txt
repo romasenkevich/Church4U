@@ -1,0 +1,55 @@
+Дмитрий Шлетгауэр — Услышь Его слова
+Источник: https://holychords.pro/230
+
+==================================================
+
+<blocks>
+<chopds>F   C   Dm   Bb</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Dm                                        Am</chopds>
+<text>Нам всем придётся умирать и мне всегда хотелось знать</text>
+<chopds>Gm                                        Bb                  C</chopds>
+<text>Что будет там за этой страшной чертой</text>
+<chopds>Dm                                                 Am</chopds>
+<text>Когда не слышишь сердца стук когда не видишь что вокруг</text>
+<chopds>Gm                              Bb    C</chopds>
+<text>Кто будет там со мной</text>
+<chopds>Am                                     Dm               Dm/C          Gm                 Bb  C</chopds>
+<text>Открыл я книгу что одна давно лежала у окна меня ждала</text>
+<chopds>Am                                        Dm             Dm/C                 Gm</chopds>
+<text>И сильный голос не земной заговорил тогда со мной</text>
+<chopds>   Bb                            Csus                                            C</chopds>
+<text>"Ты не умрёшь, ты вечно будешь жить, со Мной"</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>F                                               C</chopds>
+<text>Услышь, услышь Его слова открой, открой свои глаза</text>
+<chopds>Dm       Dm/C              Bb                     Bb/C</chopds>
+<text>И попроси Его, чтоб Он простил тебя</text>
+<chopds>F                                           C</chopds>
+<text>Ты руки к небу подними Его всем сердцем призови</text>
+<chopds>Dm      Dm/C                Bb Bb/C            Dm    Bb   F   C</chopds>
+<text>И попроси Его, чтоб Он поднял тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>С тех пор я падал много раз и ощущал как снова грязь</text>
+<text>Лежит на сердце моём</text>
+<text>Но снова книгу открывал и Он опять меня прощал</text>
+<text>Не оставлял!</text>
+<text>Теперь Он слышит голос мой даёт мне пить воды живой воды живой</text>
+<text>Ты можешь это пережить Он хочет всё тебе простить твой грех забыть</text>
+<text>Ты будешь вечно жить. ЖИТЬ!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Doorway To Heaven Church — Услышь Его слова [Русский]
+  https://holychords.pro/38462

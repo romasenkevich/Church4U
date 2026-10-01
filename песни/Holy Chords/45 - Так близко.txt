@@ -1,0 +1,41 @@
+4U Band — Так близко
+BPM: 120
+Источник: https://holychords.pro/45
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>C#m                               E</chopds>
+<text>Ты пришел в мою жизнь назвал по имени</text>
+<chopds>H                                   F#m</chopds>
+<text>Дал мне новый шанс сказал:"За мной иди!"</text>
+<chopds>C#m                               E</chopds>
+<text>И теперь душа моя так чиста</text>
+<chopds>H                                      F#m</chopds>
+<text>Ведь Ты своею кровью заплатил за меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>    C#m  A         E            H</chopds>
+<text>Любовь на крест зашла</text>
+<chopds>    C#m A     E                      H</chopds>
+<text>Любовь свет Твой вижу я</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Ты забрал мою боль и разрушил страх</text>
+<text>Я теперь навсегда лишь в Твоих руках</text>
+<text>Ты зажег свой свет внутри меня</text>
+<text>Господь я буду вечно славить Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>C#m             A</chopds>
+<text>Так близко, Ты рядом</text>
+<chopds>E                               H</chopds>
+<text>Вовеки со мною Ты</text>
+</blocks>

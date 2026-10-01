@@ -1,0 +1,43 @@
+Hillsong Ukraine — Верю я
+Источник: https://holychords.pro/499
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Em  D  C</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Em                                  E7sus       C     D</chopds>
+<text>Я знаю, дал Ты мне лучший путь,</text>
+<chopds>Em                         E7sus       C     D</chopds>
+<text>Тебя я всё сильнее люблю,</text>
+<chopds>Em                               E7sus     C     D</chopds>
+<text>Теперь я вечно в Твоих руках,</text>
+<chopds>Em                            E7sus       C</chopds>
+<text>Верю в Бога на Небесах.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G         D           Em                              D            C</chopds>
+<text>Верю я, верю я, верю я, что ты Божий Сын,</text>
+<chopds>           G              D</chopds>
+<text>Оживил меня Иисус,</text>
+<chopds>Am7                      G/H       C                             G</chopds>
+<text>Ведь ни кто не мог меня спасти, лишь Ты.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост: 4р</videlit_line>
+<chopds>       G                                                              C</chopds>
+<text>Вовеки, вовеки, Тебя вовеки славлю я.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — I Believe (Live) [Русский]
+  https://holychords.pro/10825

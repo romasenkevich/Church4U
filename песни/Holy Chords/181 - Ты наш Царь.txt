@@ -1,0 +1,46 @@
+Алексей Каратаев — Ты наш Царь
+Источник: https://holychords.pro/181
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Cm                             G#            Bb      Cm</chopds>
+<text>Ангелы у трона Твоего, Твоего поют</text>
+<chopds>Cm                             G#                    Bb                    Cm</chopds>
+<text>Дивному, Славному Царю  возносят всю хвалу</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  G#  Bb</chopds>
+<text>Святой</text>
+<chopds>                   G#  Bb</chopds>
+<text>Ты Бог – Святой!</text>
+<chopds>                   G#  Bb</chopds>
+<text>Ты Бог - Святой!</text>
+<chopds>                Cm</chopds>
+<text>Ты наш Царь!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Небеса для Тебя поют, Тебе поют, Господь Святой!</text>
+<text>Творения все на земле склоняются перед Тобой!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Виталий Ефремочкин — Святой Царь [Русский]
+  https://holychords.pro/420
+- Rita Springer — Holy is Our King [Английский]
+  https://holychords.pro/13520
+- Виталий Ефремочкин — Святий Цар [Украинский]
+  https://holychords.pro/44039
+- IGC Worship — Ангелы у Трона Твоего [Русский]
+  https://holychords.pro/44986
+- LF band — Біля Твого трону янголи [Украинский]
+  https://holychords.pro/45814
+- Виталий Ефремочкин — Ангели біля трону Твого [Украинский]
+  https://holychords.pro/70176

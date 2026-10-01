@@ -1,0 +1,77 @@
+Hillsong Ukraine — Последствия
+Источник: https://holychords.pro/108
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>D   Em    G   Hm</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>          D</chopds>
+<text>Престол Твой - все Небеса</text>
+<chopds>                     Em         G        Hm</chopds>
+<text>Подножие ног Твоих земля</text>
+<chopds>                     D</chopds>
+<text>Из тех же рук, что звезды зажгли</text>
+<chopds>                    Em        G   Hm</chopds>
+<text>Кровь пролилась за меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 Припев</videlit_line>
+<chopds>                   G                                     D</chopds>
+<text>И в то мгновенье, когда Себя отдал Ты</text>
+<chopds>              G                                     Hm</chopds>
+<text>На распятье взирала вся земля</text>
+<chopds>                  G</chopds>
+<text>Ты возносил меня из праха</text>
+<chopds>              Hm                         A          D</chopds>
+<text>И дал жизнь мне в последствиях</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Свобода в шрамах Твоих</text>
+<text>Благодать меня спасла</text>
+<text>Ты избрал - взять грешников венец</text>
+<text>А свой венец Ты мне отдал</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Припев</videlit_line>
+<text>И в то мгновенье, когда Себя отдал Ты</text>
+<text>Освобождал Ты от всех цепей меня</text>
+<text>Ты возносил меня из праха</text>
+<text>И дал жизнь мне в последствиях</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 Припев</videlit_line>
+<text>И в то мгновенье для всех воров и нищих</text>
+<text>Для разбитых открыл Ты Небеса</text>
+<text>Поднял нас из развалин</text>
+<text>И дал жизнь мне в последствиях</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>              Hm              A      D</chopds>
+<text>Ведь знаю я, что со мной Ты</text>
+<chopds>                Hm            A      D</chopds>
+<text>Ведь знаю я, что со мной Ты здесь</text>
+<chopds>                 G             Hm        G          D   A  D</chopds>
+<text>Ведь знаю я, со мной Твоя любовь</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Илья Рябов — Со мной Твоя любовь [Русский]
+  https://holychords.pro/50767
+- Hillsong United — Aftermath [Английский]
+  https://holychords.pro/50771
+- Hillsong United — Наслідок [Украинский]
+  https://holychords.pro/51618

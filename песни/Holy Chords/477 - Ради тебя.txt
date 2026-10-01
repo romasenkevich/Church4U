@@ -1,0 +1,44 @@
+Жизнь — Ради тебя
+Источник: https://holychords.pro/477
+
+==================================================
+
+<blocks>
+<videlit_line>intro</videlit_line>
+<chopds>Dm Gm C Dm</chopds>
+<chopds>Bb Gm Dm/A A</chopds>
+<chopds>Dm Gm C F</chopds>
+<chopds>D# Gm Dm/A A Dm</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Dm                    F</chopds>
+<text>Бог создал тебя -</text>
+<chopds>  Gm                    Dm/A   A</chopds>
+<text>Знай, ты Его дитя!</text>
+<chopds>              Dm                               F</chopds>
+<text>Ты вокруг, вокруг посмотри -</text>
+<chopds> Gm                                                     Dm/A           A</chopds>
+<text>Видишь, что всё живёт благодаря Его любви.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>              Dm      Gm                           C          F</chopds>
+<text>Ради тебя это солнце, ради тебя это небо,</text>
+<chopds>                Bb               Gm            Dm/A            A</chopds>
+<text>Ради тебя Бог эти звёзды зажёг в вышине!</text>
+<chopds>              Dm      Gm                           C          F</chopds>
+<text>Ради тебя это солнце, ради тебя это лето!</text>
+<chopds>               D#                Gm       Dm/A            A</chopds>
+<text>Ради тебя и эта встреча, и ты не одинок!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Бог пришёл в этот мир,</text>
+<text>За тебя и меня Он кровь Свою пролил!</text>
+<text>Ты на крест, на крест посмотри -</text>
+<text>Видишь, как Он ждёт твоей и моей любви!</text>
+</blocks>

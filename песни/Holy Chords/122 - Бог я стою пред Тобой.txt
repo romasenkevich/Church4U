@@ -1,0 +1,44 @@
+Ксения Кузнецова — Бог я стою пред Тобой
+Источник: https://holychords.pro/122
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>C#            G#                 F#</chopds>
+<text>Бог, я стою пред Тобою,</text>
+<chopds>C#                    G#              F#</chopds>
+<text>Вся жизнь моя для Тебя.</text>
+<chopds>C#                 G#           A#m                   F#</chopds>
+<text>Ты, как никто возлюбил и на кресте заплатил</text>
+<chopds>C#                 G#              F#</chopds>
+<text>Кровью Своей за меня.</text>
+<chopds>C#                    G#        F#</chopds>
+<text>Был перед всеми унижен,</text>
+<chopds>C#          G#              F#</chopds>
+<text>Ты умирал за меня,</text>
+<chopds>C#                 G#               A#m                 F#</chopds>
+<text>Ты все грехи мне простил, новую жизнь подарил,</text>
+<chopds>C#               G#                   F#</chopds>
+<text>Омыла меня Кровь Твоя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C#  G#                    A#m          F#</chopds>
+<text>Иисус, сердце своё я отдаю Тебе навек,</text>
+<chopds>C#                G#                 F#</chopds>
+<text>Самый Любимый и Близкий</text>
+<chopds>C#                     G#                  A#m                 F#</chopds>
+<text>Дай мне прожить для Тебя жизнь ,о которой Ты мечтал,</text>
+<chopds>C#              G#                F#</chopds>
+<text>Когда творил Ты меня.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- FECG Lahr — Бог я стою пред Тобою [Русский]
+  https://holychords.pro/37468
+- FECG Lahr — Боже, пред Теб аз стоя [Болгарский]
+  https://holychords.pro/57005

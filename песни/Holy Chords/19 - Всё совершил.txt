@@ -1,0 +1,76 @@
+New Beginnings Worship — Всё совершил
+Источник: https://holychords.pro/19
+
+==================================================
+
+<blocks>
+<chopds>A E/G# A H</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>E/G# A        H  C#m  E/G# A           H</chopds>
+<text>  Меня нашёл Ты,   Ты знал мой путь</text>
+<chopds>E/G#  A       H  C#m  A           Hsus   H</chopds>
+<text>  Всё потому что  меня Ты любишь</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<chopds>E/G#  A     H  C#m  E/G#  A     H</chopds>
+<text>  Своею Славой,   меня покрой,</text>
+<chopds>E/G#    A     H  C#m  A           Hsus   H        A           Hsus   H</chopds>
+<text>  В любое время   меня Ты любишь, меня Ты любишь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>E                         H/D#   C#m                          E/G#     A</chopds>
+<text>Пред Тобой склоняюсь я, кровь пролил Ты за меня,</text>
+<chopds>                           H</chopds>
+<text>Нет любви ценней Твоей,</text>
+<chopds>E                      H/D#   C#m                       E/G#            A</chopds>
+<text>Ты, Иисус, превыше всех, кровью Ты омыл мой грех,</text>
+<chopds>                                 H</chopds>
+<text>Что разлучит нас с Тобой?</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 Куплет</videlit_line>
+<text>Ведешь меня Ты, хранишь мой путь</text>
+<text>В Твоих руках я, меня Ты любишь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>                   A        H              C#m</chopds>
+<text>Все совершил, смерть победил,</text>
+<chopds>                  A                C#m    H</chopds>
+<text>Ты жизнь вечную мне подарил</text>
+</blocks>
+
+<blocks>
+<videlit_line>4 Куплет</videlit_line>
+<text>Пред Твоей славой, померкнет все,</text>
+<text>Ты предо мною, меня Ты любишь, меня Ты любишь</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Скиния Worship — Меня нашел Ты [Русский]
+  https://holychords.pro/9818
+- Hillsong Worship — У креста [Русский]
+  https://holychords.pro/26679
+- Hillsong Worship — At the cross [Английский]
+  https://holychords.pro/26686
+- Philad Worship — Вклоняюсь [Украинский]
+  https://holychords.pro/26773
+- Darlene Zschech — У креста [Русский]
+  https://holychords.pro/35134
+- Philad Worship — Мій Господь [Украинский]
+  https://holychords.pro/42148
+- Zion Band — Під Хрестом [Украинский]
+  https://holychords.pro/56083
+- BBSO — Vin la Cruce [Румынский]
+  https://holychords.pro/57020

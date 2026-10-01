@@ -1,0 +1,38 @@
+Вадим Ятковский — Воспою Тебя
+Источник: https://holychords.pro/383
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Am      G     C                F      Dm    Am      H7       E</chopds>
+<text>Я открою сердца дверь, воспою Тебя теперь</text>
+<chopds>Am           G         C         F       Dm    Am      E       F</chopds>
+<text>Всё во мне пускай поёт, славу Богу воздаёт</text>
+<chopds>           Dm    Am     E      Am</chopds>
+<text>Всю славу Богу воздаёт!</text>
+<chopds>Am                   G    C         F  Dm              Am       H7      E</chopds>
+<text>Как над землёю облака,так надо мной Твоя рука</text>
+<chopds>Am         G     C     F         Dm     Am         E         F</chopds>
+<text>Я с Тобою не боюсь,всё смогу в Тебе Иисус!</text>
+<chopds>     Dm      Am        E       Am</chopds>
+<text>Я всё смогу в Тебе Иисус!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  E           Am   G                   C</chopds>
+<text>Ты Бог мой,нет другого у меня!</text>
+<chopds>   E            F       H            E     Am</chopds>
+<text>Ты Бог мой и я люблю Тебя!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Не устану славить,петь, на Тебя мой Бог смотреть,</text>
+<text>Славы пусть река течёт, в небеса хвалу несёт!</text>
+<text>В небеса хвалу несёт!</text>
+<text>Святым духом снизойди на меня в Твоей любви,</text>
+<text>Поклоняюсь пред Тобой, наполняй меня Собой!</text>
+<text>Наполняй меня Собой!</text>
+</blocks>

@@ -1,0 +1,63 @@
+Слово Жизни Music — Ничто но только Кровь Иисуса
+BPM: 81
+Источник: https://holychords.pro/470
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>               H                              G#m</chopds>
+<text>Твой крест лучше всяких слов</text>
+<chopds>                                  H                            G#m</chopds>
+<text>Что я услышать мог мне говорит о том,</text>
+<chopds>                                F#                                  E</chopds>
+<text>Что я теперь спасён защита для меня,</text>
+<chopds>                                           H     G#m   F#</chopds>
+<text>Иисус, лишь кровь Твоя, Твоя!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>    H</chopds>
+<text>Что вину мне может смыть?</text>
+<chopds>  G#m</chopds>
+<text>Вновь что может исцелить?</text>
+<chopds>        F#</chopds>
+<text>Ничто, но только кровь,</text>
+<chopds>         E                                          H       F#   E</chopds>
+<text>Ничто, но только кровь Иисуса!</text>
+<chopds>H</chopds>
+<text>От греха спасёт мой дух</text>
+<chopds>G#m</chopds>
+<text>Не добро моих заслуг –</text>
+<chopds>        F#</chopds>
+<text>Ничто, но только кровь,</text>
+<chopds>        E                                            H            F#   E</chopds>
+<text>Ничто, но Твоя кровь, Царь Иисус!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Твой крест говорит мне вновь</text>
+<text>О любви Отца, смелость мне даёт</text>
+<text>Смотреть в Его глаза праведность моя,</text>
+<text>Иисус, лишь кровь Твоя, Твоя!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>    H</chopds>
+<text>Кровь Твоя, омыла меня,</text>
+<chopds>    F#                               E</chopds>
+<text>Очистила меня от всякого греха</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Matt Redman — Nothing But The Blood [Английский]
+  https://holychords.pro/5318
+- Matt Redman — О, ничто, лишь кровь [Русский]
+  https://holychords.pro/28631
+- Джерело Життя Здолбунів — О, ніщо лиш кров Ісуса [Украинский]
+  https://holychords.pro/42703

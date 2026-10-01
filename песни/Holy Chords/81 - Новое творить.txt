@@ -1,0 +1,46 @@
+Виталий Ефремочкин — Новое творить
+Источник: https://holychords.pro/81
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Cm</chopds>
+<text>Всё что в сердце у меня Ты изменил</text>
+<text>Покажу и пусть увидят все.</text>
+<text>Сколько благодати в жизнь мою излил,</text>
+<text>Это чудеса, это чудеса.</text>
+<text>Есть ли что нибудь что трудно для Тебя?</text>
+<text>Есть ли что то невозможное?</text>
+<text>Ты способен силой горы перемещать,</text>
+<text>Это чудеса, это чудеса.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G#  D#   Bb          Fm</chopds>
+<text>Аллилуйя, Наш Бог способен,</text>
+<chopds>G#  D#   Bb  Fm</chopds>
+<text>Аллилуйя, новое творить.</text>
+<chopds>G#  D#   Bb      Fm</chopds>
+<text>Аллилуйя, навеки верен,</text>
+<chopds>          G#                   Bb</chopds>
+<text>Наш Бог способен - новое творить.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>Cm</chopds>
+<text>Способен Ты благословить,</text>
+<text>И больше чем мечтаем мы.</text>
+<text>Избытки и изобилии,</text>
+<text>Бог способен, Бог способен.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- BJ Putnam — New [Английский]
+  https://holychords.pro/23958
+- BJ Putnam — Nuevo
+  https://holychords.pro/53974

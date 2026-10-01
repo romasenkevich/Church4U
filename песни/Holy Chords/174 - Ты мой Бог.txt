@@ -1,0 +1,54 @@
+Божье прикосновение — Ты мой Бог
+Источник: https://holychords.pro/174
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>   Dm                         Gm         A          Dm</chopds>
+<text>Тебя люблю, мой Бог, я всей душою,</text>
+<chopds>       Dm                              Gm      C                           F</chopds>
+<text>И с каждым новым днём хочу любить сильней,</text>
+<chopds>          D7             Gm           A           Bb</chopds>
+<text>Люблю Тебя за то, что Ты со мною</text>
+<chopds>    Bb                       Gm             A                     Dm     A</chopds>
+<text>И говоришь со мной с любовью неземной</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Dm         Gm      A            Dm</chopds>
+<text>Ты мой Бог, крепость моя,</text>
+<chopds>        Bb      Gm   A          Dm</chopds>
+<text>в руках Твоих сила моя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Меня Ты никогда не оставляешь</text>
+<text>И голос слышу Твой звучит в душе моей:</text>
+<text>"Благословлю тебя, коль ты благословляешь,</text>
+<text>И силы не жалей, других люби сильней"</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>И снова слышу голос Твой чудесный:</text>
+<text>"Во всём будь совершенным, человек,</text>
+<text>Как совершенный наш Отец Небесный.</text>
+<text>Надейся, верь, люби и будешь жить вовек"</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Неизвестен — Тебя люблю, мой Бог, я всей душою [Русский]
+  https://holychords.pro/24990
+- Life Christian Church — Ти Мій Бог Твердиня Моя [Украинский]
+  https://holychords.pro/27145
+- Спасение Барановичи — Тебя люблю, мой Бог [Русский]
+  https://holychords.pro/40834
+- Церква Святої Трійці м. Рівне — Тебе, мій Боже, я всім серцем люблю [Украинский]
+  https://holychords.pro/41195
+- Божье прикосновение — Тебе люблю, мій Бог [Украинский]
+  https://holychords.pro/46327

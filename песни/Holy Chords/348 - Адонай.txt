@@ -1,0 +1,50 @@
+Маханаим — Адонай
+BPM: 160
+Источник: https://holychords.pro/348
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>G#m  E  H  F#</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>G#m                                  H</chopds>
+<text>Кто сей Царь славы, Господь великий</text>
+<chopds> F#                                       C#m</chopds>
+<text>Сильный и крепкий, в брани Своей,</text>
+<chopds> G#m                         H</chopds>
+<text>Благословен Ты, Бог Вседержитель,</text>
+<chopds>    F#                                C#m</chopds>
+<text>Слово Твоё - правды чистой елей</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>               G#m                           E</chopds>
+<text>Слава Тебе вовеки, о Адонай великий,</text>
+<chopds>             H               F#</chopds>
+<text>Господи, Господи.</text>
+<chopds>                G#m                          E</chopds>
+<text>Слава Тебе вовеки, о Адонай великий,</text>
+<chopds>             H               F#</chopds>
+<text>Господи, Господи.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Кто сей Царь Славы, кроткий и дивный</text>
+<text>Пробиты руки, возложен венец</text>
+<text>Бог в Своём Сыне послал оправдание</text>
+<text>Вернул в Свою обитель заблудших овец.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Скиния Worship — Адонай [Русский]
+  https://holychords.pro/4157
+- Маханаим — Адонай [Украинский]
+  https://holychords.pro/15439

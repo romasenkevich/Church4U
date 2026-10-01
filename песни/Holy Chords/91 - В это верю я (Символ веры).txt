@@ -1,0 +1,114 @@
+Hillsong Ukraine — В это верю я (Символ веры)
+BPM: 142
+Источник: https://holychords.pro/91
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>F  Am G  C/E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>F                              Am</chopds>
+<text>О, Ты Отец наш вечный</text>
+<chopds>      G                 C/E</chopds>
+<text>Создатель и Творец</text>
+<chopds>F                    G          C/E</chopds>
+<text>Бог всемогущий</text>
+<chopds>F                               Am</chopds>
+<text>Нам от Святого Духа</text>
+<chopds>  G                          C/E</chopds>
+<text>Родился Сын Христос</text>
+<chopds>F                          G</chopds>
+<text>Спаситель Иисус наш</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C                                 Dm</chopds>
+<text>Верю я - Ты Бог Отец наш</text>
+<chopds>F                                           G</chopds>
+<text>Верю я - Ты Сын Христос</text>
+<chopds>Am                                    F</chopds>
+<text>Верю я в Святого Духа Ты триедин, Господь</text>
+<chopds>C                                      Dm</chopds>
+<text>Верю я в силу воскресенья</text>
+<chopds>F                                       G</chopds>
+<text>Воскреснем мы в Тебе</text>
+<chopds>Am                                F       G</chopds>
+<text>Ведь верю я в Твое имя, Иисус</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Судья наш и Защитник</text>
+<text>Страдал и был распят</text>
+<text>Прощение в Тебе, Бог</text>
+<text>Сойдя во тьму, Господь наш</text>
+<text>Для славной жизни воскрес</text>
+<text>Воссел на небесах</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>C     F   Am   G   C/E</chopds>
+<text>Верю я в Тебя</text>
+<chopds>       F             Am            G      C/E</chopds>
+<text>Верю я, что Ты воскрес</text>
+<chopds>         F           G                                C</chopds>
+<text>Верю я, Иисус Христос - Господь</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Припев</videlit_line>
+<chopds>C                                 Dm</chopds>
+<text>В жизнь вечную я верю</text>
+<chopds>F                                              G</chopds>
+<text>Непорочно Ты был рождён</text>
+<chopds>Am</chopds>
+<text>Верю я есть Святых единство</text>
+<chopds>F</chopds>
+<text>И в Твою Церковь, Бог</text>
+<chopds> C                                       Dm</chopds>
+<text>Верю я в силу воскресенья</text>
+<chopds>F                               G</chopds>
+<text>Когда Иисус придёт</text>
+<chopds>Am                                F       G         C</chopds>
+<text>Ведь верю я в Твоё Имя, Иисус</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — This I Believe (The Creed) [Английский]
+  https://holychords.pro/1296
+- Hillsong Worship — En Esto Creo (El Credo)
+  https://holychords.pro/9561
+- Ассамблеи Бога — Верю я [Русский]
+  https://holychords.pro/17633
+- Hillsong Worship — Вірю я [Украинский]
+  https://holychords.pro/33013
+- Hillsong Worship — Вірю я (Символ віри) [Украинский]
+  https://holychords.pro/33880
+- Hillsong Auf Deutsch — Das glaube ich [Немецкий]
+  https://holychords.pro/39505
+- Слово життя Біла Церква — Символ Віри (Вірю я) [Украинский]
+  https://holychords.pro/41432
+- Hillsong Ukraine — Вірю я (Символ віри)
+  https://holychords.pro/45255
+- Hillsong Worship — Верю в то, что Бог Отец наш [Русский]
+  https://holychords.pro/52353
+- Илья Рябов — Символ веры [Русский]
+  https://holychords.pro/56709
+- TGD — W to wierzę (Credo) [Польский]
+  https://holychords.pro/60870
+- Ян Прадвесьнік царква — Веру я [Белорусский]
+  https://holychords.pro/72740
+- Commons Worship — This I Believe (The Creed) [Английский]
+  https://holychords.pro/74747
+- Неизвестен — Հավատում եմ [Армянский]
+  https://holychords.pro/76283
+- Трајче Ефремов — Верувам во Татко Бог [Македонский]
+  https://holychords.pro/80413

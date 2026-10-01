@@ -1,0 +1,48 @@
+Филип Реннер — Цунами Твоей любви
+Источник: https://holychords.pro/353
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>E                                     A</chopds>
+<text>Я хочу познать, долготу и высоту,</text>
+<chopds>    C#m               H                   A</chopds>
+<text>Твоей совершенной любви.</text>
+<chopds>E                                       A</chopds>
+<text>Я хочу пережить встречу с Тобой,</text>
+<chopds>            C#m              H                 A</chopds>
+<text>Прикоснись ко мне Дух Святой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред Припев</videlit_line>
+<chopds>                                  F#m7               E/G#                A</chopds>
+<text>Дай крепко утвердиться, укорениться в Тебе!!!</text>
+<chopds>                                  F#m7               E/G#                A</chopds>
+<text>Дай крепко утвердиться, укорениться в Тебе!!!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                          E                                 H</chopds>
+<text>Слава Твоя здесь, она накроет нас</text>
+<chopds>    C#m          H             A</chopds>
+<text>Цунами Твоей любви</text>
+<chopds>                          E                                H</chopds>
+<text>Слава Твоя здесь, она накроет нас</text>
+<chopds>    C#m          H             A</chopds>
+<text>Цунами Твоей любви</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>               E                           H</chopds>
+<text>Я хочу больше, я хочу выше,</text>
+<chopds>               F#m      E/G#              A</chopds>
+<text>Я хочу глубже глубже в Тебя.</text>
+<chopds>               E                           H</chopds>
+<text>Я хочу больше, я хочу выше,</text>
+<chopds>               F#m      E/G#              A</chopds>
+<text>Я хочу глубже глубже в Тебя.</text>
+</blocks>

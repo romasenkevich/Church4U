@@ -1,0 +1,52 @@
+НАРНиЯ — Ты - Бог мой
+Источник: https://holychords.pro/355
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>      D#                                     D#/G</chopds>
+<text>Чудесными словами, рождённых Небесами</text>
+<chopds>     Cm                            C#</chopds>
+<text>Наполнено сердце моё</text>
+<chopds>         D#                                  D#/G</chopds>
+<text>И в миг, когда взираю, Иисус, на Твою славу</text>
+<chopds>     Cm                                 C#</chopds>
+<text>Я слышу, как сердце поёт</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>            D#               G                                                  Cm</chopds>
+<text>Ты — Бог мой, и я в Тебе, как в воздухе нуждаюсь.</text>
+<chopds>         G#                   Bb                     D#</chopds>
+<text>С молитвой на устах я просыпаюсь</text>
+<chopds>     G                                                        Cm</chopds>
+<text>И каждый день в Твоей любви купаюсь</text>
+<chopds>     G#              Bb</chopds>
+<text>Я дорожу Тобой, Иисус</text>
+<chopds>            D#                   G                                       Cm</chopds>
+<text>Ты — Бог мой, я Святостью Твоею восхищаюсь</text>
+<chopds>        G#                    Bb                     D#</chopds>
+<text>Присутствием Твоим я наслаждаюсь</text>
+<chopds>           G                                               Cm</chopds>
+<text>Как хлебом, Твоим словом я питаюсь</text>
+<chopds>     G#               Bb                       Cm</chopds>
+<text>Я дорожу Тобой, Ты — Бог мой</text>
+<chopds>     G#               Bb                       Cm</chopds>
+<text>Я дорожу Тобой, Ты — Бог мой</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Твоих прикосновений чудесные мгновенья</text>
+<text>Дороже, чем все серебро</text>
+<text>С Тобой соприкасаясь, обо всем я забываю</text>
+<text>Лишь слышу, как сердце поет:</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- НАРНиЯ — Ти – Бог мій [Украинский]
+  https://holychords.pro/26991

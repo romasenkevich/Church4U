@@ -1,0 +1,203 @@
+Hillsong United — Oceans (Where Feet May Fail)
+BPM: 127
+Источник: https://holychords.pro/445
+
+==================================================
+
+<blocks>
+<videlit_line>Verse 1</videlit_line>
+<chopds>Hm                     A/C#       D</chopds>
+<text>You call me out upon the waters</text>
+<chopds>                 A                                         G</chopds>
+<text>The great unknown where feet may fail</text>
+<chopds>Hm                   A/C#             D</chopds>
+<text>And there I find You in the mystery</text>
+<chopds>                  A</chopds>
+<text>In oceans deep</text>
+<chopds>               G</chopds>
+<text>My faith will stand</text>
+</blocks>
+
+<blocks>
+<videlit_line>Chorus</videlit_line>
+<chopds>G                  D                      A</chopds>
+<text>  And I will call upon Your name</text>
+<chopds>G                       D                        A</chopds>
+<text>  And keep my eyes above the waves</text>
+<chopds>                          G</chopds>
+<text>  When oceans rise</text>
+<chopds>                D                          A</chopds>
+<text>  My soul  will rest in Your embrace</text>
+<chopds>             G       A       Hm</chopds>
+<text>  For I am Yours and You are mine</text>
+<chopds> Hm   A/C#  D  A  Em7/G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Verse 2</videlit_line>
+<chopds>Hm          A/C#               D</chopds>
+<text>Your grace abounds in deepest waters</text>
+<chopds>            A</chopds>
+<text>Your sovereign hand</text>
+<chopds>           G</chopds>
+<text>Will be my guide</text>
+<chopds>Hm              A/C#               D</chopds>
+<text>Where feet may fail and fear surrounds me</text>
+<chopds>            A                          G</chopds>
+<text>You've never failed and You won't start now</text>
+</blocks>
+
+<blocks>
+<videlit_line>Chorus</videlit_line>
+<chopds>G            D            A</chopds>
+<text>  And I will call upon Your name</text>
+<chopds>G             D            A</chopds>
+<text>  And keep my eyes above the waves</text>
+<chopds>               G</chopds>
+<text>  When oceans rise</text>
+<chopds>               D              A</chopds>
+<text>  My soul will rest in Your embrace</text>
+<chopds>           G         A       Hm</chopds>
+<text>  For I am Yours and You are mine</text>
+<chopds>  Hm   A/C#  D  A  Em7/G</chopds>
+<chopds>  Hm   A/C#  D  A  Em7/G</chopds>
+<chopds>Hm  G  D  A</chopds>
+<chopds>Hm  G  D  A</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Bridge: x3</videlit_line>
+<chopds>Hm                              G</chopds>
+<text>   Spirit lead me where my trust is without borders</text>
+<chopds>          D</chopds>
+<text>   Let me walk upon the waters</text>
+<chopds>        A</chopds>
+<text>   Wherever You would call me</text>
+<chopds>Hm                            G</chopds>
+<text>   Take me deeper than my feet could ever wander</text>
+<chopds>               D</chopds>
+<text>   And my faith will be made stronger</text>
+<chopds>            A</chopds>
+<text>   In the presence of my Savior</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Bridge</videlit_line>
+<chopds>G                               D</chopds>
+<text>   Spirit lead me where my trust is without borders</text>
+<chopds>              A</chopds>
+<text>   Let me walk upon the waters</text>
+<chopds>       Em</chopds>
+<text>   Wherever You would call me</text>
+<chopds>G                             D</chopds>
+<text>   Take me deeper than my feet could ever wander</text>
+<chopds>               A</chopds>
+<text>   And my faith will be made stronger</text>
+<chopds>            Em</chopds>
+<text>   In the presence of my Savior</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 Bridge: x2</videlit_line>
+<chopds>Hm                A             D</chopds>
+<text>   Spirit lead me where my trust is without borders</text>
+<chopds>          A</chopds>
+<text>   Let me walk upon the waters</text>
+<chopds>       Em</chopds>
+<text>   Wherever You would call me</text>
+<chopds>Hm                A            D</chopds>
+<text>   Take me deeper than my feet could ever wander</text>
+<chopds>               A</chopds>
+<text>   And my faith will be made stronger</text>
+<chopds>            Em</chopds>
+<text>   In the presence of my Savior</text>
+<chopds>Hm A D A Em7</chopds>
+<chopds>Hm A D A Em7</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Chorus</videlit_line>
+<chopds>G           D           A</chopds>
+<text>  I will call upon Your name</text>
+<chopds>G            D            A</chopds>
+<text>  keep my eyes above the waves</text>
+<chopds>G              D            A</chopds>
+<text>  My soul will rest in Your embrace</text>
+<chopds>       G         A       Hm</chopds>
+<text> For I am Yours and You are mine</text>
+<chopds>Hm A/C# D A Em7</chopds>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Ukraine — Океаны
+  https://holychords.pro/104
+- Брія Блессінг — Океани [Украинский]
+  https://holychords.pro/232
+- Новый Завет NTWorship — Океаны [Русский]
+  https://holychords.pro/3395
+- Дерево Жизни music — Океаны [Русский]
+  https://holychords.pro/6047
+- Albert Frey — Meer (Feiert Jesus! 20) [Немецкий]
+  https://holychords.pro/6325
+- Соль — Океаны [Русский]
+  https://holychords.pro/8628
+- Нове місто — Мене Ти кличеш над водою [Украинский]
+  https://holychords.pro/10339
+- Gracetime Worship Band — Океаны [Русский]
+  https://holychords.pro/11304
+- Исход Ростов на Дону — Океаны [Русский]
+  https://holychords.pro/13967
+- Свет — В глубины вод меня призвал Ты [Русский]
+  https://holychords.pro/17369
+- UzWorSong — Уммoн [Узбекский]
+  https://holychords.pro/25501
+- Bri Babineaux — Oceans (Where Feet May Fail) [Английский]
+  https://holychords.pro/26102
+- Exodus 15 — Oceany [Польский]
+  https://holychords.pro/27318
+- Hillsong Ukraine — Океани (Крок в незвідане)
+  https://holychords.pro/33848
+- Слово Жизни Москва — Океаны [Русский]
+  https://holychords.pro/34201
+- AGAPAO Worship — 주 날 물 위로 부르셨네 [Корейский]
+  https://holychords.pro/36671
+- The Voice of One Calling — Oceans (Where Feet May Fail) [Еврейский]
+  https://holychords.pro/40107
+- Hillsong United — Oceans (Remix) [Английский]
+  https://holychords.pro/43096
+- IGC Worship — Meer [Немецкий]
+  https://holychords.pro/43411
+- Hillsong En Français — Océans (Quand mes pieds tremblent) [Французский]
+  https://holychords.pro/48278
+- Agnes Alba — Oceans/La Niña de Tus Ojos/ Here I Am To Worship [Английский]
+  https://holychords.pro/52017
+- Hillsong United — Океаны (Ступать по водам) [Русский]
+  https://holychords.pro/53657
+- Илья Рябов — Океаны [Русский]
+  https://holychords.pro/56764
+- Titus Major — Oceans [Английский]
+  https://holychords.pro/58965
+- Harvest Arad — Oceane [Румынский]
+  https://holychords.pro/59078
+- psalmaker — Океаны [Русский]
+  https://holychords.pro/60532
+- Неизвестен — Znad oceanów mnie wezwałeś [Польский]
+  https://holychords.pro/61038
+- Hillsong Worship — Океани [Украинский]
+  https://holychords.pro/64243
+- Wolrus WORSHIP — Океаны [Русский]
+  https://holychords.pro/67888
+- Stephen McWhirter — Oceans [Английский]
+  https://holychords.pro/69913
+- Неизвестен — Με κάλεσε να περπατήσω [Греческий]
+  https://holychords.pro/73272
+- Божий Дар Київ (God's Gift) — Йти по водах (Океани) [Украинский]
+  https://holychords.pro/73487
+- Неизвестен — Океани [Македонский]
+  https://holychords.pro/80300
+- Дети Бога — Океаны [Русский]
+  https://holychords.pro/84318
+- Anne Elizabeth Tsyba — Océans [Французский]
+  https://holychords.pro/87659

@@ -1,0 +1,47 @@
+Armageddon — Когда я взывал
+Источник: https://holychords.pro/254
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em              C                            G                      Hm</chopds>
+<text>Вся моя жизнь как будто сон, я в нем загадочно влюблен</text>
+<chopds>Em                 C                           G      Hm</chopds>
+<text>В Того Кто дал спасенье мне, Его имя Иисус.</text>
+<chopds>Em                 C                           G                         Hm</chopds>
+<text>Он Тот, Кто изменил всю жизнь и много сделал для меня,</text>
+<chopds>Em                 C                          G                     Hm                          C       H7</chopds>
+<text>Хочу, мой Бог, с Тобой идти и слышать голос Твой всегда.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                         C    Hm    Em</chopds>
+<text>Когда я взывал, Ты услышал,</text>
+<chopds>                        C           Hm     Em</chopds>
+<text>Когда я кричал, Ты понимал,</text>
+<chopds>                         C        Hm         Em</chopds>
+<text>Когда видел я, как гаснут звёзды</text>
+<chopds>                               C           Hm        Em</chopds>
+<text>Ты был всегда рядом и поднимал.</text>
+<chopds>                           C                 Hm                     Em</chopds>
+<text>Когда мне казалось, что нет в жизни счастья</text>
+<chopds>                     C           Hm        Em</chopds>
+<text>То Ты коснулся рукой меня,</text>
+<chopds>                          C                   Hm          Em</chopds>
+<text>Когда мне казалось, рассвета не будет</text>
+<chopds>                                   C            Hm          Em</chopds>
+<text>Взошло солнце правды, его видел я…</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Пускай ветра, пускай дожди,</text>
+<text>Я буду за Тобой идти,</text>
+<text>Пускай снега и холода, все это не важно</text>
+<text>Ведь рядом Ты со мной мой Бог,</text>
+<text>Я слышу нежный голос Твой.</text>
+<text>Лишь для Тебя мой каждый вздох,</text>
+<text>Ты подарил душе покой.</text>
+</blocks>

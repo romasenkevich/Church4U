@@ -1,0 +1,21 @@
+Слово Жизни Music — Создал небо
+Источник: https://holychords.pro/450
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>E  H/D#  C#m  A  H</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>E                  H/D#</chopds>
+<text>Создал небо, создал звезды</text>
+<chopds>C#m                        A</chopds>
+<text>Создал землю, Ты наш вечный Бог</text>
+<chopds>E                   H/D#</chopds>
+<text>Славит небо, славят звезды</text>
+<chopds>C#m                     A</chopds>
+<text>Славят все, Тебя Господь лишь одного</text>
+</blocks>

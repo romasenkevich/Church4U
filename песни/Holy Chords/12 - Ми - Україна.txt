@@ -1,0 +1,69 @@
+Брія Блессінг — Ми - Україна
+Источник: https://holychords.pro/12
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Am G Dm E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>Am                 G</chopds>
+<text>Всі чорні птахи злетілись на схід</text>
+<chopds>Dm                 E</chopds>
+<text>Закрили нам сонце й світлі дні</text>
+<chopds>Am            G</chopds>
+<text>А наші летять в них страху нема</text>
+<chopds>Dm                      E                  Dm      H7</chopds>
+<text>Ще трохи й розійдеться пітьма, і знаєм ми.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds>Em</chopds>
+<text>Це синьо-жовта земля</text>
+<chopds>G                       C</chopds>
+<text>Єдина наша країна</text>
+<chopds>                H7</chopds>
+<text>В нас є світле майбуття</text>
+<chopds>Em</chopds>
+<text>Так, Україна жива</text>
+<chopds>G                                     C</chopds>
+<text>З вершин хай всі заспівають разом</text>
+<chopds>        H7        Am</chopds>
+<text>Ми - Україна</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<chopds>Am                 G</chopds>
+<text>О, мамо, мамо, не плач за мене молись</text>
+<chopds>Dm                 E</chopds>
+<text>Підтримуй любов'ю Ти мене</text>
+<chopds>Am            G</chopds>
+<text>І в серці завжди з Тобою я є</text>
+<chopds>Dm                      E                  Dm      H7</chopds>
+<text>І в серці моєму будеш Ти, і пам'ятай</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>E</chopds>
+<text>Небесний наш Ти Отець</text>
+<chopds>Am</chopds>
+<text>Хай прийде царство Твоє</text>
+<chopds>Dm</chopds>
+<text>Хай буде воля Твоя</text>
+<chopds>G              Dm</chopds>
+<text>Тобі вся слава й хвала</text>
+<chopds>E</chopds>
+<text>Благаєм Ти бережи</text>
+<chopds>Am</chopds>
+<text>Наших сестер і братів</text>
+<chopds>Dm</chopds>
+<text>Тримай у Своїх руках</text>
+<chopds>G                     Dm</chopds>
+<text>Й святиться Твоє Ім'я</text>
+</blocks>

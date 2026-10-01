@@ -1,0 +1,36 @@
+Артём Янский — Прихожу к Тебе
+Источник: https://holychords.pro/130
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Dm                                     Gm</chopds>
+<text>Прихожу к Тебе, Ты скала моя</text>
+<chopds>C                                           A</chopds>
+<text>На Тебе положил основания я</text>
+<chopds>Dm                                            Gm</chopds>
+<text>Помоги мне пройти путь в небеса</text>
+<chopds>A                                                  D</chopds>
+<text>Измени меня в образ Христа</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>             Gm                                        Dm</chopds>
+<text>Ты ожидаешь меня там вечно славить буду я</text>
+<chopds>                A                             Dm  D</chopds>
+<text>Царя царей Вселенной всей</text>
+<chopds>              Gm                                         Dm</chopds>
+<text>Ты ожидаешь меня  там вечно славить буду я</text>
+<chopds>                 A                            Dm</chopds>
+<text>Царя царей Вселенной всей</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Дай пребыть мне в любви, так же благослови</text>
+<text>Дай сердце хранить, людей любить</text>
+<text>В Тебе пребывать, постоянно взывать</text>
+<text>Ходя путями святых и в числе быть Твоих</text>
+</blocks>

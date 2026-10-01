@@ -1,0 +1,68 @@
+Алексей Каратаев — Нет преград
+Источник: https://holychords.pro/187
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>H</chopds>
+<text>Я свободен, я спасен, я для вечности с Тобой рожден.</text>
+<chopds>G#m E</chopds>
+<text>         Иисус Ты верен</text>
+<chopds>H</chopds>
+<text>Ты искупил меня, поднял, Ты мне жизни смысл дал.</text>
+<chopds>G#m       E                                    H</chopds>
+<text>         Господь Ты неизменен</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds> E  G#m                                   F#</chopds>
+<text>Я знаю, больше нет преград я знаю, больше нет преград,</text>
+<chopds> E  G#m                                   F#</chopds>
+<text>Я знаю, больше нет преград.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>H                                    F#</chopds>
+<text>Оковы пали навсегда,</text>
+<chopds>               E/G#                                F#</chopds>
+<text>Живет сердце для Тебя, мое сердце для Тебя,</text>
+<chopds>H                                              F#</chopds>
+<text>Ты мне Свою любовь открыл,</text>
+<chopds>        E/G#                                  F#                                          E</chopds>
+<text>Небеса мне подарил, небеса мне подарил навсегда</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Я жизнь строил на песке, но Ты привел меня к Скале</text>
+<text>С Тобою я навечно.</text>
+<text>И близок к Богу я теперь, ведь Христос открыл мне дверь.</text>
+<text>Открыл ее навечно.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>                       E                      F#                        G#m</chopds>
+<text>Хочу в Свободе жить ,Тебя любить , С Тобою быть,</text>
+<chopds>                                                 E                         F#                      G#m</chopds>
+<text>Хочу Господь мой! в Свободе жить ,Тебя любить , С Тобою быть,</text>
+<chopds>                                                 E                         F#                      G#m</chopds>
+<text>Хочу Господь мой! в Свободе жить ,Тебя любить , С Тобою быть,</text>
+<chopds>                                      E  F#</chopds>
+<text>Хочу Господь мой Бог</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Remnant Worship — Оковы Снял с Моей Души [Русский]
+  https://holychords.pro/3550
+- Jesus Culture — Holding Nothing Back [Английский]
+  https://holychords.pro/3551
+- Церковь Божия Music — Я свободен, я спасен [Русский]
+  https://holychords.pro/43289
+- Jesus Culture — Від Тебе Я Не Відійду [Украинский]
+  https://holychords.pro/54234

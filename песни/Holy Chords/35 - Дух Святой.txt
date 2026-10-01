@@ -1,0 +1,71 @@
+New Beginnings Worship — Дух Святой
+Источник: https://holychords.pro/35
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>              Am                                G</chopds>
+<text>Дух Святой, Дух любви, огня</text>
+<chopds>                         F                      G</chopds>
+<text>Зажигай меня, Ты - мой Бог!</text>
+<chopds>              Am                                      G</chopds>
+<text>Я так жажду больше знать Тебя,</text>
+<chopds>                            F                     G</chopds>
+<text>Пусть узнает мир Бог - живой!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Piano solo</videlit_line>
+<chopds>Am F G    Am F G</chopds>
+<chopds>Am F G    Dm F G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Прикоснись и освети меня</text>
+<text>Все что есть во мне - обнови</text>
+<text>Проведи в присутствие свое</text>
+<text>Знаю только Ты нужен мне!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                      F  Am  G</chopds>
+<text>Жажду Тебя я Иисус</text>
+<chopds>                     F  Am     G</chopds>
+<text>Жажду воды я живой</text>
+<chopds>                           F  Am   G</chopds>
+<text>Жду лишь Тебя я Иисус</text>
+<chopds>                 Dm  Am        G</chopds>
+<text>Только Ты нужен мне.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Instrumental</videlit_line>
+<chopds>F C Am G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>     F                                         C                   Am</chopds>
+<text>Пролей свой дождь, наполни все Cобой -</text>
+<chopds>                         G</chopds>
+<text>Ты нужен мне!</text>
+<chopds>   F                         C                      Am</chopds>
+<text>Духом повей и оживет мой дух,</text>
+<chopds>                         G</chopds>
+<text>Ты нужен мне!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Слово Жизни Music — Словно пламя [Русский]
+  https://holychords.pro/451
+- Planetshakers — Like a fire [Английский]
+  https://holychords.pro/7498
+- JesusMainstream — Словно пламя [Русский]
+  https://holychords.pro/16029
+- Matsepa — Дух Святий [Украинский]
+  https://holychords.pro/74444

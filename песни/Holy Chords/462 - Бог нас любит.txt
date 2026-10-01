@@ -1,0 +1,44 @@
+JoyYouth Worship — Бог нас любит
+Источник: https://holychords.pro/462
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>D</chopds>
+<text>Бог нас любит, знаю я,</text>
+<chopds>G/H                  Bb      C</chopds>
+<text>Так нас учит Библия,</text>
+<chopds>D</chopds>
+<text>Обо всех печется Он.</text>
+<chopds>G/H                    Bb        C</chopds>
+<text>Слабы мы, но Он силён.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D</chopds>
+<text>Аллилуйя!   Аллилуйя!</text>
+<chopds>G/H               Bb        C</chopds>
+<text>Аллилуйя!   Аллилуйя!</text>
+<chopds>D</chopds>
+<text>Аллилуйя!   Аллилуйя!</text>
+<chopds>G/H               Bb        C</chopds>
+<text>Аллилуйя!   Аллилуйя!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>По любви и доброте</text>
+<text>Принял смерть Он на кресте.</text>
+<text>Он грехи мои простил,</text>
+<text>Чтобы в Царство мне войти.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Боже, я с Тобой живу,</text>
+<text>Лишь в Тебе покой найду.</text>
+<text>Чистый свет - любовь Твоя -</text>
+<text>Не померкнет никогда.</text>
+</blocks>

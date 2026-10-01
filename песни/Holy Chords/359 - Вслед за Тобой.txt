@@ -1,0 +1,41 @@
+Размер неба — Вслед за Тобой
+Источник: https://holychords.pro/359
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>           Cm           Gm                   G#           G</chopds>
+<text>Над словом Твоим размышляю я вновь.</text>
+<chopds>     Cm          Gm               G#           D#</chopds>
+<text>Хочу исполнять Твое слово, Господь.</text>
+<chopds>     G#             D#                     Bb       Cm</chopds>
+<text>И помнить о нем в трудный жизни миг,</text>
+<chopds>         G#                    G</chopds>
+<text>И идти вслед за Тобой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Так много того, что ломает меня</text>
+<text>Так много того, что влечет меня.</text>
+<text>Дай сил не свернуть с Твоего пути,</text>
+<text>И идти вслед за Тобой.</text>
+<text>Ch:</text>
+<chopds>            Cm        G#          Bb         Gm</chopds>
+<text>Так хочу держаться крепко я за Тебя,</text>
+<chopds>     Cm    G#            Bb                    Gm</chopds>
+<text>И не пытаться строить жизнь без Тебя.</text>
+<chopds>  Cm           G#            Bb                  Gm</chopds>
+<text>Учусь смиряться пред Тобой, пред людьми.</text>
+<chopds>G#             G</chopds>
+<text>Дай мне сил идти</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Жестоко бьет несовершенная жизнь,</text>
+<text>Сбивает с ног ритм, суета столиц.</text>
+<text>Когда не могу Твой найти покой,</text>
+<text>Я иду вслед за Тобой.</text>
+</blocks>

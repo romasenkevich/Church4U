@@ -1,0 +1,73 @@
+Роман Касевич — Ты над городом этим
+Источник: https://holychords.pro/411
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>G#m  F#  E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>                                H                                     F#</chopds>
+<text>Ты над городом этим, и над этим народом,</text>
+<chopds>                              G#m          E</chopds>
+<text>И над этой страною, Господь</text>
+<chopds>                                  H                                   F#</chopds>
+<text>Ты во тьме освещаешь, озаряешь надеждой,</text>
+<chopds>                         G#m           E</chopds>
+<text>Утешаешь Собою, Господь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>  H         F#             E</chopds>
+<text>Нет, такого как наш Бог!</text>
+<chopds>G#m      F#             E             F#</chopds>
+<text>Нет, такого как наш Бог!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>         E</chopds>
+<text>Грядёт пора больших чудес</text>
+<chopds>      F#                                                                       H     F#    E</chopds>
+<text>Господь прольет благодать с небес в этот город</text>
+<chopds>        E</chopds>
+<text>Грядёт пора больших чудес</text>
+<chopds>       F#                                                              H</chopds>
+<text>Господь прольет благодать с небес здесь</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Слово Жизни Music — В этом городе Ты Бог [Русский]
+  https://holychords.pro/452
+- Passion — God of this city [Английский]
+  https://holychords.pro/22187
+- Юлія Кучинська — Ти Бог нашого міста [Украинский]
+  https://holychords.pro/24163
+- Малин — Ти є Бог цього з'їзду [Украинский]
+  https://holychords.pro/24792
+- Sara Lorenz & Johannes Falk — Gott unsrer Städte [Немецкий]
+  https://holychords.pro/26432
+- SOLWorship — Ти над містом нашим [Украинский]
+  https://holychords.pro/36362
+- Chris Tomlin — Ти є Бог цього міста [Английский]
+  https://holychords.pro/37137
+- Новый Завет NTWorship — В этом городе Ты - Бог [Русский]
+  https://holychords.pro/40006
+- Chris Tomlin — God Of This City [Английский]
+  https://holychords.pro/52105
+- One Way Worship Band — Ты над городом этим [Русский]
+  https://holychords.pro/56620
+- Денис Пахулин — В этом городе Ты Бог [Русский]
+  https://holychords.pro/64179
+- Chris Tomlin — В этом городе Ты - Бог [Русский]
+  https://holychords.pro/69053
+- Chris Tomlin — Бог цього міста [Украинский]
+  https://holychords.pro/69054
+- Неизвестен — Господ над градот [Македонский]
+  https://holychords.pro/80318

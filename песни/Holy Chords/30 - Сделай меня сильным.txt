@@ -1,0 +1,53 @@
+New Beginnings Worship — Сделай меня сильным
+Источник: https://holychords.pro/30
+
+==================================================
+
+<blocks>
+<videlit_line>интро</videlit_line>
+<chopds>Em D C Am</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Em                                      D</chopds>
+<text>Сделай меня сильным, сделай меня твёрдым,</text>
+<chopds>C                    Am</chopds>
+<text>Дай мне понять Тебя,</text>
+<chopds>Em                         D</chopds>
+<text>Силою наполни, верою наполни,</text>
+<chopds>C                      Am</chopds>
+<text>Дай мне познать Тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Am                                  C</chopds>
+<text>Обновлюсь в Твоей силе,</text>
+<chopds>G                     D</chopds>
+<text>Подниму, крылья как орлы полечу,</text>
+<chopds>Am              C</chopds>
+<text>Побегу и не устану,</text>
+<chopds>G                        D</chopds>
+<text>Пойду, ведь рядом Ты.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>          G          Am                  C</chopds>
+<text>На потоки благодати Твоей.</text>
+<chopds>          G          Am                  Em</chopds>
+<text>На потоки благодати Твоей.</text>
+<chopds>          G          Am                  C</chopds>
+<text>На потоки благодати Твоей.</text>
+<chopds>          G          Am                  Em</chopds>
+<text>На потоки благодати Твоей.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- The Lighthouse — Сделай меня сильным [Русский]
+  https://holychords.pro/42580
+- New Beginnings Worship — Дай мені силу, дай мені твердість [Украинский]
+  https://holychords.pro/71889

@@ -1,0 +1,87 @@
+Алексей Каратаев — Прославлю Тебя в шторм
+Источник: https://holychords.pro/10
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>D#m H F# C#/A#</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>D#m                 H                               F#</chopds>
+<text>Думал я, что Бог в тот момент придет,</text>
+<chopds>                C#/F                            D#m</chopds>
+<text>Осушит слезы, что Он исправит все</text>
+<chopds>               H               F#                                C#</chopds>
+<text>И снова я скажу: "Аминь". А дождь сильнее.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред-припев</videlit_line>
+<chopds>   G#m                                       H                                                 D#m            C#</chopds>
+<text>В дождь и сильный шторм я еле слышу голос Твой сквозь гром: "С Тобой я!"</text>
+<chopds>G#m                                H                                          F#              C#</chopds>
+<text>Милость снизойдет и восхвалю Того Кто жизнь дает и заберет.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D#m                           H                               F#</chopds>
+<text>Я славлю Тебя в шторм Творцу хвала и честь</text>
+<chopds>                            C#                           D#m</chopds>
+<text>Я знаю, что Ты Бог не важно, где я есть</text>
+<chopds>                    H                                 F#</chopds>
+<text>Каждая слеза в руках Твоих, Господь</text>
+<chopds>                                     C#/F                                    G#m   H</chopds>
+<text>Пусть даже в сердце стон, прославлю в этот шторм</text>
+<chopds>                                   F#   A#m</chopds>
+<text>Прославлю в этот шторм</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<chopds>D#m                 H                               F#</chopds>
+<text>Не забыть мне дня, как ветер сбил меня</text>
+<chopds>                    C#/F                           D#m</chopds>
+<text>Ты слышал крик мой и поднял любя</text>
+<chopds>               H               F#                                C#</chopds>
+<text>Нет больше сил идти как это все пройти, Тебя ищу я</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>G#m</chopds>
+<text>Я взор свой к небу подниму</text>
+<chopds>H</chopds>
+<text>Там помощь для меня</text>
+<chopds>F#</chopds>
+<text>Помощь моя в Тебе</text>
+<chopds>A#m</chopds>
+<text>Создатель земли и неба</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Casting Crowns — Praise You In This Storm [Английский]
+  https://holychords.pro/1556
+- Милана — Я славлю Тебя в шторм [Русский]
+  https://holychords.pro/4962
+- Natalie Grant — Praise You In This Storm [Английский]
+  https://holychords.pro/17392
+- Мира Мэйч — Я славлю Тебя в шторм [Русский]
+  https://holychords.pro/32828
+- M.Worship — Славлю Тебя В Шторм [Русский]
+  https://holychords.pro/33436
+- Рома Манжос — Я славлю Тебе в шторм [Украинский]
+  https://holychords.pro/38724
+- GRACE CV — Славлю Тебе в шторм [Украинский]
+  https://holychords.pro/40697
+- SOLWorship — Я славлю Тебе в шторм [Украинский]
+  https://holychords.pro/40859
+- Анастасия Зиновкина — Славлю Тебе в шторм [Украинский]
+  https://holychords.pro/44498
+- Casting Crowns — Praise You In This Storm [Английский]
+  https://holychords.pro/48228

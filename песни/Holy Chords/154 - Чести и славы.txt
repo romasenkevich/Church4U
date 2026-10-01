@@ -1,0 +1,104 @@
+Виталий Ефремочкин — Чести и славы
+Источник: https://holychords.pro/154
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>A                        Em7</chopds>
+<text>Чести, славы достоин Агнец,</text>
+<chopds>G                             D</chopds>
+<text>Святой, святой Бог .</text>
+<chopds>A                Em7</chopds>
+<text>Воспеваю Того чья милость</text>
+<chopds>G                                   D</chopds>
+<text>Вознеслась над судом</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>A                                     Em7</chopds>
+<text>Святой, Святой, Святой Господь Бог Всемогущий.</text>
+<chopds>G                                               D</chopds>
+<text>Он был Он есть и Он грядёт.</text>
+<chopds>A                                        Em7</chopds>
+<text>Пою со всем твореньем хвалу Царю царей</text>
+<chopds>G                                                  D</chopds>
+<text>Лишь Ты Господь Один достоин славы</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Вечный Бог, мой лишь Ты достоин</text>
+<text>Принять хвалу и честь.</text>
+<text>Величие и слава, вся Божья сила</text>
+<text>Принадлежат Тебе , Царь мой !</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Слово Жизни Music — Вознесённый Агнец Божий [Русский]
+  https://holychords.pro/456
+- Gateway Worship — Revelation Song [Английский]
+  https://holychords.pro/2311
+- Almaz Worship — Пісня одкровення [Украинский]
+  https://holychords.pro/2380
+- Jesus Culture — Revelation Song [Английский]
+  https://holychords.pro/5779
+- Спасіння Вишневе — Достойний Той Хто [Украинский]
+  https://holychords.pro/5780
+- NG Worship — Песнь Откровения [Русский]
+  https://holychords.pro/10279
+- Michael W. Smith — Revelation Song [Английский]
+  https://holychords.pro/12738
+- Outbreakband — Heilig, heilig das Lamm Gottes [Немецкий]
+  https://holychords.pro/21597
+- Церковь Истина — Песнь откровения [Русский]
+  https://holychords.pro/21859
+- Kari Jobe — Revelation Song [Английский]
+  https://holychords.pro/29214
+- Хор Русь Христианская Тамбов — Песня Откровения [Русский]
+  https://holychords.pro/30557
+- Церковь Божия Music — Вознесенный [Русский]
+  https://holychords.pro/32235
+- WOG.Worship — Вознесённый Агнец Божий [Русский]
+  https://holychords.pro/32557
+- Passion — Revelation Song
+  https://holychords.pro/35698
+- Агапа Львів — Божий Агнець [Украинский]
+  https://holychords.pro/38431
+- Newsboys — Revelation Song
+  https://holychords.pro/45179
+- Християнська надія — Агнець Божий Ти достойний [Украинский]
+  https://holychords.pro/46685
+- Живе Слово c.Гора — Агнець Божий [Украинский]
+  https://holychords.pro/52395
+- БТС — Гідний вартий [Украинский]
+  https://holychords.pro/56183
+- Catherine Mullins — Revelation song [Английский]
+  https://holychords.pro/57285
+- Living Water Worship — Revelation Song [Английский]
+  https://holychords.pro/61099
+- Alfa Music — Пісня Одкровення [Украинский]
+  https://holychords.pro/61875
+- Kari Jobe — Revelation Song (Live from Europe) [Английский]
+  https://holychords.pro/62042
+- NB Worship — Revelation Song [Английский]
+  https://holychords.pro/63379
+- Salvation Worship — Агнець Божий [Украинский]
+  https://holychords.pro/63797
+- NG Band Riga — Чести, славы [Русский]
+  https://holychords.pro/64760
+- Zhanna Arbatskiy — Песня Откровения [Русский]
+  https://holychords.pro/69448
+- Emmanuil Worship Kiev — Достойний Той, Хто [Украинский]
+  https://holychords.pro/70128
+- Неизвестен — Drága Bárány [Венгерский]
+  https://holychords.pro/73459
+- Bethel Music — Revelation Song (Live) [Английский]
+  https://holychords.pro/74931
+- Неизвестен — Свет е Господ Бог [Македонский]
+  https://holychords.pro/80228
+- PHZ tim — Sveti, Sveti, Sveti [Сербский]
+  https://holychords.pro/80838

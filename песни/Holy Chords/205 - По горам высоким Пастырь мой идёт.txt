@@ -1,0 +1,50 @@
+Неизвестен — По горам высоким Пастырь мой идёт
+Источник: https://holychords.pro/205
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>  Am                Dm           G                  C</chopds>
+<text>По горам высоким Пастырь мой идёт,</text>
+<chopds>  Dm          Am         E7</chopds>
+<text>Узкою тропою овец Своих ведёт.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>      Am              Dm         G           C   -   E</chopds>
+<text>Я маленькая овечка, я иду за Ним,</text>
+<chopds>    Am         Dm       E7                       Am</chopds>
+<text>Узкою тропою в город Иерусалим.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>"Я есть путь и истина, свет в ночной тиши,</text>
+<text>Ты иди за Мною", - Он мне говорит.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Пастырь мой добрый, любит кротких Он,</text>
+<text>Не любит только гордых, кто дружит со злом</text>
+</blocks>
+
+<blocks>
+<videlit_line>4 куплет</videlit_line>
+<text>Скоро мы пройдём всю борьбу телесную,</text>
+<text>Войдём же мы в обитель и в радость вечную.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Неизвестен — По високих горах Пастир мій іде [Украинский]
+  https://holychords.pro/14497
+- Ковальчуки — Я маленькая овечка [Русский]
+  https://holychords.pro/50418
+- Неизвестен — Пастирът ми води Своите овце [Болгарский]
+  https://holychords.pro/63602
+- Все возможно верующему — Я маленькая овечка [Русский]
+  https://holychords.pro/75737

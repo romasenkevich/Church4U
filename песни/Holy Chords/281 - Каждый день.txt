@@ -1,0 +1,48 @@
+Спасіння Вишневе — Каждый день
+Источник: https://holychords.pro/281
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                 Dm             E                 Am</chopds>
+<text>Каждый день вокруг себя я вижу</text>
+<chopds>              Dm    E                           Am</chopds>
+<text>Твое величье и Любовь во всем…</text>
+<chopds>                   Dm     E                    Am</chopds>
+<text>И нет заслуг моих для этой чести…</text>
+<chopds>                     Dm               E                    Am</chopds>
+<text>Я только строчка в Книге той, что пишет Он.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  F          E                     F</chopds>
+<text>Бог Великий и Святой!</text>
+<chopds>   Dm         E                          Am</chopds>
+<text>Пред Тобой склонится всё!</text>
+<chopds>                     F                       E          Am     G            F</chopds>
+<text>Из века в век Ты управляешь Небом и Землей…</text>
+<chopds>        Dm                       E                          Am</chopds>
+<text>Владыка мой, коснись и будь со мной…</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>С Тобой иду по жизненной тропинке,</text>
+<text>Я восхищаюсь милостью Твоей…</text>
+<text>И хоть я странник в этой жизни тленной…</text>
+<text>Ты дорожишь мной и хранишь во всем!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Скиния Worship — Бог Великий и Святой [Русский]
+  https://holychords.pro/9905
+- Анна Поночевная — Бог великий и святой [Русский]
+  https://holychords.pro/13588
+- Анна Поночевная — God is Great and Holy [Английский]
+  https://holychords.pro/29787
+- Philad Worship — Бог Великий і Святий [Украинский]
+  https://holychords.pro/41687

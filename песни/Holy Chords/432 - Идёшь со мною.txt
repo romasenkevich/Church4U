@@ -1,0 +1,51 @@
+Просто сосуды — Идёшь со мною
+Источник: https://holychords.pro/432
+
+==================================================
+
+<blocks>
+<chopds>Hm D G A</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Hm                            D        G                      A</chopds>
+<text>Идёшь со мною рядом - а я не замечаю,</text>
+<chopds>Hm                       D            G                               A</chopds>
+<text>На ухо что-то шепчешь - я слов не разбираю.</text>
+<chopds>F#m                   Hm   Em                             A</chopds>
+<text>Бегу по жизни этой, боюсь всё опоздать куда-то,</text>
+<chopds>F#m            Hm             G                                               A</chopds>
+<text>И не понимаю что всё, что в жизни надо, давно со мною рядом!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Em              G                  Hm               A</chopds>
+<text>Бог мой, Царь мой, Свет моей жизни,</text>
+<chopds>Em         G              Hm        A</chopds>
+<text>Лишь Тобою полна душа.</text>
+<chopds>Em     G         Hm           A</chopds>
+<text>Ожидаю небесного царства,</text>
+<chopds>        Em         F#m          G/H             A/C#            Hm</chopds>
+<text>Где Ты наконец-то однажды встретишь меня!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Лишних слов не надо, ловлю одно мгновенье,</text>
+<text>когда со мной Ты рядом - сгораю от волненья.</text>
+<text>Бегу по жизни этой, боюсь всё опоздать куда-то,</text>
+<text>И не понимаю, что всё, что в жизни надо, давно со мною рядом!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Бегу по жизни этой, боюсь всё опоздать куда-то,</text>
+<text>И не понимаю что всё, что в жизни надо, давно со мною рядом!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>Em  D/F#  G/H  A/C#  A  Hm</chopds>
+</blocks>

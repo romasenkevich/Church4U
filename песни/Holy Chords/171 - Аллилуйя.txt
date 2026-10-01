@@ -1,0 +1,84 @@
+Алексей Каратаев — Аллилуйя
+Источник: https://holychords.pro/171
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>         A             F#m                  A                  F#m</chopds>
+<text>Бреду один я по пути мечтая в мире Свет найти</text>
+<chopds>              D                         E                     A        E</chopds>
+<text>Меж звёзд небесных и земных иду я</text>
+<chopds>      A                     D            E   F#m                 D</chopds>
+<text>Ведёт меня одна Звезда она со мною навсегда</text>
+<chopds>     E                          C#             F#m</chopds>
+<text>Поёт тихонько с неба Аллилуйя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>            D               F#m               D                 A  E  A</chopds>
+<text>Аллилуйя, аллилуйя, аллилуйя, аллилуйя</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>К Тебе мой Царь, любовь моя</text>
+<text>На крыльях солнечного дня</text>
+<text>Летит над миром, трепетно ликуя!</text>
+<text>К чему томит меня печаль?</text>
+<text>Совсем мне прошлое не жаль…</text>
+<text>И эхом раздается: Аллилуйя!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Вы правы: я святых не знал</text>
+<text>Имён, но всё же я взывал</text>
+<text>К Тому, чьё имя не помянешь всуе.</text>
+<text>Любой глагол горит огнём,</text>
+<text>Когда я слышу святость в Нём,</text>
+<text>Кричу к Нему всем сердцем - Аллилуйя.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Неизвестен — Аллилуйя [Русский]
+  https://holychords.pro/3007
+- Дети Бога — Аллилуйя [Русский]
+  https://holychords.pro/3845
+- Голос Дети — Аллилуйя [Русский]
+  https://holychords.pro/15721
+- Віктор Павлік — Hallelujah [Английский]
+  https://holychords.pro/16742
+- G12 Lietuva Worship Band — Aleliuja (Hallelujah / Jake Hamilton) [Литовский]
+  https://holychords.pro/26723
+- Pentatonix — Hallelujah [Английский]
+  https://holychords.pro/30550
+- Виталий Шим — Аллилуйя [Русский]
+  https://holychords.pro/30649
+- Илья Шишкин — Аллилуйя [Русский]
+  https://holychords.pro/34070
+- Неизвестен — Аллилуя [Русский]
+  https://holychords.pro/37558
+- МироТворец — Аллилуйя [Русский]
+  https://holychords.pro/39048
+- Нове Життя Київ — Алілуя [Украинский]
+  https://holychords.pro/39049
+- Via-Gloria — Алілуія [Украинский]
+  https://holychords.pro/42190
+- Дети Бога — Алилуя [Болгарский]
+  https://holychords.pro/57086
+- Олена Сидорчук — Алілуя [Украинский]
+  https://holychords.pro/66648
+- Leonard Cohen — Рождественская Аллилуйя [Русский]
+  https://holychords.pro/67306
+- Seattle Bethany Church — Алилуя [Русский]
+  https://holychords.pro/67358
+- Софія Винник — Алелуя [Украинский]
+  https://holychords.pro/69136
+- Vianney — Hallelujah (Live à Notre-Dame) [Французский]
+  https://holychords.pro/73862
+- Planetshakers — Great Outpouring (Live) [Английский]
+  https://holychords.pro/78578

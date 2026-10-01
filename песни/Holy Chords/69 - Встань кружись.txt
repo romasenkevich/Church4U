@@ -1,0 +1,44 @@
+NG Worship — Встань кружись
+Источник: https://holychords.pro/69
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>Am                 F                     C                                     G</chopds>
+<text>Вот Ты грядёшь по холмам, по горным вершинам.</text>
+<chopds>Am                          F              C                             G</chopds>
+<text>Господь, Ты пленил мое сердце, моя любовь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                         C</chopds>
+<text>Встань, кружись со мною</text>
+<chopds>Am7                   G    F                       C</chopds>
+<text>О Возлюбленный, в песне хвалы.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Иду я к Тебе Ты Тот, Кто любит, Тот, Кто обнимет.</text>
+<text>Господь мой, Ты здесь, мои слезы, рукой утрешь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                         C</chopds>
+<text>Встань, кружись со мною</text>
+<chopds>Am7                   G    F                       C</chopds>
+<text>О Возлюбленный, в песне хвалы.</text>
+<chopds>  C                    Am7</chopds>
+<text>Руки к небу вознесем</text>
+<chopds>            G   F                    C</chopds>
+<text>С хвалой Тебе, мой Бог</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Jesus Culture — Dance With Me [Английский]
+  https://holychords.pro/5781

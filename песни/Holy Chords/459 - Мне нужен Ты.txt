@@ -1,0 +1,44 @@
+Слово Жизни Music — Мне нужен Ты
+Источник: https://holychords.pro/459
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>               C                    Am</chopds>
+<text>Ранним утром я молюсь</text>
+<chopds>                 F                        C</chopds>
+<text>Ранним утром я склонюсь</text>
+<chopds>               Am                   F</chopds>
+<text>Ранним утром я молюсь</text>
+<chopds>                                    C</chopds>
+<text>Ты нужен мне, Иисус</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                Em     Am</chopds>
+<text>Нужен мне Иисус</text>
+<chopds>                    F       C</chopds>
+<text>Нужен мне Иисус</text>
+<chopds>                 Am                 F</chopds>
+<text>Больше, чем целый мир</text>
+<chopds>                                    C</chopds>
+<text>Мне нужен Ты, Иисус</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Когда я один</text>
+<text>Знаю, рядом Ты</text>
+<text>Я знаю, что Ты со мной</text>
+<text>Мне нужен Ты, Иисус</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Когда я всё пройду</text>
+<text>Путь свой совершу</text>
+<text>Я снова Тебе скажу</text>
+<text>Мне нужен Ты, Иисус</text>
+</blocks>

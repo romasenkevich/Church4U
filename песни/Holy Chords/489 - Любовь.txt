@@ -1,0 +1,56 @@
+Пирс — Любовь
+Источник: https://holychords.pro/489
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>         Em                   D             A</chopds>
+<text>В развалинах забытых городов</text>
+<chopds>      D                  A                    H7</chopds>
+<text>И на пути грядущих поколений</text>
+<chopds>      Em                          A                              D     Hm</chopds>
+<text>Лежит любовь как камень преткновений,</text>
+<chopds>                    Em              F#                Hm  H7</chopds>
+<text>Как суть падений взлётов и трудов,</text>
+<chopds>      Em                          A                              D     Hm</chopds>
+<text>Лежит любовь как камень преткновений,</text>
+<chopds>                  Em                 F#                 E</chopds>
+<text>Как суть падений взлётов и трудов,</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>О ней поет веков немая глушь</text>
+<text>В основе вех пророчеств и преданий</text>
+<text>Лежит любовь как камень испытаний</text>
+<text>Умов сердец и наших бренных душ</text>
+<text>Лежит любовь как камень испытаний</text>
+<text>Умов сердец и наших бренных душ</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет: модуляция +1</videlit_line>
+<chopds>       Fm                   Eb                       Bb</chopds>
+<text>Когда остынут слезы боль и смех,</text>
+<chopds>     Eb                      Bb                          C7</chopds>
+<text>Оставившим юдоль земной отчизны</text>
+<chopds>        Fm                     Bb                         Eb   Cm</chopds>
+<text>Зачтется либо в правду либо в грех</text>
+<chopds>                         Fm    G                  Cm  C7</chopds>
+<text>Любовь как мера истины и жизни</text>
+<chopds>        Fm                     Bb                         Eb   Cm</chopds>
+<text>Зачтется либо в правду либо в грех</text>
+<chopds>                         Fm    G                   F</chopds>
+<text>Любовь как мера истины и жизни</text>
+</blocks>
+
+<blocks>
+<videlit_line>4 куплет</videlit_line>
+<text>В развалинах забытых городов</text>
+<text>И на пути грядущих поколений</text>
+<text>Лежит любовь как камень преткновений,</text>
+<text>Как суть падений взлётов и трудов,</text>
+<text>Лежит любовь как камень преткновений,</text>
+<text>Как суть падений взлётов и трудов,</text>
+</blocks>

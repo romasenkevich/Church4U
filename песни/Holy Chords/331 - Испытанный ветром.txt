@@ -1,0 +1,66 @@
+Игорь Сидоров — Испытанный ветром
+Источник: https://holychords.pro/331
+
+==================================================
+
+<blocks>
+<videlit_line>интро</videlit_line>
+<chopds>Em  Em/D#   G/D   Em/C#</chopds>
+<chopds>C   H</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em      Em/D#   G/D   Em/C#   C            H</chopds>
+<text>Как сильна любовь Твоя           для меня…</text>
+<chopds>Em      Em/D#     G/D   Em/C#   C            H</chopds>
+<text>Дай познать, как дорог я           для Тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds> Am                             H</chopds>
+<text>Сила Твоя воскрешает из мертвых,</text>
+<chopds>          Em                    D</chopds>
+<text>Дыхание жизни даешь,</text>
+<chopds>      Am                                  H</chopds>
+<text>Любовью Своей поднимаешь из бренья,</text>
+<chopds>       Em                               D</chopds>
+<text>И в вечное царство ведешь.</text>
+<chopds>   Am/C                                 H</chopds>
+<text>Испытанный ветром, опаленный солнцем,</text>
+<chopds>   Em                                    D</chopds>
+<text>Иду по дороге сквозь жизни года,</text>
+<chopds>      Am/C                         H</chopds>
+<text>В ладонях ладони, и нет больше страха,</text>
+<chopds>     Em                                          D</chopds>
+<text>И что б ни случилось – Ты рядом всегда.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>C  G/H  Am   C  G/H  Am</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Буду славить я Тебя день и ночь,</text>
+<text>Верю, только Ты один силен мне помочь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>C  G/H  Am   C  G/H  Am</chopds>
+<chopds>C Am C Am</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Мне не страшно умирать – Ты со мной,</text>
+<text>Твоя святая благодать дала мне покой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Coda</videlit_line>
+<chopds>C  G/H  Am   C  G/H  Am</chopds>
+</blocks>

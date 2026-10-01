@@ -1,0 +1,94 @@
+Hillsong Ukraine — Силён спасти
+BPM: 75
+Источник: https://holychords.pro/496
+
+==================================================
+
+<blocks>
+<videlit_line>интро</videlit_line>
+<chopds>C  G  Em  D</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C                                    G</chopds>
+<text>Нужно всем состраданье,</text>
+<chopds>                                         Em</chopds>
+<text>Любовь, что бесконечна</text>
+<chopds>         D</chopds>
+<text>И благодать Твоя</text>
+<chopds>C                                        G</chopds>
+<text>Нужно так всем прощенье,</text>
+<chopds>                               Em</chopds>
+<text>Спасителя любезность</text>
+<chopds>         D                 C  D | C  D</chopds>
+<text>Надежда мира</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>        G                                            D</chopds>
+<text>Спаситель, может сдвинуть горы</text>
+<chopds>                     C                         G</chopds>
+<text>Силён Господь мой спасти</text>
+<chopds>              Em                   D</chopds>
+<text>Всех силён Он спасти</text>
+<chopds>        G                                   D</chopds>
+<text>Во веки, Он Творец спасения</text>
+<chopds>                         C                  G</chopds>
+<text>Воскрес и смерть победил</text>
+<chopds>                     Em             D     C</chopds>
+<text>Смерть Иисус победил</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Возьми мои падения,</text>
+<text>Страхи и сомнения</text>
+<text>Жизнь наполни вновь</text>
+<text>Тебе отдам все дни я,</text>
+<text>Всё, во что я так верю</text>
+<text>В Твоих руках, Бог, в Твоих руках, Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>C                             G                               D                             G/H</chopds>
+<text>Яркий свет Твой, пусть видит вся земля, мы будем</text>
+<chopds>C                       G                           D                  G/H</chopds>
+<text>Петь во славу воскресшего Царя, Иисус.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — Mighty To Save (Live) [Английский]
+  https://holychords.pro/13550
+- Hillsong Worship — Сильний спасти [Украинский]
+  https://holychords.pro/23645
+- Скиния Worship — Силён спасти [Русский]
+  https://holychords.pro/25149
+- Johannes Falk — Du allein rettest mich [Немецкий]
+  https://holychords.pro/26429
+- Eins zwo fünf — Mighty To Save [Английский]
+  https://holychords.pro/38472
+- ReWorship — Сильний спасти [Украинский]
+  https://holychords.pro/40099
+- Hillsong Worship — Сильний спасти [Украинский]
+  https://holychords.pro/41312
+- Hillsong En Español — Poderoso Para Salvar [Испанский]
+  https://holychords.pro/58231
+- Неизвестен — Zbawiciel, On porusza góry [Польский]
+  https://holychords.pro/60865
+- Commons Worship — Mighty To Save [Английский]
+  https://holychords.pro/72812
+- Sauli Ahvenjärvi — Pelastajani [Финский]
+  https://holychords.pro/72964
+- Stichting Opwekking — Mijn Redder (680) [Нидерландский]
+  https://holychords.pro/73213
+- Дім Отця Небесного — Спаситель може зрушить гору [Украинский]
+  https://holychords.pro/73294
+- Малин — Спаситель може зрушить гори [Украинский]
+  https://holychords.pro/75956
+- Неизвестен — На секој му треба милост [Македонский]
+  https://holychords.pro/80636

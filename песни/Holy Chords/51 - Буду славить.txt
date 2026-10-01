@@ -1,0 +1,46 @@
+Слово Жизни Music — Буду славить
+Источник: https://holychords.pro/51
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>    G                C</chopds>
+<text>Я, встречая утро,</text>
+<chopds>                       G             C</chopds>
+<text>С рассветом солнца уже жду Тебя.</text>
+<chopds>  G                            C</chopds>
+<text>Жизнь течет в пустыню,</text>
+<chopds>               G            C</chopds>
+<text>Ты мой оазис, я нашла Тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>     G</chopds>
+<text>И пусть даже шторм, и пусть тяжело,</text>
+<chopds>    Em</chopds>
+<text>И пусть грянет гром, а я все равно</text>
+<chopds> D                         C</chopds>
+<text>Буду славить, буду славить.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Вера – это сущность</text>
+<text>Моей надежды, и я жду Тебя.</text>
+<text>Ты и Твои планы,</text>
+<text>Все, кем я буду, я так жду Тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>G                                Em</chopds>
+<text>Источники открыты, я знаю, шторм пройдет,</text>
+<chopds>D                                      C</chopds>
+<text>Когда страх настигает, я верю, Бог придет.</text>
+<chopds>G                                Em</chopds>
+<text>Источники открыты, я знаю, шторм пройдет,</text>
+<chopds>D                                      C</chopds>
+<text>Когда страх настигает, я верю, Бог придет.</text>
+</blocks>

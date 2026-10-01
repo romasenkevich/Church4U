@@ -1,0 +1,37 @@
+Ксения Кузнецова — Наслаждаюсь Тобой
+BPM: 116
+Источник: https://holychords.pro/118
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em                      C                 G    D</chopds>
+<text>Когда я смотрю на небеса,</text>
+<chopds>Em                C                           G   D</chopds>
+<text>На всё творенье рук Творца.</text>
+<chopds>Em           C                        G                              D</chopds>
+<text>Одно о чём поёт дух мой - как я восхищаюсь Тобой,</text>
+<chopds> Em                                   C      G       D</chopds>
+<text>О том , что я наслаждаюсь Тобой!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                 Em                   C                         G            D</chopds>
+<text>Как небеса пледом звёзд укроешь Ты, Господь!</text>
+<chopds>                    Em                        C                 G               D</chopds>
+<text>Как для лугов одеялом сделал цветы, мой Царь.</text>
+<chopds>                Em                      C                      G                                          D</chopds>
+<text>Так и меня, сердце моё, окутай любовью, что жаждет душа, наполни меня.</text>
+<chopds>Em                         C              G                        D</chopds>
+<text>Дышу, наслаждаясь Тобой, день за днём. Святой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Когда пройдут небо и земля,</text>
+<text>Когда прекратятся времена.</text>
+<text>Когда потеряю дар жизни земной, когда заберёшь меня домой,</text>
+<text>Буду вечность наслаждаться Тобой!</text>
+</blocks>

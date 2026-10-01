@@ -1,0 +1,52 @@
+Филип Реннер — Слава Тебе
+Источник: https://holychords.pro/409
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>H                 E/H           H                 E/H</chopds>
+<text>Слава Тебе, Богу в вышних</text>
+<chopds>H                 E/H           H                 E/H</chopds>
+<text>Слава Тебе, Богу в вышних</text>
+<chopds>H                 E/H           H                 E/H</chopds>
+<text>Слава Тебе, Богу в вышних</text>
+<chopds>H                 E/H           H                 E/H</chopds>
+<text>Слава Тебе, Богу в вышних</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds> G#m            E              H         F#</chopds>
+<text>Во веки, во веки Ты царствуешь</text>
+<chopds>    G#m            E              H         F#</chopds>
+<text>Во веки, во веки Ты царствуешь</text>
+<chopds>    G#m            E              H         F#</chopds>
+<text>Во веки, во веки Ты царствуешь</text>
+<chopds>    G#m            E              H         F#</chopds>
+<text>Во веки, во веки Ты царствуешь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G#m           E                H      F#</chopds>
+<text>Слава Тебе, Богу в вышних</text>
+<chopds>G#m           E                H      F#</chopds>
+<text>Слава Тебе, Богу в вышних</text>
+<chopds>G#m           E                H      F#</chopds>
+<text>Слава Тебе, Богу в вышних</text>
+<chopds>G#m           E                H      F#</chopds>
+<text>Слава Тебе, Богу в вышних</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>    G#m            E              H         F#</chopds>
+<text>Во веки, во веки Ты царствуешь</text>
+<chopds>    G#m            E              H         F#</chopds>
+<text>Во веки, во веки Ты царствуешь</text>
+<chopds>    G#m            E              H         F#</chopds>
+<text>Во веки, во веки Ты царствуешь</text>
+<chopds>    G#m            E              H         F#</chopds>
+<text>Во веки, во веки Ты царствуешь</text>
+</blocks>

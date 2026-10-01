@@ -1,0 +1,83 @@
+Мелхиседек — Упала слеза
+Источник: https://holychords.pro/335
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Am  E/G#  G  D/F#  F  C   E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Am           E/G#  G                    D/F#</chopds>
+<text>Упала слеза     на горячий песок</text>
+<chopds>F                          C               E</chopds>
+<text>И кровь на ланитах застыла.</text>
+<chopds>Am                 E/G#      G                             D/F#</chopds>
+<text>Полдневное солнце, как красный цветок,</text>
+<chopds>F              C                        E</chopds>
+<text>Казалось в зените застыло.</text>
+<chopds>Am                 E/G#   G                   D/F#</chopds>
+<text>Гремели доспехи,  звенели мечи</text>
+<chopds>F                       C                  E</chopds>
+<text>Блестели на солнце палящем,</text>
+<chopds>Am                E/G#     G                          D/F#</chopds>
+<text>И громко смеялись, бранясь, палачи,</text>
+<chopds>F                     C                        E</chopds>
+<text>Над Агнцем, на древе висящем.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds> Am                   F  C                          G</chopds>
+<text> Так только мог Всемогущий Отец,</text>
+<chopds> Am                     F            G</chopds>
+<text> Отдать на заклание Сына.</text>
+<chopds> Am              F   C                                     G</chopds>
+<text> Такая любовь для отцовских сердец</text>
+<chopds> F               G               Am</chopds>
+<text> Воистину не постижима!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Когда Он любил, не любили Его</text>
+<text>Когда Он прощал, проклинали.</text>
+<text>Возмездием за зло не воздал никому</text>
+<text>И тем, кто Его распинали.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<text>За всё человечество кровь пролилась</text>
+<text>Ценой бесконечно бесценной.</text>
+<text>Голгофа над грешной землёй поднялась</text>
+<text>И сделалась центром вселенной.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Галим Хусаинов — Упала слеза [Русский]
+  https://holychords.pro/695
+- SMBS Choir — Упала слеза [Русский]
+  https://holychords.pro/7868
+- Состояние души — Упала слеза [Русский]
+  https://holychords.pro/14924
+- Эдуард Ильницкий — Упала слеза [Русский]
+  https://holychords.pro/16989
+- Еммануїл — Упала слеза [Русский]
+  https://holychords.pro/23349
+- Иван Дьяченко — Упала слеза на горячий песок [Русский]
+  https://holychords.pro/36681
+- Спасение Барановичи — Скотилась сльоза [Украинский]
+  https://holychords.pro/44538
+- Галим Хусаинов — Упала сльоза на гарячий пісок [Украинский]
+  https://holychords.pro/47518
+- Мелхиседек — И падна сълза [Болгарский]
+  https://holychords.pro/57659
+- Ілля Голуб — Упала сльоза [Украинский]
+  https://holychords.pro/69022
+- Неизвестен — Остання сльоза [Украинский]
+  https://holychords.pro/86186

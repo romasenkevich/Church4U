@@ -1,0 +1,119 @@
+Слово Жизни Music — В этом городе Ты Бог
+BPM: 156
+Источник: https://holychords.pro/452
+
+==================================================
+
+<blocks>
+<videlit_line>Вступление</videlit_line>
+<chopds>Bbm    G#            F#</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>                              C#                                          G#/C</chopds>
+<text>В этом городе Ты - Бог для людей этих Ты - Царь</text>
+<chopds>                                Bbm                  F#</chopds>
+<text>Для страны этой Ты наш Господь</text>
+<chopds>                               C#                                             G#/C</chopds>
+<text>И во тьме этой Ты - свет Ты надежда, где её нет</text>
+<chopds>                                         Bbm                 F#</chopds>
+<text>Миром жизнь наполняешь лишь Ты</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>Bbm    G#            F#</chopds>
+<text>Нет таких, как наш Бог</text>
+<chopds>Bbm    G#            F#                G#</chopds>
+<text>Нет таких, как наш Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>        F#</chopds>
+<text>Грядёт пора больших чудес</text>
+<chopds>         G#</chopds>
+<text>Господь прольет с небес благодать</text>
+<chopds>             C#    G#/C    F#</chopds>
+<text>В этот город</text>
+</blocks>
+
+<blocks>
+<videlit_line>Tag</videlit_line>
+<chopds>| F# |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+</blocks>
+
+<blocks>
+<videlit_line>Припев: x3</videlit_line>
+<chopds>        F#</chopds>
+<text>Грядёт пора больших чудес</text>
+<chopds>         G#</chopds>
+<text>Господь прольет с небес благодать</text>
+<chopds>             C#    G#/C    F#</chopds>
+<text>В этот город</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев 2</videlit_line>
+<chopds>        F#</chopds>
+<text>Грядёт пора больших чудес</text>
+<chopds>         G#</chopds>
+<text>Господь прольет с небес благодать</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>| C# | F# | C# | F# |</chopds>
+<text>С небес</text>
+<chopds>| Bbm | F# | Bbm C# |  F# |</chopds>
+<text>С небес, с небес</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев: x2</videlit_line>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+</blocks>
+
+==================================================
+Translation songs
+
+- Роман Касевич — Ты над городом этим [Русский]
+  https://holychords.pro/411
+- Passion — God of this city [Английский]
+  https://holychords.pro/22187
+- Юлія Кучинська — Ти Бог нашого міста [Украинский]
+  https://holychords.pro/24163
+- Малин — Ти є Бог цього з'їзду [Украинский]
+  https://holychords.pro/24792
+- Sara Lorenz & Johannes Falk — Gott unsrer Städte [Немецкий]
+  https://holychords.pro/26432
+- SOLWorship — Ти над містом нашим [Украинский]
+  https://holychords.pro/36362
+- Chris Tomlin — Ти є Бог цього міста [Английский]
+  https://holychords.pro/37137
+- Новый Завет NTWorship — В этом городе Ты - Бог [Русский]
+  https://holychords.pro/40006
+- Chris Tomlin — God Of This City [Английский]
+  https://holychords.pro/52105
+- One Way Worship Band — Ты над городом этим [Русский]
+  https://holychords.pro/56620
+- Денис Пахулин — В этом городе Ты Бог [Русский]
+  https://holychords.pro/64179
+- Chris Tomlin — В этом городе Ты - Бог [Русский]
+  https://holychords.pro/69053
+- Chris Tomlin — Бог цього міста [Украинский]
+  https://holychords.pro/69054
+- Неизвестен — Господ над градот [Македонский]
+  https://holychords.pro/80318

@@ -1,0 +1,52 @@
+New Beginnings Worship — Это Ты
+Источник: https://holychords.pro/492
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>           H                                       F#</chopds>
+<text>Ты благостью Своею мои слабости покрыл</text>
+<chopds>      E                                                           H</chopds>
+<text>И худшее во мне Ты лучшим заменил</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Пленил мое Ты сердце, душа моя парит</text>
+<text>Ведь худшее во мне Ты лучшим заменил</text>
+<text>Теперь мечтаю с целью в руках Твоих все дни,</text>
+<text>Ведь смысла не имеет без Тебя эта жизнь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>          G#m      H          E          F#</chopds>
+<text>Возложу себя к Твоим ногам</text>
+<chopds>   G#m                          H</chopds>
+<text>Отдам для пользы Царства</text>
+<chopds>            E                                                                              H</chopds>
+<text>Ведь каждый день на земле нужен мне лишь Ты</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>H                                                F#</chopds>
+<text>Чтобы был во мне виден Ты</text>
+<chopds>                          E</chopds>
+<text>Сиял во мне ещё сильней</text>
+<chopds>                                                            H</chopds>
+<text>Твой свет пусть видит вся земля</text>
+<chopds>                     H</chopds>
+<text>О Бог, это Ты, Кто цепи снял</text>
+<chopds>         F#</chopds>
+<text>Это Ты, Кто путь осиял</text>
+<chopds>        E                                                           H</chopds>
+<text>И всем что есть во мне к Тебе взываю я</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Пусть смотрят на меня все и видят жизнь Твою</text>
+<text>И Тебе земную славу пусть воздают</text>
+</blocks>

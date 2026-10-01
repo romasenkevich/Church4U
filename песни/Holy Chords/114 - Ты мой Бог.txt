@@ -1,0 +1,70 @@
+Они — Ты мой Бог
+Источник: https://holychords.pro/114
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C                              F</chopds>
+<text>Люблю Тебя я всё сильней,</text>
+<chopds>C                             F                G</chopds>
+<text>И нет на свете никого Тебя дороже.</text>
+<chopds>C                            F</chopds>
+<text>Звала Тебя среди скорбей,</text>
+<chopds>Am                   Dm                     E</chopds>
+<text>И ты меня услышал, Ты услышал, Боже!</text>
+<chopds>Am        F       C                  G</chopds>
+<text>Протянул Свою святую руку,</text>
+<chopds>            Am            F        C                      G</chopds>
+<text>К Небесам вознёс мою больную душу,</text>
+<chopds>         Am             F                    C                 G</chopds>
+<text>Показал мне раны драгоценные Свои!</text>
+<chopds>               Am          F  C  G                   Am  Em</chopds>
+<text>Ты искупил меня, по Своей Любви!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Am  G/H  C                      Em                            G</chopds>
+<text>Ты мой Бог – пусть услышит вся Земля!</text>
+<chopds>Am  G/H  C                  Em                                G</chopds>
+<text>Ты мой Бог – буду славить лишь Тебя, только лишь Тебя!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Не знаю, где найти слова,</text>
+<text>Чтоб описать Твою безкрайнюю Любовь!</text>
+<text>Когда была я неправа,</text>
+<text>Ты мне дарил надежду на спасенье вновь!</text>
+<text>За Тобой иду, Твой голос слышу!</text>
+<text>Быть с Тобой хочу, мне нужен только Ты!</text>
+<text>С каждым днём к Тебе хочу я быть всё ближе,</text>
+<text>Боже, о Тебе мысли все мои!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>Dm                                       Am/C</chopds>
+<text>За мои грехи на крест Голгофский Ты взошёл,</text>
+<chopds>   G                   Dm</chopds>
+<text>Всё прощая, боль перетерпел.</text>
+<chopds>Dm                                          Am</chopds>
+<text>Враг души в Тебе изъяна не нашёл,</text>
+<chopds>G                                  D                 G         A</chopds>
+<text>Победить Тебя он не сумел, не сумел!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Hm  A/C#  D                      F#m                             A</chopds>
+<text>Ты мой Бог – пусть воскликнет вся Земля!</text>
+<chopds>Hm  A/C#  D                 F#m                             A</chopds>
+<text>Ты мой Бог – буду славить лишь Тебя, только лишь Тебя.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Ukrainian Baptist Church MN — Ти мій Бог [Украинский]
+  https://holychords.pro/71239

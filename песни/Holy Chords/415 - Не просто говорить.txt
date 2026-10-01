@@ -1,0 +1,22 @@
+Филип Реннер — Не просто говорить
+Источник: https://holychords.pro/415
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>F#m           E               F#m     E</chopds>
+<text>Дай мне сердце Твоё</text>
+<chopds>F#m             E             F#m    E</chopds>
+<text>Дай мне мысли Твои</text>
+<chopds>F#m                             E                                F#m        E</chopds>
+<text>Помоги идти все глубже, глубже в Тебе, Господь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D                          A/C#                                   E</chopds>
+<text>Не просто говорить, не просто петь слова</text>
+<chopds>                                    F#m</chopds>
+<text>Не просто ждать, я жажду сердцем!</text>
+</blocks>

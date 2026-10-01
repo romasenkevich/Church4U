@@ -1,0 +1,126 @@
+Брія Блессінг — Океани
+Источник: https://holychords.pro/232
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Hm                             A           D</chopds>
+<text>Мене Ти кличеш над водою</text>
+<chopds>                  A                    G</chopds>
+<text>Де не встоїть моя нога</text>
+<chopds>Hm                           A         D</chopds>
+<text>Тебе в пригодах відшукаю</text>
+<chopds>           A           G</chopds>
+<text>Осяє віра океан</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds>G            D                    A</chopds>
+<text>Твоє ім'я прикличу я</text>
+<chopds>G             D                 A</chopds>
+<text>Сховаю очі в небесах, душа моя</text>
+<chopds>G               D            A</chopds>
+<text>Спочине у Твоїх руках</text>
+<chopds>                      G   A        Hm</chopds>
+<text>Ти мій Господь Твоїм є я</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Hm                    A          D</chopds>
+<text>В глибинах вод перебуває</text>
+<chopds>A                            G</chopds>
+<text>Твоя безмежна благодать</text>
+<chopds>Hm                       A             D</chopds>
+<text>Де страх і темрява стискають</text>
+<chopds>A                               G</chopds>
+<text>Твоя рука покаже шлях</text>
+</blocks>
+
+<blocks>
+<videlit_line>Брідж</videlit_line>
+<chopds>Hm                                 G</chopds>
+<text>Дух, веди мене невпинно за Собою</text>
+<chopds>                 D                                  A</chopds>
+<text>Щоб ходив я над водою куди б Ти не покликав</text>
+<chopds>Hm                                  G</chopds>
+<text>Проведи мене в глибинах неосяжних</text>
+<chopds>                  D                                      A</chopds>
+<text>Щоб міцніла віра завжди у Твоїх очах, Спаситель</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Ukraine — Океаны
+  https://holychords.pro/104
+- Hillsong United — Oceans (Where Feet May Fail)
+  https://holychords.pro/445
+- Новый Завет NTWorship — Океаны [Русский]
+  https://holychords.pro/3395
+- Дерево Жизни music — Океаны [Русский]
+  https://holychords.pro/6047
+- Albert Frey — Meer (Feiert Jesus! 20) [Немецкий]
+  https://holychords.pro/6325
+- Соль — Океаны [Русский]
+  https://holychords.pro/8628
+- Нове місто — Мене Ти кличеш над водою [Украинский]
+  https://holychords.pro/10339
+- Gracetime Worship Band — Океаны [Русский]
+  https://holychords.pro/11304
+- Исход Ростов на Дону — Океаны [Русский]
+  https://holychords.pro/13967
+- Свет — В глубины вод меня призвал Ты [Русский]
+  https://holychords.pro/17369
+- UzWorSong — Уммoн [Узбекский]
+  https://holychords.pro/25501
+- Bri Babineaux — Oceans (Where Feet May Fail) [Английский]
+  https://holychords.pro/26102
+- Exodus 15 — Oceany [Польский]
+  https://holychords.pro/27318
+- Hillsong Ukraine — Океани (Крок в незвідане)
+  https://holychords.pro/33848
+- Слово Жизни Москва — Океаны [Русский]
+  https://holychords.pro/34201
+- AGAPAO Worship — 주 날 물 위로 부르셨네 [Корейский]
+  https://holychords.pro/36671
+- The Voice of One Calling — Oceans (Where Feet May Fail) [Еврейский]
+  https://holychords.pro/40107
+- Hillsong United — Oceans (Remix) [Английский]
+  https://holychords.pro/43096
+- IGC Worship — Meer [Немецкий]
+  https://holychords.pro/43411
+- Hillsong En Français — Océans (Quand mes pieds tremblent) [Французский]
+  https://holychords.pro/48278
+- Agnes Alba — Oceans/La Niña de Tus Ojos/ Here I Am To Worship [Английский]
+  https://holychords.pro/52017
+- Hillsong United — Океаны (Ступать по водам) [Русский]
+  https://holychords.pro/53657
+- Илья Рябов — Океаны [Русский]
+  https://holychords.pro/56764
+- Titus Major — Oceans [Английский]
+  https://holychords.pro/58965
+- Harvest Arad — Oceane [Румынский]
+  https://holychords.pro/59078
+- psalmaker — Океаны [Русский]
+  https://holychords.pro/60532
+- Неизвестен — Znad oceanów mnie wezwałeś [Польский]
+  https://holychords.pro/61038
+- Hillsong Worship — Океани [Украинский]
+  https://holychords.pro/64243
+- Wolrus WORSHIP — Океаны [Русский]
+  https://holychords.pro/67888
+- Stephen McWhirter — Oceans [Английский]
+  https://holychords.pro/69913
+- Неизвестен — Με κάλεσε να περπατήσω [Греческий]
+  https://holychords.pro/73272
+- Божий Дар Київ (God's Gift) — Йти по водах (Океани) [Украинский]
+  https://holychords.pro/73487
+- Неизвестен — Океани [Македонский]
+  https://holychords.pro/80300
+- Дети Бога — Океаны [Русский]
+  https://holychords.pro/84318
+- Anne Elizabeth Tsyba — Océans [Французский]
+  https://holychords.pro/87659

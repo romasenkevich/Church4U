@@ -1,0 +1,59 @@
+Гульчуки — Отцы и матери
+Источник: https://holychords.pro/431
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Dm  E  A  Dm</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>      Dm      A                         Dm</chopds>
+<text>Отцы и матери, отцы и матери.</text>
+<chopds>        Dm       Gm                    C           F</chopds>
+<text>Всегда спасибо вам за всё за всё.</text>
+<chopds>     D7           Gm                               C         F</chopds>
+<text>За то что с детства нас к Христу направили</text>
+<chopds>         Gm         Dm                 E        A  Dm</chopds>
+<text>И с Ним мы радостно теперь живём.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>     Bb                                              F</chopds>
+<text>О дай Господь чтоб вместе с вами мы</text>
+<chopds>       Gm                                 Dm</chopds>
+<text>На небесах Христа прославили</text>
+<chopds>      Gm    A                          Gm  A  Dm</chopds>
+<text>На небесах, Христа прославили</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>А сколько слёз пришлось, пролить за деток вам,</text>
+<text>Молить Отца о том, чтоб Он нас спас,</text>
+<text>И Бог услышал все, молитвы матери</text>
+<text>И каждый день от зла, хранит Он нас.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Не знаем сколько нам, подарит жизни Бог</text>
+<text>Быть может много лет иль год один,</text>
+<text>Но быть душою мы и сердцем схожими,</text>
+<text>Отцы и матери на вас хотим.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Песнь Возрождения — Отцы и матери всегда спасибо вам [Русский]
+  https://holychords.pro/20507
+- Seattle Bethany Teens — Отцы и матери [Русский]
+  https://holychords.pro/56762
+- Seattle Bethany Teens — Батьки і матері [Украинский]
+  https://holychords.pro/71287
+- Seattle Bethany Teens — Бащи и майки [Болгарский]
+  https://holychords.pro/71290

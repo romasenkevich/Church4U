@@ -1,0 +1,54 @@
+Hillsong Ukraine — Имя Твоё вознесём Иисус
+Источник: https://holychords.pro/296
+
+==================================================
+
+<blocks>
+<chopds>| F#m | A | D | A   E/G# |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>F#m              A</chopds>
+<text>Свою забыв невинность</text>
+<chopds>F#m                   A                           D</chopds>
+<text>На том кресте, Себя отдал за нас.</text>
+<chopds>                   F#m            E</chopds>
+<text>Путь к свободе открыл нам</text>
+<chopds>F#m                 A</chopds>
+<text>Всё прошлое простил Ты</text>
+<chopds>F#m                        A                                  D</chopds>
+<text>Дал новый шанс, И цепи снял Ты с нас</text>
+<chopds>                     F#m                     E       D</chopds>
+<text>Смерть бессильна в любви Отца</text>
+<chopds>                 A                             E</chopds>
+<text>Все мы - Имя Твоё вознесём Иисус,</text>
+<chopds>F#m                        E</chopds>
+<text>Имя Твоё вознесём Иисус,</text>
+<chopds>D                           F#m                  E</chopds>
+<text>Ты дал то, что мир нам не сможет дать</text>
+<chopds>       D                      F#m                                          A  D  A  E/G#</chopds>
+<text>И пусть говорят всё, что хотят. Свободны мы!!!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Смотри, как мир изменчив</text>
+<text>Как люди все, к Тебе возносят взгляд</text>
+<text>И к той свободе, что Ты дал</text>
+<text>Нас прошлое не держит</text>
+<text>Мы так хотим, чтоб Царствие пришло</text>
+<text>Будь прославлен Ты через нас</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>D                         E</chopds>
+<text>Тебя опять мы хвалим</text>
+<chopds>F#m             E</chopds>
+<text>И как один поём все вместе</text>
+<chopds>D                           E</chopds>
+<text>В своих сердцах прославим</text>
+<chopds>F#m              E</chopds>
+<text>И вознесём Тебя смиренно</text>
+</blocks>

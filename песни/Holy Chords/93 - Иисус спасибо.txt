@@ -1,0 +1,56 @@
+Hillsong Ukraine — Иисус спасибо
+BPM: 158
+Источник: https://holychords.pro/93
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>     F                               C        Bb       F</chopds>
+<text>Благодать рекою льётся на меня</text>
+<chopds>F                                                     C       Bb        F</chopds>
+<text>И с небес любовь Христа наполнила меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                   Bb                         F</chopds>
+<text>Иисус, спасибо,  свободен я</text>
+<chopds>          Bb                           F</chopds>
+<text>Искупитель Ты спас меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Теперь живу в свободе для дел Твоей любви</text>
+<text>Для Царства Твоего, Господь Ты жизнь мою возьми</text>
+<chopds>Bb   C   Dm   F</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>Bb                         C</chopds>
+<text>Жизнь новую дал открыл мне глаза</text>
+<chopds>Dm                       F</chopds>
+<text>Люблю Господь, люблю Тебя</text>
+<chopds>Bb                         C</chopds>
+<text>Мое сердце навек отдам я Тебе</text>
+<chopds>Dm                       F</chopds>
+<text>Люблю Господь, люблю Тебя</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — Thank You Jesus [Английский]
+  https://holychords.pro/1307
+- Скиния Worship — Иисус спасибо [Русский]
+  https://holychords.pro/29380
+- Hillsong Worship — Дякую, Ісус [Украинский]
+  https://holychords.pro/36604
+- Hillsong Auf Deutsch — Danke Jesus [Немецкий]
+  https://holychords.pro/39502
+- Илья Рябов — Иисус спасибо [Русский]
+  https://holychords.pro/50768
+- Hillsong Kids — Thank You Jesus [Английский]
+  https://holychords.pro/62731

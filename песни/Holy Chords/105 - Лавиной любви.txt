@@ -1,0 +1,65 @@
+Hillsong Ukraine — Лавиной любви
+BPM: 84
+Источник: https://holychords.pro/105
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>    Bbm              C#</chopds>
+<text>Прекрасный Бог</text>
+<chopds>     G#            F#          Bbm   C#</chopds>
+<text>Оставил величие Своё</text>
+<chopds>      G#                   F#           Bbm         C#</chopds>
+<text>И жизнь мне вернул, явив любовь</text>
+<chopds>      G#               F#          Bbm         C#   G#</chopds>
+<text>К свету из тьмы меня вознёс</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Царь стал рабом</text>
+<text>Святость сменив на мой позор</text>
+<text>Хотя гордым путь был грешный мой</text>
+<text>Ты принял в вечный Свой покой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>   F#   C#                  G#                     F#</chopds>
+<text>И я здесь преклонюсь пред Тобой опять</text>
+<chopds>     C#                G#              F#</chopds>
+<text>Лавиной любви Ты настиг меня</text>
+<chopds>           C#                 G#           Bbm      G#   F#</chopds>
+<text>Ни с чем не сравнится любовь Твоя</text>
+<chopds>                                 Bbm</chopds>
+<text>Что сердце мне зажгла</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Спаситель и Друг</text>
+<text>В сердце мое вдохнул Ты жизнь</text>
+<text>И Словом мой путь Ты осветил</text>
+<text>Любовью навек меня смирил</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>Bbm         G#/C               C#</chopds>
+<text>Жизнь отдам и всё, что во мне</text>
+<chopds>     F#                                        C#   G#</chopds>
+<text>Тебя всей душой так люблю я</text>
+<chopds> Bbm        G#/C             C#</chopds>
+<text>Жизнь отдам и сердцем я всем</text>
+<chopds>     F#                        C#   G#</chopds>
+<text>Тебя, Иисус, обожаю</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong United — Like An Avalanche [Английский]
+  https://holychords.pro/3892
+- Юлія Кучинська — Милість Твоя є лавиною [Украинский]
+  https://holychords.pro/33125

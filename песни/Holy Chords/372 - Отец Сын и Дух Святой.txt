@@ -1,0 +1,36 @@
+Алексей Грудинский — Отец Сын и Дух Святой
+Источник: https://holychords.pro/372
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Am                                    F</chopds>
+<text>Поднимаю очи в небо и смотрю с надеждой я</text>
+<chopds>          C                       G</chopds>
+<text>Приди, любовь моя</text>
+<chopds>Am                                        F</chopds>
+<text>Иисус ты мой Спаситель сердце жаждет лишь Тебя</text>
+<chopds>          C                       G</chopds>
+<text>Приди, любовь моя</text>
+<chopds>F                                               G</chopds>
+<text>Оставляя день вчерашний моё сердце встречи жаждет</text>
+<chopds>  Am</chopds>
+<text>Знаю Ты меня ждёшь</text>
+<chopds>F                                       G</chopds>
+<text>Я Живу и прославляю я люблю и я мечтаю</text>
+<chopds>  Am</chopds>
+<text>Знаю Ты меня ждёшь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                 F          G         Am</chopds>
+<text>Отец и Сын и Дух Святой</text>
+<chopds>                 F          G         Am</chopds>
+<text>Отец и Сын и Дух Святой</text>
+<chopds>                 F          G         Am</chopds>
+<text>Отец и Сын и Дух Святой</text>
+<chopds>                 F          G         Am</chopds>
+<text>Отец и Сын и Дух Святой</text>
+</blocks>

@@ -1,0 +1,56 @@
+Imprintband — Шанс
+Источник: https://holychords.pro/406
+
+==================================================
+
+<blocks>
+<chopds>Em  G  D</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em                      G            D</chopds>
+<text>Куда бежать, когда закрыты</text>
+<chopds>Em                                 G            D</chopds>
+<text>Мне в этой жизни все пути</text>
+<chopds>Em                      G                       D</chopds>
+<text>Где мне найти хоть каплю света</text>
+<chopds>Em                                       G          D</chopds>
+<text>Когда ответов больше не найти</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>C                                   Am                                 Em</chopds>
+<text>Я задыхаюсь от бессилия, что-то тянет в низ</text>
+<chopds>                     D</chopds>
+<text>Я хочу кричать</text>
+<chopds>C                                              Am                     Em</chopds>
+<text>Смертельный холод обжигает сердце моё</text>
+<chopds>                                        D</chopds>
+<text>Я не могу больше ждать</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Em                                    C                               Am</chopds>
+<text>Дай мне шанс, я прошу я хочу всё изменить</text>
+<chopds>                                     C           D</chopds>
+<text>Я смогу начать сначала слышишь.</text>
+<chopds>Em                                    C                               Am</chopds>
+<text>Дай мне шанс, я прошу я хочу всё изменить</text>
+<chopds>                                     C           D</chopds>
+<text>Я смогу начать сначала слышишь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Em                                              G                   D</chopds>
+<text>Чего мне ждать? Когда надежда</text>
+<chopds>Em                              G         D</chopds>
+<text>Застыла в венах словно лёд</text>
+<chopds>Em                       G                            D</chopds>
+<text>Где мне найти, жизнь среди смерти</text>
+<chopds>Em                                          G             D</chopds>
+<text>Как мне лететь - не оборвать полёт</text>
+</blocks>

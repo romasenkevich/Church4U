@@ -1,0 +1,80 @@
+Просто сосуды — Голос света
+Источник: https://holychords.pro/264
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Am           G/H   C  Am  G               C</chopds>
+<text>Средь суеты и мрака явилась ты на свет,</text>
+<chopds>Am       G/H   C   Am     G            Am</chopds>
+<text>Чудесное творенье, тебе подобных нет.</text>
+<chopds>Am             G/H   C  Am  G            C</chopds>
+<text>Ты ничего не знала, что ждет впереди,</text>
+<chopds>Am       G/H   C  Am      G            Am</chopds>
+<text>Везде любовь искала, но не смогла найти...</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Cm                  G#         A#                      F</chopds>
+<text>В сомнениях и страхах, в надежде шла в ночи,</text>
+<chopds>G#                  D#/G      Fm              G</chopds>
+<text>Несла кому-то сердце, разбитое в пути.</text>
+<chopds>Am           G/H   C  Am  G            C</chopds>
+<text>И кто меня услышит, кто меня поймет?</text>
+<chopds>Am            G/H      C      Am      G            Am</chopds>
+<text>Кто даст мне надежду, собою увлечет?...</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>     Em   D            G            Am   G                     D</chopds>
+<text>Это Я, Тот, Кто был с тобой, когда ты не знала Меня,</text>
+<chopds>      Em   D         G                      Am          G          D</chopds>
+<text>Это Я, Тот, чье имя – Любовь, ты всюду искала Меня.</text>
+<chopds>     Em   D            G                    Am   G           D</chopds>
+<text>Это Я, Тот, Кто видел смерть и ее победил,</text>
+<chopds>        Em                D                  Am           C           G             D</chopds>
+<text>Я отдал свою жизнь, чтобы ты жила, за тебя заплатил.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<chopds>Am           G/H   C  Am  G            C</chopds>
+<text>Что Ты во мне увидел, за что так полюбил?</text>
+<chopds>Am       G/H   C  Am      G            Am</chopds>
+<text>Ты дал мне смысл жизни и мне Себя открыл...</text>
+<chopds>Cm                  G#         A#                      F</chopds>
+<text>Прекрасная из тысяч, жемчужина моя,</text>
+<chopds>G#                  D#/G      Fm              G</chopds>
+<text>В огне моих страданий, Я приобрел тебя...</text>
+<chopds>Am           G/H   C  Am  G            C</chopds>
+<text>Теперь моя навеки... Я в твоих руках...</text>
+<chopds>Am           G/H   C  Am  G            Am</chopds>
+<text>Тебя нет драгоценней... Ты моя мечта...</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>     Em   D            G            Am   G                     D</chopds>
+<text>Это Ты, Тот, Кто был со мной, когда я не знала Тебя,</text>
+<chopds>      Em   D         G                      Am          G          D</chopds>
+<text>Это Ты, Тот, чье имя – Любовь, я всюду искала Тебя.</text>
+<chopds>     Em   D            G                    Am   G           D</chopds>
+<text>Это Я, Тот, Кто видел смерть и ее победил,</text>
+<chopds>        Em                D                  Am           C           G             D</chopds>
+<text>Я отдал свою жизнь, чтобы ты жила, за тебя заплатил.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>     F#m   E           A                 Hm      A                E</chopds>
+<text>Это Я, Тот, Кто был с тобой, когда ты не знала Меня,</text>
+<chopds>    F#m   E          A                     Hm         A           E</chopds>
+<text>Это Я, Тот, чье имя – Любовь, ты всюду искала Меня.</text>
+<chopds>    F#m   E          A                   Hm      A           E</chopds>
+<text>Это Я, Тот, Кто видел смерть и ее победил,</text>
+<chopds>       F#m               E                    Hm          D            A           E</chopds>
+<text>Я отдал свою жизнь, чтобы ты жила, за тебя заплатил</text>
+</blocks>

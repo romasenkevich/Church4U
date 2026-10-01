@@ -1,0 +1,28 @@
+Holy Generation — Я хожу во свете
+Источник: https://holychords.pro/361
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Dmaj7          Dmaj7/E            Hm</chopds>
+<text>Я хожу во свете, которым Бог мне светит.</text>
+<chopds>Dmaj7                             Hm                           F#m</chopds>
+<text>И кровь Его очищает нас от всякого греха.</text>
+<chopds>Dmaj7          Dmaj7/E              Hm</chopds>
+<text>В любви Твоей пребуду, которую даришь людям.</text>
+<chopds>               Dmaj7            Hm               F#m</chopds>
+<text>Любовь Твоя через нас меняет мир.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>A                       A/H              F#m</chopds>
+<text>И пусть весь мир проходит, а я волю Твою исполню.</text>
+<chopds>Dmaj7            Hm                       F#m</chopds>
+<text>Ты жизнь отдал, чтоб я мог быть с Тобой всегда.</text>
+<chopds>A                       A/H                F#m</chopds>
+<text>И пусть весь мир проходит, а я волю Твою исполню.</text>
+<chopds>Dmaj7        Hm                   F#m</chopds>
+<text>Дороже всех Ты для меня.</text>
+</blocks>

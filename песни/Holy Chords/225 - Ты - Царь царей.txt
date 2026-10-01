@@ -1,0 +1,42 @@
+Тропинка — Ты - Царь царей
+Источник: https://holychords.pro/225
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>        D#m                            H</chopds>
+<text>Ты - Царь царей, победитель Иисус,</text>
+<chopds>        G#m                              Bb</chopds>
+<text>К Тебе я воздеваю свои руки.</text>
+<chopds>       D#m                              H</chopds>
+<text>Нет Бога сильней, прекрасней и добрей,</text>
+<chopds>G#m                                      Bb</chopds>
+<text>Ты - Великий Бог Всемогущий.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>       G#m                               Bb                  D#m      H</chopds>
+<text>Ты царствуешь Иисус в жизни моей. Аллилуйя.</text>
+<chopds>       G#m                               Bb                  D#m      H</chopds>
+<text>Ты царствуешь Иисус в церкви моей. Аллилуйя</text>
+<chopds>     G#m                        Bb                   D#m      H</chopds>
+<text>Тебе принадлежат небо и земля. Аллилуйя.</text>
+<chopds> G#m                    Bb  D#m  G#m                 Bb   D#m</chopds>
+<text>Тебе принадлежу и я. Тебе принадлежу и я.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Наталья Демашина — Ты Царь царей [Русский]
+  https://holychords.pro/27926
+- KidsCamp — Ти Цар царів, перемога моя [Украинский]
+  https://holychords.pro/33967
+- Мишель Кошельная — Царь царей [Русский]
+  https://holychords.pro/50934
+- Мишель Кошельная — Иисус Е Цар, на царете Господар [Болгарский]
+  https://holychords.pro/63742
+- Тропинка — Ти Цар царів [Украинский]
+  https://holychords.pro/63743

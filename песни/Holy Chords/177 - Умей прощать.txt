@@ -1,0 +1,70 @@
+Божье прикосновение — Умей прощать
+Источник: https://holychords.pro/177
+
+==================================================
+
+<blocks>
+<chopds>Bbm Fm F# Bbm</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>F  Bbm                                              Fm</chopds>
+<text>Умей прощать, молись за обижающих,</text>
+<chopds>   F#                                                      Bbm   Bb</chopds>
+<text>Зло побеждай святым лучом добра,</text>
+<chopds>         D#m                                         Bbm   F#</chopds>
+<text>Ведь Бог тогда твои молитвы слышит,</text>
+<chopds>       G#                                                  F</chopds>
+<text>Когда в тебе горит прощенья свет.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D#m</chopds>
+<text>Учись прощать, когда душа обижена</text>
+<chopds>Bbm                                    F#</chopds>
+<text>И сердце, словно чаша горьких слез.</text>
+<chopds>     G#</chopds>
+<text>И, кажется, что доброта вся выжжена,</text>
+<chopds>             F                                                      Bbm</chopds>
+<text>Ты вспомни, как прощал людей Христос.</text>
+<chopds>    D#m                                         Bbm</chopds>
+<text>И, кажется, что доброта вся выжжена,</text>
+<chopds>             F                                                      Bbm</chopds>
+<text>Ты вспомни, как прощал людей Христос.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Умей прощать, прощать не только словом.</text>
+<text>Но всей душой, всей сущностью своей.</text>
+<text>Ведь кровь Христа за всех была пролита.</text>
+<text>Учись прощать, чтоб ты прощен был сам.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Александр Шельпук — Умей прощать [Русский]
+  https://holychords.pro/11170
+- Виктор Шатецкий — Учись прощать [Русский]
+  https://holychords.pro/11801
+- Камінь — Умей прощать [Русский]
+  https://holychords.pro/14305
+- Песнь Возрождения — Умей прощать, молись за обижающих [Русский]
+  https://holychords.pro/19506
+- Вадим Ятковский — Умей прощать [Русский]
+  https://holychords.pro/24474
+- Владимир Мысин — Умей прощать [Русский]
+  https://holychords.pro/26617
+- Песнь Возрождения — Навчись прощати [Украинский]
+  https://holychords.pro/34027
+- Брати Степчуки — Прощати вмій, за кривдників молися [Украинский]
+  https://holychords.pro/51390
+- Вадим Ятковский — Прощати вмій [Украинский]
+  https://holychords.pro/53331
+- Брати Степчуки — Умей прощать [Русский]
+  https://holychords.pro/59250
+- Брати Степчуки — Прощати вчись, молись за ображаючих [Украинский]
+  https://holychords.pro/59254

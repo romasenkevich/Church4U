@@ -1,0 +1,54 @@
+Simple stuff — Я люблю Тебя Христос мой Бог
+Источник: https://holychords.pro/275
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>D#                  Bb  Fm                       G#</chopds>
+<text>Я люблю Тебя.       Я люблю Тебя</text>
+<chopds>D#     Bb           Fm    G#</chopds>
+<text>Христос мой Бог.</text>
+<chopds>D#                          Bb  Fm                             G#</chopds>
+<text>Он есть цель моя,    Он есть жизнь моя,</text>
+<chopds>D#     Bb           Fm    G#</chopds>
+<text>Христос мой Бог.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>          Cm              Gm             Fm                     Gm</chopds>
+<text>Никому и никогда, не постичь глубин Твоих,</text>
+<chopds>             Fm              D#/G                     G#                  Bb</chopds>
+<text>Ты велик и всемогущ, любишь всех детей Своих.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                G#            D#                            Bb      Cm</chopds>
+<text>Знаешь Ты всю жизнь мою, об одном Тебя молю,</text>
+<chopds>                    G#          D#                Bb      Cm</chopds>
+<text>Будь со мной всегда мой Иисус,</text>
+<chopds>          G#       D#                    Bb        Cm</chopds>
+<text>Защити меня от зла и Тебя, душа моя</text>
+<chopds>            G#          D#              Bb</chopds>
+<text>Будет вечно славить Иисус</text>
+<chopds> Fm  Cm                    Bb      Fm  Cm  Bb</chopds>
+<text>           Я люблю Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ночи больше нет, вижу яркий свет,</text>
+<text>Христос мой Бог.</text>
+<text>Он есть цель моя, Он есть жизнь моя,</text>
+<text>Христос мой Бог.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>Fm  Cm          Bb</chopds>
+<text>Я люблю Тебя</text>
+<chopds>         Fm  Cm                Bb    D#</chopds>
+<text>Мой Бог, люблю Тебя!</text>
+</blocks>

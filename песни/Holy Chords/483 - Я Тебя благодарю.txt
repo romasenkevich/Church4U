@@ -1,0 +1,58 @@
+Новое Поколение Мелитополь — Я Тебя благодарю
+Источник: https://holychords.pro/483
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                Hm                                               Em</chopds>
+<text>Ты зажигаешь в небе звезды им даруешь яркий свет</text>
+<chopds>                  A                                          D                  F#</chopds>
+<text>Ты называешь поименно миллионы из планет</text>
+<chopds>                       Hm                          Em</chopds>
+<text>Ты правишь севером и югом, и вселенной всей</text>
+<chopds>    G        F#                   G                                Em       F#                  Hm</chopds>
+<text>И я принадлежу Тебе, мой Господь. И я принадлежу Тебе.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев: 2 раза</videlit_line>
+<chopds>Hm                       Em   A                                   D  F#</chopds>
+<text>Я Тебя благодарю, за святую кровь Твою</text>
+<chopds>Hm                               Em      G       F#                       Hm      | G  F# |</chopds>
+<text>Ты достоин славы всей. Бог богов и Царь царей!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>По Твоей воле,Всемогущий, существуют Небеса.</text>
+<text>Я знаю этим миром правит сильная рука,</text>
+<text>Что близко Ты со мной и рядом Пастырь и мой Друг,</text>
+<text>Ты Царь и я Тебе пою Аллилуйя! Ты Царь и я Тебе пою.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев: концовка</videlit_line>
+<text>Небо и Земля Твоя,  громко славлю я Тебя,</text>
+<text>Ты Спаситель всех людей, Бог богов и Царь царей.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Василина Агапова — Я Тебя благодарю [Русский]
+  https://holychords.pro/21569
+- FECG Lahr — Ты зажигаешь в небе звезды [Русский]
+  https://holychords.pro/37649
+- Спасение Барановичи — Ты зажигаешь в небе звёзды [Русский]
+  https://holychords.pro/41279
+- Church of Christ the Savior — Запалюєш Ти в небі зорі [Украинский]
+  https://holychords.pro/51351
+- Неизвестен — Запалваш Ти звезди [Болгарский]
+  https://holychords.pro/57370
+- FECG Lahr — Ти запалив на небі зорі [Украинский]
+  https://holychords.pro/65158
+- Челябинская ОЦХВЕ — Ты зажигаешь в небе звезды [Русский]
+  https://holychords.pro/69504
+- Белый Ангел — Ты зажигаешь в небе звёзды [Русский]
+  https://holychords.pro/74614

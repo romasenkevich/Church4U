@@ -1,0 +1,44 @@
+Алла Чепикова — Господь - Пастырь мой
+Источник: https://holychords.pro/481
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Dm Am</chopds>
+<text>Господь - Пастырь мой, Он даёт покой,</text>
+<chopds>Gm Dm/A A</chopds>
+<text>И душу мою подкрепляет вновь,</text>
+<chopds>Dm Dm/F Gm</chopds>
+<text>Господь - Пастырь мой, в Нем нуждаюсь я -</text>
+<chopds>Asus4 A/C# Dm D</chopds>
+<text>В Нём лишь сила моя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Gm F Bb</chopds>
+<text>Господь -мой Пастырь. Не буду нуждаться!</text>
+<chopds>Asus4 A/C# Dm D/F#</chopds>
+<text>Господь - мой Пастырь. Не буду бояться!</text>
+<chopds>Gm C F Bb</chopds>
+<text>Господь мой Пастырь - вся слава Ему!</text>
+<chopds>Asus4 A/C# Dm D</chopds>
+<text>Богу Вечному Одному. (2р)</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Господь подкрепляет Сам душу мне,</text>
+<text>И шаг направляет по той стезе,</text>
+<text>Где правда, где милость, где Божий щит,</text>
+<text>И я буду славить, Его хвалить!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>И если пойду я долиной той,</text>
+<text>Где смертные тени идут за мной,</text>
+<text>Твой жезл, посох Твой поведут меня</text>
+<text>Ты - крепость жизни моя.</text>
+</blocks>

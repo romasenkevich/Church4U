@@ -1,0 +1,75 @@
+4U Band — Псалом 62
+BPM: 169
+Источник: https://holychords.pro/21
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>A F#m D E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds> A                 F#m</chopds>
+<text>Боже, Ты Бог мой -</text>
+<chopds>                 D                      E</chopds>
+<text>Тебя от ранней зари ищу я.</text>
+<chopds>           A            F#m</chopds>
+<text>Тебя жаждет душа моя,</text>
+<chopds>                    D                   E</chopds>
+<text>По Тебе томится плоть моя.</text>
+<chopds>                A                    F#m</chopds>
+<text>Дай мне видеть Твою славу,</text>
+<chopds>            D                     E</chopds>
+<text>Твою силу, вечный Бог.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>   A   F#m    D         E</chopds>
+<text>Святый, Святый Бог!</text>
+<chopds>      A/C#  F#m  D         E</chopds>
+<text>О, Святый, Святый Бог!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Когда вспоминаю о Тебе,</text>
+<text>О том, что сделал в жизни моей -</text>
+<text>Снова сердце в руках Твоих,</text>
+<text>Я вознесу к небу руки свои.</text>
+<text>Дай мне видеть Твою славу,</text>
+<text>Твою силу, вечный Бог!</text>
+</blocks>
+
+<blocks>
+<videlit_line>instrumental</videlit_line>
+<chopds>D E D E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 Бридж</videlit_line>
+<chopds>              D                     A   E</chopds>
+<text>Как люблю я, Тебя люблю я!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Бридж</videlit_line>
+<chopds>F#m              E   D               E</chopds>
+<text>Милость Твоя лучше, чем жизнь!</text>
+<chopds>  F#m    E         D             E</chopds>
+<text>Уста мои прославят Тебя!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- GRACE CV — Псалом 62 [Украинский]
+  https://holychords.pro/40693
+- M.Worship — Псалом 62 [Русский]
+  https://holychords.pro/43284
+- B.Worship — Псалом 62 [Украинский]
+  https://holychords.pro/43291
+- M.Worship — Псалом 62 [Украинский]
+  https://holychords.pro/52937

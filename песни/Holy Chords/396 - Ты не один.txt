@@ -1,0 +1,50 @@
+Дима Фреш — Ты не один
+Источник: https://holychords.pro/396
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Hm</chopds>
+<text>Если ты упал и не видно пути</text>
+<chopds>                                       A/C#</chopds>
+<text>Если тьма вокруг Тебя,</text>
+<chopds>Hm</chopds>
+<text>Знай что в жизни Твоей есть, кто скажет, вставай</text>
+<chopds>                                                                A/C#</chopds>
+<text>Он Твой друг, - будет рядом всегда.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>              F#m                     D                A</chopds>
+<text>Ты не один знай, Он верит в Тебя</text>
+<chopds>F#m            D                   A</chopds>
+<text>Ты поднимайся, вставай</text>
+<chopds>F#m          D                         A</chopds>
+<text>Иди вперед, лишь вперед</text>
+<chopds>            F#m                                  D        A</chopds>
+<text>Изменяя мир, пусть прошлое уйдет</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>В жизни новый будет день только верь в Него теперь</text>
+<text>Создан он для нас с Тобой.</text>
+<text>В Нем начни сначала все старое навек прошло</text>
+<text>И не думай о вчера</text>
+<text>Знаю, сможешь Ты пройти новый шанс в земном пути</text>
+<text>Жизнь живи добро творя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>F#m    C#m</chopds>
+<text>Это новый день</text>
+<chopds>F#m     C#m</chopds>
+<text>Это новый Ты</text>
+<chopds>D</chopds>
+<text>Это новый я</text>
+<chopds> A</chopds>
+<text>Это новый Ты</text>
+</blocks>

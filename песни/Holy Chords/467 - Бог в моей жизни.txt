@@ -1,0 +1,66 @@
+Слово Жизни Music — Бог в моей жизни
+Источник: https://holychords.pro/467
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                          C                           F</chopds>
+<text>Бог в моей жизни, в моем дыханье,</text>
+<chopds>                       Am                 G</chopds>
+<text>В моем рассвете и на закате</text>
+<chopds>                        C                            F</chopds>
+<text>Бог в моей силе, в моем покое,</text>
+<chopds>                       Am                                  G</chopds>
+<text>Бог в моих мыслях, Бог в моем доме</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                                F   G</chopds>
+<text>Будь всем для меня</text>
+<chopds>                               Am   G</chopds>
+<text>Будь всем для меня</text>
+<chopds>                                F   G</chopds>
+<text>Будь всем для меня</text>
+<chopds>                                C</chopds>
+<text>Будь всем для меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Бог, Ты в надеждах, моих мечтаньях,</text>
+<text>Бог в моих целях и в ожиданьях</text>
+<text>Бог в моем смехе и в моих слезах,</text>
+<text>Бог в моей жажде и в исцеленье</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>F        G</chopds>
+<text>Иисус, Иисус,</text>
+<chopds>Am</chopds>
+<text>Ты во мне надежда славы</text>
+<chopds>F  G                   Am</chopds>
+<text>Ты все для меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                                F   G</chopds>
+<text>Ты все для меня</text>
+<chopds>                               Am   G</chopds>
+<text>Ты все для меня</text>
+<chopds>                                F   G</chopds>
+<text>Ты все для меня</text>
+<chopds>                                C</chopds>
+<text>Ты все для меня</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Charis band — Будь всем для меня [Русский]
+  https://holychords.pro/15257
+- Tim Hughes — Everything [Английский]
+  https://holychords.pro/15258

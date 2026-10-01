@@ -1,0 +1,128 @@
+Голгофа церква — Світло життя
+Источник: https://holychords.pro/238
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>    F                C          Gm       Bb</chopds>
+<text>Світло життя, Ти осяяв темінь</text>
+<chopds>   F             C/E              Bb</chopds>
+<text>Господи, дай мені зір</text>
+<chopds>    F                 C     Gm       Bb</chopds>
+<text>Милість Твоя сягає неба,</text>
+<chopds>     F              C              Bb</chopds>
+<text>Правда Твоя вище гір.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds>                       F                               C/E</chopds>
+<text>Ти єдиний вірний, Ти єдиний вічний,</text>
+<chopds>                  Dm                       Bb</chopds>
+<text>Ти єдиний гідний похвали.</text>
+<chopds>                         F                                C/E</chopds>
+<text>Ти єдиний славний, Ти єдиний Цар мій,</text>
+<chopds>                    Dm                         Bb</chopds>
+<text>Ти єдиний Бог мій, тільки Ти.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Брідж</videlit_line>
+<chopds>  C    Am    Bb</chopds>
+<text>І я ніколи не збагну</text>
+<chopds>         C           Am      Bb     (C)</chopds>
+<text>За гріх мій сплачену ціну.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Сергей Нагорный — Вот я поклоняюсь [Русский]
+  https://holychords.pro/648
+- Phillips, Craig & Dean — Here I Am to Worship [Английский]
+  https://holychords.pro/649
+- Виталий Ефремочкин — Я пришел прославить [Русский]
+  https://holychords.pro/698
+- Tim Hughes — Я здесь чтобы прославить [Русский]
+  https://holychords.pro/2381
+- Subcultura — Я здесь, чтоб поклониться [Русский]
+  https://holychords.pro/2384
+- Благодать Киев — Світлом засяй [Украинский]
+  https://holychords.pro/3685
+- Слово Жизни — Тебе я поклоняюсь [Русский]
+  https://holychords.pro/5255
+- Свідоцтво Христа Тернопіль — Ось я, щоб схилитись [Украинский]
+  https://holychords.pro/7946
+- Phillips, Craig & Dean — Тут я, каб праславіць [Белорусский]
+  https://holychords.pro/9388
+- Голгофа церква — Світло життя [Украинский]
+  https://holychords.pro/10729
+- Евгений Сафонов — Я пришел прославить [Русский]
+  https://holychords.pro/12440
+- Hillsong Worship — Світлом з Небес [Украинский]
+  https://holychords.pro/13175
+- Віктор Павлік — Ось щоб вклонитись [Украинский]
+  https://holychords.pro/16731
+- Мария Ледяева — Здесь я, чтобы славить [Русский]
+  https://holychords.pro/25637
+- Нова Пісня — Ось я, щоб вклонитись [Украинский]
+  https://holychords.pro/26485
+- Tim Hughes — Here I Am to Worship [Английский]
+  https://holychords.pro/30607
+- Maverick City Music — Here I Am To Worship (More Than Life) [Английский]
+  https://holychords.pro/31422
+- Sonic Praise — Here I am to Worship [Английский]
+  https://holychords.pro/38872
+- Віктор Павлік — Ось я, щоб вклонитись [Украинский]
+  https://holychords.pro/39197
+- Tim Hughes — Светом сияй [Русский]
+  https://holychords.pro/42652
+- Emmanuil Worship Kiev — Тут я щоб вклонитись [Украинский]
+  https://holychords.pro/43927
+- Alex Fedoruk — Світлом засяй! [Украинский]
+  https://holychords.pro/47375
+- Skydoor Worship — Ось я, щоб вклонитись [Украинский]
+  https://holychords.pro/50428
+- Worship Tiraspol — Здесь я, чтобы славить [Русский]
+  https://holychords.pro/55901
+- Effatha — Jestem tu by wielbić [Польский]
+  https://holychords.pro/60845
+- Неизвестен — Дойде в светлина [Болгарский]
+  https://holychords.pro/61848
+- Неизвестен — Ты миру свет [Русский]
+  https://holychords.pro/63827
+- Adelso Freire — Vim Para Adorar-Te [Португальский]
+  https://holychords.pro/64341
+- Gabriela Rocha — Vim Para Adorar-Te [Португальский]
+  https://holychords.pro/64342
+- For All Seasons — Here I Am To Worship (Live) [Английский]
+  https://holychords.pro/65355
+- Choose Life — Я здесь, чтоб поклониться [Русский]
+  https://holychords.pro/66809
+- Алексей Захаренко — Тебя превозношу я [Русский]
+  https://holychords.pro/67580
+- Петро Грифель — Ось я, щоб вклонитись [Украинский]
+  https://holychords.pro/72222
+- EXO — A toi la gloire [Французский]
+  https://holychords.pro/72366
+- Eglise Lyon Centre — Lumière du monde [Французский]
+  https://holychords.pro/72374
+- Неизвестен — Φώς τ`ουρανού ήρθες μες`το σκοτάδι [Греческий]
+  https://holychords.pro/73261
+- Teen Challenge 'Jaunsēļas' Team — Šeit esmu Tevi pielūgt [Латышский]
+  https://holychords.pro/73304
+- Надежда Гальцова — Вот я, чтоб смириться [Русский]
+  https://holychords.pro/78465
+- Feiert Jesus! — Ich will dich anbeten [Немецкий]
+  https://holychords.pro/78844
+- Tim Hughes — Світло життя [Украинский]
+  https://holychords.pro/79096
+- Fruška Zvona — Tu sam da Te slavim [Сербский]
+  https://holychords.pro/81151
+- Wolrus WORSHIP — Здесь я чтобы славить [Русский]
+  https://holychords.pro/84535
+- Christelijk Koor Jigdaljahu — Licht van de wereld [Нидерландский]
+  https://holychords.pro/85503
+- Сергей Куликов — Здесь я, чтобы славить [Русский]
+  https://holychords.pro/85971

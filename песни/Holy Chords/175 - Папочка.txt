@@ -1,0 +1,60 @@
+Божье прикосновение — Папочка
+Источник: https://holychords.pro/175
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                   Cm               Fm                   G                   Cm</chopds>
+<text>Когда зажгутся фонари, и папы все домой идут.</text>
+<chopds>                 Cm                Fm                    Bb                D#</chopds>
+<text>И дети смотрят за окно, и песню грустную поют:</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     C                   Fm                          Bb                     D#</chopds>
+<text>О милый папочка приди, прижми нас ласково к груди,</text>
+<chopds>                         Cm                      Fm                          G                Cm</chopds>
+<text>Мы с мамой долго ждём тебя, возьми нас на руки любя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>                 Cm                Fm                             G           Cm</chopds>
+<text>Хотя мы вечером стоим, молившись Богу без тебя.</text>
+<chopds>                  Cm                Fm                           G                   Cm</chopds>
+<text>Но есть у каждого из нас, в молитве место для тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<chopds>                   Cm                        Fm                      G                 Cm</chopds>
+<text>Придёт и тот счастливый час, когда вернётся папа наш.</text>
+<chopds>                   Cm                Fm                  Bb                  D#</chopds>
+<text>Мы на собрание пойдём, и славу Господу споём.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     C                   Fm                          Bb                     D#</chopds>
+<text>О милый папочка приди, прижми нас ласково к груди,</text>
+<chopds>                         Cm                      Fm                          G             Cm</chopds>
+<text>Мы с мамой долго ждём тебя, возьми нас на руки любя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>4 куплет</videlit_line>
+<chopds>                          C#m                   F#m                     G#                  C#m</chopds>
+<text>Для тех кто страждет и скорбит, послушайте, Иисус стучит.</text>
+<chopds>                    C#m               F#m                     H                 E</chopds>
+<text>Он может раны вам омыть, и детям папу заменить.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                   C#                 F#m                             H                      E</chopds>
+<text>О милый папочка приди, прижми нас ласково к груди,</text>
+<chopds>                        C#m                    F#m                       G#               C#m</chopds>
+<text>Мы с мамой долго ждём тебя, возьми нас на руки любя.</text>
+</blocks>

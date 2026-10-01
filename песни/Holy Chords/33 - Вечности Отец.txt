@@ -1,0 +1,78 @@
+New Beginnings Worship — Вечности Отец
+Источник: https://holychords.pro/33
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>D</chopds>
+<text>Обновляет силою Господь,</text>
+<chopds>D</chopds>
+<text>Сердцем кто своим уповает на Него.</text>
+<chopds>D</chopds>
+<text>Обновляет силою Господь,</text>
+<chopds>D</chopds>
+<text>Сердцем кто своим уповает на Него.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>D/F#  G  D/F#   G    A  Hm    A</chopds>
+<text>Всегда наш Бог всесильный</text>
+<chopds>D/F#  G  D/F#  G   A   Hm         A</chopds>
+<text>Надежда избавленья в Нём</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D                                             G</chopds>
+<text>Он есть всей вечности Отец, Он был и будет в век</text>
+<chopds>Hm                  G</chopds>
+<text>Не устает и не слабеет.</text>
+<chopds>D                                                    G</chopds>
+<text>Кто слаб, защиту в Нем найдет покой дает лишь Он</text>
+<chopds>Hm                          G</chopds>
+<text>Несет как на орлиных крыльях.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>D</chopds>
+<text>Обновляет силою Господь,</text>
+<chopds>  G</chopds>
+<text>Сердцем кто своим уповает на Него.</text>
+<chopds>Hm</chopds>
+<text>Обновляет силою Господь,</text>
+<chopds>  G</chopds>
+<text>Сердцем кто своим уповает на Него.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Chris Tomlin — Everlasting God [Английский]
+  https://holychords.pro/3675
+- RussiaWorship — Ты наш предвечный, мудрый Бог [Русский]
+  https://holychords.pro/7656
+- UzWorSong — Сенсан абадий Худованд [Узбекский]
+  https://holychords.pro/12527
+- Chris Tomlin — Бог Наповнить Силою з Гори [Украинский]
+  https://holychords.pro/13117
+- Spasenie Worship — Бог Всесильный [Русский]
+  https://holychords.pro/13424
+- Роман Белов — Обновляет силою Господь [Русский]
+  https://holychords.pro/13468
+- Церковь Божия Music — Моя сила – в Господе моём [Русский]
+  https://holychords.pro/16177
+- Юлія Кучинська — Май надію [Украинский]
+  https://holychords.pro/24158
+- In Love With Jesus — Ewig treuer Gott [Немецкий]
+  https://holychords.pro/26417
+- Джерело Життя Здолбунів — Хто надію на Господа складе [Украинский]
+  https://holychords.pro/28328
+- Serce Uwielbienia — Sił przybędzie [Польский]
+  https://holychords.pro/79186
+- House of Worship — Everlasting God [Английский]
+  https://holychords.pro/80719
+- Lifegate Worship Serbia — Bog je s nama (Naš Bog zauvek isti je) [Сербский]
+  https://holychords.pro/85423

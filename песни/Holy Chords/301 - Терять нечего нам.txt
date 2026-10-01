@@ -1,0 +1,62 @@
+Hillsong Ukraine — Терять нечего нам
+Источник: https://holychords.pro/301
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                             G                                             C</chopds>
+<text>Терять нечего нам скрываться нету причин</text>
+<chopds>                                        Em                                                     C</chopds>
+<text>Должны мы миру ответы дать настало время все маски снять</text>
+<chopds>                             G                                                  C</chopds>
+<text>Нам явишь славу Свою и вознесём мы Тебя</text>
+<chopds>                                        Em                                            C</chopds>
+<text>Ведь нам не нужен никто другой Иисус, Ты Один - наш Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>          G                C</chopds>
+<text>О-о-о. Ты - живой, и свободны мы</text>
+<chopds>               Em                G                                    C</chopds>
+<text>Всё, что нужно нам - нужен нам лишь Ты</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Нельзя нам время терять ни секунды одной</text>
+<text>Целый город нас ждет сейчас  настало время для наc сиять</text>
+<text>Нам явишь славу Свою и вознесём мы Тебя</text>
+<text>Ведь нам не нужен никто другой Иисус, Ты Один - наш Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>G             F          Am       C</chopds>
+<chopds>O-o-o O-o-o O-o-o O-o-o</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 мост</videlit_line>
+<chopds>G                                        F</chopds>
+<text>Ведь нет таких, как Ты никто не разлучит</text>
+<chopds>       Am                   G</chopds>
+<text>Нас никогда Ты любишь нас</text>
+<chopds>G                                        F</chopds>
+<text>Ведь нет таких, как Ты никто не разлучит</text>
+<chopds>       Am                   G</chopds>
+<text>Нас никогда Ты любишь нас</text>
+<chopds>G                                        F</chopds>
+<text>Ведь нет таких, как Ты ничто не отлучит</text>
+<chopds>      Am                       G</chopds>
+<text>Нас от Твоей Любви</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 мост</videlit_line>
+<chopds>G                                        F</chopds>
+<text>Никто не разлучит нас любовь не заглушить в нас</text>
+<chopds>Am                                    G</chopds>
+<text>С Тобою нас не разлучат</text>
+</blocks>

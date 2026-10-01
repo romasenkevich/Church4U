@@ -1,0 +1,50 @@
+4U Band — Я всё отдаю
+BPM: 146
+Источник: https://holychords.pro/46
+
+==================================================
+
+<blocks>
+<videlit_line>интро</videlit_line>
+<chopds>Hm F#m G D</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>                 D                                A</chopds>
+<text>Ты - святое пламя Ты - любовь моя.</text>
+<chopds>                    G</chopds>
+<text>Мой покой в Тебе.</text>
+<chopds>             D                                F#m</chopds>
+<text>На Тебя надеюсь И склоняюсь вновь -</text>
+<chopds>                           G</chopds>
+<text>Бог, живи во мне.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред Припев</videlit_line>
+<chopds>           Em D/F# A              Em D/F# A</chopds>
+<text>Ты снова здесь, Ты снова здесь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                    D                          A</chopds>
+<text>Я все отдаю, лишь Тобой я живу.</text>
+<chopds>                        Em                                     G</chopds>
+<text>Возьми мое сердце, возьми всю жизнь мою.</text>
+<chopds>                      D                                           F#m</chopds>
+<text>Теряюсь я в Тебе, Ты смысл в моей судьбе,</text>
+<chopds>        Hm  G    (D)</chopds>
+<text>Иисус, Ты так нужен мне.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- D1 Worship — Я всё отдаю [Русский]
+  https://holychords.pro/28553
+- Слово життя Біла Церква — Битви проводиш Ти [Украинский]
+  https://holychords.pro/34960
+- Ярослав Солиган — Я всё отдаю [Русский]
+  https://holychords.pro/61153

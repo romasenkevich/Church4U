@@ -1,0 +1,52 @@
+Hillsong Ukraine — Это наш Царь
+Источник: https://holychords.pro/290
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>G#m      H         F#</chopds>
+<text>Не найти нигде во всей Вселенной</text>
+<chopds>G#m      H      F#</chopds>
+<text>И сравнить не с кем Тебя</text>
+<chopds>G#m      H             F#                   D#m         E     F#  D#m</chopds>
+<text>Ты - Один, Кто любит так безмерно нас</text>
+<chopds>G#m            H        F#</chopds>
+<text>Сквозь века Ты видел день спасения</text>
+<chopds>G#m       H     F#</chopds>
+<text>Цену всю взял на Себя</text>
+<chopds>G#m     H               F#                  D#m        E   F#</chopds>
+<text>Ты - Один, Кто любит так безмерно нас</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>                   G#m                        E</chopds>
+<text>Наполнил нас, святым небесным огнём</text>
+<chopds>                   H                               F#</chopds>
+<text>Дал нам силу сиять на земле</text>
+<chopds>                   G#m                          E</chopds>
+<text>Доверил власть, и дал нам Имя Своё</text>
+<chopds>         H                               F#</chopds>
+<text>Назвал друзьями нас навек</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     H                            F#</chopds>
+<text>Это - Наш Бог!!! Это - Наш Царь!!!</text>
+<chopds>                 C#m             H            F#</chopds>
+<text>Превознесём лишь Имя Твоё</text>
+<chopds>                   G#m                                E</chopds>
+<text>Наши сердца открыты для Тебя</text>
+<chopds>                    C#m         H                F#             E</chopds>
+<text>Духом Святым зажги в них огонь. Е-е-е.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>E              H             G#m                       F#</chopds>
+<text>Аллилуйя! Ты Святой Бог, Ты Святой Господь.</text>
+<chopds>E             G#m            H                             F#</chopds>
+<text>Тебе хвала, вознесём голоса, и в единстве споём.</text>
+</blocks>

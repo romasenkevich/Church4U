@@ -1,0 +1,38 @@
+Lena Isayev — Я стучу в небеса
+Источник: https://holychords.pro/286
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                                     Am                      Em</chopds>
+<text>Много разных вопросов себе задаю,</text>
+<chopds>           Dm                    F                   E</chopds>
+<text>Но никак найти ответов не могу…</text>
+<chopds>                                     Am                      Em</chopds>
+<text>Мысли кружатся как стаи птиц,</text>
+<chopds>           Dm                    F                   E</chopds>
+<text>Я спешу к Тебе колени преклонить.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                           Am                       F</chopds>
+<text>Я стучу в небеса, умоляю Отца:</text>
+<chopds>       G                                      E</chopds>
+<text>Услышь молитву ради славы Господа.</text>
+<chopds>                               Am                                F</chopds>
+<text>Пусть Твоя теплота согревает сердца,</text>
+<chopds>              G                                     E</chopds>
+<text>Пусть люди знают: Только Ты - моя скала.</text>
+<chopds>Am  F  C  Em</chopds>
+<text>Ты-моя скала……</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Трудно так подыматься по горной тропе,</text>
+<text>Но поможет Всемогущий Бог тебе.</text>
+<text>И хоть много вопросов себе задаешь,</text>
+<text>На коленях в тишине ты все поймешь</text>
+</blocks>

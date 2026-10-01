@@ -1,0 +1,42 @@
+Алексей Каратаев — Яви Свою славу
+Источник: https://holychords.pro/189
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>H</chopds>
+<text>С небес к нам приходит Дух Господень</text>
+<chopds>      D#m                                C#</chopds>
+<text>Приходит Его Дух наполняет меня свободой,</text>
+<chopds>H</chopds>
+<text>Прошу яви мне Свою славу,</text>
+<chopds>   D#m                            C#</chopds>
+<text>Увижу Твою славу уже я не буду прежним</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>D#m                                  G#m</chopds>
+<text>Ты- мой свет среди ночи Твой - огонь горит внутри</text>
+<chopds>D#m                             G#m</chopds>
+<text>Всемогущий Бог-Ты нужен мне</text>
+<chopds>D#m                                  G#m</chopds>
+<text>Больше чем могу я знать больше чем могу сказать</text>
+<chopds>D#m                             G#m</chopds>
+<text>Всемогущий Бог-Ты нужен мне</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>      H                      D#m              C#</chopds>
+<text>Тебя - я ищу в Тебе – я нуждаюсь</text>
+<chopds>      H                      D#m              C#</chopds>
+<text>Тебя - я ищу в Тебе – я нуждаюсь</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Отведи меня прошу прямо к сердцу Своему</text>
+<text>Всемогущий Бог-Ты нужен мне</text>
+</blocks>

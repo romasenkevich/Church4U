@@ -1,0 +1,54 @@
+Влад Фонки — Руки вверх поднимите
+Источник: https://holychords.pro/387
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>F                                                  C</chopds>
+<text>Бог чудесный, Сильный Господь!</text>
+<chopds>Bb                                                     F</chopds>
+<text>К нам ты верен, вовеки Ты живёшь!</text>
+<chopds>F                                                C</chopds>
+<text>Будем славить, все дни Тебя,</text>
+<chopds>Bb                                                       Dm7     C/E</chopds>
+<text>Для Твоей Славы мы отдаём себя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>              F                                      C/E</chopds>
+<text>Руки вверх поднимите и хвалу вознесите</text>
+<chopds>    Dm7                                      Bb</chopds>
+<text>О, как Свят и Велик наш Бог!!!</text>
+<chopds>                   F                                C/E</chopds>
+<text>Вместе славим Тебя мы сейчас и вовеки,</text>
+<chopds>    Dm7                                     Bb</chopds>
+<text>О, как Свят и Велик наш Бог!!!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>F                                           C</chopds>
+<text>Позови нас, Бог, мы пойдём!</text>
+<chopds>Bb                                                                  F</chopds>
+<text>Ты ответ наш, хотим, чтоб знал весь мир.</text>
+<chopds>F                                                 C</chopds>
+<text>Будем верить, когда нас зовёшь,</text>
+<chopds>Bb                                                 Dm7   C/E</chopds>
+<text>Что ты с нами, и нас Ты поведёшь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>F                C/E</chopds>
+<text>Аллилуйя, Аллилуйя,</text>
+<chopds>    Dm7                                      Bb</chopds>
+<text>О, как Свят и Велик наш Бог!!!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Chris Tomlin — Awesome Is the Lord Most High [Английский]
+  https://holychords.pro/43665

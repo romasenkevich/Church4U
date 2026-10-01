@@ -1,0 +1,36 @@
+Слово Жизни Music — Я склоняюсь
+BPM: 140
+Источник: https://holychords.pro/49
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>           Hm               A  D    G</chopds>
+<text>Буду петь, петь Тебе, Бог</text>
+<chopds>A          Hm        A  D    G</chopds>
+<text>О любви бесконечной</text>
+<chopds>    A        Hm           A  D   G</chopds>
+<text>Всё, что есть Тебе отдам</text>
+<chopds>     A        Hm           A  D  G</chopds>
+<text>Всей душой воспою я</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>            F#m       G                 F#m   G</chopds>
+<text>Сотвори во мне, сердце чистое</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>             Hm                  F#m</chopds>
+<text>Я склоняюсь, я смиряюсь</text>
+<chopds>              G                        A</chopds>
+<text>Посвящаю жизнь Тебе,</text>
+<chopds>           Hm                F#m</chopds>
+<text>Дух кроткий созидаю</text>
+<chopds>              G                     A              Hm</chopds>
+<text>Наполняй меня Иисус, мою жизнь...</text>
+<text>Петь Тебе, Бог...</text>
+</blocks>

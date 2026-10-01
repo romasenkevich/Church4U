@@ -1,0 +1,35 @@
+Виталий Ефремочкин — Яркий свет Твоей любви
+BPM: 136
+Источник: https://holychords.pro/139
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Am          G                         F                   G</chopds>
+<text>Яркий свет Твоей любви с неба льется в сердце</text>
+<chopds>Am       G              F                  G</chopds>
+<text>Откровения Твои для меня, как двери</text>
+<chopds>   Am                  G                    F              G</chopds>
+<text>В небо распахнулись и услышал я голос Твой</text>
+<chopds>     Dm       F                        G</chopds>
+<text>Иисус Тебя люблю, с Тобой я буду</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Am          F                    G</chopds>
+<text>Бог мой я люблю Тебя</text>
+<chopds>Am                     F                        G</chopds>
+<text>Бог мой в Тебе вся жизнь моя</text>
+<chopds>               C                          F                    G</chopds>
+<text>Дух Святой жажду Тебя небо открыл Ты для меня</text>
+<chopds>Am          F                    G</chopds>
+<text>Бог мой я люблю Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>        Am                  G                    F</chopds>
+<text>Аллилуйя! Аллилуйя! Аллилуйя! Иисус!</text>
+</blocks>

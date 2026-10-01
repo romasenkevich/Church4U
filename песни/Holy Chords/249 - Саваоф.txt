@@ -1,0 +1,58 @@
+Дарина Кочанжи — Саваоф
+Источник: https://holychords.pro/249
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Dm                        Bb</chopds>
+<text>Воспою Тебе я новую песнь,</text>
+<chopds>F                             Am</chopds>
+<text>Ты во веки был будешь и есть.</text>
+<chopds>Dm                               Bb</chopds>
+<text>Нет другого Бога кроме Тебя,</text>
+<chopds>        F                               Am</chopds>
+<text>Ты сущий, славлю Тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Dm                      Gm                    F                    C</chopds>
+<text>А со мной Саваоф, мой покров, и мой щит.</text>
+<chopds>Dm                     Gm                       F             C</chopds>
+<text>А со мной Адонай, кто пред Ним устоит.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Dm                           Bb</chopds>
+<text>И у всех моих врагов на виду,</text>
+<chopds>F                                    Am</chopds>
+<text>Я долину смертной тени пройду.</text>
+<chopds>Dm                           Bb</chopds>
+<text>Впереди меня как огненный столб,</text>
+<chopds>       F                        Am</chopds>
+<text>Ты сущий, Бог Саваоф.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Dm                      Gm                    F                    C</chopds>
+<text>А со мной Саваоф, мой покров, и мой щит.</text>
+<chopds>Dm                     Gm                       F             C</chopds>
+<text>А со мной Адонай, кто пред Ним устоит.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев: (модуляция)</videlit_line>
+<chopds>Em                     Am                     G                    D</chopds>
+<text>А со мной Саваоф, мой покров, и мой щит.</text>
+<chopds>Em                      Am                       G             D</chopds>
+<text>А со мной Адонай, кто пред Ним устоит.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Дарина Кочанжи — З нами Бог Саваот [Украинский]
+  https://holychords.pro/27631

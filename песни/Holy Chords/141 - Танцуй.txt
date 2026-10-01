@@ -1,0 +1,80 @@
+Виталий Ефремочкин — Танцуй
+Источник: https://holychords.pro/141
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C#m                     A                                   H</chopds>
+<text>Я в сердце Твоём, мой Бог навсегда</text>
+<chopds>                         F#m</chopds>
+<text>Твоя любовь вечна</text>
+<chopds>    C#m            A</chopds>
+<text>Тебя буду славить</text>
+<chopds>    H                        F#m                          C#m</chopds>
+<text>Знаю ничто не удержит меня - никогда!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Близко ко мне Ты мой Господь,</text>
+<text>В славе и хвале живешь,</text>
+<text>Тебя буду славить</text>
+<text>Знаю ничто не удержит меня никогда!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C#m     A        H     F#m</chopds>
+<text>Танцуй, танцуй, Дух Святой во мне!</text>
+<chopds>C#m     A        H      F#m</chopds>
+<text>Танцуй, танцуй, Дух Святой в тебе!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>C#m                        A</chopds>
+<text>Ты со мною навсегда, мой Господь</text>
+<chopds>          H                    F#m</chopds>
+<text>В Тебе вся жизнь моя</text>
+<chopds>             C#m        A  H  F#m</chopds>
+<text>Славлю я Тебя.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- NG Worship — Танцуй [Русский]
+  https://holychords.pro/66
+- Виталий Ефремочкин — Танцуй [Русский]
+  https://holychords.pro/4769
+- Алексей Захаренко — Танцуй [Русский]
+  https://holychords.pro/7936
+- Евгений Сафонов — Танцуй [Русский]
+  https://holychords.pro/12442
+- OPEN — Танцуй [Русский]
+  https://holychords.pro/27756
+- M.Worship — Танцуй [Русский]
+  https://holychords.pro/28138
+- Jesus Culture — Dance
+  https://holychords.pro/28139
+- Алексей Захаренко — Танцюй [Украинский]
+  https://holychords.pro/29999
+- Нове Покоління Дніпро — Танцуй [Русский]
+  https://holychords.pro/44534
+- Анастасія Тітова — Танцюй [Украинский]
+  https://holychords.pro/50015
+- Свідоцтво Христа Тернопіль — Танцюй [Украинский]
+  https://holychords.pro/51890
+- Suzy Yaraei — Dance [Английский]
+  https://holychords.pro/58379
+- Jesus Culture — Танцюй [Украинский]
+  https://holychords.pro/64110
+- Jesus Culture — Танцюй! [Украинский]
+  https://holychords.pro/65522
+- Jesus Culture — Танцюй [Украинский]
+  https://holychords.pro/70744
+- Світлана Жура — Танцюй [Украинский]
+  https://holychords.pro/79221
+- DNG Worship | Нове Покоління — Танцюй [Украинский]
+  https://holychords.pro/80072

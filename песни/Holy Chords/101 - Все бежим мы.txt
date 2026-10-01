@@ -1,0 +1,58 @@
+Hillsong Ukraine — Все бежим мы
+Источник: https://holychords.pro/101
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>  C#m                          E              G#m</chopds>
+<text>Нами этот старт уже взят, знаем, что увидим тот день</text>
+<chopds>     C#m                                          E             G#m</chopds>
+<text>Когда в сердца все примут Тебя, дойдём мы до такого дня</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>                         C#m  E                       G#m</chopds>
+<text>Никто и никогда,   не остановит нас</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Не сломают нас ошибки, нас цепями не удержать</text>
+<text>Двигать будет нас,  лишь по Богу страсть, добежим мы до конца</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>               H         E  G#m                             E</chopds>
+<text>Все бежим мы,   ищем неустанно Тебя</text>
+<chopds>                H        E    G#m</chopds>
+<text>Все бежим мы, Твоя полнота нужна нам всегда, Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Каждый день идем по вере, благость направляет наш шаг</text>
+<text>Мы этот крест берем, любой ценой дойдем, Тебе готовы все отдать</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>  C#m                                E</chopds>
+<text>Свет Твой притягивает нас</text>
+<chopds>   H                                        F#</chopds>
+<text>Мы все сильней Тебя хотим познать</text>
+<chopds>    C#m                                          E</chopds>
+<text>Взгляд свой смещаем мы с себя</text>
+<chopds>            H                  F#</chopds>
+<text>На Твою, Бог, любовь</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — Running [Английский]
+  https://holychords.pro/5623
+- Hillsong Kids — Running [Английский]
+  https://holychords.pro/81284

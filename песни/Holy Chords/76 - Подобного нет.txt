@@ -1,0 +1,81 @@
+Виталий Ефремочкин — Подобного нет
+BPM: 132
+Источник: https://holychords.pro/76
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Fm     G#         Cm                       Bbm</chopds>
+<text>Бог всего, я склонюсь к Твоим ногам</text>
+<chopds>Fm       G#             Cm              Bbm</chopds>
+<text>Всё, что есть, посвящу, Тебе отдам</text>
+<chopds>Fm    G#             Cm                Bbm</chopds>
+<text>Жажду я видеть вновь лицо Твоё</text>
+<chopds>C#               D#</chopds>
+<text>Мой Господь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  Fm                              G#</chopds>
+<text>Святой Бог богов во славе</text>
+<chopds>                   Cm                Bbm</chopds>
+<text>Возносим голоса к Тебе, наш Царь</text>
+<chopds>      Fm                           G#</chopds>
+<text>Достоин, Ты один достоин</text>
+<chopds>                   Cm               Bbm</chopds>
+<text>Возносим голоса к Тебе, наш Царь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>C#                                 G#</chopds>
+<text>Мы вознесем голоса и воспоем в небеса</text>
+<chopds>C7                        Bbm</chopds>
+<text>Подобного нет, подобного нет</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>C#                         D#                         Fm</chopds>
+<text>Славу Бога моего я чувствую здесь</text>
+<chopds>C#                         D#                         G#</chopds>
+<text>Славу Бога моего я чувствую здесь</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Ольга Маріна — Святой Бог богов во славе [Русский]
+  https://holychords.pro/1394
+- Виталий Ефремочкин — Бог всего [Русский]
+  https://holychords.pro/12823
+- Paul Wilbur — Nobody Like You
+  https://holychords.pro/28632
+- Paul Wilbur — Бог богов [Русский]
+  https://holychords.pro/33295
+- Covenant Worship — Ти Незрівнянний [Украинский]
+  https://holychords.pro/35083
+- TiraspolWorship — Святой Бог богов во славе [Русский]
+  https://holychords.pro/37852
+- Living Stream Worship — Бог Всего [Русский]
+  https://holychords.pro/40550
+- Ян Прадвесьнік царква — Няма такіх як ты [Белорусский]
+  https://holychords.pro/44053
+- Новое поколение Вроцлав — Бог Всего [Русский]
+  https://holychords.pro/46170
+- Spasinnya Music — Бог всього (Live) [Украинский]
+  https://holychords.pro/49920
+- Християнська надія — Бог всього [Украинский]
+  https://holychords.pro/52175
+- NG Band Riga — Бог всего (Подобного нет) [Русский]
+  https://holychords.pro/58967
+- Церковь Вефиль Денвер — Бог всего [Русский]
+  https://holychords.pro/60639
+- ICF Worship Kyiv — Тобі подібних нема [Украинский]
+  https://holychords.pro/63069
+- IRC worship — Подобного нет [Русский]
+  https://holychords.pro/64312
+- Нове Покоління Львів — Бог всього [Украинский]
+  https://holychords.pro/82824

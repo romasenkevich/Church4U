@@ -1,0 +1,70 @@
+NG Worship — Ты захватил меня
+Источник: https://holychords.pro/68
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>      G                                                                    D</chopds>
+<text>Стою перед Тобою Твоею славой восхищен.</text>
+<chopds>           G                                                                            D</chopds>
+<text>Прекрасен Ты Господь мой и я Тобой навек пленён.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>                     Hm            A            G</chopds>
+<text>Взываю - Святый, Святый Господь</text>
+<chopds>                Hm              A        G</chopds>
+<text>Во мне пылает Твоя любовь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<chopds>      G                                                     D</chopds>
+<text>Твоя любовь во мне и я Тобою упоен.</text>
+<chopds>        G                                                                          D</chopds>
+<text>Ты всё , что нужно мне коснись меня Своим огнём</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G                             A Hm                  A</chopds>
+<text>Ты захватил меня и я горю Тобой</text>
+<chopds>G                                  A Hm                                A</chopds>
+<text>Живу лишь для Тебя, Господь , Иисус я Твой.</text>
+<chopds>G                             A Hm                  A</chopds>
+<text>Ты захватил меня и я горю Тобой</text>
+<chopds>G                                  A Hm                                A</chopds>
+<text>Живу лишь для Тебя, Господь , Иисус я Твой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>G                                                A</chopds>
+<text>Пусть Твой свет во мне сияет пусть горит в мне огнем</text>
+<chopds>Hm                                   A/C#</chopds>
+<text>Ты наполни сердце жаждой жить в присутствии Твоем</text>
+<chopds>G                                                A</chopds>
+<text>Пусть Твой свет во мне сияет пусть горит в мне огнем</text>
+<chopds>Hm                                   A/C#</chopds>
+<text>Ты наполни сердце жаждой жить в присутствии Твоем</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Jesus Culture — Burning Ones [Английский]
+  https://holychords.pro/5815
+- Crest Music — Зажги любовью нас [Русский]
+  https://holychords.pro/24581
+- Jesus Culture — Burning Ones (Live) [Английский]
+  https://holychords.pro/35862
+- Jesus Culture — В присутності Твоїй [Украинский]
+  https://holychords.pro/59733
+- Spasinnya Music — Кличу: "Святий" [Украинский]
+  https://holychords.pro/64133
+- M.Worship — В Твоєму Я Вогні [Украинский]
+  https://holychords.pro/72284
+- Jesus Culture — Моя душа палає [Украинский]
+  https://holychords.pro/87152

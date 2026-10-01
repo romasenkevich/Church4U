@@ -1,0 +1,127 @@
+Hillsong Ukraine — Наш Бог так велик
+Источник: https://holychords.pro/3
+
+==================================================
+
+<blocks>
+<videlit_line>интро</videlit_line>
+<chopds>G   Em7   C   D   G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>            G                    Em7</chopds>
+<text>В сиянии Царя блеск величия</text>
+<chopds>               C</chopds>
+<text>Пусть вся земля поёт, в радости поёт</text>
+<chopds>            G                                 Em7</chopds>
+<text>Он в свет одел Себя и в страхе меркнет тьма</text>
+<chopds>       C</chopds>
+<text>От голоса Его, от голоса Его</text>
+</blocks>
+
+<blocks>
+<videlit_line>ПРИПЕВ</videlit_line>
+<chopds>           G                         D/F#</chopds>
+<text>Наш Бог так велик, пой со мной</text>
+<chopds>        Em7                               D/F#</chopds>
+<text>Наш Бог так велик, пусть видят все</text>
+<chopds>            C             D              G</chopds>
+<text>Наш Бог, наш Бог так велик!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Он стоит в веках, все дни в Его руках</text>
+<text>Начало и конец, Начало и конец</text>
+<text>Господь наш триедин: Дух, Отец и Сын</text>
+<text>Ягнёнок Он и Лев, Ягнёнок Он и Лев</text>
+</blocks>
+
+<blocks>
+<videlit_line>МОСТ</videlit_line>
+<chopds>               G</chopds>
+<text>Он превыше всех имён</text>
+<chopds>     D/F#      Em7</chopds>
+<text>И всей хвалы достоин Он!</text>
+<chopds>                C</chopds>
+<text>Душа поёт:</text>
+<chopds>           D               G</chopds>
+<text>Наш Бог так велик!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Новый Завет NTWorship — Велик наш Господь [Русский]
+  https://holychords.pro/3396
+- Милана — Превыше всех имен [Русский]
+  https://holychords.pro/5632
+- Chris Tomlin — How great is our God (World Edition)
+  https://holychords.pro/7238
+- Голгофа церква — Великий наш Бог [Украинский]
+  https://holychords.pro/10855
+- Вифания Краснодар — Наш Бог так велик [Русский]
+  https://holychords.pro/10956
+- UzWorSong — Буюкдир Худованд [Узбекский]
+  https://holychords.pro/12520
+- Сергій Демченко — Наш Бог так велик [Русский]
+  https://holychords.pro/16187
+- Християнська Божа Церква — Наш Бог Так Велик [Русский]
+  https://holychords.pro/16265
+- Lutsk Bible Worship — Наш Бог, Вічний Бог [Украинский]
+  https://holychords.pro/26268
+- United Flames — Буюк Худованд [Узбекский]
+  https://holychords.pro/29019
+- Церковь Божия Music — Наш Бог так велик [Русский]
+  https://holychords.pro/32756
+- WOG.Worship — Наш Бог так велик [Русский]
+  https://holychords.pro/34411
+- Мария Омбыш — Наш Бог так Велик [Русский]
+  https://holychords.pro/34540
+- Слово життя Біла Церква — Величний наш Бог [Украинский]
+  https://holychords.pro/35023
+- Петро Грифель — Великий наш Бог [Украинский]
+  https://holychords.pro/39150
+- KR - Алғыслар — Тәңир қудиретли [Каракалпакский]
+  https://holychords.pro/41467
+- Grace.SPB — Велик наш Господь [Русский]
+  https://holychords.pro/42361
+- Hillsong Ukraine — Наш Бог так велик [Русский]
+  https://holychords.pro/42526
+- Илья Рябов — Наш Бог так велик [Русский]
+  https://holychords.pro/43175
+- X-mas BAND — Великий Наш Бог [Украинский]
+  https://holychords.pro/44841
+- ReWorship — Наш Бог понад все [Украинский]
+  https://holychords.pro/45234
+- Джерело Життя Здолбунів — Велич Царя [Украинский]
+  https://holychords.pro/46952
+- Об'єднані Хвалою — Великий Наш Бог [Украинский]
+  https://holychords.pro/50169
+- вместе music — Наш Бог так Велик / Превозносим [Украинский]
+  https://holychords.pro/52546
+- Hillsong Ukraine — Наш Бог так Велик [Русский]
+  https://holychords.pro/53172
+- ЦХВ_worship — Наш Бог так велик! [Русский]
+  https://holychords.pro/57076
+- Nadya Hope — How Great Is Our God [Английский]
+  https://holychords.pro/59347
+- Божий Дар Київ (God's Gift) — Величний наш Бог [Украинский]
+  https://holychords.pro/63389
+- Crest Music — Наш Бог так Велик [Русский]
+  https://holychords.pro/67174
+- Живе Слово c.Гора — Великий наш Бог [Украинский]
+  https://holychords.pro/67606
+- Тетяна Пошелок — Великий наш Бог [Украинский]
+  https://holychords.pro/74216
+- Дарья Пашкова — Бурган, Ол өндүр [Русский]
+  https://holychords.pro/74476
+- Feiert Jesus! — So gross ist der Herr [Немецкий]
+  https://holychords.pro/79095
+- House of Worship — How Great Is Our God [Английский]
+  https://holychords.pro/80693
+- Lifegate Worship Serbia — Velik je Bog [Сербский]
+  https://holychords.pro/81148
+- Открытая Дверь — Наш Бог так велик [Русский]
+  https://holychords.pro/81829

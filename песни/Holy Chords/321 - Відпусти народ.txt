@@ -1,0 +1,66 @@
+Гефсиманія церква м. Львів — Відпусти народ
+Источник: https://holychords.pro/321
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em     H           Em     Am</chopds>
+<text>Як Ізраїль в Єгипті був</text>
+<chopds>Em        H      Em</chopds>
+<text>Відпусти народ</text>
+<chopds>     Em   H       Em     Am</chopds>
+<text>Їх фараонів гнів зігнув</text>
+<chopds>Em        H      Em</chopds>
+<text>Відпусти народ</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds> Em           Am             H7</chopds>
+<text>Мойсею, вирушай, в глиб Єгипту вирушай</text>
+<chopds>   Em               Am   Em         H        Em</chopds>
+<text>Скажеш фараону - відпусти народ</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Говорить Бог каже мойсей</text>
+<text>Відпусти народ</text>
+<text>Бо вбю всіх первестків дітей</text>
+<text>Відпусти народ</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Не буде більше він рабом</text>
+<text>Відпусти народ</text>
+<text>Вийде з Єгипецьким добром</text>
+<text>Відпусти народ</text>
+</blocks>
+
+<blocks>
+<videlit_line>4 куплет</videlit_line>
+<text>Тікаймо ми від рабства всі</text>
+<text>Відпусти народ</text>
+<text>І будьмо вільні у Христі</text>
+<text>Відпусти народ</text>
+</blocks>
+
+<blocks>
+<videlit_line>5 куплет</videlit_line>
+<text>Нам плакати не завжди час</text>
+<text>Відпусти народ</text>
+<text>Кайдани рабства не для нас</text>
+<text>Відпусти народ</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Via-Gloria — Моисей [Русский]
+  https://holychords.pro/31051
+- Братская группа, Кобрин — Моисей [Русский]
+  https://holychords.pro/53913
+- Via-Gloria — Мойсей [Украинский]
+  https://holychords.pro/64058

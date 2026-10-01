@@ -1,0 +1,141 @@
+4U Band — Вовеки
+BPM: 146
+Источник: https://holychords.pro/20
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>A                    E                                  F#m</chopds>
+<text>Рыдают Небеса, померкла звезд краса</text>
+<chopds>                             D</chopds>
+<text>Спаситель мира жизнь отдал за нас</text>
+<chopds>A                               E                      F#m</chopds>
+<text>Кровь капала с креста невинна и чиста</text>
+<chopds>                          D</chopds>
+<text>Людей навечно от грехов Он спас</text>
+</blocks>
+
+<blocks>
+<videlit_line>Instrumental</videlit_line>
+<chopds>A    E    Hm    D</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Дух испустив едва, Его объяла тьма</text>
+<text>Во мрак был погружен Сын Божий</text>
+<text>Он вел со смертью бой, но победил Собой</text>
+<text>Смерть удержать Его не может</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>A                              E</chopds>
+<text>Разрушен смерти плен, в могиле Его нет</text>
+<chopds>F#m                  D</chopds>
+<text>Его Любовь ничем не удержать</text>
+<chopds>A                          E</chopds>
+<text>Где жало твоё, смерть? Наш Царь Иисус воскрес</text>
+<chopds> F#m                       D</chopds>
+<text>Он призван побеждать!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>         A                    E</chopds>
+<text>И вовеки в славе вознесен</text>
+<chopds>     F#m               D</chopds>
+<text>Вовеки будет править Он</text>
+<chopds>   A            E</chopds>
+<text>Вовеки Он воскрес</text>
+<chopds>              F#m                   D</chopds>
+<text>Иисус живой, Иисус живой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>instrumental</videlit_line>
+<chopds>A E F#m D</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>A                    E</chopds>
+<text>Слава, Аллилуйя</text>
+<chopds>                   F#m</chopds>
+<text>Слава, Аллилуйя</text>
+<chopds>                      D</chopds>
+<text>Слава, Аллилуйя</text>
+<chopds>                 A</chopds>
+<text>Иисус живой</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Kari Jobe — Forever
+  https://holychords.pro/194
+- Bethel Music — Forever [Английский]
+  https://holychords.pro/1007
+- New Beginnings Worship — Вовеки [Русский]
+  https://holychords.pro/1205
+- Evan Craft — Por Siempre [Испанский]
+  https://holychords.pro/1627
+- Alaniaworshipband — Вовеки [Русский]
+  https://holychords.pro/1669
+- Generación 12 — Por siempre [Испанский]
+  https://holychords.pro/5916
+- RussiaWorship — Навеки (Слава Аллилуйя) [Русский]
+  https://holychords.pro/7704
+- Андрей Кочкин — Навечно [Русский]
+  https://holychords.pro/8510
+- Роман Белов — Навеки [Русский]
+  https://holychords.pro/13470
+- Катя Овчаренко — Навіки [Украинский]
+  https://holychords.pro/15702
+- Kari Jobe — Навіки [Украинский]
+  https://holychords.pro/18996
+- Надія Sol Family Church — Навіки [Украинский]
+  https://holychords.pro/28481
+- United Flames — Абадий [Узбекский]
+  https://holychords.pro/28717
+- Слово Жизни Music — Навеки [Русский]
+  https://holychords.pro/28796
+- Kari Jobe — Навіки [Украинский]
+  https://holychords.pro/29115
+- Natalia Iventeva — Навеки [Русский]
+  https://holychords.pro/33725
+- Metamorphosis — Навіки [Украинский]
+  https://holychords.pro/42664
+- Слово Жизни Music — Навеки [Русский]
+  https://holychords.pro/42843
+- Kari Jobe — Вовеки [Русский]
+  https://holychords.pro/42940
+- Надія Sol Family Church — Навіки [Украинский]
+  https://holychords.pro/42952
+- IGC Worship — Вовеки [Русский]
+  https://holychords.pro/43533
+- X-mas BAND — Навіки [Украинский]
+  https://holychords.pro/44110
+- Джерело Життя Здолбунів — Навіки [Украинский]
+  https://holychords.pro/47904
+- Християнська Божа Церква — Навіки /Forever [Украинский]
+  https://holychords.pro/50206
+- Християнська надія — Навіки [Украинский]
+  https://holychords.pro/54815
+- Bethel Music — Forever [Английский]
+  https://holychords.pro/56167
+- psalmaker — Вовеки [Русский]
+  https://holychords.pro/56321
+- Kari Jobe — Плачуть небеса [Украинский]
+  https://holychords.pro/71116
+- ЕЛЕЙ — Вовеки [Русский]
+  https://holychords.pro/72612
+- CCS Young Families Choir — Навіки [Украинский]
+  https://holychords.pro/81243
+- Zhanna Arbatskiy — Вовеки [Русский]
+  https://holychords.pro/81827
+- Благодать Минск — Вовеки [Русский]
+  https://holychords.pro/85235
+- Bethel Music — Forever (We Sing Hallelujah) [Английский]
+  https://holychords.pro/87174

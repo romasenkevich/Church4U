@@ -1,0 +1,53 @@
+Божья роса — Нить жизни
+Источник: https://holychords.pro/339
+
+==================================================
+
+<blocks>
+<chopds>D A Em G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                  D         A                 D           A</chopds>
+<text>Нашей жизни нить коротка, тонка</text>
+<chopds>              D              G              A</chopds>
+<text>Как туман, как пар дуновение</text>
+<chopds>              D       F#             Hm          G</chopds>
+<text>Тише ветерка, легче мотылька</text>
+<chopds>D                       A                  D</chopds>
+<text>Пролетают жизни мгновения.</text>
+<chopds>              D       F#             Hm          G</chopds>
+<text>Тише ветерка, легче мотылька</text>
+<chopds>D                       A                  D</chopds>
+<text>Пролетают жизни мгновения.</text>
+<chopds>| D  A  Em  G  |  D  A  G  |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>И настанет день и придёт пора</text>
+<text>Нашей встречи в вечном блаженстве</text>
+<text>Вновь земная плоть обратится в прах,</text>
+<text>Но а дух взлетит в поднебесье</text>
+<text>Вновь земная плоть обратится в прах,</text>
+<text>Но а дух взлетит в поднебесье</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Милый сердцу край, жизненный рубеж</text>
+<text>Дорогое Небесное Царство</text>
+<text>В неземной мечте сладостных надежд</text>
+<text>Так легко к тебе возвращаться.</text>
+<text>В неземной мечте сладостных надежд</text>
+<text>Так легко к тебе возвращаться.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Оксана Полищук — Нашей жизни нить [Русский]
+  https://holychords.pro/21430
+- Оксана Полищук — Ниточка Життя [Украинский]
+  https://holychords.pro/75224

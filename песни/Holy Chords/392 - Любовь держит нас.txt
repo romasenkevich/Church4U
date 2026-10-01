@@ -1,0 +1,56 @@
+Real Ivanna — Любовь держит нас
+Источник: https://holychords.pro/392
+
+==================================================
+
+<blocks>
+<chopds>Dm  Bb F  C</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                                 Dm            Bb</chopds>
+<text>Глаза полны любви и эта жизнь</text>
+<chopds>                          F</chopds>
+<text>Как яркий свет освещает мне путь</text>
+<chopds>             C                       Dm</chopds>
+<text>И я готова идти за Тобой беспечно,</text>
+<chopds>     Bb                        F                                  C</chopds>
+<text>В дальние края, только бы рядом, быть мне всегда!</text>
+<chopds>     Dm                                             Bb</chopds>
+<text>- Что такое любовь? - меня спросишь...</text>
+<chopds>                F            C</chopds>
+<text>Я не отвечу Тебе!</text>
+<chopds> Dm                                       Bb</chopds>
+<text>Долго думая, ты это забросишь...</text>
+<chopds>                      F                                        C</chopds>
+<text>А войдя в вечность, увидишь ответ.</text>
+</blocks>
+
+<blocks>
+<videlit_line>ПРИПЕВ</videlit_line>
+<chopds>                        Dm                                           Bb</chopds>
+<text>Любовь как воздух, как свет, невидимо держит нас</text>
+<chopds>                    F                                              C</chopds>
+<text>На этой бренной земле!  Всегда даёт второй шанс!</text>
+<chopds>                 Dm                                  Bb</chopds>
+<text>Она не знает границ, неведом ей гнев и страх</text>
+<chopds>               F                                          C</chopds>
+<text>Она горит как огонь только в чистых сердцах.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>      Dm                    Bb           F                       C</chopds>
+<text>Любовь держит нас, любовь держит нас</text>
+<chopds>      Dm                    Bb           F                       C</chopds>
+<text>Любовь держит нас, любовь держит нас</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Моя рука в Твоей и этот мир</text>
+<text>Не может свет потушить, что зажег Своей любовью внутри!</text>
+<text>Тихий вздох... а сердце замирает в груди.</text>
+<text>Я не умею жить без Любви...</text>
+</blocks>

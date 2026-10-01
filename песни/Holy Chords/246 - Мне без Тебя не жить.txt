@@ -1,0 +1,76 @@
+Дарина Кочанжи — Мне без Тебя не жить
+Источник: https://holychords.pro/246
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>| Hm |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Речитатив</videlit_line>
+<chopds>| Em / | Hm/D / | C  / | C G/H | Am / | x2</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em                  D                    C                     G/H</chopds>
+<text>Я тебе не пою уж песен, я уже не молюсь стихами</text>
+<chopds>Am                        C/G                       F#dim                     H7</chopds>
+<text>Почему-то мой мир стал тесен и на сердце огромный камень</text>
+<chopds>Em                   D                       C                               G/H</chopds>
+<text>Но душа моя верит свято, что с Тобою всегда я буду,</text>
+<chopds>Am                 C/G              F#dim              H7</chopds>
+<text>Что с Тобою иду я рядом и Тебя не забуду</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     Em                                 Hm/D</chopds>
+<text>Мне без Тебя не жить, не обрести покой,</text>
+<chopds>                          C             G/H           Am                 H7</chopds>
+<text>В сердце немая боль и любовь не любовь, Боже,</text>
+<chopds>                     Em                                       Hm/D</chopds>
+<text>Мне без Тебя не жить соль превратилась в кровь,</text>
+<chopds>                      C                 G/H              Am          H7</chopds>
+<text>Споря с самим собой и судьбой знаю я, Ты мне поможешь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Что случилось и как возможно: вместо пламени тлеет уголь</text>
+<text>В темноте забыв осторожность, дверь ищу, натыкаясь в угол</text>
+<text>В никуда исчезает вера и любовь улетает птицей</text>
+<text>И когда в сердце боль без меры, оно к Богу стремится</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     Em                                 Hm/D</chopds>
+<text>Мне без Тебя не жить, не обрести покой,</text>
+<chopds>                          C             G/H           Am                 H7</chopds>
+<text>В сердце немая боль и любовь не любовь, Боже,</text>
+<chopds>                     Em                                       Hm/D</chopds>
+<text>Мне без Тебя не жить соль превратилась в кровь,</text>
+<chopds>                      C                 G/H              Am        C</chopds>
+<text>Споря с самим собой и судьбой знаю я...</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев: +1</videlit_line>
+<chopds>                     Fm                                 Cm/Eb</chopds>
+<text>Мне без Тебя не жить, не обрести покой,</text>
+<chopds>                        Db             Ab/C        Bbm             C7</chopds>
+<text>В сердце немая боль и любовь не любовь, Боже,</text>
+<chopds>                     Fm                                      Cm/Eb</chopds>
+<text>Мне без Тебя не жить соль превратилась в кровь,</text>
+<chopds>                      Db               Ab/C          Bbm     C7                      Fm    Db</chopds>
+<text>Споря с самим собой и судьбой знаю я, Ты мне поможешь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Кода</videlit_line>
+<chopds> C7                  Fm  Db    C7                  Fm  Db</chopds>
+<text>Ты мне поможешь.       Ты мне поможешь.</text>
+</blocks>

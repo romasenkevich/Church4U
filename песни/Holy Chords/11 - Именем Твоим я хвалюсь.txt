@@ -1,0 +1,62 @@
+Размер неба — Именем Твоим я хвалюсь
+BPM: 130
+Источник: https://holychords.pro/11
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>Dm                    Am/C                    Bb    F/A</chopds>
+<text>Пусть все будет так как хочешь Ты,</text>
+<chopds>Gm                                            Csus C</chopds>
+<text>Мой Господь в Тебе мои мечты.</text>
+<chopds>Dm            Am/C            Bb     F</chopds>
+<text>Руки подниму я к небесам,</text>
+<chopds>Gm                                           C</chopds>
+<text>И прислушаюсь к Твоим словам.</text>
+<chopds>  Bb              F        C           Bb</chopds>
+<text>Иисус, Всегда когда Ты зовешь</text>
+<chopds>             Dm C</chopds>
+<text>Хочу ответить:</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>F                                 Bb</chopds>
+<text>Именем Твоим я хвалюсь,</text>
+<chopds>Gm                             C</chopds>
+<text>Именем Твоим я молюсь.</text>
+<chopds>F                              Bb</chopds>
+<text>Силою Твоей я служу,</text>
+<chopds>Gm                          C</chopds>
+<text>Силою Твоей я живу.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ты разрушил стены и грехи,</text>
+<text>Что бы не мешали нам они.</text>
+<text>Ты построил для меня мосты,</text>
+<text>И я побегу туда где Ты.</text>
+<text>Иисус, туда где Ты, я хочу</text>
+<text>Прийти и быть там с Тобой</text>
+<text>Всегда когда Ты зовешь,</text>
+<text>Хочу ответить:</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<text>Именем Твоим я хвалюсь,</text>
+<text>Именем Твоим я молюсь.</text>
+<text>Силою Твоей я служу,</text>
+<text>Силою Твоей я живу.</text>
+<chopds>Bb                  F                 C</chopds>
+<text>Удивляюсь щедрости Твоей,</text>
+<chopds>Dm                Bb</chopds>
+<text>Милости Твоей,</text>
+<chopds>F                    C</chopds>
+<text>Верности Твоей,</text>
+<chopds>Dm</chopds>
+<text>Удивляюсь.</text>
+<text>Живу Тобой, Иисус.</text>
+</blocks>

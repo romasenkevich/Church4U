@@ -1,0 +1,50 @@
+Виталий Ефремочкин — Твоя сила во мне
+Источник: https://holychords.pro/341
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>          Am               F</chopds>
+<text>Твоя сила во мне,</text>
+<chopds>              G              C            G</chopds>
+<text>Твоя слава по всей земле,</text>
+<chopds>           Am                   F</chopds>
+<text>Твоя святость видна,</text>
+<chopds>                    G                   C            G</chopds>
+<text>В Твоём слове, в крови Христа,</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Am           F</chopds>
+<text>Я поклоняюсь,</text>
+<chopds>G                            C          G</chopds>
+<text>И прославляю новой песней,</text>
+<chopds>Am        F</chopds>
+<text>Соединяюсь</text>
+<chopds>G                                      C          G</chopds>
+<text>С Тобой, Спаситель мой чудесный.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>          Am                 F</chopds>
+<text>Аллилуйя! Аллилуйя!</text>
+<chopds>            G               C        G</chopds>
+<text>Аллилуйя! Хвала Тебе!</text>
+<chopds>         Am                  F</chopds>
+<text>Аллилуйя! Аллилуйя!</text>
+<chopds>            G                C             G</chopds>
+<text>Аллилуйя! По всей земле!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Epicenter — Твоя сила во мне [Русский]
+  https://holychords.pro/15153
+- Слово Жизни Пинск — Твоя сила во мне [Русский]
+  https://holychords.pro/43479
+- Виталий Ефремочкин — Твоя сила в мені [Украинский]
+  https://holychords.pro/72139

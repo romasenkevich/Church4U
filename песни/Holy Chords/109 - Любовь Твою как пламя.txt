@@ -1,0 +1,76 @@
+Hillsong Ukraine — Любовь Твою как пламя
+Источник: https://holychords.pro/109
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>           E</chopds>
+<text>Так хочу увидеть я хоть краем глаза</text>
+<chopds>            C#m</chopds>
+<text>Славу Сына Твоего, этот миг, я знаю,</text>
+<chopds>   H                                   A                                   E</chopds>
+<text>Жизнь перевернет, останусь я навек в Тебе.</text>
+<chopds>                 E</chopds>
+<text>И так хочу, мой Бог, познать Твою любовь,</text>
+<chopds>                    C#m</chopds>
+<text>Что может жизнь мою держать, и милость, что меня</text>
+<chopds>          H                                     A                                     E</chopds>
+<text>Спасла от всех грехов, и кровью смыла мой позор.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                                    C#m               A                           E      H</chopds>
+<text>Любовь Твою, как пламя, во мне пусть видит мир</text>
+<chopds>                             C#m                    A                     E</chopds>
+<text>Лишь с этим желаньем склонюсь у ног Твоих</text>
+<chopds>                      H                              E</chopds>
+<text>Горит всегда пусть жизнь моя</text>
+<chopds>E                                           H</chopds>
+<text>Ты любовью Своей, Бог</text>
+<chopds>                                                    C#m</chopds>
+<text>Приближай мою жизнь к Себе</text>
+<chopds>                A                     E</chopds>
+<text>Так познать Тебя хочу</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>             E</chopds>
+<text>И я во веки подчинюсь Твоей любви</text>
+<chopds>                     C#m</chopds>
+<text>И пред крестом Твоим смирюсь, в Твоем присутствии</text>
+<chopds>       H                                A                                   E</chopds>
+<text>Останусь навсегда, Ты изменил навек меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                                    C#m               A                           E      H</chopds>
+<text>Любовь Твою, как пламя, во мне пусть видит мир</text>
+<chopds>                             C#m                    A                     E</chopds>
+<text>Лишь с этим желаньем склонюсь у ног Твоих</text>
+<chopds>                      H                              E</chopds>
+<text>Горит всегда пусть жизнь моя</text>
+<chopds>E                                           H</chopds>
+<text>Ты любовью Своей, Бог</text>
+<chopds>                                                    C#m</chopds>
+<text>Приближай мою жизнь к Себе</text>
+<chopds>                A                     E</chopds>
+<text>Так познать Тебя хочу</text>
+<chopds>E                                     H</chopds>
+<text>Позовешь и пойду я</text>
+<chopds>                                      C#m</chopds>
+<text>У креста я все возложу</text>
+<chopds>                 A                        E</chopds>
+<text>Тебе Иисус принадлежу</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- NG Worship — Любовь Твоя Как Пламя [Русский]
+  https://holychords.pro/10280
+- Hillsong Worship — Love Like Fire [Английский]
+  https://holychords.pro/52480

@@ -1,0 +1,34 @@
+Спасіння Вишневе — Побежим - полетим
+Источник: https://holychords.pro/276
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>  Em                             C</chopds>
+<text>Кто это сияющий, как заря</text>
+<chopds>            D                              H</chopds>
+<text>Прекрасней, чем луна, ярче, чем звезда?</text>
+<chopds>Em                 C</chopds>
+<text>Это Ты, Любовь моя!</text>
+<chopds>     D                                  H</chopds>
+<text>Привлеки меня! О, привлеки меня!</text>
+<chopds>     G                     D                    C                     Em</chopds>
+<text>Кто это, кто отрет слезу с моих глаз? Иисус!</text>
+<chopds>                 G                        D                                      H</chopds>
+<text>Только лишь Твой взгляд влечет меня! Влеки меня, Любовь моя!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>           Em                  C                      D                  Em</chopds>
+<text>Побежим – полетим, мы всегда будем вместе!</text>
+<chopds>               Em                   C                              D                 Em</chopds>
+<text>Через слёзы, через радость, мы всегда будем вместе!</text>
+<chopds>           Em                  C                      D                  Em</chopds>
+<text>Побежим – полетим, мы всегда будем вместе!</text>
+<chopds>               Em                   C                              D                 Em</chopds>
+<text>Через слёзы, через радость, мы всегда будем вместе!</text>
+<chopds>  C                D              Em       C                D              Em</chopds>
+<text>Только вместе с Тобой!  Только вместе с Тобой!</text>
+</blocks>

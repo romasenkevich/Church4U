@@ -1,0 +1,79 @@
+Hillsong United — Awesome God
+BPM: 140
+Источник: https://holychords.pro/444
+
+==================================================
+
+<blocks>
+<videlit_line>Chorus</videlit_line>
+<chopds>C                   G</chopds>
+<text>Our God is an Awesome God</text>
+<chopds>        D                   Em</chopds>
+<text>He reigns from Heaven above</text>
+<chopds>   C                     G</chopds>
+<text>With wisdom  power and love</text>
+<chopds>           D                              Em</chopds>
+<text>Our God is an Awesome God</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Ukraine — Наш Бог Всемогущий [Русский]
+  https://holychords.pro/961
+- Hillsong United — Awesome God [Английский]
+  https://holychords.pro/1775
+- Неизвестен — Наш Бог - Всемогущий Бог [Русский]
+  https://holychords.pro/1776
+- Reallife band — Наш Бог Всемогущий [Русский]
+  https://holychords.pro/1970
+- Сырдарья — Наш Бог всемогущий Бог [Русский]
+  https://holychords.pro/9827
+- Осанна Львов — Наш Бог - всемогутній Бог [Украинский]
+  https://holychords.pro/12902
+- Альфа и Омега — Наш Бог всемогущий Бог [Русский]
+  https://holychords.pro/15344
+- Juan Olivas, Omar Aspe, Ralph Silva — Powerful Gift [Польский]
+  https://holychords.pro/16201
+- Shane & Shane — Awesome God [Английский]
+  https://holychords.pro/22324
+- Slavic Evangelical Church Sulamita — Наш Бог Всемогущий Бог [Русский]
+  https://holychords.pro/28216
+- Rugul Aprins Toflea — Dumnezeu e taria mea! [Румынский]
+  https://holychords.pro/32159
+- Living Stream — Наш Бог - Всемогутній Бог [Украинский]
+  https://holychords.pro/34765
+- J.C. Music — Наш Бог всемогущий Бог [Русский]
+  https://holychords.pro/38521
+- Emmanuil Worship Kiev — Наш Бог Всемогутній [Украинский]
+  https://holychords.pro/38803
+- Sonic Praise — Awesome God [Английский]
+  https://holychords.pro/38871
+- SOLWorship — Наш Бог - Всемогутній Бог [Украинский]
+  https://holychords.pro/40158
+- SMBS Choir — Наш Бог Всемогущий Бог [Русский]
+  https://holychords.pro/44277
+- Детский хор церкви г. Рыбница — Наш Бог - Всемогущий, царствует на небе во славе [Русский]
+  https://holychords.pro/46795
+- Християнська надія — Наш Бог - Всемогутній Бог [Украинский]
+  https://holychords.pro/50971
+- H.Worship — Наш Бог всемогутній Бог [Украинский]
+  https://holychords.pro/52308
+- Джерело Життя Здолбунів — Наш Бог - всемогутній Бог [Украинский]
+  https://holychords.pro/53405
+- Michael W. Smith — Awesome God (Live)
+  https://holychords.pro/53518
+- Rich Mullins — Awesome God [Английский]
+  https://holychords.pro/57213
+- Благодать Христа церковь — Наш Бог - Всемогущий Бог [Русский]
+  https://holychords.pro/68511
+- Agape Song — Наш Бог - Всемогутній Бог [Украинский]
+  https://holychords.pro/78685
+- Світлана Жура — Наш Бог - Всемогутній Бог [Украинский]
+  https://holychords.pro/79226
+- Božja pobjeda — Silan Bog [Хорватский]
+  https://holychords.pro/81011
+- Anthem Worship — Awesome God [Английский]
+  https://holychords.pro/86289
+- NB Worship — Всемогущий Бог [Русский]
+  https://holychords.pro/86563

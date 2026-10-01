@@ -1,0 +1,58 @@
+Він знає — Брошены слова
+Источник: https://holychords.pro/9
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>Cmaj7</chopds>
+<text>Не первые слова, и нет больше всех слов</text>
+<chopds>Amsus2</chopds>
+<text>Забытые дела и это все не то</text>
+<chopds>F                                                 Cmaj7</chopds>
+<text>Куда себя подать и где себя найти</text>
+<chopds>Cmaj7</chopds>
+<text>Имеешь вроде все, и нету ничего</text>
+<chopds>Amsus2</chopds>
+<text>Хотел бы только толк от этого всего</text>
+<chopds>F                                                     Cmaj7</chopds>
+<text>Хотелось убежать, бежал, но от кого?</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G                      F                         Am</chopds>
+<text>Брошены слова, брошены как лед</text>
+<text>Кто тебя поймет, кто тебя поймет</text>
+<chopds>G                    F                               Am</chopds>
+<text>Не отходи назад, иди только вперед</text>
+<text>Он тебя найдет, он тебя найдет</text>
+<chopds>G                      F                            Am</chopds>
+<text>Брошены слова, вся жизнь наоборот,</text>
+<text>Кто тебя спасет, кто тебя спасет</text>
+<chopds>G                                 F                                Am</chopds>
+<text>Ты знаешь, Бог не враг, Он жизнь тебе вернет</text>
+<text>Он тебя зовет, Он тебя зовет</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<chopds>Cmaj7</chopds>
+<text>Хотел от жизни ты забрать, что мог еще</text>
+<chopds>Amsus2</chopds>
+<text>Но пустота в душе никак не пропадет</text>
+<chopds>F                                                                Cmaj7</chopds>
+<text>Что делать думал ты, что делать, жизнь идет</text>
+<chopds>Cmaj7</chopds>
+<text>Послушай, если ты хочешь найти ответ</text>
+<chopds>Amsus2</chopds>
+<text>На жизненном пути познал ты много бед</text>
+<chopds>F                                                            Cmaj7</chopds>
+<text>Оставь все позади, Бог ждет тебя, Он Свет</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>G              Dm   Em          F</chopds>
+<text>Он зовет тебя! Он зовет тебя!</text>
+</blocks>

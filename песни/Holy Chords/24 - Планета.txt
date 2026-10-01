@@ -1,0 +1,73 @@
+Siloam Church — Планета
+Источник: https://holychords.pro/24
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Am              Dm               G</chopds>
+<text>Я, как блуждающая планета</text>
+<chopds>     C                             F</chopds>
+<text>Куда не пойду не найду я ответа</text>
+<chopds>        Dm                                            E</chopds>
+<text>Моя жизнь опустошена словно слеза,</text>
+<chopds>        Dm                                            E</chopds>
+<text>А на серце печаль будто снова гроза</text>
+<chopds>         Am            F                            G</chopds>
+<text>Моя жизнь это как неизбежный туман,</text>
+<chopds>        C                               F</chopds>
+<text>Это будто цветок нерасцветший,</text>
+<chopds>   Dm                 E</chopds>
+<text>Себя теряю,  снова обман,</text>
+<chopds>                        F  G        Am</chopds>
+<text>Не найти никого, кто безгрешен.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Am                    F</chopds>
+<text>Сотни тысяч звёзд надо мной,</text>
+<chopds>         C                          G</chopds>
+<text>Они манят меня окрыляя,</text>
+<chopds>Am               F</chopds>
+<text>Знаю небо дом мой родной,</text>
+<chopds>         C                                    G</chopds>
+<text>Мое сердце о нем лишь мечтает.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Hm           G                               A</chopds>
+<text>Жизнь, осенний листок закружила,</text>
+<chopds>       F#m                          G</chopds>
+<text>Подбросила вверх, и забыла,</text>
+<chopds>          Em                           F#m</chopds>
+<text>Под ногами людей сотни тысяч таких</text>
+<chopds>                       G  A           Hm</chopds>
+<text>Не найти никого, кто безгрешен.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Hm                   G</chopds>
+<text>Сотни тысяч звёзд надо мной,</text>
+<chopds>          D                          A</chopds>
+<text>Они манят меня окрыляя,</text>
+<chopds>Hm              G</chopds>
+<text>Знаю небо дом мой родной,</text>
+<chopds>         D                                    A</chopds>
+<text>Мое сердце о нем лишь мечтает.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>            Em                         G</chopds>
+<text>И если солнце греть мне перестанет</text>
+<chopds> Hm                            D</chopds>
+<text>Не устрашусь, ведь Ты рядом идешь,</text>
+<chopds>     Em                          G</chopds>
+<text>Пускай планет всех в небе не станет,</text>
+<chopds>Hm                      D</chopds>
+<text>Я не боюсь, Ты меня ведешь.</text>
+<chopds>Em F# G A Hm</chopds>
+</blocks>

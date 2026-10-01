@@ -1,0 +1,48 @@
+Артём Янский — Не медли
+Источник: https://holychords.pro/133
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em</chopds>
+<text>О, сила моя в Тебе, мой Бог</text>
+<chopds>Hm</chopds>
+<text>Ты забрал грех и всякий порок</text>
+<chopds>C</chopds>
+<text>Ты унижен фарисеями был</text>
+<chopds>D</chopds>
+<text>Отцу до смерти послушен был</text>
+<chopds>Em</chopds>
+<text>О, грешник посмотри на раны Христа</text>
+<chopds>Hm</chopds>
+<text>Он ради тебя человеком стал</text>
+<chopds>C</chopds>
+<text>По улице нес избитый он крест</text>
+<chopds>D</chopds>
+<text>Чтоб к новой жизни ты воскрес</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                        Em                                    Hm</chopds>
+<text>Кровь Его льется чтоб дать жизнь тебе</text>
+<chopds>                              C                                         D</chopds>
+<text>Не медли схватиться Бог простирает руку к тебе</text>
+<chopds>                        Em                                    Hm</chopds>
+<text>Кровь Его льется чтоб дать жизнь тебе</text>
+<chopds>                              C                                         D</chopds>
+<text>Не медли схватиться Бог простирает руку к тебе</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>И ходишь по жизни измученным весь</text>
+<text>На день ты не знаешь что ждет тебя здесь</text>
+<text>Пустотой поглощен ты весь изнутри</text>
+<text>На грязную жизнь свою посмотри</text>
+<text>Иисус дает жизнь, дьявол - лжец</text>
+<text>Сегодня очень важен какой твой конец</text>
+<text>С Богом пребудешь ли в небесах</text>
+<text>Как тебе быть с Ним отвечу так</text>
+</blocks>

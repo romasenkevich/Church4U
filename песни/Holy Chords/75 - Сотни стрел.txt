@@ -1,0 +1,46 @@
+Рома Иванько — Сотни стрел
+Источник: https://holychords.pro/75
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>         Am                G/H         C</chopds>
+<text>В глубине Твоих синих глаз</text>
+<chopds>                 Am          G/H                    C</chopds>
+<text>В ритме сердца Того, Кто есть Жизнь</text>
+<chopds>      Dm             F              G             Am  G/H C</chopds>
+<text>Утонуть хочу. Раствориться хочу.</text>
+<chopds>      Dm            F               G             Am</chopds>
+<text>Утонуть хочу. Раствориться хочу.</text>
+<text>В тихом веянии и в шуме дождя</text>
+<text>В объятиях Того, Кто Любовь</text>
+<text>Затеряться хочу. Ой, хочу.</text>
+<text>Затеряться хочу. Ой, хочу.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                 F         G                                   C   G/H   Am</chopds>
+<text>А я к Тебе иду, Твоей милостью прощённый</text>
+<chopds>                F                      G                               C   G/H   Am</chopds>
+<text>А я к Тебе стремлюсь, Благодатью спасён</text>
+<chopds>                 F          G                                   C   G/H   Am</chopds>
+<text>А я к Тебе бегу. Твоей раной исцелённый</text>
+<chopds>       Dm</chopds>
+<text>Я Тобой захвачен в плен</text>
+<chopds>                 F                            G                      Am</chopds>
+<text>В моём сердце сотни стрел Твоей любви.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>В нежном голосе и в запахе трав</text>
+<text>В аромате цветов узкий путь</text>
+<text>Я идти хочу. Я хочу не уснуть.</text>
+<text>Я идти хочу. Я хочу не уснуть.</text>
+<text>В тесноте, только не без Тебя</text>
+<text>В стуке молота и в жаре огня</text>
+<text>Я согреться хочу. Ой, хочу</text>
+<text>Я согреться хочу. Ой, хочу</text>
+</blocks>

@@ -1,0 +1,78 @@
+Hillsong Ukraine — Ярче
+Источник: https://holychords.pro/100
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                  A        E                      H            C#m</chopds>
+<text>Твой свет ярче любой звезды в небесах</text>
+<chopds>                         A     E          H               C#m</chopds>
+<text>Сквозь тьму ночи Ты сияешь всегда</text>
+<chopds>                  A    E                 H                 C#m</chopds>
+<text>Иисус вовеки всё, что так нужно мне</text>
+<chopds>                   A      E        H    C#m</chopds>
+<text>В любви дал, дал, дал.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ты со мною хранишь Ты каждый мой шаг</text>
+<text>И с любовью моё имя позвал</text>
+<text>Иисус вовеки всё, что так нужно мне</text>
+<text>В любви дал, дал, дал</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>   A                 E        H                C#m</chopds>
+<text>Музыкой хвалы вознесем Тебя</text>
+<chopds>  A                E           H                C#m</chopds>
+<text>Тучи тьмы ушли танцам нет конца</text>
+<chopds>       A               E         H             C#m</chopds>
+<text>В благости Твоей мы нашли себя</text>
+<chopds>  A                   E       H    C#m</chopds>
+<text>Танцам нет конца</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Дал свободу мне любовью Своей</text>
+<text>Ты - Бог вечный Тебя достаточно мне</text>
+<text>Иисус вовеки всё, что так нужно мне</text>
+<text>В любви дал, дал, дал</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>     C#m                   A     E       H</chopds>
+<text>Меня Ты светом о-о-оживил</text>
+<chopds>     C#m                   A     E        H</chopds>
+<text>Меня Ты светом о-о-оживил</text>
+<chopds>      C#m                   A        E      H</chopds>
+<text>Танцую, ведь меня освободил</text>
+<chopds>     C#m                    A      E        H</chopds>
+<text>Своим Ты светом о-о-оживил</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>  A                     E    H             C#m</chopds>
+<text>Сердце и вся душа лишь для Тебя</text>
+<chopds>  A                      E    H          C#m</chopds>
+<text>Ты нужен мне сейчас и вовеки</text>
+<chopds>  A                         E    H             C#m</chopds>
+<text>Сердце в Твоих руках во все века</text>
+<chopds>  A                      E    H</chopds>
+<text>Ты нужен мне сейчас</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Young & Free — Brighter (Remix) [Английский]
+  https://holychords.pro/8985
+- Hillsong Young & Free — Brighter (Live)
+  https://holychords.pro/51774
+- Hillsong Young & Free — Світло [Украинский]
+  https://holychords.pro/51790

@@ -1,0 +1,60 @@
+Imprintband — Близко
+Источник: https://holychords.pro/440
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>      Cm</chopds>
+<text>Близко</text>
+<chopds>          D#/Bb                                                             G#   Fm</chopds>
+<text>Так близко ко мне никто ещё не был, как Ты</text>
+<chopds> Bb</chopds>
+<text>Только Ты Один</text>
+<chopds>       Cm</chopds>
+<text>Так нежно</text>
+<chopds>    D#/Bb                                                           G#    Fm</chopds>
+<text>Так искренне верно никто меня не любил</text>
+<chopds> Bb</chopds>
+<text>Только Ты Один</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>         Cm         D#/Bb</chopds>
+<text>О Тебе, о Тебе,</text>
+<chopds>        G#                Fm                           Bb</chopds>
+<text>О Тебе Мечтала я всю жизнь свою</text>
+<chopds>         Cm         D#/Bb</chopds>
+<text>О Тебе, о Тебе,</text>
+<chopds>         G#                 Fm                    Bb</chopds>
+<text>О Тебе узнала и так Тебя люблю</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Близко</text>
+<text>Так близко ко мне никто еще не был, как Ты</text>
+<text>Так, как Ты сейчас</text>
+<text>Так верно</text>
+<text>В глаза Ты смотришь, уйти не даешь мне и я</text>
+<text>От Тебя не уйду никогда</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>           G#                   Bb</chopds>
+<text>Изменил Ты всю жизнь мою</text>
+<chopds>           G#                      Bb</chopds>
+<text>Ты избавил меня от уз</text>
+<chopds>          C</chopds>
+<text>Я Тебе только принадлежу</text>
+<chopds>            Fm</chopds>
+<text>Я люблю Тебя!</text>
+<chopds>           G#                   Bb</chopds>
+<text>Изменил Ты всю жизнь мою</text>
+<chopds>           G#/C                 Bb/D</chopds>
+<text>Ты избавил меня от уз</text>
+<chopds>            Fm                                             Bb</chopds>
+<text>Я люблю всем сердцем Тебя, Иисус!</text>
+</blocks>

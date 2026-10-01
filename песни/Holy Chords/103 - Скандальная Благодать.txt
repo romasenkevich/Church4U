@@ -1,0 +1,79 @@
+Hillsong Ukraine — Скандальная Благодать
+BPM: 126
+Источник: https://holychords.pro/103
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>            C</chopds>
+<text>На крест взошла благодать</text>
+<chopds>   Am             F                     C</chopds>
+<text>Вместо меня приняв смерть</text>
+<chopds>      C</chopds>
+<text>Вину Ты взял без вины</text>
+<chopds>      Am             F                            C</chopds>
+<text>И кровью Своей смыл мой грех</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>         Em             F                 C</chopds>
+<text>Так трудно понять этот шаг</text>
+<chopds>         Em               F              C</chopds>
+<text>Скандальна Твоя благодать</text>
+<chopds>          G                           Am</chopds>
+<text>Ведь умер тогда Ты вместо меня</text>
+<chopds>                 F</chopds>
+<text>Чтобы жизнь мне дать</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                   C</chopds>
+<text>О, все отдам я</text>
+<chopds>                                        G</chopds>
+<text>Чтобы подобным Тебе стать</text>
+<chopds>                                         F</chopds>
+<text>Иисус, так жажду Тебя знать</text>
+<chopds>                                                C     F  Am  F</chopds>
+<text>В веках Ты - надежда моя</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Смерть, где жало твоё?</text>
+<text>Мертва твоя сила, как и грех</text>
+<text>Мне жизнь Крест тот принес</text>
+<text>А милость дала силы петь</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 пред припев</videlit_line>
+<text>В скорбях знаю крепость мне дашь</text>
+<text>Скандальна Твоя благодать</text>
+<text>Ведь умер тогда Ты вместо меня</text>
+<text>Чтобы жизнь мне дать</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>                    C</chopds>
+<text>Ведь это все сделал Иисус мой</text>
+<chopds>             G</chopds>
+<text>Ведь все сделал Иисус мой</text>
+<chopds>      Am</chopds>
+<text>Любовь Себя отдала</text>
+<chopds>               F</chopds>
+<text>Чтобы жизнь мне дать</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong United — Scandal Of Grace [Английский]
+  https://holychords.pro/13014
+- Кар'єрна 44 — На хрест зійшла Благодать [Украинский]
+  https://holychords.pro/28443
+- Петро Пшеничний — На хрест зійшла Благодать [Украинский]
+  https://holychords.pro/72544

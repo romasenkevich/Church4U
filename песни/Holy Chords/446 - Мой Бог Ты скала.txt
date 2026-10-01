@@ -1,0 +1,33 @@
+Слово Жизни Music — Мой Бог Ты скала
+Источник: https://holychords.pro/446
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Hm  D  G  Em</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Hm</chopds>
+<text>Мой Бог силен принести в этот мир пробуждение!</text>
+<chopds>Hm</chopds>
+<text>Мой Бог силен, мы идем за Тобой без сомнений!</text>
+<chopds>Hm                                       D              G                                          Em</chopds>
+<text>Не постыжусь прославлять Тебя, Ты совершать будешь чудеса!</text>
+<chopds>Hm                                  D                    G              Em                      A</chopds>
+<text>Пусть видят все моего Творца! Мой Бог, сияй через меня!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Hm                   D               G                         Em</chopds>
+<text>Ты дал мне силу, с Тобой я всё пройду!</text>
+<chopds>   Hm                    D                                    G             Em</chopds>
+<text>Моё упованье, я Лишь в Тебе нуждаюсь, о Бог!</text>
+<chopds>Hm                 D               G                    Em</chopds>
+<text>Ты дал свободу, танцуем для Тебя!</text>
+<chopds>    Hm                         D                                G                 Em</chopds>
+<text>В сердце навеки жертва Твоя, мой Бог, Ты скала!</text>
+</blocks>

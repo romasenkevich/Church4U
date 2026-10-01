@@ -1,0 +1,86 @@
+Павел Плахотин — Свят Господь
+Источник: https://holychords.pro/256
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Gm  F                                Bb    Cm  D                                Gm</chopds>
+<text>Ты ярче, чем солнца свет, Ты бездна святой любви.</text>
+<chopds>Gm       F                      Bb   Cm        D                            Gm</chopds>
+<text>Нет, знаю, другого нет, есть, знаю, есть только Ты.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                Gm                     D#                      F                    Bb</chopds>
+<text>Свят Господь, свят Господь, славит Господа земля.</text>
+<chopds>                Gm                    Cm                    D           Gm</chopds>
+<text>Свят Господь, свят Господь, славят горы и моря.</text>
+<chopds>                Gm                     D#                       F                          Bb</chopds>
+<text>Свят Господь, свят Господь, все преклонимся пред Ним,</text>
+<chopds>                Gm                    Cm                       D                       Gm</chopds>
+<text>Свят Господь, свят Господь, свят Господь - наш Элохим.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>Gm    F                   Bb  Cm    D                         Gm</chopds>
+<text>Ты славою облечён, Ты вечно превознесён.</text>
+<chopds>Gm       F                      Bb     Cm  D                            D#     F</chopds>
+<text>Ты начало и Ты конец, Ты Бог мой, Ты мой Отец.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                 Gm                    D#                      F                  Bb</chopds>
+<text>Свят Господь, свят Господь, славит Господа земля.</text>
+<chopds>                Gm                     Cm                      D              Gm</chopds>
+<text>Свят Господь, свят Господь, славит вся Вселенная.</text>
+<chopds>                Gm                     D#                         F                        Bb</chopds>
+<text>Свят Господь, свят Господь, все преклонимся пред Ним,</text>
+<chopds>                Gm                    Cm                        D                  D#  F</chopds>
+<text>Свят Господь, свят Господь, свят Господь - наш Элохим.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет: модуляция +2</videlit_line>
+<chopds>Am   G                                 C      Dm  E                          Am</chopds>
+<text>Ты жизнь, Ты сама любовь, Ты Агнец, проливший кровь.</text>
+<chopds>Am   G                                   C          Dm    E                        Am</chopds>
+<text>Ты славный Спаситель мой, Иисус, Ты мой Господь живой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                 Am                     F                      G                      C</chopds>
+<text>Свят Господь, свят Господь, славит Господа земля!</text>
+<chopds>                Am                    Dm                       E                 Am</chopds>
+<text>Свят Господь, свят Господь, славит вся Вселенная!</text>
+<chopds>                Am                       F                         G                          C</chopds>
+<text>Свят Господь, свят Господь, все преклонимся пред Ним,</text>
+<chopds>                Am                    Dm                       E                      F    G</chopds>
+<text>Свят Господь, свят Господь, свят Господь - наш Элохим.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Виктория Гагарина — Свят Господь [Русский]
+  https://holychords.pro/4258
+- Надія Sol Family Church — Свят Господь [Русский]
+  https://holychords.pro/23149
+- Молодіжний хор Церкви ХВЄ с. Берездівці, Львівська обл. — Свят Господь! [Украинский]
+  https://holychords.pro/23646
+- Павел Плахотин — Святий Бог
+  https://holychords.pro/42512
+- Християнська надія — Свят Господь [Украинский]
+  https://holychords.pro/46990
+- Павел Плахотин — Свят Е Бог, Господ Бог [Болгарский]
+  https://holychords.pro/66020
+- Християнин — Ти - світло мого життя [Украинский]
+  https://holychords.pro/66455
+- Gospel Ministry Church — Свят Господь [Русский]
+  https://holychords.pro/72820
+- Павел Плахотин — Ту сан миро светлыма [Цыганский]
+  https://holychords.pro/72979

@@ -1,0 +1,37 @@
+Игорь Яловец — Я падаю
+Источник: https://holychords.pro/61
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Gm F Dm Bb Cm Bb Am D</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>      Gm            D#                     Cm               D</chopds>
+<text>Душа моя опять одна, душа моя тоской полна.</text>
+<chopds>   Gm                    D#             Cm                     D</chopds>
+<text>Уходят дни, бегут года, уходим мы и на всегда.</text>
+<chopds>   Cm             D                             D#                   D</chopds>
+<text>И я стою опять один, над пропастью, и белый дым.</text>
+<chopds>        Gm                    D#                     Cm                          D</chopds>
+<text>Молю Тебя - дай до любить, и жизнь свою с Тобой прожить.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>    Gm                           D                Cm         D         Gm</chopds>
+<text>Я падаю, Господи падаю, спаси Ты душу мою.</text>
+<chopds>   Gm      Bb                 D              Cm                D               Gm</chopds>
+<text>Я падаю, Господи падаю, боюсь я к Тебе не дойду.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Взгляну опять на небеса, хочу найти Твои глаза.</text>
+<text>Дай руку мне и помоги, и душу мне Ты сохрани.</text>
+<text>И буду я служить Тебе, и буду я идти к Тебе.</text>
+<text>Зимой в метель и в дни дождей, но Ты меня лишь обогрей.</text>
+</blocks>

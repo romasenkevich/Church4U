@@ -1,0 +1,45 @@
+Вадим Ятковский — Бог мой единый
+Источник: https://holychords.pro/386
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>| Em  Am  C  H7 | Em  Am  C  H7  Em |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>              Em                  Am</chopds>
+<text>Поднимаю я руки к Господу</text>
+<chopds>       C                             H7</chopds>
+<text>Иисусу я принадлежу.</text>
+<chopds>         Em                    Am</chopds>
+<text>Богу истины - Он Единственный</text>
+<chopds>               C          H7      Em</chopds>
+<text>Кому славу и честь воздаю!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds> Am</chopds>
+<text>Бог мой Единый, Святый и Сильный</text>
+<chopds>Em</chopds>
+<text>Я Тебя люблю и Тебе пою</text>
+<chopds> Am</chopds>
+<text>Бог Вездесущий и Всемогущий</text>
+<chopds>Em</chopds>
+<text>За Твою любовь я благодарю</text>
+<text>Бог мой Единый, Святый и Сильный</text>
+<text>Любящий меня я Его дитя</text>
+<text>Бог Неизменный, Благословенный</text>
+<text>Только на Тебя уповаю я</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Поклоняюсь я Тебе Господи</text>
+<text>И Тебе Одному я служу</text>
+<text>Буду воспевать, буду прославлять</text>
+<text>Твое имя я благословлю!</text>
+</blocks>

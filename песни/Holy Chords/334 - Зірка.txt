@@ -1,0 +1,72 @@
+Siloam Church — Зірка
+Источник: https://holychords.pro/334
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>D               A/C#               Em                     G</chopds>
+<text>Хай люди зірку цю побачать там у небі</text>
+<chopds>D                   A/C#         Em</chopds>
+<text>Хай кожен зрозуміє сенс</text>
+<chopds>D            A/C#                 Em                 G</chopds>
+<text>Ти подивись вона палає там для тебе</text>
+<chopds>D       A/C#               Em</chopds>
+<text>Її в руках трима Отець</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds>                     G  A               F#m       Hm</chopds>
+<text>На землі мир в людях благовоління</text>
+<chopds>G          A               D</chopds>
+<text>І хори янголів співа</text>
+<chopds>D/F#          G  A    F#m                Hm</chopds>
+<text>Хай твої діти зіллються в хвалінні</text>
+<chopds>Em         A                  C   G</chopds>
+<text>Марія сина родила</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Той кому зірка ця осяє шлях життєвий</text>
+<text>Вже не загубить вірну путь</text>
+<text>Її проміння душу змінює миттєво</text>
+<text>І вже минуле не вернуть</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds>                     G  A               F#m       Hm</chopds>
+<text>На землі мир в людях благовоління</text>
+<chopds>G          A               D</chopds>
+<text>І хори янголів співа</text>
+<chopds>D/F#          G  A    F#m                Hm</chopds>
+<text>Хай твої діти зіллються в хвалінні</text>
+<chopds>Em               A                     Bb</chopds>
+<text>Тебе прославлять за діла</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<chopds>Cm        G#                   D#              Bb</chopds>
+<text>Багато років з того часу пролетіло</text>
+<chopds>Cm    G#                     D#     Bb</chopds>
+<text>Але та зірка не згаса</text>
+<chopds>Cm          G#                   D#                  Bb</chopds>
+<text>І кожне серце що Отця знайти хотіло</text>
+<chopds>G#             Bb                    D#</chopds>
+<text>Вона привела до Христа</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds>                     G# A#              Gm        Cm</chopds>
+<text>На землі мир в людях благовоління</text>
+<chopds>G#         A#              D#</chopds>
+<text>І хори янголів співа</text>
+<chopds>D#/G           G# A#   Gm                 Cm</chopds>
+<text>Хай твої діти зіллються в хвалінні</text>
+<chopds>Fm         A#                 D#</chopds>
+<text>Марія сина родила</text>
+</blocks>

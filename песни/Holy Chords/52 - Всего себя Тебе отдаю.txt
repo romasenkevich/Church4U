@@ -1,0 +1,52 @@
+Слово Жизни Music — Всего себя Тебе отдаю
+Источник: https://holychords.pro/52
+
+==================================================
+
+<blocks>
+<chopds>C#    G#    D#m    F#</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>   C#                     G#          F#</chopds>
+<text>Кто мы, что Ты отдал нам Сына Своего,</text>
+<chopds>C#                 G#        F#</chopds>
+<text>Умер за свободу, пошел на крест, Господь.</text>
+<chopds>             C#               G#                                  F#</chopds>
+<text>Свою кровь проливал, чтоб очищать сердца,</text>
+<chopds>        Bbm                 G#                          F#</chopds>
+<text>Та любовь, что Ты дал,  желает, чтобы я сказал:</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                C#                  G#</chopds>
+<text>Всего себя Тебе отдаю,</text>
+<chopds>  D#m                               F#</chopds>
+<text>Твоя любовь меняет, Ты Тот, Кто обновляет.</text>
+<chopds>        C#                              G#</chopds>
+<text>Меня используй, прошу,</text>
+<chopds>      D#m                                                F#                       C#</chopds>
+<text>Молю я Тебя всем сердцем, Господь, себя отдаю.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>В совершенном плане  Ты записал меня</text>
+<text>Святого искупленья, и вот стою я.</text>
+<text>Лишь прошу, направляй, мои пути исправь.</text>
+<text>Я буду жить, ведь ты спас блудного сына, Господь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>Bbm                    G#</chopds>
+<text>Вот мысли мои, вот руки мои,</text>
+<chopds>F#</chopds>
+<text>Мои глаза, возьми меня.</text>
+<chopds>Bbm                G#                  F#</chopds>
+<text>Вот ноги мои, они пойдут,  куда скажешь Ты.</text>
+<chopds>                                     C#  G#  D#m  F#</chopds>
+<text>Иисус, меня возьми.</text>
+</blocks>

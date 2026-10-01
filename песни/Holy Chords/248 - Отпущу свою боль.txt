@@ -1,0 +1,52 @@
+Дарина Кочанжи — Отпущу свою боль
+Источник: https://holychords.pro/248
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C#m      A                  E            G#m</chopds>
+<text>Отпущу свою боль как воздушного змея</text>
+<chopds>C#m           A                  E        G#m</chopds>
+<text>Знаешь Ты ни к кому ни чего не имею.</text>
+<chopds>C#m             A                     E        G#m</chopds>
+<text>Всё что есть не с проста, Боже я понимаю,</text>
+<chopds>C#m      A              E     G#m</chopds>
+<text>И в душе тишина на Тебя уповаю.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C#m   F#m/A  H/D#  E</chopds>
+<text>Я в слезах ноги Твои омою</text>
+<chopds>A         D  G#   C#m/E</chopds>
+<text>Исцели раны мои.</text>
+<chopds>C#m   F#m/A  H/D#  E</chopds>
+<text>Ты прости я ничего не стою,</text>
+<chopds>A        F#m  G#m    C#m</chopds>
+<text>Без Тебя и Твоей любви.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>D#m         H                F#         Bbm</chopds>
+<text>Враг пускал на меня раскалённые стрелы.</text>
+<chopds>D#m         H                     F#              Bbm</chopds>
+<text>Только Бог был со мной, шла я поступью смело.</text>
+<chopds>D#m    H           F#           Bbm</chopds>
+<text>За Тобою Господь ничего не случится.</text>
+<chopds>D#m        H                      F#                Bbm</chopds>
+<text>Ты придёшь, Ты найдёшь, Ты меня защитишь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D#m  G#m/H  C#/F  F#</chopds>
+<text>Я в слезах ноги Твои омою</text>
+<chopds>H         E  Bb  D#m/F#</chopds>
+<text>Исцели раны мои.</text>
+<chopds>D#m  G#m/H  C#/F  F#</chopds>
+<text>Ты прости я ничего не стою,</text>
+<chopds>H      G#m     Bbm         D#m</chopds>
+<text>Без Тебя и Твоей любви.</text>
+</blocks>

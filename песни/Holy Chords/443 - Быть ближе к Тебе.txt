@@ -1,0 +1,42 @@
+Imprintband — Быть ближе к Тебе
+BPM: 148
+Источник: https://holychords.pro/443
+
+==================================================
+
+<blocks>
+<videlit_line>интро</videlit_line>
+<chopds>Cm  Eb  Gm  Bb</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>       Gm                 Eb          F                      Dm</chopds>
+<text>Присутствие Твоё так ценно для меня,</text>
+<chopds>       Gm                   Eb                             F                         Dm</chopds>
+<text>Нет лучше ничего, чем знать, что любишь Ты меня</text>
+<chopds>         Eb                Bb/D                               Cm</chopds>
+<text>Нет лучше ничего, чем знать, что Ты со мной</text>
+<chopds>     Eb                     Bb/D             Cm  Bb/D Eb</chopds>
+<text>И то, что навсегда мы связаны с Тобой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>              Cm            Eb    Gm      Bb</chopds>
+<text>Быть ближе к Тебе ещё на шаг,</text>
+<chopds>             Cm              Eb    Gm       Bb</chopds>
+<text>Быть ближе к Тебе ещё на миг,</text>
+<chopds>              Cm            Eb      Gm     Bb</chopds>
+<text>Быть ближе к Тебе на расстояние</text>
+<chopds>         Cm        Eb   Gm</chopds>
+<text>Длиною в жизнь</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Пусть дни летят как миг, а годы как вода,</text>
+<text>Мир пред Тобой как пыль и легче сна Земля...</text>
+<text>Пусть времени поток куда-то вдаль спешит -</text>
+<text>Ему не обогнать порыв моей души:</text>
+</blocks>

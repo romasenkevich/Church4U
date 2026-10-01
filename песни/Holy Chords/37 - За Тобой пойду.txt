@@ -1,0 +1,72 @@
+New Beginnings Worship — За Тобой пойду
+Источник: https://holychords.pro/37
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Gm                      D#                             A#</chopds>
+<text>За Тобой пойду, буду там где Ты</text>
+<chopds>                           F</chopds>
+<text>Следовать готов только за Тобой</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>D#                              Gm                                F</chopds>
+<text>Благ во всех путях, справедлив всегда</text>
+<chopds>            A#    F/A            D#</chopds>
+<text>Доверяю только Тебе,</text>
+<chopds>                             Gm                                F</chopds>
+<text>Ты превыше всех ценностей земных,</text>
+<chopds>            A#      F/A           D#  F</chopds>
+<text>Доверяю жизнь я Тебе</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Gm                         D#</chopds>
+<text>За Тобой пойду, буду там где Ты</text>
+<chopds>A#                          F</chopds>
+<text>Следовать готов только за Тобой</text>
+<chopds>Gm                   D#</chopds>
+<text>Я хочу любить и служить как Ты,</text>
+<chopds>A#                            F                              Gm  D# A# F</chopds>
+<text>Не страшась потерь, за Тобой пойду.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Освети Собой в мире жизнь мою,</text>
+<text>Только для Тебя живу,</text>
+<text>Одного ищу, знаю что найду,</text>
+<text>Ты один так нужен мне, нужен мне</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>D#                  F</chopds>
+<text>В Тебе нашел я свободу</text>
+<chopds>D#                         A#</chopds>
+<text>В Тебе жизнь вечная моя</text>
+<chopds>D#                      F                   D#</chopds>
+<text>Ты дал мне радость навсегда</text>
+<chopds>F</chopds>
+<text>Ты со мною</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Алексей Каратаев — Я дойду с Тобой [Русский]
+  https://holychords.pro/161
+- Влад Фонки — Буду вслід іти [Украинский]
+  https://holychords.pro/2768
+- Chris Tomlin — I will follow [Английский]
+  https://holychords.pro/23135
+- 4U Band — Тільки там де ти, завжди буду я [Украинский]
+  https://holychords.pro/24643
+- Петро Грифель — За Тобою йду [Украинский]
+  https://holychords.pro/34496
+- Живе Слово c.Гора — За Тобою йду [Украинский]
+  https://holychords.pro/47280

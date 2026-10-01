@@ -1,0 +1,72 @@
+NG Worship — Нужен мне Иисус
+Источник: https://holychords.pro/216
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>A                  H/D#                      E</chopds>
+<text>В Своей любви Господь небес</text>
+<chopds>A                 H/D#                C#m</chopds>
+<text>За нас Христа отдал на крест</text>
+<chopds>A             H/D#                               E</chopds>
+<text>Когда любовь на крест взошла</text>
+<chopds>A     H/D#              E</chopds>
+<text>Скорбели небеса</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>                    H/D#                          C#m</chopds>
+<text>Я сердце Твоё много раз огорчал</text>
+<chopds>                                 A                                           E</chopds>
+<text>Но молил я прости - Ты вновь меня прощал</text>
+<chopds>                      H/D#                                     C#m</chopds>
+<text>И как много раз рвалось сердце к Тебе</text>
+<chopds>            A</chopds>
+<text>Приблизся ко мне</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>H                          F#/H - F#/D#  G#m</chopds>
+<text>Ты так нужен мне,                 Иисус</text>
+<chopds>        F#                         E</chopds>
+<text>Ты моя любовь навечно</text>
+<chopds>H                         F#/H - F#/D#  G#m  F#  E</chopds>
+<text>Ты так нужен мне,                  Иисус</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text> Буду петь в своей любви</text>
+<text> Вместе с ангелами вновь</text>
+<text> Вечный, Праведный, Святой</text>
+<text> Полный милости Господь</text>
+<chopds>     G#m                    E</chopds>
+<text>     О-о-о-о      Ты для меня всё</text>
+<chopds>     G#m               E</chopds>
+<text>     О-о-о-о      Прекрасный Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>E       F#             H</chopds>
+<text> Сын молил в Своей любви</text>
+<chopds>E     F#          G#m</chopds>
+<text> Авва Отче их прости</text>
+<chopds>E       F#             H</chopds>
+<text> Ведь они сейчас во тьме</text>
+<chopds>E           F#           G#m</chopds>
+<text> Пусть их крест ведет к Тебе</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Ukraine — Из-за любви [Русский]
+  https://holychords.pro/589
+- Hillsong United — All For Love [Английский]
+  https://holychords.pro/13952
+- Hillsong United — Ця любов [Украинский]
+  https://holychords.pro/51756

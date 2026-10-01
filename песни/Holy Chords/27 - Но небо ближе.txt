@@ -1,0 +1,56 @@
+Siloam Church — Но небо ближе
+Источник: https://holychords.pro/27
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>      D                       A                    Hm   A</chopds>
+<text>Ты ищешь пониманья от людей</text>
+<chopds>        D                A                 Hm        D</chopds>
+<text>Душа изнемогает от бессилья,</text>
+<chopds>      Hm                                  G                       D</chopds>
+<text>И мечешься внутри, и все в тебе кричит,</text>
+<chopds>         G                                              Asus4  A</chopds>
+<text>Так хочется свои расправить крылья.</text>
+<chopds>       D                              A/C#              Hm     A</chopds>
+<text>Но как расправить крылья, если нет,</text>
+<chopds>      G          D                  Em      Hm      Asus4     A</chopds>
+<text>И как взмыть к небесам таким далеким?</text>
+<chopds>D                           A  Hm                                   A</chopds>
+<text>Идет за годом год, прошло уж много лет,</text>
+<chopds>                        G         Em             Asus4        A</chopds>
+<text>И путь твой кажется таким нелегким.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                      D         G               A</chopds>
+<text>Но небо ближе, чем поется,</text>
+<chopds>                  D           G                          A</chopds>
+<text>Не надо даже вверх тебе смотреть,</text>
+<chopds>                   G             A                    Hm  A  G</chopds>
+<text>Оно с дыханьем даром нам дается,</text>
+<chopds>      Em                         A</chopds>
+<text>Не обязательно лететь.</text>
+<chopds>                          D   G                  A</chopds>
+<text>Душа с рождения стремится,</text>
+<chopds>                     D           G                   A</chopds>
+<text>Ответить на призыв ее Творца.</text>
+<chopds>             G                      A                 Hm  A  G</chopds>
+<text>Ведь дух желает снова возродиться</text>
+<chopds>       Em             A              D</chopds>
+<text>А значит надо в небеса.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Поверь, найти свободу так легко,</text>
+<text>Не надо вавилонских строить башен.</text>
+<text>Лишь сердце приоткрой, и верный Дух Святой</text>
+<text>Дорогу к небесам тебе укажет.</text>
+<text>И ты расправишь крылья широко,</text>
+<text>Склонившись пред Творцом в молитве низко.</text>
+<text>Поверь мой друг теперь, ведь это так легко</text>
+<text>Так сделать чтобы небо  стало близким.</text>
+</blocks>

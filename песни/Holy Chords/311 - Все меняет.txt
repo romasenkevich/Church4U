@@ -1,0 +1,59 @@
+Hillsong Ukraine — Все меняет
+BPM: 150
+Источник: https://holychords.pro/311
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>A</chopds>
+<text>Ты нас во всём изменил,</text>
+<chopds>                                           F#m</chopds>
+<text>Всё что в прошлом простил,</text>
+<chopds>                              D</chopds>
+<text>И избрал нас сиять.</text>
+<chopds>A</chopds>
+<text>Тьму из нашей жизни прогнал,</text>
+<chopds>                                 F#m</chopds>
+<text>И взгляд наш поднял,</text>
+<chopds>                          D</chopds>
+<text>Себя дал познать.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>                Hm</chopds>
+<text>Бог от смерти нас спас,</text>
+<chopds>                      D</chopds>
+<text>Вселил надежду Ты в нас,</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>      A                                                  D</chopds>
+<text>И мы с Тобой, кто бы против нас не шел,</text>
+<chopds>     F#m                                                D</chopds>
+<text>Ничто нас не сломает, Твоя любовь в нас все меняет, все меняет.</text>
+<chopds>  A                                              D</chopds>
+<text>Да, Ты забрал, с пути нас не убрать</text>
+<chopds>            F#m                                          D</chopds>
+<text>Если страх одолевает, Твоя любовь в нас все меняет, все меняет.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ты нам любовь доказал,</text>
+<text>Наш позор Ты забрал,</text>
+<text>Только Ты нужен нам.</text>
+<text>Мы шли путями греха,</text>
+<text>Другой путь Ты дал,</text>
+<text>И цепи сорвал.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>     A                                                   D</chopds>
+<text>В нас сердца пробудил, лишь Ты в нас все изменил,</text>
+<chopds>        F#m                             E                           D</chopds>
+<text>Изменил Ты нас, изменил Ты нас, Господь.</text>
+</blocks>

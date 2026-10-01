@@ -1,0 +1,46 @@
+Слово Жизни Music — Танцуй
+Источник: https://holychords.pro/58
+
+==================================================
+
+<blocks>
+<chopds>Em   G   D   A</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>                  C                                  D</chopds>
+<text>Нет, я не отступлю, я буду прославлять,</text>
+<chopds>                    C                                     D</chopds>
+<text>И всё, что есть во мне, Тебе отдам.</text>
+<chopds>                 C                                         D</chopds>
+<text>Хочу сказать Тебе, Ты всё, что нужно мне,</text>
+<chopds>                       C                                         D</chopds>
+<text>Я каждый день живу лишь для Тебя.</text>
+<chopds>               C</chopds>
+<text>Я буду петь Тебе, и танцевать не перестану,</text>
+<chopds>  D</chopds>
+<text>Ты мой Царь, и Ты живешь во мне.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Em                  G              D                                A</chopds>
+<text>Мы будем все танцевать, ведь мы свободны.</text>
+<chopds>Em                   G                 D                          A</chopds>
+<text>Мы будем громко кричать, что Ты Господь наш.</text>
+<chopds>Em               G                D                A                 C</chopds>
+<text>Настало время сломать оковы и бремена,</text>
+<chopds>               D                                  Em</chopds>
+<text>И танцевать все вместе для Тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>Em              G     A    H</chopds>
+<text>Танцуй так, как можешь,</text>
+<chopds>Em               G    A    H</chopds>
+<text>Восклицай во весь голос,</text>
+<chopds>Em               G     A    H            Em            G     A    H</chopds>
+<text>Прославляй, Он свободу нам подарил.</text>
+</blocks>

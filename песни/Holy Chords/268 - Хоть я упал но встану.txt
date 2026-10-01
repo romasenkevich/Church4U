@@ -1,0 +1,27 @@
+Holy Generation — Хоть я упал но встану
+Источник: https://holychords.pro/268
+
+==================================================
+
+<blocks>
+<chopds>Am7           C  Hm7b5</chopds>
+<text>Своей рукою Ты снимешь оковы</text>
+<chopds>Am7              C                 Dm             Dm/H</chopds>
+<text>И стрелы врагов отведешь от меня.</text>
+<chopds>Am7                   C         Hm7b5</chopds>
+<text>Склоняюсь у ног Твоих я смиренно.</text>
+<chopds>Am7      C         Dm      Dm/H</chopds>
+<text>Без Тебя увядает душа.</text>
+<chopds>F                             Dm7   Cadd11</chopds>
+<text>Хоть я упал, но встану.</text>
+<chopds>F                                    Dm7-5                 Cadd11</chopds>
+<text>Хоть я во мраке, но Ты свет для меня.</text>
+<chopds>F                               Dm7-5   Cadd11</chopds>
+<text>Хоть я упал, но встану.</text>
+<chopds>F                                     Dm7-5                Cadd11</chopds>
+<text>Хоть я во мраке, но Ты свет для души моей.</text>
+<chopds>Am7            Dm7      Cmaj7</chopds>
+<text>Папа, руки поддержи!</text>
+<chopds>                        G          Am7</chopds>
+<text>Папа, руки поддержи!</text>
+</blocks>

@@ -1,0 +1,66 @@
+Слово Жизни Music — Ты Господь
+BPM: 114
+Источник: https://holychords.pro/426
+
+==================================================
+
+<blocks>
+<chopds>Hm A G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                         Hm                       A</chopds>
+<text>Бог мы пришли к Тебе, что бы быть вновь</text>
+<chopds>            G</chopds>
+<text>В присутствии, обрести любовь.</text>
+<chopds>               Hm                         A</chopds>
+<text>Мы с Тобою Бог, принесём мы,</text>
+<chopds>            G</chopds>
+<text>Всю хвалу к Тебе, в этом месте.</text>
+<chopds>       F#m             G                     F#m         G</chopds>
+<text>Глубоко внутри, в сердце крик души.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>              D                   F#m</chopds>
+<text>Ты Господь, Ты Господь,</text>
+<chopds>               G                    D        A</chopds>
+<text>Для Тебя живём, для Тебя,</text>
+<chopds>              D                   F#m</chopds>
+<text>Ты Господь, Ты Господь,</text>
+<chopds>               G                      D             A          G</chopds>
+<text>Для Тебя живём, Иисус Ты всё во всём.</text>
+<chopds>             Hm   A   G</chopds>
+<text>Для Тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Творец вселенной, Ты пришёл с небес,</text>
+<text>Человеком стал, нам надежду дал.</text>
+<text>Ты жизнь положил, за грехи мои,</text>
+<text>Кровь Свою пролил, что б я вечно жил.</text>
+<text>Пред Тобой стоим, преклоним сердца.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>                            G            A   F#m</chopds>
+<text>В мире нет таких как Ты,</text>
+<chopds>                          G              A   F#m</chopds>
+<text>Ты путь истина и жизнь,</text>
+<chopds>                             G           A  F#m</chopds>
+<text>По среди всей суеты,</text>
+<chopds>                            G            A  F#m</chopds>
+<text>В мире нет таких как Ты.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Aaron Gillespie — We Were Made For You [Английский]
+  https://holychords.pro/7484
+- Fonki Music — Ми народжені для хвали [Украинский]
+  https://holychords.pro/50333

@@ -1,0 +1,66 @@
+Виталий Ефремочкин — Адонай
+BPM: 140
+Источник: https://holychords.pro/157
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Am  G  F  G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Am              G        Dm                         Am</chopds>
+<text>Бог Вечности, Господь неба и земли</text>
+<chopds> F                                   C                        G</chopds>
+<text>Тайна сокрыта в Тебе, Бог Израиля</text>
+<chopds>        Am                             G  Dm                           Am</chopds>
+<text>Да придет Царство Твоё воля да будет Твоя</text>
+<chopds>           F                                              C                                   G</chopds>
+<text>Ты слышишь крик наших сердец побеждающий Царь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>    F                        G               F                   G</chopds>
+<text>Увидит вся земля славу вечного Царя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>        Am            F</chopds>
+<text>Адонай, Адонай!</text>
+<chopds>                C                               G</chopds>
+<text>Преклонится всё скажет вся земля</text>
+<chopds>        Am            F</chopds>
+<text>Адонай, Адонай!</text>
+<chopds>           C                               G</chopds>
+<text>Ты один есть Бог Ты один есть Царь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds> C                               F</chopds>
+<text>Ты Господь неба и земли</text>
+<chopds>                  C                                    G</chopds>
+<text>Ты наш Бог, нет другого как Ты.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- DNG worship — Адонай [Русский]
+  https://holychords.pro/29126
+- Paul Wilbur — Adonai [Английский]
+  https://holychords.pro/34280
+- Paul Wilbur — Адонай [Украинский]
+  https://holychords.pro/35288
+- KCLCWORSHIP — Адонай [Русский]
+  https://holychords.pro/42797
+- Paul Wilbur — Адонай [Русский]
+  https://holychords.pro/43395
+- Світло Життя Боярка — Адонай [Украинский]
+  https://holychords.pro/59140
+- Церковь Вефиль Денвер — Адонай [Русский]
+  https://holychords.pro/60645

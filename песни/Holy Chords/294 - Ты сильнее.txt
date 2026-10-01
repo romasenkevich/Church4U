@@ -1,0 +1,80 @@
+Hillsong Ukraine — Ты сильнее
+Источник: https://holychords.pro/294
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>F2  | C/E  | F2  | C/E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                      F           G               C</chopds>
+<text>К нам с Небес любовь сошла</text>
+<chopds>                          F           G           C</chopds>
+<text>Смиренно крест за нас взяла</text>
+<chopds>                            F              G         Am</chopds>
+<text>Mой стыд и грех Ты смог забрать</text>
+<chopds>                     F            G        F2  | C/E  | F2  | C/E</chopds>
+<text>В победе Ты воскрес опять</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>        F                   G             C</chopds>
+<text>Верен Ты во всём всегда</text>
+<chopds>                    F                           G         C</chopds>
+<text>Даже в шторм и сквозь жар огня</text>
+<chopds>                     F        G   Am</chopds>
+<text>В свободе я живу теперь</text>
+<chopds>           G    F             G              C</chopds>
+<text>Ведь Иисус Христос во мне</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                  C                    G</chopds>
+<text>Ты сильнее, Ты сильнее</text>
+<chopds>                Am                              F</chopds>
+<text>Грех разрушен, Тобой спасён я</text>
+<chopds>               C                          G</chopds>
+<text>Слово верно, что воскрес Ты</text>
+<chopds>        F             G             F2  | C/E  | F2  | C/E</chopds>
+<text>Иисус - Господь всего!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<chopds>                F            G               C</chopds>
+<text>Ты в веках живёшь всегда</text>
+<chopds>             F         G            C</chopds>
+<text>На Тебя Надежда вся</text>
+<chopds>                         F            G           Am</chopds>
+<text>Заблудших Ты пришёл спасти</text>
+<chopds>       G          F              G           C</chopds>
+<text>И на кресте заплатил за них</text>
+</blocks>
+
+<blocks>
+<videlit_line>Instrumental</videlit_line>
+<chopds>F | Am/G | C/E  | G/H  |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>                     F</chopds>
+<text>Мы имя Твоё, Возносим выше</text>
+<chopds>Am                           C                            G</chopds>
+<text>Возносим выше, Возносим выше</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Скиния Worship — Ты сильнее [Русский]
+  https://holychords.pro/10193
+- Hillsong Worship — Stronger [Английский]
+  https://holychords.pro/12346
+- Hillsong Worship — Ти сильніше [Украинский]
+  https://holychords.pro/42299

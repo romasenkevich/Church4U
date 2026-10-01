@@ -1,0 +1,57 @@
+Русавуки — В искании счастья
+Источник: https://holychords.pro/227
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Dm Am Bb Dm</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>       Gm                     A                         Dm  C</chopds>
+<text>В искании счастья я пришёл к Тебе.</text>
+<chopds>         Gm                    A                     Dm   C</chopds>
+<text>Вся прелесть мира не дала душе.</text>
+<chopds>     Gm                C                             F   Dm</chopds>
+<text>Покоя, счастья не нашёл нигде,</text>
+<chopds>                    Gm  Bb                   A</chopds>
+<text>Только в Тебе, только в Тебе.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                         Gm        C                    F   Dm</chopds>
+<text>Христос, с Тобой я жизнь пройду,</text>
+<chopds>                      Gm         A           Dm   C</chopds>
+<text>В словах Твоих покой найду.</text>
+<chopds>                              Gm          C       F    Dm</chopds>
+<text>Твой подвиг – свет в пути моём,</text>
+<chopds>                   Gm          A           Dm</chopds>
+<text>Он приведёт в небесный дом.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Дорога счастья, что ведёт к Тебе,</text>
+<text>Ведёт чрез море с волнами в борьбе.</text>
+<text>И если даже я начну тонуть,</text>
+<text>Ты руку дашь, как дал Петру.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Мне виден берег, что даёт покой,</text>
+<text>Страны, которой не найдёшь другой.</text>
+<text>Смысл жизни вот в чём – только во Христе,</text>
+<text>Любви в полноте Давшего мне.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- FECG Lahr — В искании счастья я пришёл к Тебе [Русский]
+  https://holychords.pro/41997
+- Русавуки — Шукав я щастя [Украинский]
+  https://holychords.pro/68156

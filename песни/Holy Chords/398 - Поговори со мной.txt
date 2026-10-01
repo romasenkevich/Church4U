@@ -1,0 +1,62 @@
+Татьяна Прохор — Поговори со мной
+Источник: https://holychords.pro/398
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>     Hm                                 G</chopds>
+<text>Поговори со мной Господь поговори</text>
+<chopds>       Hm                               G</chopds>
+<text>Дай ощутить Твоё, присутствие в тиши</text>
+<chopds>     A                                                Dsus  D</chopds>
+<text>Ещё не раз тот миг общения подари</text>
+<chopds>      Em                                               F#</chopds>
+<text>Благослови меня Господь, благослови.</text>
+<chopds>     Hm                              G</chopds>
+<text>Не надо мне ни злата, серебра,</text>
+<chopds>           Hm                                    G</chopds>
+<text>Дворцов просторных, славы мишура.</text>
+<chopds>       A                                         Dsus   D</chopds>
+<text>Дороже мне всего Твоя любовь</text>
+<chopds>        Em                                            F#</chopds>
+<text>В ней утонуть хочу я вновь и вновь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>      Hm                             G</chopds>
+<text>Общение с Тобой, дороже мне всего</text>
+<chopds>                   D                            A       F#</chopds>
+<text>В Общении с Тобой, я нахожу покой</text>
+<chopds>          Hm                              G</chopds>
+<text>В присутствии Твоём хочу лишь одного,</text>
+<chopds>                    D                           A                    Hm</chopds>
+<text>Веденья Духа, Духа Твоего. Духа Твоего.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Поговори со мной ,Господь поговори</text>
+<text>Своим дыханьем ветра ,нежно прикоснись</text>
+<text>И силою Своею ,славой озари</text>
+<text>И новой верой в сердце обновись.</text>
+<text>Ведь только Ты услышишь и поймёшь</text>
+<text>Среди всех испытаний проведешь,</text>
+<text>В любви Твоей я силы нахожу,</text>
+<text>Дай волю мне исполнить лишь Твою!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>             Em                   A</chopds>
+<text>Лишь только Ты услышишь и поймёшь</text>
+<chopds>             D                       Hm</chopds>
+<text>Лишь только Ты мир, и покой даёшь</text>
+<chopds>    Em                                   A</chopds>
+<text>Огнём любви гори в моей груди</text>
+<chopds>                G           A                                   Hm</chopds>
+<text>Поговори со мной, Господь поговори</text>
+<chopds>                G           A                                   Hm</chopds>
+<text>Поговори со мной, Господь поговори.</text>
+</blocks>

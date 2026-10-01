@@ -1,0 +1,93 @@
+Hillsong Ukraine — Жив
+BPM: 131
+Источник: https://holychords.pro/107
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>          C                            D</chopds>
+<text>С надеждой мы в начале дня</text>
+<chopds>        Hm                      Em</chopds>
+<text>К Тебе, наш Бог возносим взгляд</text>
+<chopds>             C                                   D</chopds>
+<text>Твой ритм в сердцах настроим мы</text>
+<chopds>    Hm                       Em</chopds>
+<text>Куда пойдем там будешь Ты</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ты пламенем Своим зажег всю жизнь</text>
+<text>Любовь Твоя сверкает в нас</text>
+<text>Дороги все Ты осиял</text>
+<text>И блеском славы тьму прогнал</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>  C                               D</chopds>
+<text>Не угаснет никогда во мне любовь Твоя</text>
+<chopds>Hm                             Em</chopds>
+<text>Ею Ты через меня будешь каждый день сиять</text>
+<chopds>  C                               D</chopds>
+<text>Не угаснет никогда во мне любовь Твоя</text>
+<chopds>Hm                             Em</chopds>
+<text>Ею Ты через меня будешь каждый день сиять</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>      C                           D</chopds>
+<text>Бог, жив во мне Ты жив во мне Ты</text>
+<chopds>Hm                   Em</chopds>
+<text>Ты в сердце жив навечно</text>
+<chopds>      C                           D</chopds>
+<text>Бог, жив во мне Ты жив во мне Ты</text>
+<chopds>Hm                   Em</chopds>
+<text>Ты в сердце жив навечно</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>C             D            Hm                    Em</chopds>
+<text>Навечно, навечно в любви, Бог, Твоей я</text>
+<chopds>C             D            Hm                    Em</chopds>
+<text>Навечно, навечно в любви, Бог, Твоей я</text>
+<chopds>C             D            Hm                    Em</chopds>
+<text>Навечно, навечно в любви, Бог, Твоей я</text>
+<chopds>C             D              Hm       Em</chopds>
+<text>Навечно, навечно всё это мы знаем</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Young & Free — Wake (Live)
+  https://holychords.pro/5624
+- D.Worship — Ти Зі Мною [Украинский]
+  https://holychords.pro/6196
+- Hillsong Moscow — Жив Во Мне Ты
+  https://holychords.pro/6922
+- Виталий Ефремочкин — Мой Бог во мне Ты [Русский]
+  https://holychords.pro/7075
+- Свідоцтво Христа Тернопіль — Ти живий, Бог [Украинский]
+  https://holychords.pro/7930
+- Hillsong Young & Free — Wake (Remix) [Английский]
+  https://holychords.pro/8984
+- Анаит Хачатрян & Евгений Богомазов — Живой [Русский]
+  https://holychords.pro/14618
+- Исход Ростов на Дону — Пробуди [Русский]
+  https://holychords.pro/22985
+- M.Worship — Да, я знаю, да, я верю [Русский]
+  https://holychords.pro/26832
+- Слово Жизни Music — Жив [Русский]
+  https://holychords.pro/30279
+- Hillsong Young & Free — Ти зі мною [Украинский]
+  https://holychords.pro/35835
+- Salem Astana Worship — Жив [Русский]
+  https://holychords.pro/42397
+- CLF WORSHIP — Жив во мне Ты [Русский]
+  https://holychords.pro/62315
+- Hillsong Young & Free — Ти живий, Бог! [Украинский]
+  https://holychords.pro/64567

@@ -1,0 +1,94 @@
+Hillsong Ukraine — В Твоих руках
+Источник: https://holychords.pro/302
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>D   G    Hm   G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                   D                           G            D</chopds>
+<text>День настанет, когда я увижу Тебя</text>
+<chopds>               Hm                                    F#m            A</chopds>
+<text>В благодати явишь мне всё величие небес</text>
+<chopds>         D                                    G                               D</chopds>
+<text>Унесёт страхи все всеобъемлющий Твой свет</text>
+<chopds>        Hm                                        F#m                        A</chopds>
+<text>Буду я в Твоей любви вечно там в свободе жить</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 запев</videlit_line>
+<chopds>                 Em                                   D/F#</chopds>
+<text>Там, где город золотой и в присутствии Твоём</text>
+<chopds>                G</chopds>
+<text>Всё творенье лишь Тебе хвалу поёт</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D                   G                     Hm</chopds>
+<text>Нет плача, страданий нет, нет боли</text>
+<chopds>          G</chopds>
+<text>Ведь я сейчас в Твоих руках</text>
+<chopds>D                   G                     Hm</chopds>
+<text>Нет тьмы там, болезней нет, нет страха</text>
+<chopds>          G</chopds>
+<text>Ведь я сейчас в Твоих руках</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>                   D                                             G                    D      A/C#</chopds>
+<text>Жизнь пройду я с Тобой через радость и боль</text>
+<chopds>               Hm                                    F#m            A</chopds>
+<text>Бог меня не подведёт верю - славный день придёт</text>
+<chopds>                   D                                             G                    D      A/C#</chopds>
+<text>Твоё Имя там в веках не устанут прославлять</text>
+<chopds>               Hm                                    F#m            A</chopds>
+<text>Ради этой славы я буду верить до конца</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 запев</videlit_line>
+<text>Без насилия и войн мирно там живут с Тобой</text>
+<text>Всё творенье лишь Тебе хвалу поёт</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D                G                G/A  Hm</chopds>
+<text>Нет плача, страданий нет, нет боли</text>
+<chopds>          G</chopds>
+<text>Ведь я сейчас в Твоих руках</text>
+<chopds>D                G                G/A  Hm</chopds>
+<text>Нет тьмы там, болезней нет, нет страха</text>
+<chopds>          G</chopds>
+<text>Ведь я сейчас в Твоих руках</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>G   A     Hm   F#m   G    A</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>D                                     A</chopds>
+<text>Сердцем всем своим буду в вечности</text>
+<chopds>Em                            G</chopds>
+<text>Богу славу воздавать</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong United — You Hold Me Now [Английский]
+  https://holychords.pro/1469
+- WOG.Worship — В Твоих руках [Русский]
+  https://holychords.pro/30193
+- Hillsong United — В Твоїх руках [Украинский]
+  https://holychords.pro/49735

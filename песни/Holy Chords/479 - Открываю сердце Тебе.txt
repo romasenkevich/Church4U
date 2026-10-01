@@ -1,0 +1,60 @@
+Алла Чепикова — Открываю сердце Тебе
+Источник: https://holychords.pro/479
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>            Am                     Am/G#    Am/G                Am/F#</chopds>
+<text>Открываю сердце Тебе, наполняешь душу во мне</text>
+<chopds>           Dm7                    Am</chopds>
+<text>Ты Своим теплом, Своим теплом.</text>
+<chopds>          Am                      Am/G#    Am/G                Am/F#</chopds>
+<text>Забываю с Тобой одним суеты моей жизни дни,</text>
+<chopds>           Dm7            Am</chopds>
+<text>Когда рядом Ты, рядом Ты.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>       Dm7</chopds>
+<text>Проходят дни наши, мы летим.</text>
+<chopds>           Am                              Am/C</chopds>
+<text>Сменяются годы один другим,</text>
+<chopds>    H7                       E7</chopds>
+<text>И тают они как звук,</text>
+<chopds>            Am               (A)</chopds>
+<text>Навсегда, навсегда, навсегда.</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 Бридж</videlit_line>
+<chopds>Dm G7 Cmaj7 Fmaj7</chopds>
+<text>И на грешной Земле часть даруешь ты мне,</text>
+<chopds>Dm/H E7 Am</chopds>
+<text>Чтобы верить, чтобы любить.</text>
+<chopds>Dm7 G Cmaj7 Fmaj7</chopds>
+<text>Чтоб Тебя, Боже мой,</text>
+<chopds>Dm/H E7 Am</chopds>
+<text>Чтоб Тебя не забыть.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Когда путь проходил во тьме, когда разум не верил Тебе –</text>
+<text>Ты прости меня, прости меня.</text>
+<text>Как идти по Твоим следам, так любить, как любил Ты Сам,</text>
+<text>Научи меня, научи меня.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Бридж</videlit_line>
+<chopds>Dm7 G7 Cmaj7</chopds>
+<text>Срывает ветер дней страницы,</text>
+<chopds>Dm7 E7 Am7</chopds>
+<text>И вдаль летят они, как птицы.</text>
+<chopds>Dm7 G7 Cmaj7</chopds>
+<text>И в суете таких летящих дней</text>
+<chopds>Dm7 Am/E E7 Am</chopds>
+<text>Нам помоги быть всё мудрей.</text>
+</blocks>

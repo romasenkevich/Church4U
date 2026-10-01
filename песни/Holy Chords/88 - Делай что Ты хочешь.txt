@@ -1,0 +1,44 @@
+R-Voice — Делай что Ты хочешь
+Источник: https://holychords.pro/88
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                           C#m</chopds>
+<text>Делай, что Ты хочешь во мне.</text>
+<chopds>                           G#m</chopds>
+<text>Делай, что Ты хочешь во мне.</text>
+<chopds>           A                        F#m             G#m</chopds>
+<text>Измени меня, измени меня, Иисус.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>                 C#m</chopds>
+<text>Вот моя жизнь, возьми,</text>
+<chopds>                           G#m</chopds>
+<text>Вот сердце моё, измени,</text>
+<chopds>               A                        F#m             G#m</chopds>
+<text>Подними, подними на высоты Свои</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Виталий Ефремочкин — Делай что Ты хочешь во мне [Русский]
+  https://holychords.pro/752
+- Виталий Ефремочкин — Have Your Way [Английский]
+  https://holychords.pro/9634
+- Скиния Worship — Делай, что Ты хочешь, во мне [Русский]
+  https://holychords.pro/32607
+- ЯкмаБенд — Ти все роби, що хочеш в мені [Украинский]
+  https://holychords.pro/44674
+- Виталий Ефремочкин — Делай, что Ты хочешь [Русский]
+  https://holychords.pro/49967
+- Новый Завет Пермь — Делай что ты хочешь во мне [Русский]
+  https://holychords.pro/52228
+- Fonki Music — Ти роби, що хочеш в мені [Украинский]
+  https://holychords.pro/77143
+- Стэйтл — Делай, что Ты хочешь [Русский]
+  https://holychords.pro/80958

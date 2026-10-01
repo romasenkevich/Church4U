@@ -1,0 +1,62 @@
+Просто сосуды — Плач святых
+Источник: https://holychords.pro/416
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>G#m  E/H   F#  D#m</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                  G#m</chopds>
+<text>В мире много блудных сынов,</text>
+<chopds>              E</chopds>
+<text>На дорогах больших городов</text>
+<chopds>                 F#   D#m</chopds>
+<text>Ищут приюта.</text>
+<chopds>              G#m</chopds>
+<text>Сколько их, разбитых семей,</text>
+<chopds>           E</chopds>
+<text>И надежд разбитых вместе с ней,</text>
+<chopds>              F#</chopds>
+<text>В осколки.</text>
+<chopds>                              C#m</chopds>
+<text>Мы не можем больше ждать.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>H/D#         E                                       H                       F#</chopds>
+<text>Плач святых к небесам, по заблудшим сердцам,</text>
+<chopds>                               C#m                                                  E            F#</chopds>
+<text>Мы вернём их в Дом Отца. Мы вернём их в Дом Отца.</text>
+<chopds>H/D#       E                                                 H                       F#</chopds>
+<text>Мы протянем руку тем кто не в силах встать с колен</text>
+<chopds>                         C#m                                              E                   F# D#m</chopds>
+<text>Отец, они придут домой! Отец, они придут домой!</text>
+<chopds>G#m  E  F# D#m</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Даже школы охвачены злобой,</text>
+<text>Церковь вспомни это слово,состраданье!</text>
+<text>Не упустим же поколение,</text>
+<text>В их отчаянии и смятение,</text>
+<text>Бог прославься!</text>
+<chopds>G#m F#  E  H</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>   F#                           E                    H</chopds>
+<text>Блудный сын вернись домой</text>
+<chopds> F#                     E                  H</chopds>
+<text>Церковь, двери открой</text>
+<chopds>   F#                             E                    H</chopds>
+<text>Блудный сын вернись домой</text>
+<chopds>F#                     G#m         E    C#m</chopds>
+<text>Церковь, двери открой</text>
+</blocks>

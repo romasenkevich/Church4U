@@ -1,0 +1,52 @@
+Денис Никитин — Все мы бежим
+Источник: https://holychords.pro/463
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>  C              Dm          C</chopds>
+<text>Все мы бежим какое-то время</text>
+<chopds> Dm                     C</chopds>
+<text>Не понимая куда</text>
+<chopds>                    Dm                          C</chopds>
+<text>Но всё меняется в одно мгновенье</text>
+<chopds>      Dm                       Bb</chopds>
+<text>Если узнаешь Христа</text>
+<chopds>    Am                                 Bb</chopds>
+<text>Солнце становится ярче</text>
+<chopds>  C                  Dm                Bb</chopds>
+<text>Видишь и ты стал другим</text>
+<chopds>       Dm                             Bb</chopds>
+<text>А с Ним не бывает иначе</text>
+<chopds>               Dm                              C</chopds>
+<text>Если Бог изменяет твой мир</text>
+<chopds>              Dm                                   C</chopds>
+<text>Когда Бог изменяет твой мир</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Люди бегут потеряв ориентиры</text>
+<text>Не разбирая дорог</text>
+<text>Построил дом, вырастил сына</text>
+<text>Но в сердце так много тревог</text>
+<text>Солнце клонится к закату</text>
+<text>Жизнь завершает полёт</text>
+<text>Чем моё сердце богато?</text>
+<text>Что наверху меня ждёт?</text>
+<text>Что там наверху меня ждёт?</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 Куплет</videlit_line>
+<text>Все мы живём какое - то время</text>
+<text>Дни мимолётно бегут</text>
+<text>Кто - то рождается, а кто - то стареет</text>
+<text>Но с кем мы проходим свой путь</text>
+<text>Солнце становится ярче</text>
+<text>Видишь и ты стал другим</text>
+<text>А с Ним не бывает иначе</text>
+<text>Если Бог изменяет твой мир</text>
+<text>Когда Бог изменяет твой мир</text>
+</blocks>

@@ -1,0 +1,91 @@
+Размер неба — Любит Бог нас
+BPM: 154
+Источник: https://holychords.pro/48
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>G                                  C/E</chopds>
+<text>Он ревнует меня...  Он словно ураган, дерево - я</text>
+<chopds>  D                                                                          C</chopds>
+<text>То, что стоит, склонившись под ветром милости.</text>
+<chopds>      G                                                                C/E</chopds>
+<text>Бывает, когда я не осознаю,  что мои беды затмил Ты славой.</text>
+<chopds>     D                                                                            C</chopds>
+<text>Но я осознаю, насколько Ты красив, и как сильно привязан ко мне Ты.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>G                             C/E</chopds>
+<text>О, как нас любит Он</text>
+<chopds>                       D                                       C</chopds>
+<text>Как любит Бог нас, как нас любит Он.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                G                                C/E</chopds>
+<text>Любит Бог нас, как любит Бог нас,</text>
+<chopds>                        D                                C</chopds>
+<text>Как любит Бог нас, как любит Он.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>   G                                                          C/E</chopds>
+<text>Мы - Его дети, и Он для нас - все. Он искупил нас, благодать в глазах Его.</text>
+<chopds>         D                                                    C</chopds>
+<text>Раз милость - река, то мы в ней тонем.</text>
+<chopds>          G                                                                         C/E</chopds>
+<text>Как небо сливается жарко с землей,  сильно сердце бьется внутри так что,</text>
+<chopds>            D                                                                  C</chopds>
+<text>Нет времени себя больше жалеть, когда думаю, что так...</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- NG Worship — Как Он любит нас [Русский]
+  https://holychords.pro/70
+- Jesus Culture — How He Loves Us (Live) [Английский]
+  https://holychords.pro/812
+- Роман Белов — Как Ты любишь [Русский]
+  https://holychords.pro/2460
+- Lutsk Bible Worship — Як Він любить нас [Украинский]
+  https://holychords.pro/2519
+- KCLCWORSHIP — Как Он любит [Русский]
+  https://holychords.pro/7086
+- David Crowder Band — How He Loves
+  https://holychords.pro/8348
+- John Mark McMillan — How He Loves [Английский]
+  https://holychords.pro/11842
+- Новое Поколение Кенгарагс — Как Он любит нас [Русский]
+  https://holychords.pro/12324
+- Краеугольный Камень Новосибирск — Как Он Любит [Русский]
+  https://holychords.pro/14215
+- Никита Ярошенко — Как Он любит [Русский]
+  https://holychords.pro/16194
+- Jesus Culture — Он любит [Русский]
+  https://holychords.pro/24884
+- Малин — Оберігає мене [Украинский]
+  https://holychords.pro/27283
+- Alfa Church — Как Он любит нас [Русский]
+  https://holychords.pro/31541
+- вместе music — Как Он любит [Русский]
+  https://holychords.pro/33634
+- CFC Worship — Как Он любит [Русский]
+  https://holychords.pro/42516
+- Jesus Culture — Él Nos Ama [Португальский]
+  https://holychords.pro/51657
+- ReWorship — Як Він любить [Украинский]
+  https://holychords.pro/61971
+- Божий Дар Київ (God's Gift) — О, як Ти любиш [Украинский]
+  https://holychords.pro/63486
+- Преображение VL — Как Он любит [Русский]
+  https://holychords.pro/67607
+- Kim Walker-Smith — How He Loves (Live from Pretoria) [Английский]
+  https://holychords.pro/69438
+- Gabriela Rocha — Me Ama/How He Loves [Португальский]
+  https://holychords.pro/77444

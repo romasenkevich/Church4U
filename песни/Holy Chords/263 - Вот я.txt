@@ -1,0 +1,54 @@
+Просто сосуды — Вот я
+Источник: https://holychords.pro/263
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C               F                C  G</chopds>
+<text>Видел славу я Твою,</text>
+<chopds>C             F                       C  G</chopds>
+<text>Для Тебя теперь живу.</text>
+<chopds>C                  F                           C  G</chopds>
+<text>Святый, Святый, Cвятый Бог,</text>
+<chopds>C          F                            C  G</chopds>
+<text>Изменить меня Ты смог!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>F      C  G         Am</chopds>
+<text>Вот я! Я в Твоих руках!</text>
+<chopds>F      C                       G</chopds>
+<text>Вот я! Пошли меня!</text>
+<chopds>F      C  G         Am</chopds>
+<text>Вот я! Я в Твоих руках!</text>
+<chopds>F      C                       G</chopds>
+<text>Вот я! Пошли меня!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Прикоснулся Ты ко мне</text>
+<text>Своим Словом в тишине,</text>
+<text>И послал меня в народы</text>
+<text>Возвещать Твою свободу!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>F               C            Dm                               A</chopds>
+<text>Снова слышу я в сердце своем: "Кого Мне послать?"</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G     D  A         Hm</chopds>
+<text>Вот я! Я в Твоих руках!</text>
+<chopds>G     D                       A</chopds>
+<text>Вот я! Пошли меня!</text>
+<chopds>G     D  A         Hm</chopds>
+<text>Вот я! Я в Твоих руках!</text>
+<chopds>G     D                       A</chopds>
+<text>Вот я! Пошли меня!</text>
+</blocks>

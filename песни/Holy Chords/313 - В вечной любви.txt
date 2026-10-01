@@ -1,0 +1,47 @@
+Hillsong Ukraine — В вечной любви
+Источник: https://holychords.pro/313
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>              Hm                                    G</chopds>
+<text>Нет сокровищ таких, что бы как-то смогли,</text>
+<chopds>           D</chopds>
+<text>Моё сердце увлечь от Тебя.</text>
+<chopds>            Hm                                  G                                      D</chopds>
+<text>И любви нет такой, ни к себе ни к другим, мой Бог.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>A   Hm    G                                          A                     Hm       G</chopds>
+<text>Иисус, не с чем сравнить ту любовь, что спасла меня,</text>
+<chopds>        A  Hm    G                              A        Hm         G</chopds>
+<text>Спаситель, только лицо я Твоё я ищу всегда.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D                     A</chopds>
+<text>Склоню себя, у ног я Твоих,</text>
+<chopds>Hm                            G</chopds>
+<text>Смирил меня Ты Бог Своим величием.</text>
+<chopds>D                               A</chopds>
+<text>Найду я всё, что так нужно мне,</text>
+<chopds>Hm                                      G                                      Hm</chopds>
+<text>В вечной любви всегда, в вечной любви всегда.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Свою гордость смирил, и мечты отложи,</text>
+<text>Что бы в духе и истине петь.</text>
+<text>Всех желаний важней, для меня Ты ценней, мой Бог.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — Unending Love (Live) [Английский]
+  https://holychords.pro/53520

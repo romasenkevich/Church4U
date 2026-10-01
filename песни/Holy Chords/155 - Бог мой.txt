@@ -1,0 +1,34 @@
+Виталий Ефремочкин — Бог мой
+Источник: https://holychords.pro/155
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Cm        G#                      A#</chopds>
+<text>Я склоняюсь пред Тобой,</text>
+<chopds>Cm          G#                        A#        Gm</chopds>
+<text>Руки свои поднимая ввысь к небу.</text>
+<chopds>Cm           G#                                 A#</chopds>
+<text>Ты - моя радость, Ты - мой покой</text>
+<chopds>Cm              G#                            A#      Gm</chopds>
+<text>Жажду Тебя, к Тебе стремлюсь сердцем.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Cm    G#       A#</chopds>
+<text>Бог мой, славлю Тебя я сердцем.</text>
+<chopds>Cm    G#     A#</chopds>
+<text>Бог мой, Ты - жизнь моя.</text>
+<chopds>Cm    G#          A#</chopds>
+<text>Бог мой, хочу я услышать голос Твой,</text>
+<chopds>G#                  A#</chopds>
+<text>Идти за Тобой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>      Cm                 G#                  A#</chopds>
+<text>Ты - Царь мой, Бог мой, Иисус</text>
+</blocks>

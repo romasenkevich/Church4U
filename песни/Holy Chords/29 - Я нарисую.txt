@@ -1,0 +1,49 @@
+Imprintband — Я нарисую
+BPM: 110
+Источник: https://holychords.pro/29
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>Em                                                            C</chopds>
+<text>Я нарисую цветы на ледяном окне</text>
+<chopds>                                          H7</chopds>
+<text>Кого-то пусть они согреют</text>
+<chopds>Em                                                          C</chopds>
+<text>Я нарисую, а этот мир, что за окном</text>
+<chopds>                                                         H7</chopds>
+<text>Пусть станет хоть на миг добрее.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>Am                  C</chopds>
+<text>Я разрисую через окно,</text>
+<chopds>             G                              D       Em</chopds>
+<text>Весь мир, пусть станет он похожим.</text>
+<chopds>Am                         C</chopds>
+<text>На те цветные детские сны,</text>
+<chopds>G            D         Em</chopds>
+<text>Если не я, то кто же?</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>      Em          C                      G   D</chopds>
+<text>Нарисую цветы на стекле,</text>
+<chopds>                Em                   C                 G   D</chopds>
+<text>Чтобы всё видеть в розовом цвете,</text>
+<chopds>             Em             C                G   D</chopds>
+<text>Чтобы поняли все на земле,</text>
+<chopds>              Em                     C                     G    D</chopds>
+<text>Что за завтрашний день мы в ответе.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Я нарисую улыбку мелом на стене</text>
+<text>Кого-то пусть она согреет</text>
+<text>Я на рисую, а люди, те, кто за стеной</text>
+<text>Пусть станут хоть на миг добрее.</text>
+</blocks>

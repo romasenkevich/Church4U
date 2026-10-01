@@ -1,0 +1,40 @@
+Imprintband — Я не забуду никогда
+Источник: https://holychords.pro/437
+
+==================================================
+
+<blocks>
+<chopds>F   Dm   Am   C</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Dm                                C                                                       F</chopds>
+<text>Я, как исписанный лист был в мусор брошен и забыт</text>
+<chopds>                                          Am</chopds>
+<text>Но Ты нашел меня однажды</text>
+<chopds>Dm                                          C                                              F</chopds>
+<text>Расправил и взглянул туда стёр все ненужное тогда</text>
+<chopds>                                                 Am</chopds>
+<text>С нуля началась жизнь моя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C            G               Am                      F                   Am</chopds>
+<text>Я не забуду никогда когда коснулся Ты меня</text>
+<chopds>                        G                    C     F</chopds>
+<text>Звучат во мне Твои слова</text>
+<chopds>     C               G                       Am                   F                      Am</chopds>
+<text>О том, что любишь Ты меня что не оставишь никогда</text>
+<chopds>                 G                    C     F</chopds>
+<text>Что я навек Твое дитя</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>С Тобою я не одинок познал Тебя, великий Бог</text>
+<text>Ты освятил меня Собою</text>
+<text>Теперь жизнь новая с Тобой ушло все прошлое долой</text>
+<text>Омытый я святой Кровью</text>
+</blocks>

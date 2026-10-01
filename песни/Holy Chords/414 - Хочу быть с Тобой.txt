@@ -1,0 +1,34 @@
+Филип Реннер — Хочу быть с Тобой
+Источник: https://holychords.pro/414
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>G                                            C</chopds>
+<text>В Твоем присутствии стою я,</text>
+<chopds>               G                 C</chopds>
+<text>Растворяюсь в Тебе,</text>
+<chopds>G                                   C</chopds>
+<text>Твоим дыханием дышу я.</text>
+<chopds>          Am          D                C</chopds>
+<text>Я нуждаюсь лишь в Тебе.</text>
+<chopds>             D   C               G</chopds>
+<text>Я прошу быть с Тобой</text>
+<chopds>             D   C               G</chopds>
+<text>Я хочу быть с Тобой</text>
+<chopds>     C                      G</chopds>
+<text>Я весь Твой, я весь Твой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Em                     C                    G                    D</chopds>
+<text>Ты Великий, Ты Святый, Ты верный Бог</text>
+<chopds>Em                     C                    G                    D</chopds>
+<text>Ты Великий, Ты Святый, Ты верный Бог</text>
+<chopds>          D   C               G</chopds>
+<text>Я хочу быть с Тобой</text>
+<chopds>         D    C               G</chopds>
+<text>Я хочу быть с Тобой</text>
+</blocks>

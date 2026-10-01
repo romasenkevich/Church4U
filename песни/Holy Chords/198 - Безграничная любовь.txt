@@ -1,0 +1,44 @@
+Skeemans Worship — Безграничная любовь
+Источник: https://holychords.pro/198
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                 Em             C      G               D</chopds>
+<text>Ты Мой Царь Ты мой Бог Всемогущий</text>
+<chopds>              Em              C               G   D</chopds>
+<text>Всё, что есть отдаю лишь Тебе</text>
+<chopds>          Em                    C                   G    D</chopds>
+<text>Подарил Ты мне жизнь и свободу</text>
+<chopds>              Em                   C           G        D</chopds>
+<text>Выбор дал лишь Тебя выбрал я</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>               Em                   C                       G               D</chopds>
+<text>Только Ты мне доказал Свою любовь</text>
+<chopds>          Em              C                    G   D</chopds>
+<text>Я растаю в присутствии Твоём</text>
+<chopds>Em       C      G        D</chopds>
+<text>О-о-о, о-о-о, Иисус выше всех имен</text>
+<chopds>Em       C        G        D</chopds>
+<chopds>О-о-о, о-о-о...</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ты мой путь я пойду за Тобой, Бог</text>
+<text>Я сдаюсь, отдаю все Тебе</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<text>Только Ты мне доказал Свою любовь</text>
+<text>Я растаю в присутствии Твоем</text>
+<text>Знаю рядом Ты со мной всегда</text>
+<text>Безгранично любишь Ты меня.</text>
+<text>О-о-о, о-о-о, Иисус выше всех имен</text>
+<text>О-о-о, о-о-о, Достоин славы только Он</text>
+</blocks>

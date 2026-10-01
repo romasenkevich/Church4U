@@ -1,0 +1,65 @@
+Виталий Ефремочкин — Излей дождь
+BPM: 135
+Источник: https://holychords.pro/150
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                  G#m               E</chopds>
+<text>Небо вокруг сгущает тучи</text>
+<chopds>               G#m                 E</chopds>
+<text>И все ветра меняют путь</text>
+<chopds>                G#m                   E</chopds>
+<text>И подо мной земля готова</text>
+<chopds>                   G#m                        E                                 H</chopds>
+<text>Я жду, с небес прольется дождь, прольется дождь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>        E</chopds>
+<text>Живую воду с неба ждем наполни нас святым огнем</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>      H</chopds>
+<text>Излей дождь на жизнь мою, Господь прошу</text>
+<chopds>       E</chopds>
+<text>Излей дождь, Ты слышишь, вся земля поет</text>
+<chopds>      H</chopds>
+<text>Излей дождь, не устану, буду петь</text>
+<chopds>       E</chopds>
+<text>Излей дождь, излей Свой дождь</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Смотрю назад, мне нет там места</text>
+<text>Хочу мечтать с Тобой сейчас</text>
+<text>Я слышу гром, и бьется сердце</text>
+<text>Бегу туда, туда где Ты, туда где Ты</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>  A       E/Ab    H     F#/H</chopds>
+<text>Дух Святой, Дух Святой</text>
+<chopds>   D          A             E</chopds>
+<text>Дух Святой, наполни</text>
+<chopds>     A       E/Ab      H     F#/H</chopds>
+<text>Прикоснись, прикоснись</text>
+<chopds>     D          A             E</chopds>
+<text>Прикоснись к сердцам</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Delirious? — Излей дождь [Русский]
+  https://holychords.pro/21679
+- Delirious? — Rain Down [Английский]
+  https://holychords.pro/21684
+- Delirious? — Дождь льет [Русский]
+  https://holychords.pro/60427

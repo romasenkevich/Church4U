@@ -1,0 +1,40 @@
+R-Voice — В моем сердце
+Источник: https://holychords.pro/376
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>  E                       H</chopds>
+<text>На коленях в поклоненьи</text>
+<chopds>C#m            A                               E</chopds>
+<text>Отдаю себя, чтоб найти Тебя,</text>
+<chopds>H/D#                 C#m  A</chopds>
+<text>Боже я весь Твой</text>
+<chopds>   E                      H</chopds>
+<text>Жизнь моя у ног  Твоих,</text>
+<chopds>  C#m                   A                    E</chopds>
+<text>Милостью Твоей я сокрушён</text>
+<chopds>         H/D#                    C#m  A</chopds>
+<text>У престола у ног Твоих</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>               A                E</chopds>
+<text>Я воззвал, Ты ответил</text>
+<chopds>H/D#    C#m</chopds>
+<text>И пришёл Ты на помощь ко мне</text>
+<chopds>A                       E           H/D#   C#m</chopds>
+<text>Хочу быть я там где Ты</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>C#m                               H/D#</chopds>
+<text>В моем сердце прославлен будь</text>
+<chopds>E                                  H/F#</chopds>
+<text>В моей жизни прославлен будь</text>
+<chopds>C#m                              H             A    H</chopds>
+<text>В моем мире прославлен будь</text>
+</blocks>

@@ -1,0 +1,70 @@
+Hillsong Ukraine — Только Ты
+BPM: 148
+Источник: https://holychords.pro/98
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Hm   F#m   E/G#   A   E</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>F#m     D                     E</chopds>
+<text>На высотах и в долине знаю, Ты - со мной</text>
+<chopds>F#m         D                      E</chopds>
+<text>Будешь рядом, не оставишь, куда бы я не шел</text>
+<chopds>F#m           D                E                                            F#m</chopds>
+<text>Ты - Мессия, Всемогущий, души Спаситель мой</text>
+<chopds>       D                         E</chopds>
+<text>Души Спаситель мой</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Среди света и во мраке Ты верен, как никто</text>
+<text>Охраняешь каждый шаг мой и ведёшь, Господь</text>
+<text>Ты - Мессия, Всемогущий, души Спаситель мой</text>
+<text>Души Спаситель мой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>F#m    D                             E</chopds>
+<text>От Тебя не скрыться мне</text>
+<chopds>F#m    D               E</chopds>
+<text>От Тебя не убежать</text>
+<chopds>F#m            D                       E</chopds>
+<text>И если вдруг с пути сойду,</text>
+<chopds>                        F#m             D                     E</chopds>
+<text>По имени меня Ты сразу станешь звать</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Hm                            F#m          E/G#</chopds>
+<text>Ведь только Ты спасешь нас, Иисус</text>
+<chopds>A                               E</chopds>
+<text>Исцелишь лишь Ты нас, Иисус</text>
+<chopds>Hm                        F#m      E/G#</chopds>
+<text>Только Ты всё склеишь, Иисус</text>
+<chopds>A                E</chopds>
+<text>Только Ты, Иисус</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>             D                 F#m</chopds>
+<text>Все ворота Ты открыл нам</text>
+<chopds>                 E</chopds>
+<text>Всех разбитых - Ты избрал нас</text>
+<chopds>           D               F#m           E</chopds>
+<text>Весь город оживает, Господь, в Тебе</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — Only You [Английский]
+  https://holychords.pro/71853

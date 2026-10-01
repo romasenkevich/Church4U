@@ -1,0 +1,96 @@
+Филип Реннер — Я разрушаю
+BPM: 131
+Источник: https://holychords.pro/407
+
+==================================================
+
+<blocks>
+<videlit_line>Вступление: х2</videlit_line>
+<chopds>A D | A D</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 КУПЛЕТ</videlit_line>
+<chopds>F#m            E</chopds>
+<text>Отложу заботы дня,</text>
+<chopds>    D                    E</chopds>
+<text>Всё что отвлекает меня</text>
+<chopds> F#m                  E/G#</chopds>
+<text>Всё кладу у подножья Креста,</text>
+<chopds>      Hm                D</chopds>
+<text>Всего Тебе отдаю</text>
+</blocks>
+
+<blocks>
+<videlit_line>ПРИПЕВ</videlit_line>
+<chopds>                 A                             E/G#</chopds>
+<text>Я разрушаю всё то, что стеной</text>
+<chopds>                   F#m                    D</chopds>
+<text>Нас разделяет Иисус с Тобой</text>
+<chopds>                        A                            E/G#</chopds>
+<text>Всё, что мешает нам быть вдвоём</text>
+<chopds>                      F#m                       D</chopds>
+<text>Иисус так хочу встречи с Тобой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>A D | A D</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 КУПЛЕТ</videlit_line>
+<chopds>F#m                               E</chopds>
+<text>Сердце стук славит лишь Тебя</text>
+<chopds> D                     E</chopds>
+<text>Бог мне дал новую жизнь</text>
+<chopds>F#m            E/G#</chopds>
+<text>Ты моя любовь навсегда</text>
+<chopds>              Hm                     D</chopds>
+<text>Не расстанемся никогда</text>
+</blocks>
+
+<blocks>
+<videlit_line>ПРИПЕВ: х2</videlit_line>
+<chopds>                 A                              E/G#</chopds>
+<text>Я разрушаю всё то, что стеной</text>
+<chopds>                   F#m                     D</chopds>
+<text>Нас разделяет Иисус с Тобой</text>
+<chopds>                       A                             E/G#</chopds>
+<text>Всё, что мешает нам быть вдвоём</text>
+<chopds>                      F#m                      D</chopds>
+<text>Иисус так хочу встречи с Тобой</text>
+</blocks>
+
+<blocks>
+<videlit_line>МОСТ</videlit_line>
+<chopds>                 D                  E</chopds>
+<text>Ты так близок мне, близок мне</text>
+<chopds>  F#m                    E</chopds>
+<text>Близок мне, Иисус</text>
+<chopds>                 D                  E</chopds>
+<text>Ты так близок мне, близок мне</text>
+<chopds>  F#m                    E</chopds>
+<text>Близок мне, Иисус</text>
+<chopds>               D                E                          F#m                           E</chopds>
+<text>Только Ты, Иисус, Ты Иисус, Только Ты, Иисус, Только Ты</text>
+<chopds>               D                E                          F#m                           E</chopds>
+<text>Только Ты, Иисус, Ты Иисус, Только Ты, Иисус, Только Ты</text>
+</blocks>
+
+<blocks>
+<videlit_line>ПРИПЕВ: х2</videlit_line>
+<chopds>                 A                              E/G#</chopds>
+<text>Я разрушаю всё то, что стеной</text>
+<chopds>                   F#m                     D</chopds>
+<text>Нас разделяет Иисус с Тобой</text>
+<chopds>                       A                             E/G#</chopds>
+<text>Всё, что мешает нам быть вдвоём</text>
+<chopds>                      F#m                      D</chopds>
+<text>Иисус так хочу встречи с Тобой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш: х2</videlit_line>
+<chopds>A D | A D</chopds>
+</blocks>

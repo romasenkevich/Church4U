@@ -1,0 +1,30 @@
+Спасіння Вишневе — Ты прекрасен и велик
+Источник: https://holychords.pro/277
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds> Dm                       Gm             A</chopds>
+<text>Не изведаны глубины Твои</text>
+<chopds>Dm                                F        A</chopds>
+<text>И необъяснимы дела Твои!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>               Gm                A</chopds>
+<text>Ты прекрасен и велик!</text>
+<chopds>               Dm     C              Bb</chopds>
+<text>По красоте Ты несравним ни с чем.</text>
+<chopds>        Gm                                A</chopds>
+<text>Как солнце ясное Твой Лик,</text>
+<chopds>          Dm                D7</chopds>
+<text>Как огонь Ты могуществен!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Не существует Славы превыше Твоей.</text>
+<text>Какое счастье, Боже, что Ты в жизни моей!</text>
+</blocks>

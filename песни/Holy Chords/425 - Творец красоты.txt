@@ -1,0 +1,26 @@
+Слово Жизни Music — Творец красоты
+Источник: https://holychords.pro/425
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>D                               F#m  D                      F#m</chopds>
+<text>Создатель всей земли, Творец красоты,</text>
+<chopds>D                             F#m</chopds>
+<text>Нет подобного Тебе.</text>
+<chopds>D                                F#m  D                           F#m</chopds>
+<text>Весь мир в Твоей руке, Ты умер на кресте.</text>
+<chopds>D                               F#m     G</chopds>
+<text>Нет подобного Тебе, Тебе.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  D                A           G                              D   A   G</chopds>
+<text>Сердце моё исцелил, Ты дал мне воздух.</text>
+<chopds>   D           A              G</chopds>
+<text>Жизнь мою искупил,</text>
+<chopds>                     F#m                        G                  D   F#m</chopds>
+<text>Ты знал меня прежде чем создал, Иисус.</text>
+</blocks>

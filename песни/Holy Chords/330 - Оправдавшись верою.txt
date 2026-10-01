@@ -1,0 +1,41 @@
+Игорь Сидоров — Оправдавшись верою
+BPM: 126
+Источник: https://holychords.pro/330
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>G                     D            Am                                    Em</chopds>
+<text>Победил Ты, победил на Голгофском кресте,</text>
+<chopds>G                                       D         Am                  Em</chopds>
+<text>Смертью жизнь нам подарил Иисус Назорей.</text>
+<chopds>G                          D          Am                                    Em</chopds>
+<text>Своею кровью искупил Он нас от власти греха,</text>
+<chopds>G                                    D             Am                             C</chopds>
+<text>Прощен, спасен, освобождён, иду к Нему в небеса.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>             Em                    D</chopds>
+<text>Оправдавшись верою,</text>
+<chopds>           Am                                           C</chopds>
+<text>Мы имеем мир с Богом через Господа,</text>
+<chopds>           Em                      D</chopds>
+<text>Оправдавшись верою,</text>
+<chopds>                Am                 C</chopds>
+<text>Верой в Господа Иисуса Христа.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Мой Господь Иисус Христос в дивной славе придет,</text>
+<text>И всех, кто жизнь отдал Ему, Он с Собой заберет.</text>
+<text>Там будем вечно в небесах мы славить имя Отца,</text>
+<text>И всё, что нужно для меня – пройти весь путь до конца.</text>
+<chopds>C                              Hm</chopds>
+<text>Ты оправдал меня...</text>
+<chopds>Am                           G                   C      D    Esus  E</chopds>
+<text>Ты оправдал меня... Навсегда...</text>
+</blocks>

@@ -1,0 +1,46 @@
+Слово Жизни Music — Печать Твоей любви
+Источник: https://holychords.pro/472
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C#m                                      A</chopds>
+<text>Ты ждёшь, когда приду я к Тебе</text>
+<chopds>E              F#m</chopds>
+<text>Такой как есть</text>
+<chopds>C#m                                      A</chopds>
+<text>Ты ждёшь, когда приду я к Тебе</text>
+<chopds>E              F#m</chopds>
+<text>Такой как есть</text>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>    C#m                        A                         E</chopds>
+<text>Печать Твоей любви в сердце моём</text>
+<chopds>   F#m                   C#m</chopds>
+<text>Навеки и навсегда</text>
+<chopds>                  A                   E</chopds>
+<text>Как велика Твоя любовь</text>
+<chopds>F#m                                      C#m</chopds>
+<text>Ревность как летящая стрела</text>
+<chopds>                       A        E                        F#m</chopds>
+<text>Ничто не в силах угасить любовь</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 бридж</videlit_line>
+<text>Приди огнем Своим, Господь,</text>
+<text>Сожги мой грех, омой меня</text>
+<text>Приди огнём Своим, Господь,</text>
+<text>И будем вместе Ты и я</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 бридж</videlit_line>
+<text>Больше не хочу говорить я</text>
+<text>И в ночной тишине</text>
+<text>Лишь смотреть на Тебя хочу,</text>
+<text>Только петь Тебе.</text>
+</blocks>

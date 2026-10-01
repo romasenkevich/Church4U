@@ -1,0 +1,70 @@
+Євангельські Пісні — За все Тобі я дякую
+Источник: https://holychords.pro/241
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>   Gm                               D                    Gm</chopds>
+<text>За все Тобі я дякую, Ісусе Спасе мій.</text>
+<chopds>    Gm                                            D                     Gm</chopds>
+<text>За Кров святу пролитую, за дар любові Твій.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds>   Bb                           F/A                        Adim</chopds>
+<text>Я дякую за все, за те що спас мене.</text>
+<chopds>     Gm    Gm/F  Eb         D                      Gm  F/A</chopds>
+<text>За те, що небо дав, мене своїм назвав,</text>
+<chopds>  Bb                                  F/A                 Adim</chopds>
+<text>О Господи святий, живи в душі моїй,</text>
+<chopds>        Gm   Gm/F    Eb        D                           Gm</chopds>
+<text>Завжди мене навчай, веди в небесний край.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>За все Тобі я дякую, що Ти у світ прийшов.</text>
+<text>І душу змучену мою для вічності знайшов.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет: +2</videlit_line>
+<chopds>    Am                                  E                        Am</chopds>
+<text>За все Тобі я дякую, за мир і Дух Святий,</text>
+<chopds>       Am  Am/G  F                E                        Am  G</chopds>
+<text>Що Ти у пору всякую живеш в душі моїй.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Приспів</videlit_line>
+<chopds>   C                             G/H                      Hdim</chopds>
+<text>Я дякую за все, за те що спас мене.</text>
+<chopds>     Am     Am/G  F          E                        Am  G/H</chopds>
+<text>За те, що небо дав, мене своїм назвав,</text>
+<chopds>  C                                     G/H               Hdim</chopds>
+<text>О Господи святий, живи в душі моїй,</text>
+<chopds>        Am  Am/G     F           E                             Am</chopds>
+<text>Завжди мене навчай, веди в небесний край.</text>
+</blocks>
+
+<blocks>
+<videlit_line>4 куплет</videlit_line>
+<text>За все Тобі я дякую, Ти небо дав мені.</text>
+<text>Я з вічною подякою служитиму Тобі.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Песнь Возрождения — Я шчыра Табе дзякую [Белорусский]
+  https://holychords.pro/18889
+- Владимир Лимаренко — За всё Тебя благодарю… [Русский]
+  https://holychords.pro/47328
+- Церква Святої Трійці м. Рівне — За все Тобі я дякую! [Украинский]
+  https://holychords.pro/51157
+- Владимир Лимаренко — Тобі я дякую [Украинский]
+  https://holychords.pro/71549
+- Владимир Лимаренко — За всичко Ти благодаря [Болгарский]
+  https://holychords.pro/71551

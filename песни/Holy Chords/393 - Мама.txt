@@ -1,0 +1,96 @@
+Real Ivanna — Мама
+Источник: https://holychords.pro/393
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds> Hm                                      D</chopds>
+<text>Мама - самое первое слово,</text>
+<chopds>                               Em                                G        F#</chopds>
+<text>Самое нежное чувство, самая верная в мире любовь.</text>
+<chopds>  Hm                                       D</chopds>
+<text>Мама - добрая, светлая сказка,</text>
+<chopds>                                Em                                G                F#</chopds>
+<text>Чистая, крепкая дружба, что исцеляет меня вновь и вновь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>C#m                              G#m7</chopds>
+<text>Год за годом мчится, тебя рядом нет,</text>
+<chopds>F#m                       A                 G#</chopds>
+<text>У кого учиться, вижу мамы силуэт.</text>
+<chopds>C#m                              G#m7</chopds>
+<text>Не прошу я больше, чем ты дать смогла.</text>
+<chopds>F#m                                 A          G#</chopds>
+<text>Я прошу лишь только твоего тепла.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     C#m                          E</chopds>
+<text>Дороги и страны, верните мне маму.</text>
+<chopds>                    F#m                  A   G#</chopds>
+<text>Я вас умоляю, минуты считаю.</text>
+<chopds>                   C#m                         E</chopds>
+<text>Я болью наелась, разлукой запила.</text>
+<chopds>                    F#m                             A   G#    C#m</chopds>
+<text>Я мамину нежность так долго хранила.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Мама- радостный солнечный лучик,</text>
+<text>Что согревает в минуты, когда на душу насела печаль.</text>
+<text>Мама-знаю, что нет в мире лучшей,</text>
+<text>Нет такой доброй и нежной, мама всего лишь одна у меня.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<text>Год за годом мчится, а тебя все нет,</text>
+<text>Я смотрю на лица, вижу мамы силуэт.</text>
+<text>Знаю не смогу я до конца всех дней</text>
+<text>Всю твою заботу перекрыть своей.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     D#m                          F#</chopds>
+<text>Дороги и страны, верните мне маму.</text>
+<chopds>                    G#m                  H   A#</chopds>
+<text>Я вас умоляю, минуты считаю.</text>
+<chopds>                   D#m                         F#</chopds>
+<text>Я болью наелась, разлукой запила.</text>
+<chopds>                    G#m                             H   A#    D#m</chopds>
+<text>Я мамину нежность так долго хранила.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>D#m</chopds>
+<text>Спасибо, за то, что растила меня,</text>
+<chopds>                       F#</chopds>
+<text>Теплом согревала, когда я спала,</text>
+<chopds>                   A#m</chopds>
+<text>Что не отказалась весь путь ты пройти.</text>
+<chopds>C#                  D#m</chopds>
+<text>И за горечи жизни, что перенесла,</text>
+<chopds>                     F#</chopds>
+<text>За каждую ночь, что в слезах провела,</text>
+<chopds>                      A#m                               C#</chopds>
+<text>За все твои раны на этом пути- прости.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     Fm                          G#</chopds>
+<text>Дороги и страны, верните мне маму.</text>
+<chopds>                    A#m                  C#   C</chopds>
+<text>Я вас умоляю, минуты считаю.</text>
+<chopds>                   Fm                         G#</chopds>
+<text>Я болью наелась, разлукой запила.</text>
+<chopds>                    A#m                             C#   C    Fm</chopds>
+<text>Я мамину нежность так долго хранила.</text>
+</blocks>

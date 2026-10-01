@@ -1,0 +1,116 @@
+Виталий Ефремочкин — Благословлю Тебя
+Источник: https://holychords.pro/144
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>C                    G                      Am                F</chopds>
+<text>Благословлю Тебя на земле, что богата всем,</text>
+<chopds>             C               G                                     F</chopds>
+<text>Где течёт молоко и мёд, благословлю Тебя.</text>
+<chopds>C                    G                      Am                F</chopds>
+<text>Благословлю Тебя и в пустыне, в которой я,</text>
+<chopds>              C                G                                 F</chopds>
+<text>Проходя и долиной зла, благословлю Тебя!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>C                           G                      Am                       F</chopds>
+<text>Благословенья изливаешь, чтоб славить мне.</text>
+<chopds>C                               G                  Am                   F</chopds>
+<text>Где бы ни был, что б ни делал - я пою Тебе.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                                C                    G</chopds>
+<text>Благословлю Тебя, мой Господь,</text>
+<chopds>                              Am                F</chopds>
+<text>Благословлю Тебя,</text>
+<chopds>                                C                    G</chopds>
+<text>Благословлю Тебя, мой Господь,</text>
+<chopds>                        Am   G           F</chopds>
+<text>Воспою благое Имя Твоё!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>         C                               G</chopds>
+<text>Ты можешь всё мне дать,</text>
+<chopds>      Am                         F</chopds>
+<text>Ты можешь всё отнять,</text>
+<chopds>      C                   G</chopds>
+<text>Но я хочу за всё</text>
+<chopds>    Am                     F</chopds>
+<text>Тебя благословлять!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Голгофа церква — Будь благословен [Украинский]
+  https://holychords.pro/1277
+- Matt Redman — Будь благословен [Русский]
+  https://holychords.pro/2334
+- Ян Прадвесьнік царква — Будзь праслаўлены [Белорусский]
+  https://holychords.pro/9935
+- Алексей Каратаев — Благословляю имя Твоё [Русский]
+  https://holychords.pro/10147
+- Християнська Божа Церква — Будь Благословен [Русский]
+  https://holychords.pro/16266
+- CZB Worship — Dir gehört mein Lob (Live) [Немецкий]
+  https://holychords.pro/23636
+- Matt Redman — Blessed Be Your Name (acoustic) [Английский]
+  https://holychords.pro/24869
+- Слово Жизни Москва — Благословляю Имя Твоё [Русский]
+  https://holychords.pro/24906
+- Newsboys — Blessed be Your name [Английский]
+  https://holychords.pro/34060
+- Ekklesia — Fii binecuvantat [Румынский]
+  https://holychords.pro/34269
+- Слово життя Біла Церква — Благословенно Имя Твое [Русский]
+  https://holychords.pro/35115
+- Новый Завет Пермь — Благословляю имя Твоё [Русский]
+  https://holychords.pro/35123
+- Matt Redman — Благословлю Тебе [Украинский]
+  https://holychords.pro/35167
+- CLUB J — Blessed Be Your Name [Английский]
+  https://holychords.pro/38706
+- PREO Worship — Будь благословен [Украинский]
+  https://holychords.pro/46149
+- Петро Грифель — Будь благословен навіки! [Украинский]
+  https://holychords.pro/48168
+- Живе Слово c.Гора — Славлю Тебе я [Украинский]
+  https://holychords.pro/48627
+- SomeLines — Будь благословен (Live) [Украинский]
+  https://holychords.pro/49602
+- Titus Major — Blessed Be Your Name [Английский]
+  https://holychords.pro/52581
+- Церква Християн Херсон — Славлю я Тебе! [Украинский]
+  https://holychords.pro/54848
+- Tree63 — Blessed Be Your Name [Английский]
+  https://holychords.pro/58059
+- Matt Redman — Blessed Be Your Name [Английский]
+  https://holychords.pro/59667
+- Alive Worship — Dir gehört mein Lob [Немецкий]
+  https://holychords.pro/63335
+- Holy Worship Band — Будь благословен [Украинский]
+  https://holychords.pro/65034
+- Matt Redman — Будь благословен [Украинский]
+  https://holychords.pro/67878
+- Перемога Житомир — Будь благословен навіки [Украинский]
+  https://holychords.pro/68640
+- Matt Redman — Ысымың Даңкталсын [Кыргызский]
+  https://holychords.pro/72160
+- ЕЛЕЙ — Будь благословен, мой Господь [Русский]
+  https://holychords.pro/74715
+- Stéphane Quéry — Béni Soit Ton Nom (Live) [Французский]
+  https://holychords.pro/79339
+- Неизвестен — Благославям Те [Болгарский]
+  https://holychords.pro/79364
+- Тора (Македонија) — Благословен си ти [Македонский]
+  https://holychords.pro/80645
+- Lifegate Worship Serbia — Blagoslovljeno ime Gospodnje [Сербский]
+  https://holychords.pro/82359

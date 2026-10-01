@@ -1,0 +1,28 @@
+Филип Реннер — Расширяя границы
+Источник: https://holychords.pro/413
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>  Hm                               A</chopds>
+<text>Мы идем вперед принести любовь</text>
+<chopds>Hm                                      A</chopds>
+<text>И сердца горят Тобою, Иисус</text>
+<chopds>   Hm                       A</chopds>
+<text>Всем рассказать о Твоей любви</text>
+<chopds>                         D                                G</chopds>
+<text>Стремимся выше, стремимся выше</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                            D                              A/C#</chopds>
+<text>Расширяя границы мы идем вперед</text>
+<chopds>                                   F#m                                  E</chopds>
+<text>Сердце жаждет Иисуса и победа нас ждет</text>
+<chopds>                            D                                    A/C#</chopds>
+<text>Расширяя границы достигаем сердца</text>
+<chopds>                               F#m                                          E</chopds>
+<text>Твердо в вере стоим мы и бежим до конца</text>
+</blocks>

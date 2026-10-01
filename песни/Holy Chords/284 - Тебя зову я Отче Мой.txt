@@ -1,0 +1,44 @@
+Lena Isayev — Тебя зову я Отче Мой
+Источник: https://holychords.pro/284
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>    Am                       Em/G       F                    C/E</chopds>
+<text>Тебя зову я Отче Мой но на Тебя я не похожа</text>
+<chopds>        Dm                                 Am/C        Dm/H                                     E</chopds>
+<text>Как часто мне исполнить сложно закон малейший Боже Твой</text>
+<chopds>      Am                        Em/G           F                                 C/E</chopds>
+<text>Но разве так Твое дитя должно идти земной дорогой</text>
+<chopds>          Dm                      Am/C         Dm/H                           E</chopds>
+<text>Ведь я собрание пороков страстей суетного бытья</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>          C                                F/C         E/G#  E                    Am  Am/G</chopds>
+<text>Так редко мной руководят святые горные стремленья</text>
+<chopds>           F                                  C            Dm                              Dm/H   E</chopds>
+<text>Но плоти, крови вожделенья порой так громко говорят</text>
+<chopds>    C                                 F/C          E/G#        E                     Am  Am/G</chopds>
+<text>И остаеться лишь одно в слезах расскаянья, в смиреньи</text>
+<chopds>          F                                     C          Dm                               G</chopds>
+<text>Мне у Тебя просить прощенья иной отрады не дано</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Пусть черноту души моей омоет кровь Твоя святая</text>
+<text>И чистых грез вода живая наполнит высохший ручей</text>
+<text>Мне б так хотелось обещать свершить святую перемену</text>
+<text>Но я как узник плоти тленной не в силах это исполнять</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Я б не смогла по духу жить но Ты прощением богатый</text>
+<text>Ты можешь мраком дух обьятый в жилище свету превратить</text>
+<text>Как бедный мытарь у дверей я низко голову склоняю</text>
+<text>И в сокрушенью умоляю будь милостив к душе моей</text>
+</blocks>

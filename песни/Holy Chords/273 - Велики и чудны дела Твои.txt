@@ -1,0 +1,130 @@
+Валерий Короп — Велики и чудны дела Твои
+Источник: https://holychords.pro/273
+
+==================================================
+
+<blocks>
+<videlit_line>Вступ</videlit_line>
+<chopds>Em Am Hm Em C Hm Em</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет: х2</videlit_line>
+<chopds>Em           Am           Hm    Em</chopds>
+<text>Велики и чудны дела Твои,</text>
+<chopds>C             G                    D</chopds>
+<text>Господи Боже Вседержитель.</text>
+<chopds>Em                 Am            Hm      Em</chopds>
+<text>Праведны и истинны пути Твои,</text>
+<chopds>  C         D Em</chopds>
+<text>Царь Святых.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред Припев: х1</videlit_line>
+<chopds>Am                                     Em</chopds>
+<text>Кто не убоится не прославит Тебя,</text>
+<chopds>          C     D      G</chopds>
+<text>Ибо Ты един свят</text>
+<chopds>Am       H7                  Em                   C</chopds>
+<text>Все народы поклонятся пред Тобой</text>
+<chopds>         D             Em</chopds>
+<text>Ибо Ты един свят</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев: х2</videlit_line>
+<chopds>Em   D  Am Em   C     D      G      G H7</chopds>
+<text>Свят,   свят,     Ты един свят.</text>
+<chopds>Em D  Am Em  C     Hm   Em</chopds>
+<text>Свят,   свят,     Ты един свят.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш: х2</videlit_line>
+<chopds>Em Am Hm Em C G D Em Am Hm Em C Hm Em</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Пред Припев: х1</videlit_line>
+<chopds>Am                                     Em</chopds>
+<text>Кто не убоится не прославит Тебя,</text>
+<chopds>         C     D      G</chopds>
+<text>Ибо Ты един свят</text>
+<chopds>Am       H7                  Em                   C</chopds>
+<text>Все народы поклонятся пред Тобой</text>
+<chopds>          D         Em</chopds>
+<text>Ибо Ты един свят</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев: х2</videlit_line>
+<chopds>Em   D  Am Em   C     D      G      G H7</chopds>
+<text>Свят,   свят,     Ты един свят.</text>
+<chopds>Em D  Am Em  C     Hm   Em</chopds>
+<text>Свят,   свят,     Ты един свят.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка: х3</videlit_line>
+<chopds>C     Hm   Em</chopds>
+<text>Ты един свят</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Дом Хлеба Worship — Велики и чудны дела Твои [Русский]
+  https://holychords.pro/4822
+- Валерий Короп — Велики и чудны [Русский]
+  https://holychords.pro/5384
+- Слово Божие Одесса — Велики и Чудны Дела Твои! [Русский]
+  https://holychords.pro/6071
+- Дочь Фермера — Велики и чудны дела Твои [Русский]
+  https://holychords.pro/6247
+- Песнь Возрождения — Велики и чудны дела Твои [Русский]
+  https://holychords.pro/8261
+- Simon Khorolskiy — Велики и Чудны Дела Твои [Русский]
+  https://holychords.pro/17139
+- Лилия Долин — Велики и чудны [Русский]
+  https://holychords.pro/22582
+- Надія Sol Family Church — Великі та дивні діла Твої [Украинский]
+  https://holychords.pro/24295
+- Worship Tiraspol — Велики и чудны дела Твои [Русский]
+  https://holychords.pro/26981
+- Freedom band — Велики и чудны дела Твои [Русский]
+  https://holychords.pro/29923
+- Церква Спасителя Христа м. Львів — Великі та чудні діла Твої [Украинский]
+  https://holychords.pro/34636
+- Иван Дьяченко — Велики и чудны дела Твои [Русский]
+  https://holychords.pro/36438
+- FECG Lahr — Велики и чудны дела Твои [Русский]
+  https://holychords.pro/38179
+- SOLWorship — Великі та чудні діла Твої [Украинский]
+  https://holychords.pro/41064
+- Світло Світу Worship — Велики И Чудны Дела Твои [Русский]
+  https://holychords.pro/42801
+- Песнь Возрождения — Незбагненні, дивні діла Твої [Украинский]
+  https://holychords.pro/44713
+- ICF Worship Kyiv — Великі та чудні [Украинский]
+  https://holychords.pro/49326
+- M.Worship — Велики и чудны дела Твои [Русский]
+  https://holychords.pro/51585
+- Песнь Возрождения — Mari și minunate sunt lucrările Tale [Румынский]
+  https://holychords.pro/57982
+- Неизвестен — Groß und wunderbar sind Deine Werke [Немецкий]
+  https://holychords.pro/61241
+- Валерий Короп — Савэ барэ тэ чюдна о бутя Тырэ [Цыганский]
+  https://holychords.pro/64835
+- Християнин — Великі та дивні [Украинский]
+  https://holychords.pro/66442
+- Kornel — Jak wielkie i cudowne [Польский]
+  https://holychords.pro/73645
+- БХБЦ — Велики и чудни са делата Ти [Болгарский]
+  https://holychords.pro/73649
+- Bible Music — Великі та чудні діла Твої [Украинский]
+  https://holychords.pro/75294
+- Новый Завет Пермь — Велики и чудны дела твои [Русский]
+  https://holychords.pro/83524
+- Песнь Возрождения — Великі і дивні діла Твої [Украинский]
+  https://holychords.pro/87719

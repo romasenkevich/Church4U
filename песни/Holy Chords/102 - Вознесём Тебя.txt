@@ -1,0 +1,54 @@
+Hillsong Ukraine — Вознесём Тебя
+Источник: https://holychords.pro/102
+
+==================================================
+
+<blocks>
+<videlit_line>1 КУПЛЕТ</videlit_line>
+<chopds>   C                                Em</chopds>
+<text>Мир Ты спасти пришёл</text>
+<chopds>                     G                       C</chopds>
+<text>Меня спасти, меня спасти</text>
+<chopds>       C                                   Em</chopds>
+<text>Надежду нам дать пришёл</text>
+<chopds>                        G                            C</chopds>
+<text>Мне нужен Ты, Один лишь Ты</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 КУПЛЕТ</videlit_line>
+<text>Пламя зажег в сердцах</text>
+<text>Оно теперь горит во мне</text>
+<text>Нас пробудил сейчас</text>
+<text>Для всех людей явить Твой свет</text>
+</blocks>
+
+<blocks>
+<videlit_line>ПРЕД ПРИПЕВ</videlit_line>
+<chopds>        C                     Em</chopds>
+<text>Любовь дала свободу мне</text>
+<chopds>        G                          C</chopds>
+<text>Любовь Твоя со мной везде</text>
+<chopds>        C                        Em</chopds>
+<text>Любовью жил и принял смерть</text>
+<chopds>             G                   C</chopds>
+<text>Жить буду для Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>ПРИПЕВ</videlit_line>
+<chopds>                        C   Em</chopds>
+<text>Вознесем Тебя мы</text>
+<chopds>           G</chopds>
+<text>Наш Бог</text>
+<chopds>         C                              Em</chopds>
+<text>Возносим лишь Тебя мы</text>
+<chopds>                       G    C</chopds>
+<text>Превыше всех</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — Lift You Higher [Английский]
+  https://holychords.pro/5621

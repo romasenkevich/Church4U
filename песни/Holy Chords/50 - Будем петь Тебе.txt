@@ -1,0 +1,71 @@
+Слово Жизни Music — Будем петь Тебе
+Источник: https://holychords.pro/50
+
+==================================================
+
+<blocks>
+<videlit_line>intro: capo +1</videlit_line>
+<chopds>G  Em  C  D</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>        G                                       Em</chopds>
+<text>Когда перед Тобой стою одетый в славу, Бог, Твою,</text>
+<chopds> C                                                            D</chopds>
+<text>Радость в сердце, этот день придет,</text>
+<chopds>         G                                             Em</chopds>
+<text>Когда не будет больше слез, боль уйдет и страх пройдет</text>
+<chopds>  C                                             D</chopds>
+<text>Воля, Бог, исполнится Твоя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                 C  D         Em  Hm</chopds>
+<text>Будем славить, славить,</text>
+<chopds>            C                   D                           G    D/F#</chopds>
+<text>В присутствии Твоем мы будем петь.</text>
+<chopds>                 C   D        Hm        Em</chopds>
+<text>Будем славить, славить, Бог,</text>
+<chopds>        C                      D            G</chopds>
+<text>Царю петь Аллилуйя вовек.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>В тот день увижу я Тебя сердцем чистым, без греха,</text>
+<text>Как велика ко мне любовь Твоя.</text>
+<text>Но до тех пор верю я  заплатил Ты за меня,</text>
+<text>Все, что есть, кладу к ногам Твоим.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>             Em                 Hm</chopds>
+<text>Там нет слёз, скорби нет,</text>
+<chopds>                C                    D               G</chopds>
+<text>Нет вины, и навсегда исчезнет грех.</text>
+<chopds>D/F#   Em          Hm</chopds>
+<text>Боли нет, и страха нет,</text>
+<chopds>                C                                       D</chopds>
+<text>Будем видеть мы Тебя, смотреть в Твои глаза</text>
+</blocks>
+
+<blocks>
+<videlit_line>instrumental</videlit_line>
+<chopds>Em C G D</chopds>
+<chopds>Em C G D</chopds>
+<chopds>Am C</chopds>
+<chopds>Am C G</chopds>
+</blocks>
+
+==================================================
+Translation songs
+
+- Юлія Кучинська — Вічна Алелуя [Украинский]
+  https://holychords.pro/22524
+- Matt Redman — Endless Hallelujah [Английский]
+  https://holychords.pro/22538
+- Юлія Кучинська — Потрібний Ти [Украинский]
+  https://holychords.pro/33761

@@ -1,0 +1,60 @@
+Слово Жизни Music — Мир на земле
+Источник: https://holychords.pro/447
+
+==================================================
+
+<blocks>
+<chopds>G#m  E  H</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>G#m                                          E                  H</chopds>
+<text>Восстань, сияй, ведь пришел Твой свет, пришел Твой свет.</text>
+<chopds>G#m                                      E            H</chopds>
+<text>И Господня Слава взошла над нами, взошла вовек.</text>
+<chopds>G#m                                            E            H</chopds>
+<text>Тьма покрыла землю, и мрак – народы, но наш Господь</text>
+<chopds>G#m                            E         H</chopds>
+<text>Воссияет в славе и явит силу по всей земле</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>A                                                             E</chopds>
+<text>Мы несем свет миру, церковь пробудись и славь Его!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>H</chopds>
+<text>Иисус сияй во мне!</text>
+<chopds>C#m</chopds>
+<text>Иисус так жажду мир Твой</text>
+<chopds>G#m              E                  F#</chopds>
+<text>На земле, мир на земле!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>G#m                                          E                  H</chopds>
+<text>Восстань, сияй, ведь пришел Твой свет, пришел Твой свет.</text>
+<chopds>G#m                                      E            H</chopds>
+<text>И Господня Слава взошла над нами, взошла вовек.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>G#m</chopds>
+<text>Больше, чем просим мы,</text>
+<chopds>H                          E</chopds>
+<text>Больше, чем все мечты,</text>
+<chopds>   F#                    G#m   F#/Вь</chopds>
+<text>Наш Бог великий!</text>
+<chopds>H</chopds>
+<text>Тебе Бог вся слава!</text>
+<chopds>F#/Вь</chopds>
+<text>Тебе Бог вся слава!</text>
+<chopds>G#m</chopds>
+<text>Тебе Бог вся слава!</text>
+</blocks>

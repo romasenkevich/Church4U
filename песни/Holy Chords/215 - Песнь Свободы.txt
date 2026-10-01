@@ -1,0 +1,56 @@
+NG Worship — Песнь Свободы
+Источник: https://holychords.pro/215
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>          F                                       C                                        G</chopds>
+<text>Эта песнь - освобождения от цепей оков и твердынь,</text>
+<chopds>          F                                    C                                 G</chopds>
+<text>Эта песня - прощенных, те кто помилован был,</text>
+<chopds>             F                                    C                                        G</chopds>
+<text>И эта песня, кто верит, наполненных Духом Святым.</text>
+<chopds>                                          F                                 C                                            G</chopds>
+<text>Песня племен и языков, и народов, кому Ты стал близким, родным.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G</chopds>
+<text>Все дети Божьи пойте -</text>
+<chopds>    F                    C                         G</chopds>
+<text>Слава, слава, аллилуйя Царю, Царю.</text>
+<chopds>                                            F</chopds>
+<text>Он царствует, Ему воздайте славу,</text>
+<chopds>C                          G</chopds>
+<text>Аллилуйя Царю, Царю.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Пусть хвала течет к престолу, словно шум многих вод.</text>
+<text>От четырех ветров несутся звуки фраз, там, где царствует Бог.</text>
+<text>Ничто не в силах заглушить этих звуков, что хвалою зовут,</text>
+<text>Даже если все уста умолкнут - камни возопиют.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Все силы ада трепещут и расступается тьма,</text>
+<text>Я знаю, Дух Святой приходит там, где льется хвала.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Newsboys — Наш Царь [Русский]
+  https://holychords.pro/14493
+- Newsboys — He Reigns [Английский]
+  https://holychords.pro/14507
+- Newsboys — Аллілуйя Царю [Украинский]
+  https://holychords.pro/33598
+- Краеугольный Камень Новосибирск — Это песня всех спасённых [Русский]
+  https://holychords.pro/45074
+- ЕЛЕЙ — Он Царь [Русский]
+  https://holychords.pro/68333

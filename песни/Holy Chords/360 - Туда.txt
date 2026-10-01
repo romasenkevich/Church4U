@@ -1,0 +1,56 @@
+История — Туда
+Источник: https://holychords.pro/360
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds> Em                               Am</chopds>
+<text>Боже, стою пред Тобой на коленях</text>
+<chopds>     D                               G</chopds>
+<text>Слёзы текут, я молю о прощеньи</text>
+<chopds>    C   Am                                  H7</chopds>
+<text>Всё, чем была жизнь полна.</text>
+<chopds>   Em                                Am</chopds>
+<text>Всё чем я жил и к чему я стремился</text>
+<chopds>       D                                  G</chopds>
+<text>В миг унеслось и мне нечем хвалиться</text>
+<chopds>   C                               Am                     H7</chopds>
+<text>Лишь с Тобой, к Тебе мой Бог хочу туда</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>    Em  Em/D  Em/C#</chopds>
+<text>Туда</text>
+<chopds>        Am                 H7                   Em  Em/D  Em/C#</chopds>
+<text>Где Божья слава освещает град</text>
+<chopds>       Am                H7                   Em  Em/D  Em/C#</chopds>
+<text>Цветы роняют чудный аромат</text>
+<chopds>      Am                      D            G                        C</chopds>
+<text>И глаз не видел, как цветет Эдемский сад,</text>
+<chopds>         Am                           H7</chopds>
+<text>Я хочу туда, Бог возьми меня</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Стремлюсь душой к святой Отчизне</text>
+<text>Живу мечтой о вечной жизни</text>
+<text>Чтоб быть с Тобой мой Иисус</text>
+<text>Трудно идти так бывает порою</text>
+<text>Я вознесусь над унылой землею</text>
+<text>Улечу, навстречу к небу навсегда</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Елена Крупская — Боже стою пред Тобой [Русский]
+  https://holychords.pro/16835
+- Alina Tabert — Боже, стою пред Тобой на коленях [Русский]
+  https://holychords.pro/36870
+- Неизвестен — Боже, стою на колінах в молитві [Украинский]
+  https://holychords.pro/46116
+- История — А там [Болгарский]
+  https://holychords.pro/57446

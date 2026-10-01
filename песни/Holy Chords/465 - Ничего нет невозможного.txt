@@ -1,0 +1,71 @@
+Слово Жизни Music — Ничего нет невозможного
+Источник: https://holychords.pro/465
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C                                                G</chopds>
+<text>С Тобой, знаю я, всё смогу  знаю я, всё пройду</text>
+<chopds>Am                              F</chopds>
+<text>Ты даёшь силу мне ничего нет невозможного!</text>
+<chopds>C                                                   G</chopds>
+<text>С Тобой видеть глаза начнут узы греха падут</text>
+<chopds>Am                         F</chopds>
+<text>Буду верить Тебе ничего нет невозможного!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>F   C   Dm   F</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>C                    Dm                      F</chopds>
+<text>Нет, не хочу жить видимым</text>
+<chopds>Am                  G                              F</chopds>
+<text>Нет, не хочу жить чувствами, я знаю Бог,</text>
+<chopds>Am          G                F</chopds>
+<text>И если упал я - Ты со мной</text>
+<chopds>Am           G              Dm                F</chopds>
+<text>Я знаю: Тебе подвластно всё!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>F                         C</chopds>
+<text>Верю я, верю я</text>
+<chopds>Dm                     F</chopds>
+<text>Верю я, верю я в Тебя</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- NG Worship — Во Христе я все смогу [Русский]
+  https://holychords.pro/10281
+- Евгений Сафонов — Ничего нет невозможного [Русский]
+  https://holychords.pro/12451
+- Planetshakers — Nothing Is Impossible [Английский]
+  https://holychords.pro/12452
+- Charis band — Ничего нет невозможного [Русский]
+  https://holychords.pro/15253
+- Spiritual Evolution — Ничего нет невозможного [Русский]
+  https://holychords.pro/16011
+- Planetshakers — Nothing Is Impossible [Английский]
+  https://holychords.pro/22757
+- Planetshakers — Зможу все я у Христі [Украинский]
+  https://holychords.pro/35529
+- Planetshakers — Ти - Бог неможливого! [Украинский]
+  https://holychords.pro/35544
+- Skydoor Worship — Неможливого нема [Украинский]
+  https://holychords.pro/45015
+- Виталий Ефремочкин — Ничего нет невозможного [Русский]
+  https://holychords.pro/50053
+- Yefremochkin band — Ничего нет невозможного [Русский]
+  https://holychords.pro/51477
+- NG Band Riga — Ничего нет невозможного [Русский]
+  https://holychords.pro/59245
+- IRC worship — Ничего нет невозможного [Русский]
+  https://holychords.pro/76602

@@ -1,0 +1,81 @@
+Hillsong Ukraine — Разбитые Сосуды (О, Благодать)
+Источник: https://holychords.pro/94
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Em    G   Em   G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                  Em                            G</chopds>
+<text>Ты все осколки разбитой жизни</text>
+<chopds>                      Em                        G</chopds>
+<text>Собрал и склеил по милости.</text>
+<chopds>            Em                                G</chopds>
+<text>Я потерял всё, но Ты не бросил.</text>
+<chopds>                  D                  Em   D</chopds>
+<text>Навек меня освободил.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>         C                       D</chopds>
+<text>О, благодать, как ты сладка.</text>
+<chopds>         Em                       C</chopds>
+<text>Спасла меня лишь ты.</text>
+<chopds>      C                           D</chopds>
+<text>Потерян был, но ты нашла,</text>
+<chopds>        Em                C</chopds>
+<text>Открыв глаза мои.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                         G    D</chopds>
+<text>О, вижу я Тебя.</text>
+<chopds>                                     Em             C</chopds>
+<text>Любовь в Твоих глазах вижу я.</text>
+<chopds>                                    G    D</chopds>
+<text>Ты жизнь Свою отдал,</text>
+<chopds>                                          Em                  C</chopds>
+<text>Чтоб к жизни всех разбитых призвать.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>                  Em                            G</chopds>
+<text>Забрав падения и недостатки,</text>
+<chopds>                  Em                            G</chopds>
+<text>Свою Ты ценность в нас поместил.</text>
+<chopds>                      Em                            G</chopds>
+<text>В моём Ты сердце, я – Твой сосуд, Бог.</text>
+<chopds>                  D                  Em   D</chopds>
+<text>Пусть видит мир: во мне Ты жив.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — Broken Vessels (Amazing Grace)
+  https://holychords.pro/1294
+- Скиния Worship — Хрупкий сосуд [Русский]
+  https://holychords.pro/7366
+- Слово Жизни Москва — Разбитые Сосуды (О, Благодать) [Русский]
+  https://holychords.pro/32988
+- Данііл Пуляєвський — Велика благодать (Розбиті глечики) [Украинский]
+  https://holychords.pro/34268
+- Hillsong Auf Deutsch — Krüge Aus Ton [Немецкий]
+  https://holychords.pro/39504
+- Metamorphosis — Розбиті посудини [Украинский]
+  https://holychords.pro/43041
+- Hillsong Ukraine — Уламки долі (О, благодать)
+  https://holychords.pro/44237
+- psalmaker — Разбитые сосуды [Русский]
+  https://holychords.pro/64991
+- Hillsong Chapel — Broken Vessels (Amazing Grace) [Английский]
+  https://holychords.pro/65469
+- Эммануил Москва — Разбитые сосуды [Русский]
+  https://holychords.pro/73785

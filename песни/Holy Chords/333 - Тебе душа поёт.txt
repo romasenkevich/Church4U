@@ -1,0 +1,52 @@
+Алексей Каратаев — Тебе душа поёт
+Источник: https://holychords.pro/333
+
+==================================================
+
+<blocks>
+<chopds>|  Am  G  F  |  Dm7  C/E  Gsus  G  |</chopds>
+<chopds>                    C          Dm            C/E</chopds>
+<text>Потерян был, но найден вновь,</text>
+<chopds>                     F            G             Am</chopds>
+<text>Потерян был, но найден вновь.</text>
+<chopds>                     F                      G</chopds>
+<text>Был далеко, теперь я дома!</text>
+<chopds>                  Am           G               F</chopds>
+<text>Потерян был, но найден вновь.</text>
+<chopds>    Dm     C/E    G</chopds>
+<text>Тебе душа поёт!</text>
+<chopds>                 C          Dm       C/E</chopds>
+<text>Я был слеп, но вижу вновь,</text>
+<chopds>                 F            G        Am</chopds>
+<text>Я был слеп, но вижу вновь,</text>
+<chopds>                   F                  G</chopds>
+<text>Не знаю как, но коснулся Ты!</text>
+<chopds>              Am           G          F</chopds>
+<text>Я был слеп, но вижу вновь!</text>
+<chopds>    Dm       C      G</chopds>
+<text>Тебе душа поёт,</text>
+<chopds>    Dm       C      F</chopds>
+<text>Тебе душа поёт!</text>
+<chopds>        F       G     Am</chopds>
+<text>Тебе душа поёт!</text>
+<chopds>    G                C                          G</chopds>
+<text>Мёртвым был, теперь живу!</text>
+<chopds>                     Am         G             F</chopds>
+<text>Мертвым был, теперь живу!</text>
+<chopds>                Dm                      G</chopds>
+<text>Лишь Тебе жизнь отдаю,</text>
+<chopds>                   F                     G</chopds>
+<text>Лишь Тебе жизнь отдаю!</text>
+<chopds>                   F                       G</chopds>
+<text>Лишь Тебе жизнь отдаю!</text>
+<chopds>            F   C            Am  G</chopds>
+<text>Аллилуйя! Аллилуйя!</text>
+<chopds>                F   G  Am  Gsus  G</chopds>
+<text>Для Тебя душа поёт!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Casting Crowns — And Now My Lifesong Sings [Английский]
+  https://holychords.pro/11767

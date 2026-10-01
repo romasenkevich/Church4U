@@ -1,0 +1,60 @@
+Светлана Малова — Родному человеку
+Источник: https://holychords.pro/213
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>| Dm /// | E /// | Am /// | F /// |</chopds>
+<chopds>| Dm /// | E /// | Am /// | Am /// |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>       Am                                                Em</chopds>
+<text>Мне хорошо, когда со мной ты рядом,</text>
+<chopds>  Dm                     G                           C</chopds>
+<text>И я люблю смотреть в твои глаза.</text>
+<chopds>                 Dm      G                C</chopds>
+<text>Мне никого другого и не надо.</text>
+<chopds>   Dm                  G                 C</chopds>
+<text>Я благодарна Богу за тебя!</text>
+<chopds>                 Dm      G                C</chopds>
+<text>Мне никого другого и не надо.</text>
+<chopds>   Dm                  E                  Am</chopds>
+<text>Я благодарна Богу за тебя!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Я не люблю на долго расставаться,</text>
+<text>И я всегда скучаю по тебе.</text>
+<text>Мне нравится в тебе не сомневаться,</text>
+<text>Ведь ты же послан Богом только мне!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>        Dm            E          Am</chopds>
+<text>Мне нравится твоя улыбка,</text>
+<chopds>    Dm            G                          C</chopds>
+<text>В её сиянье столько доброты!</text>
+<chopds>           Dm              E              Am</chopds>
+<text>Жизнь без тебя - была ошибкой,</text>
+<chopds>       Dm                      E                               Am</chopds>
+<text>Мне очень сильно нравишься весь ты!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Мне хорошо, когда со мной ты рядом,</text>
+<text>Когда я чувствую твоё тепло,</text>
+<text>Другого счастья, даром, мне не надо,</text>
+<text>Хочу я сохранить, что нам дано!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Светлана Малова — Ти мені даний, як дарунок з Неба [Украинский]
+  https://holychords.pro/85280

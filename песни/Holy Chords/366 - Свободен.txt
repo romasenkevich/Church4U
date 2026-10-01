@@ -1,0 +1,52 @@
+Holy Generation — Свободен
+Источник: https://holychords.pro/366
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>G#m  C#m  H</chopds>
+<text>В присутствии Твоем не станет мне тесно</text>
+<chopds>Gb  G  G#m</chopds>
+<text>С Тобою рядом моё сердце смогло согреться</text>
+<chopds>C#m  H</chopds>
+<text>Живет во мне Иисус, я не живу во мраке</text>
+<chopds>Gb G G#m</chopds>
+<text>Сменил любовью - зло, а верой - страхи</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G#m  C#m  H</chopds>
+<text>Я свободен, грех не имеет власти</text>
+<chopds>D#maj7</chopds>
+<text>Я свободен, Ты вывел из несчастья</text>
+<chopds>G#m  C#m  H</chopds>
+<text>Я свободен, искуплен святой кровью</text>
+<chopds>D#maj7</chopds>
+<text>Я свободен и силен ведь Ты со мною</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>G#m  C#m  H</chopds>
+<text>В славе Твоей хочу пребывать</text>
+<chopds>H  Gb  G  G#m</chopds>
+<text>Творить волю Твою, чудеса Твои созерцать</text>
+<chopds>C#m  H</chopds>
+<text>Смирив сердце у ног Твоих паду</text>
+<chopds>Gb  G  G#m</chopds>
+<text>Верю с Тобой, свободу в сердце обрету</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>G#m  H</chopds>
+<text>Тот, кто живет во мне, сильней того, кто в мире</text>
+<chopds>Emaj7  D#7</chopds>
+<text>Я поднимаю вгзляд свой, смотрю шире</text>
+<chopds>G#m  H</chopds>
+<text>Тот, кто живет во мне, сильней того, кто в мире</text>
+<chopds>Emaj7  D#7</chopds>
+<text>Готовся вера творить дела большие</text>
+</blocks>

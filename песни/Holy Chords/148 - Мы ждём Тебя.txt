@@ -1,0 +1,58 @@
+Виталий Ефремочкин — Мы ждём Тебя
+Источник: https://holychords.pro/148
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>                           C                         F</chopds>
+<text>Мы ждём Тебя, мы ждём Тебя,</text>
+<chopds>                        Am                           G</chopds>
+<text>Мы ждём Тебя, Господь приди!</text>
+<chopds>C</chopds>
+<text>Вот мы стоим пред Тобою, вот мы стоим пред Тобою</text>
+<chopds>F</chopds>
+<text>Слава Божья сойди, Слава Божья сойди</text>
+<chopds>Am</chopds>
+<text>Вот мы стоим пред Тобою, вот мы стоим пред Тобою</text>
+<chopds>G</chopds>
+<text>Слава Божья сойди</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                   C                           G</chopds>
+<text>Излейся больше Дух Господень</text>
+<chopds>            Dm                                          F</chopds>
+<text>Мы ждём Тебя, Святой, мы ждём Тебя, Святой</text>
+<chopds>          C                                                G</chopds>
+<text>Приди, мы жаждем ещё, говори, мы жаждем ещё</text>
+<chopds>        Dm                                                     F</chopds>
+<text>Приди, мы жаждем ещё Духа Святого</text>
+<chopds>           C                                                  G</chopds>
+<text>Мы жаждем ещё Твоей славы, жаждем ещё Твоей славы,</text>
+<chopds>        Dm                                                  F</chopds>
+<text>Мы жаждем ещё Твоей славы, жаждем ещё, жаждем ещё</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>        C</chopds>
+<text>Господь, даровал нам свободу,</text>
+<chopds>                              G                                F</chopds>
+<text>Он дал нам свободу, дал радость нам</text>
+<chopds>        Dm</chopds>
+<text>Господь, даровал нам свободу,</text>
+<chopds>                                F</chopds>
+<text>Он дал нам свободу, дал радость нам</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Cory Asbury — Мы ждём Тебя (Шакина слава) [Русский]
+  https://holychords.pro/5055
+- Forerunner Music — Shekinah [Английский]
+  https://holychords.pro/12639
+- IHOP Worship — Shekinah Glory [Английский]
+  https://holychords.pro/57891

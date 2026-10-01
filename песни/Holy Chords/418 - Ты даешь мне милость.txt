@@ -1,0 +1,33 @@
+Новое Поколение Новомосковск — Ты даешь мне милость
+Источник: https://holychords.pro/418
+
+==================================================
+
+<blocks>
+<videlit_line>интро</videlit_line>
+<chopds>Em  Am  G  H</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>куплет</videlit_line>
+<chopds>C                               Em</chopds>
+<text>Истина Твоя победила грех и смерть,</text>
+<chopds>C                               Em</chopds>
+<text>Истина Твоя исцелила моё сердце.</text>
+<chopds>     C                                       Em</chopds>
+<text>Благодать Твоя - неиссякаемый поток.</text>
+<chopds>           C                                               D</chopds>
+<text>Я спасён благодаря Твоей Крови.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Em</chopds>
+<text>Ты даёшь мне милость,</text>
+<chopds>Am</chopds>
+<text>Ты даёшь мне силу,</text>
+<chopds>G</chopds>
+<text>Наполняешь жизнью</text>
+<chopds>H</chopds>
+<text>Сердце моё, Иисус.</text>
+</blocks>

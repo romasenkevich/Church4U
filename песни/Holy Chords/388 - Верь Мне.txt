@@ -1,0 +1,61 @@
+Татьяна Прохор — Верь Мне
+Источник: https://holychords.pro/388
+
+==================================================
+
+<blocks>
+<chopds>G7  Dm  Gm  D7  Gm  F  Eb  D7  Gm  Dm  Eb  D7  Gm  F  Eb  D</chopds>
+<chopds>    Gm                                          Eb</chopds>
+<text>В жизни бывают победы и неудачи</text>
+<chopds>    Cm                                                                          D</chopds>
+<text>Сколько бы не было нам предназначено дней</text>
+<chopds>  Gm                           Bb                     Eb</chopds>
+<text>То мы смеемся ,а то горестно плачем</text>
+<chopds>    Bb                             F                             Gm</chopds>
+<text>Вся наша жизнь в суете человеческих дел.</text>
+<chopds>                                      Dm                                      Eb</chopds>
+<text>Все проходящее, здесь на земле мы пришельцы</text>
+<chopds>    Cm                                                                          D7</chopds>
+<text>Жизнь наша так коротка, все имеет свой смысл</text>
+<chopds>                Gm                                                             Eb</chopds>
+<text>Со всем что собрал на земле, придется расстаться</text>
+<chopds>      Bb                                F                   Gm</chopds>
+<text>Подумай о вечности, тебя зовёт Бог.</text>
+</blocks>
+
+<blocks>
+<videlit_line>припев</videlit_line>
+<chopds>                                        Eb                               Bb    F</chopds>
+<text>Верь Мне и Я проведу чрез моря и пустыни</text>
+<chopds>   Gm                               Eb                       Bb  F</chopds>
+<text>Только поверь и открою тебе небеса</text>
+<chopds>   Gm                                     Eb                         Bb  F</chopds>
+<text>Будь до конца Мне верна и потоки живые</text>
+<chopds>       Cm                                  D7           Gm</chopds>
+<text>С нежной любовью сойдут на тебя.</text>
+<chopds>                                               Dm                             Eb</chopds>
+<text>И нежно с любовью Господь стучит в твоё сердце</text>
+<chopds>     Cm                                                                    D</chopds>
+<text>Ты отвори и впусти в свою жизнь поскорей</text>
+<chopds>      Gm                             Bb                Eb</chopds>
+<text>И твоя жизнь новой волною забьётся</text>
+<chopds>   Bb                                 F                          Gm</chopds>
+<text>Только Ему без сомнения душу доверь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>D7  Gm  D7  Gm  Dm  Gm  D  Gm  Dm  Em  D  Eb</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>припев</videlit_line>
+<chopds>    Abm                            E                            H       F#</chopds>
+<text>Верь Мне и Я проведу чрез моря и пустыни</text>
+<chopds>   Abm                              E                          H   F#</chopds>
+<text>Только поверь и открою тебе небеса</text>
+<chopds>  Abm                              E                                   H  F#</chopds>
+<text>Будь до конца Мне верна и потоки живые</text>
+<chopds>  C#m                                     Eb7        Abm   H</chopds>
+<text>С нежной любовью сойдут на тебя. /–3 раза</text>
+</blocks>

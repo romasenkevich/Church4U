@@ -1,0 +1,72 @@
+Виталий Ефремочкин — Дух Святой в Тебе я нуждаюсь
+BPM: 68
+Источник: https://holychords.pro/6
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>Cm Bb</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>              Cm                         Bb/C</chopds>
+<text>Дух Святой, в Тебе я нуждаюсь,</text>
+<chopds>              Cm                    Bb/C</chopds>
+<text>Дух Святой, Тебя ожидаю,</text>
+<chopds>             Fm7                                Bb/F</chopds>
+<text>Прикоснись, моё сердце открыто,</text>
+<chopds>  Ab                                         Gm7</chopds>
+<text>Наполняй, наполняй Своей силой и славой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>              Cm                         Bb/C</chopds>
+<text>Аллилуйя, о Господь мой.</text>
+<chopds>              Cm                    Bb/C</chopds>
+<text>Аллилуйя, в Тебе вся жизнь моя Иисус.</text>
+<chopds>             Fm7                                Bb/F</chopds>
+<text>Прикоснись, моё сердце открыто...</text>
+<chopds>  Ab                                         Gm7</chopds>
+<text>Наполняй, наполняй Своей силой и славой...</text>
+<chopds>              Cm                         Bb/C</chopds>
+<text>Аллилуйя, о Господь мой.</text>
+<chopds>              Cm                    Bb/C</chopds>
+<text>Аллилуйя, Ты нужен мне Иисус.</text>
+<chopds>             Fm7                                Bb/F</chopds>
+<text>Прикоснись, моё сердце открыто...</text>
+<chopds>  Ab                                         Gm7</chopds>
+<text>Наполняй, наполняй Своей силой и славой...</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>Cm   Fm7    Gm7 Ab Bb  Cm  Fm7   Ab  Gm7</chopds>
+<text>Я нуждаюсь в Тебе... Я нуждаюсь в Тебе Иисус...</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>Cm   Fm7    Gm7 Ab Bb  Cm  Fm7   Ab  Gm7</chopds>
+<text>Аллилуйя,  аллилуйя,  ищу Тебя, Дух Святой...</text>
+<chopds>Cm   Fm7    Gm7 Ab Bb      Cm    Fm7</chopds>
+<text>Аллилуйя,  аллилуйя,       я так жажду</text>
+<chopds>        Ab          Gm7</chopds>
+<text>встречи с Тобой...</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Yefremochkin band — Дух Святой в Тебе я нуждаюсь [Русский]
+  https://holychords.pro/28793
+- WOG.Worship — Дух Святой в Тебе я нуждаюсь [Русский]
+  https://holychords.pro/34412
+- Виталий Ефремочкин — Дух Святий, Тебе я чекаю! [Украинский]
+  https://holychords.pro/52949
+- Алексей Захаренко — Дух Святой, в Тебе я нуждаюсь [Русский]
+  https://holychords.pro/65735
+- Християнська надія — Дух Святий, Тебе я чекаю [Украинский]
+  https://holychords.pro/83866

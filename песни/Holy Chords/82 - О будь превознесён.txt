@@ -1,0 +1,38 @@
+Виталий Ефремочкин — О будь превознесён
+Источник: https://holychords.pro/82
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>        G#m   E           H    F#</chopds>
+<text>Аллилуйя, Аллилуйя,</text>
+<chopds>           G#m  E                 H    F#</chopds>
+<text>Ты достоин всей хвалы!</text>
+<chopds>        G#m   E           H    F#</chopds>
+<text>Аллилуйя, Аллилуйя,</text>
+<chopds>           G#m  E                 H    F#</chopds>
+<text>Ты достоин всей хвалы!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G#m                              E</chopds>
+<text>О будь превознесён, о будь превознесён,</text>
+<chopds>H                               F#</chopds>
+<text>О будь превознесён, Иисус!</text>
+<chopds>G#m                       E</chopds>
+<text>Хвалу Тебе поём, всю славу воздаём,</text>
+<chopds>H                              F#</chopds>
+<text>О будь превознесён</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Ольга Маріна — О, будь превознесен [Русский]
+  https://holychords.pro/21193
+- Worship Central — Hallelujah [Английский]
+  https://holychords.pro/34175
+- Перемога Житомир — О будь піднесений [Украинский]
+  https://holychords.pro/69058

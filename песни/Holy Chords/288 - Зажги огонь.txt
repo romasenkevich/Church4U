@@ -1,0 +1,36 @@
+Lena Isayev — Зажги огонь
+Источник: https://holychords.pro/288
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>      Bb       C        F</chopds>
+<text>О, Боже, освяти нас,</text>
+<chopds>Bb                  C             D</chopds>
+<text>Любовь и мир пошли нам.</text>
+<chopds>      Bb       C        F</chopds>
+<text>О, Боже, освяти нас,</text>
+<chopds>  Bb      Am               Gm        A              Dm</chopds>
+<text>Дай гореть для Тебя и днём и в ночи.</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Dm               Bb</chopds>
+<text>Зажги огонь души потухшей,</text>
+<chopds>Gm                            C               A</chopds>
+<text>Не дай угаснуть никогда, никогда.</text>
+<chopds>Dm                    Bb</chopds>
+<text>Гореть, пылая. Любить, прощая.</text>
+<chopds>Gm                                   C                     A               Bb  A  Dm</chopds>
+<text>Дать нам, Господь, можешь Ты, только Ты.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Гореть все ярче, дарить свет людям,</text>
+<text>Зажечь потухших, Боже, Ты помоги.</text>
+<text>Ходить во свете Твоих лучей</text>
+<text>И всем вокруг нам Тебя показать.</text>
+</blocks>

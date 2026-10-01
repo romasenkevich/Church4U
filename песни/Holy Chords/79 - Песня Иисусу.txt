@@ -1,0 +1,24 @@
+Виталий Ефремочкин — Песня Иисусу
+Источник: https://holychords.pro/79
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>C#  Fm  F#  C#</chopds>
+<text>Иисус, Иисус,</text>
+<chopds>             G#                          F#                   C#</chopds>
+<text>Как чудесен Ты, так чудесен Ты, Иисус!</text>
+<chopds>C#  Fm  F#  C#</chopds>
+<text>Иисус, Иисус,</text>
+<chopds>               G#                           F#                 C#</chopds>
+<text>Как прекрасен Ты, так прекрасен Ты, Иисус!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>          G#                    F#                                          C#</chopds>
+<text>Прославлю я, превознесу над всеми Твое Имя.</text>
+<chopds>          G#                    F#                                          C#</chopds>
+<text>Прославлю я, превознесу над всеми Твое Имя.</text>
+</blocks>

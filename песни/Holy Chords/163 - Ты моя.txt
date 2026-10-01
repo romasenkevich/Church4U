@@ -1,0 +1,40 @@
+Алексей Каратаев — Ты моя
+Источник: https://holychords.pro/163
+
+==================================================
+
+<blocks>
+<chopds>C D Hm Em C D G</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C            D                Hm            Em</chopds>
+<text>Тебя я повстречал в душе огонь пылал,</text>
+<chopds>C                      D                       G</chopds>
+<text>Когда взглянул в твои глаза.</text>
+<chopds>C               D                 Hm               Em</chopds>
+<text>Как не реальный сон я помню до сих пор</text>
+<chopds>C                   D                    G</chopds>
+<text>Сказала мне, что ты моя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C          D  Hm      Em</chopds>
+<text>Ты моя, чудесная</text>
+<chopds>C              D                        G</chopds>
+<text>Слаще, чем я мог мечтать</text>
+<chopds>C                       D  Hm             Em</chopds>
+<text>Ты Больше чем, прекрасная,</text>
+<chopds>Am             C  Am              D       G</chopds>
+<text>И как же так, что ты моя навек</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Я об одном просил, о Боже дай нам сил</text>
+<text>Любовь до неба пронести,</text>
+<text>И даже если шторм я верю, мы вдвоем</text>
+<text>С тобою сможем все пройти.</text>
+</blocks>

@@ -1,0 +1,36 @@
+Дмитрий Шлетгауэр — Только одно желание моё
+Источник: https://holychords.pro/233
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>              D#m  D#m/C#        G#m/H          H</chopds>
+<text>Преодолею всё силой любви Твоей</text>
+<chopds>H/A#  G#m7                                                      C#</chopds>
+<text>И прославлю Тебя, Господь, жизнью своей.</text>
+<chopds>              D#m  D#m/C#        G#m/H           H</chopds>
+<text>Преодолею всё силой любви Твоей</text>
+<chopds>H/A#  G#m7                                                      C#</chopds>
+<text>И прославлю Тебя, Иисус, жизнью своей.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>   F#           H   H/A#   G#m                     C#</chopds>
+<text>Слава Тебе, мой Господь, слава Тебе!</text>
+<chopds>   F#           H   H/A#   G#m                     C#</chopds>
+<text>Слава Тебе, мой Господь, слава Тебе!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>D#m  C#/F           F#                        H     H/A#    G#m  C#</chopds>
+<text>          Только одно желанье моё - быть к Тебе ближе;</text>
+<chopds>D#m  C#/F           F#                        H   H/A#        G#m   C#</chopds>
+<text>          Только одно желанье моё - жить в Твоём свете,</text>
+<chopds>D#m          C#/F          F#                       H   H/A#     G#m   C#</chopds>
+<text>         Всю славу воздать только Тебе, мой Господь.</text>
+<chopds>D#m  C#/F              F#                         H  H/A#     G#m    C#</chopds>
+<text>         Ты жизнь моя, Ты песня моя, слава Тебе!</text>
+</blocks>

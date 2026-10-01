@@ -1,0 +1,61 @@
+Виталий Ефремочкин — Я убеждён
+Источник: https://holychords.pro/152
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em                                     C                D            Em    C   D</chopds>
+<text>Я убеждён, когда молюсь Ты слышишь</text>
+<chopds>  Em                                C          D                     Em     C   D</chopds>
+<text>Я убеждён, когда пою Ты рядом</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>      C      D</chopds>
+<text>И верю я</text>
+<chopds>    Em                                               C</chopds>
+<text>Историю творим молитвой мы</text>
+<text>﻿</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>        Em                                        C</chopds>
+<text>И я молю приди Иисус, молю приди Иисус</text>
+<chopds>        G                                           D</chopds>
+<text>Молю приди Иисус, и я молю  приди Иисус</text>
+<text>﻿</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds>                Em                                         C</chopds>
+<text>Ты мой меч скала и щит Ты тот Бог, что исцелит</text>
+<chopds>        G                              D</chopds>
+<text>Ты лилия долин яркая звезда свети</text>
+<chopds>         Em                                          C</chopds>
+<text>Ты драгоценный Бог первый и последний во всём</text>
+<chopds>                         G                           D</chopds>
+<text>Кто, чтоб не говорил и я молю приди</text>
+<text>﻿</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>       Em                                  G</chopds>
+<text>И в каждое собрание в каждом поколении</text>
+<chopds> D                                            Am</chopds>
+<text>Во все церкви на земле, пусть придёт Иисус</text>
+<chopds>                               Em                                  G</chopds>
+<text>Пусть придёт Иисус, пусть придёт Иисус</text>
+<chopds>                                 D                                    Am</chopds>
+<text>Пусть придёт Иисус, пусть придёт Иисус</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Jake Hamilton — Convinced [Английский]
+  https://holychords.pro/3979

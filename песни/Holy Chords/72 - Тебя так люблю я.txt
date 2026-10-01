@@ -1,0 +1,50 @@
+Виталий Ефремочкин — Тебя так люблю я
+Источник: https://holychords.pro/72
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>      A                              C#m               H</chopds>
+<text>Тебя так люблю я, Тебя так люблю я</text>
+<chopds>      A                                 E</chopds>
+<text>Тебя так люблю я Господь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Жажду Тебя я, так жажду Тебя я</text>
+<text>Жажду Тебя я Господь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>     A                   H         C#m</chopds>
+<text>Слава Тебе, слава Тебе,</text>
+<chopds>     A                         H</chopds>
+<text>Слава Тебе вовеки.</text>
+<chopds>   Bb                   C         Dm</chopds>
+<text>Слава Тебе, слава Тебе,</text>
+<chopds>   Bb                        C</chopds>
+<text>Слава Тебе вовеки.</text>
+<chopds>   H                    C#        D#m</chopds>
+<text>Слава Тебе, слава Тебе,</text>
+<chopds>     H                        C#</chopds>
+<text>Слава Тебе вовеки.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>      H                             D#m                C#</chopds>
+<text>Тебя так люблю я, Тебя так люблю я</text>
+<chopds>      H                                 F#</chopds>
+<text>Тебя так люблю я Господь.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Tye Tribbett — The Worship Medley (There Is Nothing Like/Glory To God Forever) [Английский]
+  https://holychords.pro/9194
+- Перемога Житомир — Тебе так люблю я [Украинский]
+  https://holychords.pro/68644

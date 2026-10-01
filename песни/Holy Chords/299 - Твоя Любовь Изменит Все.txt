@@ -1,0 +1,58 @@
+Hillsong Ukraine — Твоя Любовь Изменит Все
+Источник: https://holychords.pro/299
+
+==================================================
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>               F#m Hm            E D             F#m Hm          E D</chopds>
+<text>Твоя любовь  меняет всё, Твоя любовь  меняет всё</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>F#m             Hm                    E     D</chopds>
+<text>Не скроем мы Твою любовь</text>
+<chopds>F#m       Hm                      E                      A</chopds>
+<text>Освободил нас всех очистил от грехов</text>
+<chopds>F#m                  Hm                          E     D</chopds>
+<text>Теперь наш свет для всех людей</text>
+<chopds>F#m        Hm                       E                               D</chopds>
+<text>Один Бог  Одна Любовь  в победе мы теперь живём</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>      A  E  Hm             D</chopds>
+<text> Сияй  через нас Бог наш,</text>
+<chopds>A                             E                        Hm          D</chopds>
+<text> Открывай сердца людей по всей земле.</text>
+<chopds>                            A  E  Hm               D</chopds>
+<text> Пусть видят все Твои дела ____</text>
+<chopds>A                       E     Hm                       D</chopds>
+<text>И будем мы ___ все что сделал Ты...</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>                F#m Hm            E D             F#m Hm          E D</chopds>
+<text>Твоя любовь  меняет всё, Твоя любовь  меняет всё</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Превыше всех земных царей</text>
+<text>Великий Бог Он создал каждого на земле</text>
+<text>Он знает всё Он знает всех,</text>
+<text>Один Бог  Одна Любовь  в победе мы теперь живём</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds> Hm                              D</chopds>
+<text>Нас простил  из тьмы забрал</text>
+<chopds>     F#m</chopds>
+<text>Любовь проявил и освободил</text>
+<chopds>   Hm                 D                  F#m</chopds>
+<text>Теперь живём мы для Тебя всегда</text>
+</blocks>

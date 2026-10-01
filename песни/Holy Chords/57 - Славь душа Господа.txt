@@ -1,0 +1,145 @@
+Слово Жизни Music — Славь душа Господа
+BPM: 145
+Источник: https://holychords.pro/57
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     C               G      D/F#       Em</chopds>
+<text>Славь, душа, Господа, Славь, душа,</text>
+<chopds>C               G   Dsus4  D</chopds>
+<text>Имя Святое Его.</text>
+<chopds>         C                        Em    C       D  Em</chopds>
+<text>Пой Ему, как никогда, пой, душа,</text>
+<chopds>    C             D           C/G   G   C/G   G</chopds>
+<text>Благослови Господа.</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>  C                  G                    D           Em</chopds>
+<text>Солнце встаёт, новый день приходит,</text>
+<chopds>C               G              D       Em</chopds>
+<text>Время опять хвалу воздать</text>
+<chopds>         C                          G               D                            Em</chopds>
+<text>За всё, что Ты мне дал, и за каждый новый вдох мой</text>
+<chopds>C2           G             Dsus4  D    G   Gsus4   G</chopds>
+<text>Я буду петь и на закате дня.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<chopds>  C                  G                    D           Em</chopds>
+<text>Велик в любви, и даёшь мне милость,</text>
+<chopds>C               G              D       Em</chopds>
+<text>Ты справедлив и так благ ко мне,</text>
+<chopds> C                          G               D         Em</chopds>
+<text>За все Твои дела я хочу прославить</text>
+<chopds>C2          G            Dsus4  D    G   Gsus4   G</chopds>
+<text>Чтоб петь Тебе, есть 10 тысяч причин.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 Куплет</videlit_line>
+<chopds>C         G            D           Em</chopds>
+<text>И когда мои силы иссякнут</text>
+<chopds>C                       G                    D                Em</chopds>
+<text>На закате дней, когда время придёт,</text>
+<chopds>         C     G                        D     Em</chopds>
+<text>Душа моя Тебя да будет славить</text>
+<chopds>C2              G              Dsus4  D       G   Gsus4   G</chopds>
+<text>Больше, чем даже 10 тысяч лет.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Виталий Ефремочкин — Воспою всей душой [Русский]
+  https://holychords.pro/1105
+- Jesus Culture — 10,000 Reasons [Английский]
+  https://holychords.pro/1245
+- Matt Redman — 10,000 Reasons (Bless The Lord)
+  https://holychords.pro/1301
+- Matt Redman — Славь душа [Русский]
+  https://holychords.pro/2618
+- RussiaWorship — Десятки тысяч есть причин [Русский]
+  https://holychords.pro/7699
+- Ян Прадвесьнік царква — Бога дабраславі [Белорусский]
+  https://holychords.pro/11085
+- Matt Redman — Слав душа Господа [Украинский]
+  https://holychords.pro/12464
+- Exodus 15 — Duszo Ma Pana Chwal [Польский]
+  https://holychords.pro/12669
+- Надія Sol Family Church — Слав душе Господа [Украинский]
+  https://holychords.pro/15513
+- Matt Redman — Прославляй душа Господа [Русский]
+  https://holychords.pro/22115
+- Антонина Губина — Воспою всей душой [Русский]
+  https://holychords.pro/24849
+- Matt Redman — Бога благослови (Приходит день, снова всходит солнце) [Русский]
+  https://holychords.pro/31109
+- Церковь Божия Music — Десять тысяч причин [Русский]
+  https://holychords.pro/32891
+- Молодежный Миссионерский Конгресс — Десять тысяч причин [Русский]
+  https://holychords.pro/33482
+- Praise Band — Слав, душа, Господа [Украинский]
+  https://holychords.pro/35643
+- Matt Redman — Від всієї душі заспіваю я [Украинский]
+  https://holychords.pro/35920
+- Matt Redman — Хай звеличить душа Господа ім'я [Украинский]
+  https://holychords.pro/36492
+- Переображення Сарни — Слав, душе, Господа! [Украинский]
+  https://holychords.pro/37519
+- Catalin Gatan — Canta suflet al meu [Румынский]
+  https://holychords.pro/37536
+- Fam. Binefeld — Славь, душа, Господа [Русский]
+  https://holychords.pro/37741
+- KR - Алғыслар — Тәңирди алғысла [Каракалпакский]
+  https://holychords.pro/41501
+- Царство Боже Луцьк — 10000 причин [Украинский]
+  https://holychords.pro/41757
+- Outbreakband — Zehntausend Gründe [Немецкий]
+  https://holychords.pro/42393
+- Петро Грифель — 10,000 Причин [Украинский]
+  https://holychords.pro/45867
+- Александр Коньков — Славь душа Господа [Русский]
+  https://holychords.pro/48548
+- Християнська надія — Слав душа Господа [Украинский]
+  https://holychords.pro/50094
+- KCOC WORSHIP — Лине спів [Украинский]
+  https://holychords.pro/52538
+- ЦХВ_worship — Славь душа Господа [Русский]
+  https://holychords.pro/53911
+- Wolrus WORSHIP — Славь душа, Господа [Русский]
+  https://holychords.pro/56419
+- Harvest Arad — 10.000 Motive [Румынский]
+  https://holychords.pro/59081
+- Afrobeats Worship — Bless the Lord (x 10,000) [Английский]
+  https://holychords.pro/59275
+- Matt Redman — 10,000 Reasons (Bless the Lord) [Английский]
+  https://holychords.pro/59672
+- Об'єднаний хор Soli Deo — Слав, душе, Господа [Украинский]
+  https://holychords.pro/67407
+- ЕЛЕЙ — Славь душа Господа [Русский]
+  https://holychords.pro/71163
+- Ομάδα Λατρείας ΕΕΕΘ — Χιλιάδες λόγοι (Ο ήλιος καινούρια μέρα ξημερώνει) [Греческий]
+  https://holychords.pro/73268
+- Stichting Opwekking — Tienduizend redenen (733) [Нидерландский]
+  https://holychords.pro/73293
+- Mae Andrazz — Bénis Dieu, ô mon âme [Французский]
+  https://holychords.pro/73778
+- Живе Слово c.Гора — Бога слав, о, душа [Украинский]
+  https://holychords.pro/75801
+- Kegyelem Gyülekezet — Lelkem áldd az Urat [Венгерский]
+  https://holychords.pro/78333
+- Неизвестен — Благослови го Бог [Македонский]
+  https://holychords.pro/80098
+- Неизвестен — Благославяй Христос, моя душа [Болгарский]
+  https://holychords.pro/80365
+- Молодежный Миссионерский Конгресс — Десять тисяч причин [Украинский]
+  https://holychords.pro/81058
+- Fruška Zvona — Hiljadu razloga [Сербский]
+  https://holychords.pro/81150
+- Неизвестен — Слав душа Господа [Украинский]
+  https://holychords.pro/83261

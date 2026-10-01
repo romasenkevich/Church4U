@@ -1,0 +1,61 @@
+Виталий Ефремочкин — Без границ
+BPM: 134
+Источник: https://holychords.pro/17
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Em                  D                             A/C#         C</chopds>
+<text>Лишь Ты Господь достоин поклонения,</text>
+<chopds>Em           D                            A/C#         C</chopds>
+<text>Поёт Тебе, взывает всё творение.</text>
+<chopds>               Em   D                     A/C#     C</chopds>
+<text>Больше нет никаких ограничений</text>
+<chopds>                Em   D                A/C#     C</chopds>
+<text>С Тобою нет никаких преград</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                    C      Em                          D</chopds>
+<text>Ты без границ всё способен изменить.</text>
+<chopds>                    C    Em                        D</chopds>
+<text>Ты без границ отдаю тебе всю жизнь.</text>
+<chopds>          Em                  D                       C                  Am</chopds>
+<text>Ты великий, всемогущий, Бог Ты сильный знаю.</text>
+<chopds>                    C   D     D#</chopds>
+<text>Ты без границ, Ты без границ.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>Em             D                           Em         D</chopds>
+<text>Не знаю что б я делал, если б не Его любовь,</text>
+<chopds>Em           D               Em             D</chopds>
+<text>За беззакония мои была пролита кровь.</text>
+<chopds>Em             D                            Em         D</chopds>
+<text>Отдал себя, он показал на сколько дорог ты,</text>
+<chopds>Em                      D                   Em              D</chopds>
+<text>Поверь, что в Нём осуществляются твои мечты.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>Em D   Hm              C</chopds>
+<text>           Бог Ты великий,</text>
+<chopds>Em D   Hm            C</chopds>
+<text>           Ты всемогущий,</text>
+<chopds>Em D   Hm              C</chopds>
+<text>           Ты безграничный,</text>
+<chopds>Em    D     C</chopds>
+<text>Только Ты.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Planetshakers — Limitless [Английский]
+  https://holychords.pro/12940
+- GNM NG — Ты без границ [Русский]
+  https://holychords.pro/30845

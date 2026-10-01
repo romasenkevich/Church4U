@@ -1,0 +1,81 @@
+Siloam Church — Сердце моё
+Источник: https://holychords.pro/23
+
+==================================================
+
+<blocks>
+<videlit_line>Интро</videlit_line>
+<chopds>G Hm D G/ G Hm D G  Asus4 A</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds> D                                     F#m            Hm</chopds>
+<text>Сердце мое, желает быть рядом с Тобою,</text>
+<chopds> G                           A                        Hm A</chopds>
+<text>Только в Тебе сокровище жизни моей.</text>
+<chopds> D                                                F#m       Hm</chopds>
+<text>Только с Тобой, нахожусь в тишине и покое,</text>
+<chopds> G                            A                              D</chopds>
+<text>Я наслаждаюсь величием и славой Твоей.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>            D        F#m              Hm</chopds>
+<text>И мое сердце жаждет поклонения,</text>
+<chopds>            G         A                     G A</chopds>
+<text>И мое сердце ищет лишь Тебя.</text>
+<chopds>               D        F#m                Hm</chopds>
+<text>Ты моя сила, жизнь и вдохновенье,</text>
+<chopds>              G         A                  D</chopds>
+<text>Ты моя песня, я люблю Тебя Сердце моё - Siloam Church</text>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds> E                                     G#m            C#m</chopds>
+<text>Сердце мое, желает быть рядом с Тобою,</text>
+<chopds> A                           H                        C#m G</chopds>
+<text>Только в Тебе сокровище жизни моей.</text>
+<chopds> E                                                G#m       C#m</chopds>
+<text>Только с Тобой, нахожусь в тишине и покое,</text>
+<chopds> A                            H                              E</chopds>
+<text>Я наслаждаюсь величием и славой Твоей.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>            E        G#m              C#m</chopds>
+<text>И мое сердце жаждет поклонения,</text>
+<chopds>            A         H                     A  H</chopds>
+<text>И мое сердце ищет лишь Тебя.</text>
+<chopds>               E        G#m                C#m</chopds>
+<text>Ты моя сила, жизнь и вдохновенье,</text>
+<chopds>              A         H                  E</chopds>
+<text>Ты моя песня, я люблю Тебя</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>          A          H</chopds>
+<text>А душа моя летит,</text>
+<chopds>               E G#m C#m</chopds>
+<text>Выше звезд она стремится,</text>
+<chopds>               A               H</chopds>
+<text>Дай присутствием Твоим</text>
+<chopds>              E       G#m   C#m</chopds>
+<text>Мне подольше насладиться.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>            E        G#m              C#m</chopds>
+<text>И мое сердце жаждет поклонения,</text>
+<chopds>            A         H                     A H</chopds>
+<text>И мое сердце ищет лишь Тебя.</text>
+<chopds>               E        G#m                C#m</chopds>
+<text>Ты моя сила, жизнь и вдохновенье,</text>
+<chopds>              A         H                  E</chopds>
+<text>Ты моя песня, я люблю Тебя</text>
+</blocks>

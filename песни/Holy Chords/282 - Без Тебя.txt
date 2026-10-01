@@ -1,0 +1,48 @@
+Lena Isayev — Без Тебя
+Источник: https://holychords.pro/282
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>D                                   Em</chopds>
+<text>Мой Господь я нуждаюсь в совете</text>
+<chopds>  Hm                                G</chopds>
+<text>Мудром, добром совете Твоём</text>
+<chopds>D                        G</chopds>
+<text>Я хочу пребывать в Твоем свете</text>
+<chopds>  Em                               A</chopds>
+<text>Звездною ночью и солнечным днем</text>
+<chopds>D                               A</chopds>
+<text>Если принять решение скажешь</text>
+<chopds>Hm                       G</chopds>
+<text>Без Тебя выбирать не решусь</text>
+<chopds>D                            Em</chopds>
+<text>Знаю, если Ты мне не подскажешь</text>
+<chopds>D                        G</chopds>
+<text>То скорее всего ошибусь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>              D                     A</chopds>
+<text>Без Тебя нет над плотью победы</text>
+<chopds>Hm                      G</chopds>
+<text>И труды мои только тщета</text>
+<chopds>             D                A</chopds>
+<text>А с Тобой вижу вечное небо</text>
+<chopds>Em              G                   A</chopds>
+<text>Отступает земли суета</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>И когда ослабею в дороге</text>
+<text>Нежным словом меня укрепишь</text>
+<text>Успокоишь на сердце тревогу</text>
+<text>И в минуту паденья простишь</text>
+<text>Я желаю любить Тебя больше</text>
+<text>Хочу слышать всегда я Твой глас</text>
+<text>Научи меня этому Боже</text>
+<text>Я нуждаюсь в Тебе всякий час</text>
+</blocks>

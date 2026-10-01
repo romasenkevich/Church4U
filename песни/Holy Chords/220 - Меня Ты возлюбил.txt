@@ -1,0 +1,50 @@
+Real Ivanna — Меня Ты возлюбил
+Источник: https://holychords.pro/220
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                Gm</chopds>
+<text>Сколько раз я вставал на колени,</text>
+<chopds>                Cm</chopds>
+<text>Сколько раз говорил я "Прости",</text>
+<chopds>                 Gm</chopds>
+<text>Сколько раз принимал я решенье</text>
+<chopds>          Cm</chopds>
+<text>За Тобой неизменно идти...</text>
+<chopds>                   Bb                              F</chopds>
+<text>Сколько раз я пытался не плакать,</text>
+<chopds>               Gm</chopds>
+<text>Когда в горле сбивался комок!</text>
+<chopds>                   Bb                             F</chopds>
+<text>Сколько раз я пытался ответить:</text>
+<chopds>                 Gm                              D</chopds>
+<text>"Ну кто ещё меня так поймёт?"</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                   Gm                  Eb                                          Bb                 F</chopds>
+<text>Но Ты прощал, обнимал, поднимал, Ты всегда меня ждал!</text>
+<chopds>            Gm                     Eb                                     Bb                  F</chopds>
+<text>Ты любил, Своей Кровью омыл, всё равно во мне жил!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Сколько раз забывал я ответить</text>
+<text>На Твой тихий и нежный призыв,</text>
+<text>Сколько раз просто мог не заметить,</text>
+<text>Что Ты рядом, во мне Ты жил.</text>
+<text>Сколько раз я пытался не плакать,</text>
+<text>Когда в горле сбивался комок!</text>
+<text>Сколько раз я пытался ответить:</text>
+<text>"Ну кто ещё меня так поймёт?"</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>                                 Eb  F  Gm</chopds>
+<text>Меня Ты возлюбил! Возлюбил!</text>
+</blocks>

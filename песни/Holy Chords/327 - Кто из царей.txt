@@ -1,0 +1,68 @@
+Алексей Каратаев — Кто из царей
+Источник: https://holychords.pro/327
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>     A</chopds>
+<text>Идя за звездой в чужие края</text>
+<chopds>        F#m</chopds>
+<text>Мы так ожидали увидеть Царя</text>
+<chopds>Hm</chopds>
+<text>Но не младенца</text>
+<chopds>    A</chopds>
+<text>Слабый и малый завёрнутый в плед</text>
+<chopds>   F#m</chopds>
+<text>Герой подаривший надежду и свет</text>
+<chopds>          Hm                                                                          E</chopds>
+<text>Мы ждали Спасителя Тот что нас сможет спасти</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>          A</chopds>
+<text>Но Кто из царей покинет свой трон?</text>
+<chopds> F#m</chopds>
+<text>Кто из господ оставит свой дом?</text>
+<chopds>   Hm                                                                  E</chopds>
+<text>Кто из великих сойдет с высоты до меня?</text>
+<chopds>    A</chopds>
+<text>Кто из богов откроет сердца</text>
+<chopds>F#m</chopds>
+<text>Миру который блуждает впотьмах</text>
+<chopds>Hm                                                       E</chopds>
+<text>Кто из отцов сына отдаст за меня?</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Свой дар для младенца Христа принесем</text>
+<text>Славу и честь как царю вознесем</text>
+<text>Мы ждали Его</text>
+<text>Ладан Священнику злато Царю</text>
+<text>И смирну несущему жизнь ко кресту</text>
+<text>Мы верим Он тот кого мы так ждали давно</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>                                     G   D    Hm            G    D</chopds>
+<text>Сына отдаст за меня, о-о-о-о, за тебя,</text>
+<chopds>        Hm              E    Hm                    E</chopds>
+<text>О-о-о-о, за меня, о-о-о-о, за тебя...</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Сім'я Денисюків — Слідом за зіркою [Украинский]
+  https://holychords.pro/27288
+- Downhere — How Many Kings [Английский]
+  https://holychords.pro/27295
+- Переображення Сарни — Слідом за зіркою у невідомість [Украинский]
+  https://holychords.pro/43481
+- BlagoWorship — Хто із царів? [Украинский]
+  https://holychords.pro/48519
+- Slavic Trinity Church — Слідом за зіркою [Украинский]
+  https://holychords.pro/66795

@@ -1,0 +1,48 @@
+Hillsong Ukraine — Сиять во тьме
+Источник: https://holychords.pro/312
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                  A                  F#m                   D</chopds>
+<text>Спасает Бог, если славим в свободе,</text>
+<chopds>                                 A           F#m          D</chopds>
+<text>Всё прошлое уйдёт, если ищем Его мы,</text>
+<chopds>                                A                           F#m              D</chopds>
+<text>Преграду устрани, пролей в сердца Свою славу,</text>
+<chopds>                      A             F#m               D</chopds>
+<text>Ты раствори, наш позор благодатью.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>Hm          F#m        D</chopds>
+<text>Посвящены мы, о-о-ооо, о-о-ооо,</text>
+<chopds>Hm          F#m                D</chopds>
+<text>Посвящены мы в Тебе.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>    A</chopds>
+<text>Сиять во тьме будет свет Твой,</text>
+<chopds>     E</chopds>
+<text>Сиять во тьме будет свет, будет свет,</text>
+<chopds> F#m                   D</chopds>
+<text>Твой, мы с тобой,</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ему хвалу всегда, в небеса возносите,</text>
+<text>Надежду в нас, укрепляет Спаситель.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>         E         F#m  D</chopds>
+<text>Любовь Твоя. О-о-о, о-о-о</text>
+<chopds>         E         F#m  D</chopds>
+<text>Любовь Твоя. О-о-о, о-о-о</text>
+</blocks>

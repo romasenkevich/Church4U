@@ -1,0 +1,44 @@
+Филип Реннер — Ты нужен мне
+Источник: https://holychords.pro/354
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Am                     Em/G</chopds>
+<text>Ты нужен мне, Ты нужен мне, мой Бог,</text>
+<chopds>Fmaj7                                 Em/G</chopds>
+<text>Всё, что нужно мне!</text>
+<chopds>Am                     Em/G</chopds>
+<text>Ты нужен мне, Ты нужен мне, мой Бог,</text>
+<chopds>Fmaj7                                 Em/G</chopds>
+<text>Всё, что нужно мне!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>              Am                                  Em/G</chopds>
+<text>Нет других таких имён, я навеки посвящён,</text>
+<chopds>                  Fmaj7                                                     Em/G</chopds>
+<text>Пред Тобой склонюсь я вновь, моя любовь!</text>
+<chopds>            Am                                         Em/G</chopds>
+<text>Все отдам я лишь Тебе, Свой огонь зажги во тьме,</text>
+<chopds>             Fmaj7                                                  Em/G</chopds>
+<text>Измени меня, Иисус, Ты нужен мне!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>                             Am                        Em/G</chopds>
+<text>Дух Святой, сойди на нас , сойди на нас,</text>
+<chopds>          Fmaj7                         Em/G</chopds>
+<text>Сойди на нас, сойди!</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Renner Worship — You're All I Need [Английский]
+  https://holychords.pro/15723
+- Утро Большого Города — Ты нужен мне [Русский]
+  https://holychords.pro/74120

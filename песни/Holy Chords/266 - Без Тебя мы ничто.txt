@@ -1,0 +1,51 @@
+Просто сосуды — Без Тебя мы ничто
+Источник: https://holychords.pro/266
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                                  D                                    G</chopds>
+<text>Без Тебя мы ничто, без Тебя мы никто</text>
+<chopds>                          Em                              A</chopds>
+<text>Мы просто сосуды пустые внутри</text>
+<chopds>                                 D                                    G</chopds>
+<text>Без Тебя мы ничто, без Тебя мы никто</text>
+<chopds>                            Em                                A</chopds>
+<text>Мы засохшие ветви на сочной лозе</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                      Em     G                            D</chopds>
+<text>Приди и наполни нас Собою скорей</text>
+<chopds>                       Em    G                         A</chopds>
+<text>Приди оживи нас любовью Своей</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Без Тебя мы ничто, без Тебя мы никто</text>
+<text>Мы кожа и кости без Духа внутри</text>
+<text>Без Тебя мы ничто, без Тебя мы никто</text>
+<text>Мы просто сосуды пустые внутри</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>          C                        E</chopds>
+<text>Приди Иисус, приди Иисус!</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Без Тебя мы ничто, без Тебя мы никто</text>
+<text>Мы просто сосуды пустые внутри</text>
+<text>Без Тебя мы ничто, без Тебя мы никто</text>
+<text>Мы засохшие ветви на сочной лозе</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<text>Без Тебя мы ничто</text>
+</blocks>

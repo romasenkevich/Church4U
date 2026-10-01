@@ -1,0 +1,39 @@
+Неизвестен — В нашем зале все друзья
+Источник: https://holychords.pro/200
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D</chopds>
+<text>В нашем зале все друзья.</text>
+<chopds>       G       A      D</chopds>
+<text>И раз, два, три.</text>
+<chopds>              D</chopds>
+<text>Вы и мы, и ты и я.</text>
+<chopds>       G       A      D</chopds>
+<text>И раз, два, три.</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>                   G                              D</chopds>
+<text> Повернись к тому, кто слева,</text>
+<chopds>              G                                 D</chopds>
+<text>Повернись к тому, кто справа.</text>
+<chopds> Em       A          D</chopds>
+<text>Мы одна семья.</text>
+<text>2 . Руку дай…</text>
+<text>3. Улыбнись тому кто…</text>
+<text>4. Подмигни…</text>
+<text>5. Обними…</text>
+<text>6. Усади…</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Ковчег КЕМП — В нашем зале все друзья [Русский]
+  https://holychords.pro/36642
+- Ковчег КЕМП — С теб другари сме добри [Болгарский]
+  https://holychords.pro/66254

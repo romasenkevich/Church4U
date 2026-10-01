@@ -1,0 +1,17 @@
+Виталий Ефремочкин — Ты благой
+Источник: https://holychords.pro/77
+
+==================================================
+
+<blocks>
+<chopds>A       H  C#m  E          A         H     C#m</chopds>
+<text>Ты благой,     аллилуйя, Ты благой.</text>
+<chopds>A       H  C#m  E         A          H      F#m</chopds>
+<text>Ты благой,     аллилуйя, Ты благой.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Tye Tribbett — You Are Good [Английский]
+  https://holychords.pro/9181

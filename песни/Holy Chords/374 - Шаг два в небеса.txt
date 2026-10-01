@@ -1,0 +1,23 @@
+Алексей Грудинский — Шаг два в небеса
+Источник: https://holychords.pro/374
+
+==================================================
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>Am   Em</chopds>
+<text>У меня есть Господь, Его Имя - Иисус.</text>
+<text>Дал Он силу и власть на змей наступать.</text>
+<text>На Голгофу, на крест За Собой Он зовёт</text>
+<text>Чтоб распять все грехи и идти по пути</text>
+<text>По пути вслед за Ним</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Am   Em</chopds>
+<text>Шаг, два в небеса</text>
+<text>Шаг, два в небеса</text>
+<text>Шаг, два в небеса</text>
+<text>В Дом моего Отца.</text>
+</blocks>

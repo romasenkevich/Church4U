@@ -1,0 +1,115 @@
+Hillsong Ukraine — Я сдаюсь Бог
+BPM: 154
+Источник: https://holychords.pro/97
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>  Dm                                 F</chopds>
+<text>Здесь опять я преклоню себя,</text>
+<chopds>                      C                            Bb</chopds>
+<text>Тебе всё отдам, Тебе всё отдам.</text>
+<chopds>        Dm                                     F</chopds>
+<text>К Себе сейчас, Бог, приближай меня,</text>
+<chopds>                  C                    Bb</chopds>
+<text>Отчаянно я жажду Тебя.</text>
+<chopds>         Dm              F    C    Bb</chopds>
+<text>Я сдаюсь, Бог...</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<chopds> Dm                                    F</chopds>
+<text>Голод мой Своей благодатью, Бог,</text>
+<chopds>                     C                          Bb</chopds>
+<text>Сейчас утоли, мой дух напои.</text>
+<chopds>      Dm                                      F</chopds>
+<text>Тянусь душой, верю, крик слышишь мой,</text>
+<chopds>                       C                          Bb</chopds>
+<text>Прошу, говори, со мной говори.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>         Dm                       F</chopds>
+<text>Я сдаюсь, Бог, я сдаюсь, Бог,</text>
+<chopds>                  Gm                                          Bb</chopds>
+<text>Чтобы познать Тебя, ещё больше знать Тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>                   Bb          F                      C</chopds>
+<text>Сильным ветром Ты во мне, Иисус, дыши,</text>
+<chopds>                    Gm                  Dm              C</chopds>
+<text>В жизни моей волей Своей, правь Ты.</text>
+<chopds>                Bb               F                  C</chopds>
+<text>Словно мощный шторм, потряси меня, Бог,</text>
+<chopds>                   Gm                  Dm               C</chopds>
+<text>В жизни моей волей Своей правь Ты.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- New Beginnings Worship — Преклоняюсь [Русский]
+  https://holychords.pro/403
+- Hillsong Worship — I Surrender
+  https://holychords.pro/1626
+- Hillsong Young & Free — I Surrender (Remix [Bonus Track]) [Английский]
+  https://holychords.pro/8981
+- Hillsong Worship — A Ti Me Rindo
+  https://holychords.pro/9569
+- KK Music Irkutsk — Я сдаюсь [Русский]
+  https://holychords.pro/9609
+- Ян Прадвесьнік царква — Я скараюсь [Белорусский]
+  https://holychords.pro/9945
+- Любов і зцілення Тернопіль — Підкоряюсь [Украинский]
+  https://holychords.pro/10750
+- D.Worship — Підкоряюсь [Украинский]
+  https://holychords.pro/11334
+- UzWorSong — Топинаман [Узбекский]
+  https://holychords.pro/12366
+- Исход Ростов на Дону — Сокрушаюсь [Русский]
+  https://holychords.pro/13717
+- Gracetime Worship Band — Я склоняюсь [Русский]
+  https://holychords.pro/14444
+- seventhseal — Я сдаюсь [Русский]
+  https://holychords.pro/24002
+- Hillsong Worship — I Surrender [Английский]
+  https://holychords.pro/24099
+- Слово Жизни Music — Я сдаюсь, Бог [Русский]
+  https://holychords.pro/24593
+- IGC Kyiv Worship — Я сдаюсь, Бог [Русский]
+  https://holychords.pro/26337
+- Слово Жизни Music — I surrender (spontaneous) [Английский]
+  https://holychords.pro/28100
+- Церковь Божия Music — Преклоняюсь [Русский]
+  https://holychords.pro/29704
+- D1 Worship — Я сдаюсь, Бог [Русский]
+  https://holychords.pro/32783
+- Зоря Життя music — Я вклоняюсь [Украинский]
+  https://holychords.pro/35276
+- Hillsong Worship — Я здаюсь, Бог [Украинский]
+  https://holychords.pro/38002
+- FaithLift — Я схиляюсь [Украинский]
+  https://holychords.pro/44084
+- Hillsong Ukraine — Я здаюся
+  https://holychords.pro/45256
+- Християнська надія — Я вклоняюсь [Украинский]
+  https://holychords.pro/46992
+- Hillsong Chapel — I Surrender [Английский]
+  https://holychords.pro/65811
+- Hillsong Worship — Я здаюсь, Бог! [Украинский]
+  https://holychords.pro/72494
+- Lifegate Worship Serbia — Dajem Ti Sve (Live) [Сербский]
+  https://holychords.pro/75763
+- Smotrych Worship — Підкоряюсь [Украинский]
+  https://holychords.pro/76246
+- Bérea Gyülekezet dicsőítés — Térdre hullok [Венгерский]
+  https://holychords.pro/78362
+- Serce Uwielbienia — Poddaję [Польский]
+  https://holychords.pro/79189
+- Hillsong Worship — Я схиляюсь [Украинский]
+  https://holychords.pro/81973

@@ -1,0 +1,54 @@
+Слово Жизни Music — Авва Отче
+Источник: https://holychords.pro/473
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds> Bb                     D#  Bb                       D#</chopds>
+<text>Петь у Твоих ног я бы вечность мог</text>
+<chopds>          Bb                D#        Bb    D#</chopds>
+<text>Склоняюсь я перед Тобой</text>
+<chopds>    Bb                       D#  Bb                   D#</chopds>
+<text>Одетый в благодать я не могу стоять</text>
+<chopds>         Gm                  D#                        F</chopds>
+<text>В присутствии Твоем, Великий Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D#              Gm                  Bb    F/A</chopds>
+<text>Люблю Тебя, Господь, Авва Отче</text>
+<chopds>D#/G     D#                   Bb</chopds>
+<text>Ищу Тебя, Господь мой</text>
+<chopds>D#                        Gm                Bb      F/A</chopds>
+<text>Всем сердцем петь Тебе днём и ночью</text>
+<chopds>D#/G           D#                   Bb</chopds>
+<text>Люблю Тебя, Господь мой</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Господь я восхищен, что Ты меня нашел</text>
+<text>Я звал Тебя и Ты пришёл</text>
+<text>Заветная мечта во мне горит опять</text>
+<text>Тебя как Друга я желаю знать</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>       Bb</chopds>
+<text>Господь, Ты мой Спаситель, Ты слава для меня</text>
+<chopds>     D#</chopds>
+<text>Тебе всё отдаю я Ты жизнь моя</text>
+<chopds>        Gm</chopds>
+<text>Покрытый благодатью я здесь через Твой крест</text>
+<chopds>        F</chopds>
+<text>Господь, Ты любовь моя навек</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Слово Жизни — Авва Отче (Господь, у Твоїх ніг) [Украинский]
+  https://holychords.pro/35188

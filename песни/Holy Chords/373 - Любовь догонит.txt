@@ -1,0 +1,44 @@
+Алексей Грудинский — Любовь догонит
+Источник: https://holychords.pro/373
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>          Em                              Hm</chopds>
+<text>Ослабевшее сердце взывает к Отцу</text>
+<chopds>         Am                        Hm</chopds>
+<text>Ослабевшие ноги запутались вдруг</text>
+<chopds>            Em                                   Hm</chopds>
+<text>Где то тайно на поле прорастает бамбук</text>
+<chopds>                Am                                   Hm</chopds>
+<text>Мысли кружат вокруг где же дерево друг</text>
+<chopds>        Em                                    Hm</chopds>
+<text>И весомые стены серых дней пустота</text>
+<chopds>             Am                        Hm</chopds>
+<text>Раздвигает от света свои берега</text>
+<chopds>                 Em                                    Hm</chopds>
+<text>В этом мраке сомнений раздвоилась гора</text>
+<chopds>             Am                               Hm</chopds>
+<text>В этот мир потекла от престола река</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>          Em                  Hm</chopds>
+<text>И любовь тебя догонит</text>
+<chopds>          Am                     Hm</chopds>
+<text>И любовь тебя поймёт</text>
+<chopds>               Em             Hm</chopds>
+<text>Приласкает поцелует</text>
+<chopds>          Am              Hm</chopds>
+<text>И слезу твою утрёт</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Это знал это видел это было во мне</text>
+<text>Когда Ты мой господь прикоснулся ко мне</text>
+<text>Мои первые чувства возвращаються вновь</text>
+<text>ты мне дал окунуться в Своё Царство Любовь</text>
+</blocks>

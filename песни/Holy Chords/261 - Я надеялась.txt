@@ -1,0 +1,52 @@
+Просто сосуды — Я надеялась
+Источник: https://holychords.pro/261
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Bbm                G#                 F#                           Fm</chopds>
+<text>Я надеялась на человека, и так больно упала,</text>
+<chopds>Bbm                               G#                 F#                G#</chopds>
+<text>Сколько горьких я слёз пролила, но я не знала.</text>
+<chopds>       Bbm       G#  F#</chopds>
+<text>Не знала Тебя, и Твоей любви.</text>
+<chopds>H            F#                      G#  Bb</chopds>
+<text>Во мне сердце изменил.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D#  Bb  G#               Bb</chopds>
+<text>Иисус, Ты мой Спаситель навеки,</text>
+<chopds>D#  Bb  G#             Bb</chopds>
+<text>Иисус, сердце Тебе отдаю.</text>
+<chopds>D#  Bb  Fm             G          Cm                 Bb</chopds>
+<text>Иисус, Ты никогда не оставишь меня,</text>
+<chopds>             G#     Bb</chopds>
+<text>Я люблю Тебя, я Твоя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ты прости мне слабость мою, без Тебя ничего не могу я.</text>
+<text>Ты мне руку Свою протяни, к Тебе побегу я.</text>
+<text>И кто мне на небе, и кто на земле,</text>
+<text>Все мои мысли о Тебе.</text>
+<chopds>    Cm                 Bb           G#</chopds>
+<text>И кто мне на небе, и кто на земле,</text>
+<chopds>C#               G#              Bb   C</chopds>
+<text>Все мои мысли о Тебе.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>F     C    Bb                  C</chopds>
+<text>Иисус, Ты мой Спаситель навеки,</text>
+<chopds>F     C    Bb               C</chopds>
+<text>Иисус, сердце Тебе отдаю.</text>
+<chopds>F     C    Gm            A           Dm                 C</chopds>
+<text>Иисус, Ты никогда не оставишь меня,</text>
+<chopds>             Bb       C</chopds>
+<text>Я люблю Тебя, я Твоя.</text>
+</blocks>

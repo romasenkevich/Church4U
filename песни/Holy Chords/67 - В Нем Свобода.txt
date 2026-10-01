@@ -1,0 +1,56 @@
+NG Worship — В Нем Свобода
+Источник: https://holychords.pro/67
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>G                                     C</chopds>
+<text>Услышим звук небес, не сдержать хвалы,</text>
+<chopds>G                                    C</chopds>
+<text>Сильный Дух Святой меняет всё внутри</text>
+<chopds>Em                             C</chopds>
+<text>И наше поколение теперь в Его любви.</text>
+<chopds>Em                                       C</chopds>
+<text>Идёт вперед что в миру всю истину явить.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Пред припев</videlit_line>
+<chopds>D                 Em                 C</chopds>
+<text>Мы будем петь, будем петь,</text>
+<chopds>D                            Em                     C</chopds>
+<text>Теперь чисто в Нем и мы все будем петь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>G                          C</chopds>
+<text>Он Спаситель,  Он - Великий Бог</text>
+<chopds>     Em                  C</chopds>
+<text>Иисус победу дал нам навек Он</text>
+<chopds>G                          C</chopds>
+<text>Он свобода в Нём Одном любовь</text>
+<chopds>  Em                           C</chopds>
+<text>И есть Он мир и жизнь я отдаю Тебе</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Видим яркий свет, как прекрасен Ты,</text>
+<text>Силою Своей чудеса творишь</text>
+<text>И наше поколение искуплено Тобой</text>
+<text>Все наше поколение идет за Тобой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>Em          C                      G          D</chopds>
+<text>Своей кровью заплатил</text>
+<chopds>Em               C                     G            D</chopds>
+<text>Жизнь Свою отдал за мир, за нас</text>
+<chopds>Em              C                            G      D</chopds>
+<text>Мы прославим жизнью всей</text>
+<chopds>Em         C                      G       D</chopds>
+<text>И сердца свои склоним</text>
+</blocks>

@@ -1,0 +1,35 @@
+Holy Generation — Ты мой Бог
+Источник: https://holychords.pro/369
+
+==================================================
+
+<blocks>
+<chopds>F#m</chopds>
+<text>Когда я один, Ты рядом со мною, когда я устал, Ты силы мне дашь.</text>
+<chopds>        Hm                        C#m</chopds>
+<text>Ты мой Бог, Ты мой Бог .</text>
+<chopds>F#m</chopds>
+<text>Когда я боюсь, на Тебя уповаю, когда я упал, Ты поднимешь меня.</text>
+<chopds>Hm                                C#m</chopds>
+<text>Ты мой Бог, Ты мой Бог.</text>
+<chopds>     Hm                                        C#m</chopds>
+<text>Надежда моя, крепость моя, сила моя.</text>
+<chopds>               F#m</chopds>
+<text>Ты мой Бог, Ты мой Царь.</text>
+<chopds>Dmaj7       C#m</chopds>
+<text>Я не хочу жить, так как жил,</text>
+<chopds>F#m                   A</chopds>
+<text>Ты, Бог, меня освободил.</text>
+<chopds>Dmaj7           C#m</chopds>
+<text>Ты спас меня и оправдал</text>
+<chopds>F#m           A</chopds>
+<text>Навсегда.</text>
+<chopds>     Dmaj7                 C#m</chopds>
+<text>Ты любишь меня, веришь в меня.</text>
+<chopds>     F#m                   A</chopds>
+<text>Я ближе к Тебе день ото дня.</text>
+<chopds>       Dmaj7                      C#m</chopds>
+<text>Ты надежда моя,Ты крепость моя</text>
+<chopds>   F#m           A</chopds>
+<text>И сила моя.</text>
+</blocks>

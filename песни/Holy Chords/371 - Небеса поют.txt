@@ -1,0 +1,44 @@
+Алексей Грудинский — Небеса поют
+Источник: https://holychords.pro/371
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>            F#m</chopds>
+<text>Ты воссел одесную Отца</text>
+<chopds>              A</chopds>
+<text>Воскресеньем Своим победил</text>
+<chopds>          D</chopds>
+<text>И потоком любви без конца</text>
+<chopds>       Hm                           E</chopds>
+<text>Эту землю Отец напоил.</text>
+<chopds>         F#m</chopds>
+<text>Небеса воспевают хвалу</text>
+<chopds>             A</chopds>
+<text>И простёртые руки зовут</text>
+<chopds>            D</chopds>
+<text>Се, стою у дверей и стучу</text>
+<chopds>                 Hm                                      E</chopds>
+<text>Ты мой брат, Я - Господь твой Иисус.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>         F#m              A</chopds>
+<text>Небеса поют: cлава Тебе!</text>
+<chopds>    D                 Hm          E</chopds>
+<text>Слава Тебе, Царь Иисус!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Сохранил, оправдал и простил.</text>
+<text>В Своём Сыне Отец Воскресил</text>
+<text>И любовью наполнил сердца.</text>
+<text>Благодать вам и мир От Отца!</text>
+<text>И в Открытое сердце к Нему</text>
+<text>Я влечён и к Иисусу бегу</text>
+<text>Я навстречу любви тороплюсь,</text>
+<text>Ведь с Тобой ничего не боюсь.</text>
+</blocks>

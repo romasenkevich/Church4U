@@ -1,0 +1,80 @@
+Hillsong Ukraine — Песня в пустыне
+Источник: https://holychords.pro/292
+
+==================================================
+
+<blocks>
+<chopds>Hm A | G D | Hm A | G  |</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds> Hm                  A             G     D</chopds>
+<text>Богу молюсь я в пустыне,</text>
+<chopds>      Hm                    A            G   D</chopds>
+<text>Когда все иссохло внутри.</text>
+<chopds>Hm                     A            G               D</chopds>
+<text>Голод и жажду мой Бог утолит,</text>
+<chopds>         Hm                       A     G</chopds>
+<text>Все нужды восполнит мои.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Богу молюсь я в проблемах,</text>
+<text>Когда боль так трудно терпеть.</text>
+<text>Ценнее, чем золото, вера, когда</text>
+<text>Её закалит Бог в огне.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                     D                A</chopds>
+<text>Снова хвалу я вознесу,</text>
+<chopds>                       G                                    D</chopds>
+<text>Против меня бессилен враг любой.</text>
+<chopds>A/C#          A                     Hm</chopds>
+<text>Радостно я провозглашу:</text>
+<chopds>                   G               D/A   A      Hm   A   G   D</chopds>
+<text>В Боге моя победа - Он со мной.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Богу молюсь я в сражении.</text>
+<text>Еще мой триумф не настал.</text>
+<text>Но буду я как сонаследник Христу</text>
+<text>В Его обещаньях стоять.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>   Dsus           D     Dsus                 D</chopds>
+<text>В жизни моей в каждый период</text>
+<chopds>Hm                                                                   A</chopds>
+<text>Ты мой Господь - по этой причине пою:</text>
+<chopds>  G                               D</chopds>
+<text>Бог, я Тебе поклоняюсь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>4 куплет</videlit_line>
+<text>Богу молюсь я и в жатве,</text>
+<text>Когда есть избыток во всем.</text>
+<text>Знаю, что Бог наполняет, чтоб вновь</text>
+<text>Мы сеяли семя своё.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Worship — Desert Song [Английский]
+  https://holychords.pro/13549
+- Hillsong Worship — Молитва в пустыне [Русский]
+  https://holychords.pro/24994
+- Hillsong Worship — Пісня в пустелі [Украинский]
+  https://holychords.pro/40412
+- Brooke Ligertwood — Desert Song [Английский]
+  https://holychords.pro/48940
+- Церковь Вефиль Денвер — Песня в пустыне [Русский]
+  https://holychords.pro/60636

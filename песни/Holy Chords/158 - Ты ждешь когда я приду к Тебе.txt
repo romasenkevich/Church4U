@@ -1,0 +1,98 @@
+Виталий Ефремочкин — Ты ждешь когда я приду к Тебе
+Источник: https://holychords.pro/158
+
+==================================================
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C#m                                     A             E               F#m</chopds>
+<text>Ты ждешь когда я приду к Тебе такой как есть</text>
+<chopds>C#m                                     A             E               F#m</chopds>
+<text>Ты ждешь когда я приду к Тебе такой как есть</text>
+</blocks>
+
+<blocks>
+<videlit_line>Куплет</videlit_line>
+<chopds>C#m                            A                         E        F#m</chopds>
+<text>Печать Твоей любви в сердце моем навеки, навсегда</text>
+<chopds>C#m           A                   E     F#m</chopds>
+<text>Как велика Твоя любовь ревность как летящая стрела</text>
+<chopds>C#m              A         E                        F#m</chopds>
+<text>Ничто не в силах угасить Твою любовь</text>
+</blocks>
+
+<blocks>
+<videlit_line>1 бридж</videlit_line>
+<chopds>C#m            A                         E                              F#m</chopds>
+<text>Приди огнем Своим Господь сожги мой грех, омой меня</text>
+<chopds>C#m           A                           E                         F#m</chopds>
+<text>Приди огнем Своим Господь и будем вместе Ты и я</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 бридж</videlit_line>
+<chopds>C#m                                  A</chopds>
+<text>Больше не хочу говорить я и в ночной темноте</text>
+<chopds>E                                      F#m</chopds>
+<text>Лишь смотреть на Тебя хочу только петь Тебе</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 бридж</videlit_line>
+<chopds>C#m   A                  E                         F#m</chopds>
+<text>Аллилуйя, аллилуйя, и будем вместе Ты и я</text>
+<chopds>C#m   A                  E                          F#m</chopds>
+<text>Аллилуйя, аллилуйя, и будем вместе...</text>
+</blocks>
+
+<blocks>
+<videlit_line>4 бридж</videlit_line>
+<chopds>C#m                                      A</chopds>
+<text>Господь, мы хотим ещё, Господь, мы хотим ещё,</text>
+<chopds>E                                       F#m</chopds>
+<text>Господь, мы хотим ещё больше славы...</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- IFound Worship — Ты ждешь когда я приду [Русский]
+  https://holychords.pro/5968
+- NG Worship — Ты ждешь когда я приду к Тебе [Русский]
+  https://holychords.pro/7071
+- Jesus Culture — You Won't Relent [Английский]
+  https://holychords.pro/8761
+- Анна Поночевная — Завжди чекаєш [Украинский]
+  https://holychords.pro/22196
+- Спасіння Київ — Завжди чекаєш [Украинский]
+  https://holychords.pro/35045
+- БИХ worship — Ты Ждёшь [Русский]
+  https://holychords.pro/35160
+- øusia — You won't relent [Английский]
+  https://holychords.pro/39602
+- Jesus Culture — Не відпускай мене [Украинский]
+  https://holychords.pro/43516
+- Ave Maria — Мiй Бог, чекав Ти давно [Украинский]
+  https://holychords.pro/43911
+- Holy Worship Band — Завжди чекаєш мене, Господь [Украинский]
+  https://holychords.pro/45469
+- Jesus Culture — Ти не відступиш [Украинский]
+  https://holychords.pro/48109
+- Wolrus WORSHIP — Печать Твоей любви [Русский]
+  https://holychords.pro/54006
+- Misty Edwards — You Won't Relent [Английский]
+  https://holychords.pro/57778
+- Неизвестен — Ты ждёшь когда приду я [Русский]
+  https://holychords.pro/58986
+- NB Worship — You Won't Relent [Английский]
+  https://holychords.pro/62931
+- SY Worship — Завжди чекаєш мене [Украинский]
+  https://holychords.pro/63205
+- Iva i Drago — Ti ne odustaješ [Сербский]
+  https://holychords.pro/73350
+- Новый Завет Пермь — Печать твоей любви [Русский]
+  https://holychords.pro/81202
+- Пісні Відродження — Зійди вогнем Своїм, Господь [Украинский]
+  https://holychords.pro/83907
+- Anastasiia Rusandu — Чекаєш Ти коли я прийду [Украинский]
+  https://holychords.pro/84351

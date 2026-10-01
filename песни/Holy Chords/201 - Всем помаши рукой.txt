@@ -1,0 +1,32 @@
+Неизвестен — Всем помаши рукой
+Источник: https://holychords.pro/201
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>            D          Em            A              D</chopds>
+<text>Всем помаши рукой, посмотри в глаза</text>
+<chopds>        D         Em             A           D</chopds>
+<text>Здесь твои друзья, здесь твоя семья</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>           D                   Hm</chopds>
+<text>С тобою друг, с тобою брат</text>
+<chopds>         Em           A      D</chopds>
+<text>Тебе он очень, очень рад</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Ты за руки возьмись, скажи добрые слова</text>
+<text>Здесь твои друзья, здесь твоя семья</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Пускай проходят дни, пролетают года</text>
+<text>Ты приходи скорей здесь ждут тебя</text>
+</blocks>

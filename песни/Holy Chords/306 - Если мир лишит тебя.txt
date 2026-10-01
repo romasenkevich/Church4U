@@ -1,0 +1,52 @@
+Русавуки — Если мир лишит тебя
+Источник: https://holychords.pro/306
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>           Cm                     G                             Cm</chopds>
+<text>Если мир лишит тебя золота и серебра</text>
+<chopds>                                                         G</chopds>
+<text>И покинет, обобравши дочиста.</text>
+<chopds>                       Cm                   G                                           Cm</chopds>
+<text>Пред людьми не падай ниц, помни: Бог питает птиц.</text>
+<chopds>                                  Fm                     G</chopds>
+<text>Свое бремя положи у ног Христа.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>          Cm        Fm</chopds>
+<text>Положи и оставь.</text>
+<chopds>              G7                                       Cm  G7</chopds>
+<text>Свое бремя положи у ног Христа.</text>
+<chopds>            Cm                                  Fm</chopds>
+<text>Если верою живем, Бог заботится о всем.</text>
+<chopds>          Cm/G        G7                          Cm</chopds>
+<text>Своё бремя положи у ног Христа.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Если телом страждешь ты, В прах рассыпались мечты,</text>
+<text>И земная увядает красота.</text>
+<text>Не помогут стон и плач, Иисус Христос твой Врач,</text>
+<text>Свое бремя положи у ног Христа.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Окружен ли ты враждой. Все закрыто пред тобой,</text>
+<text>Помни: Бог открыл тебе небес врата.</text>
+<text>Он поможет и поймет, Сохранит среди невзгод,</text>
+<text>Свое бремя положи у ног Христа.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Песнь Возрождения — Если мир лишит тебя [Русский]
+  https://holychords.pro/21335
+- Way To Salvation Church — Як тебе позбавить світ [Украинский]
+  https://holychords.pro/51237

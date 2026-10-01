@@ -1,0 +1,60 @@
+Игорь Яловец — Годы как птицы летят
+Источник: https://holychords.pro/2
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C#                 F       Bbm</chopds>
+<text>Годы как птицы летят,</text>
+<chopds>C#               F              Bbm</chopds>
+<text>Ты их совсем не заметишь,</text>
+<chopds>D#m        G#              C#    Bbm</chopds>
+<text>И не вернёшь их назад,</text>
+<chopds>D#m         F              Bbm</chopds>
+<text>В этот холодный  ты вечер,</text>
+<chopds>D#m        G#              C#     Bbm</chopds>
+<text>И не вернёшь их назад,</text>
+<chopds>D#m        F               Bbm</chopds>
+<text>В этот холодный ты вечер.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Боже как долго Ты ждёшь,</text>
+<text>Нас в этой жизни порою.</text>
+<text>Терпишь, прощаешь, зовёшь,</text>
+<text>И наполняешь Собою,</text>
+<text>Терпишь, прощаешь, зовёшь,</text>
+<text>И наполняешь Собою.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Как жаль что часто грешим,</text>
+<text>Как жаль что вновь расспинаем.</text>
+<text>Но поднимаешь нас Ты,</text>
+<text>И всё опять нам прощаешь,</text>
+<text>Но поднимаешь нас Ты,</text>
+<text>И всё опять нам прощаешь.</text>
+</blocks>
+
+<blocks>
+<videlit_line>4 куплет</videlit_line>
+<text>Боже за всё нас прости,</text>
+<text>Что сил порой не хватает,</text>
+<text>В ранах глубоких Твоих,</text>
+<text>Жизнь наша смысл обретает,</text>
+<text>В ранах глубоких Твоих,</text>
+<text>Жизнь наша смысл обретает.</text>
+</blocks>
+
+<blocks>
+<videlit_line>5 куплет</videlit_line>
+<text>Годы как птицы летят,</text>
+<text>Ты их совсем не заметишь,</text>
+<text>И не вернёшь их назад,</text>
+<text>В этот холодный ты вечер,</text>
+<text>И не вернёшь их назад,</text>
+<text>В этот холодный ты вечер.</text>
+</blocks>

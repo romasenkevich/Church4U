@@ -1,0 +1,64 @@
+Слово Жизни Music — Бог живой
+BPM: 127
+Источник: https://holychords.pro/193
+
+==================================================
+
+<blocks>
+<videlit_line>Вступление</videlit_line>
+<chopds>C#m E A</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>C#m                                   E                 A</chopds>
+<text>Каждый день ранним утром я жажду познавать Тебя,</text>
+<chopds>  C#m                         E                             A</chopds>
+<text>С сердцем сокрушенным пред Тобой.</text>
+<chopds>C#m                    E                        A</chopds>
+<text>Божий Дух наполнит дом, мир и свет в сердце моём,</text>
+<chopds>  C#m                       E                         A</chopds>
+<text>Вновь войду я в новый день для Тебя.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  A             C#m                                 H                    F#m</chopds>
+<text>Бог живой, Ты в моей жизни действуешь, действуешь о-о-о</text>
+<chopds>A               C#m                      H</chopds>
+<text>Твоя кровь омыла грех мой</text>
+<chopds>     A             C#m                            H                       F#m</chopds>
+<text>Прославлять - смысл жизни каждый день, каждый день о-о-о</text>
+<chopds>A          C#m                       H</chopds>
+<text>Я бегу в Твои объятья, Бог.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Проигрыш</videlit_line>
+<chopds>A C#m H F#m</chopds>
+<chopds>A C#m H</chopds>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Мир жесток и полон бед, но Иисус наш яркий свет,</text>
+<text>Мы Твоей благодатью спасены.</text>
+<text>С сердцами полными огня, мы жаждем видеть чудеса,</text>
+<text>Действуй в нас и через нас, Бог.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж 1</videlit_line>
+<chopds>A                         C#m                                 H         F#m</chopds>
+<text>В Твои объятья я бегу, мой Бог, всегда! В Тебе укроюсь</text>
+<chopds>A                         C#m                                 H</chopds>
+<text>Открой свои пути, чтоб за Тобой идти, нести всем свет Твой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж 2</videlit_line>
+<chopds>A                C#m                                     H                        F#m</chopds>
+<text>Ты со мною! Твой Дух ведет меня и наполняет Своей силой</text>
+<chopds>A                      C#m                        H</chopds>
+<text>Ты живой, Бог! Яви нам чудеса и покажи нам Свою Славу</text>
+</blocks>

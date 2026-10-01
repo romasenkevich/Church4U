@@ -1,0 +1,61 @@
+Вічність — О как прекрасно просто жить
+Источник: https://holychords.pro/427
+
+==================================================
+
+<blocks>
+<text>Вст.</text>
+<chopds>| Am  Em  Dm  F  |  Am  Em  Am  F |</chopds>
+<chopds>Am               Dm                  Am     E7</chopds>
+<text>О как прекрасно просто жить,</text>
+<chopds>         Am             Dm              Am     E7</chopds>
+<text>Встречать рассветы провожать закаты,</text>
+<chopds>Dm               G                               Am</chopds>
+<text>В сиянье дня и ночь, и тьму любить,</text>
+<chopds>    Dm                                         E7</chopds>
+<text>Любить грозу и зной и снегопады.</text>
+<chopds>Am               Dm                   Am    E7</chopds>
+<text>О как прекрасно просто жить,</text>
+<chopds>  Am            Dm                    Am           E7</chopds>
+<text>Дышать и чувствовать и петь и улыбаться,</text>
+<chopds>    Dm            G                                  Am</chopds>
+<text>Любить людей добром за всё платить,</text>
+<chopds>Dm                                                            E7</chopds>
+<text>Грустить, в разлуке с радостью встречаться.</text>
+<text>Припев</text>
+<chopds>     Am                     Dm       E7                        Am</chopds>
+<text>О как прекрасно жить, о как  прекрасно просто жить,</text>
+<chopds>        Dm                                             E7</chopds>
+<text>Любить людей добром за всё платить,</text>
+<chopds>       Am                    Dm      E7                       Am</chopds>
+<text>О как прекрасно жить, о как  прекрасно просто жить,</text>
+<chopds>       Dm                  E7              Am</chopds>
+<text>И знать кого за всё благодарить.</text>
+<chopds>Am               Dm                  Am       E7</chopds>
+<text>О как прекрасно просто жить,</text>
+<chopds> Am             Dm                      Am     E7</chopds>
+<text>Лет не считать, не чувствовать усталость,</text>
+<chopds>  Dm           G                           Am</chopds>
+<text>Растить сады или детей растить,</text>
+<chopds>Dm                                                E7</chopds>
+<text>Чтоб всё на свете снова повторялось.</text>
+<text>Modul</text>
+<chopds>Bbm             Ebm                Bbm F7</chopds>
+<text>О как прекрасно просто жить,</text>
+<chopds>Bbm               Ebm                    Bbm        F</chopds>
+<text>Жить на земле, но ввысь душой стремиться,</text>
+<chopds>Ebm            Ab                         F#</chopds>
+<text>И знать кого за всё благодарить,</text>
+<chopds>Ebm                                        F</chopds>
+<text>И лишь Ему без устали молиться.</text>
+<text>Припев :  2 раза</text>
+<chopds>      Bbm                  Ebm     F7                        Bbm</chopds>
+<text>О как прекрасно жить, о как  прекрасно просто жить,</text>
+<chopds>        F#                           Ebm                 F7</chopds>
+<text>Любить людей добром за всё платить,</text>
+<chopds>     Bbm                   Ebm      F7                       Bbm</chopds>
+<text>О как прекрасно жить, о как  прекрасно просто жить,</text>
+<chopds>        Ebm                  F7              Bbm</chopds>
+<text>И знать кого за всё благодарить.</text>
+<chopds>|  Fm  Gm  Ebm  Bbm  |  Fm  Gm  Ebm  Bbm  |  Ebm  F#  Bbm  Fm  |</chopds>
+</blocks>

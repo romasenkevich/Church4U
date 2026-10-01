@@ -1,0 +1,70 @@
+Hillsong Ukraine — Ритм Благодати
+Источник: https://holychords.pro/310
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>         Am           F               C</chopds>
+<text>Для цели Твоих моя жизнь,</text>
+<chopds>           Am            F                     C</chopds>
+<text>Мою волю ведёт Твой призыв,</text>
+<chopds>             Dm         Am                F</chopds>
+<text>Сокровенное в сердце моём,</text>
+<chopds>                      C</chopds>
+<text>Лишь для Тебя.</text>
+<chopds>         Am                 F             C</chopds>
+<text>Под ритм благодати живу,</text>
+<chopds>         Am       F                       C</chopds>
+<text>Диктует теперь он мне путь.</text>
+<chopds>             Dm            Am                    F</chopds>
+<text>Подчиняю свой шаг каждый день,</text>
+<chopds>                           C</chopds>
+<text>Для славы Твоей я.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<chopds>      G      Am            F</chopds>
+<text>Такой один Бог Наш,</text>
+<chopds>      G      Am            F</chopds>
+<text>Такой один Бог Наш.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>В руках Твоих солнечный свет,</text>
+<text>Но даже в ночной темноте,</text>
+<text>Через беды и через триумф</text>
+<text>Идёшь со мной рядом.</text>
+<text>По имени звёзды Ты звал,</text>
+<text>Шепот Твой их на место послал,</text>
+<text>Чтобы хвалу возглашали Тебе,</text>
+<text>Сейчас и во веки.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Запев</videlit_line>
+<text>Такой один Бог Наш,</text>
+<text>Такой один Бог Наш.</text>
+<text>Твой будет свет во мне сиять,</text>
+<text>Ведь такой один Бог Наш.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>  C                     F</chopds>
+<text>Не оплатить и не понять,</text>
+<chopds>        Am              F</chopds>
+<text>Любви Твоей силу,</text>
+<chopds>C                                           F</chopds>
+<text>И не постичь нам, как славен Господь,</text>
+<chopds>      Am          F</chopds>
+<text>Велик Бог Наш.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Hillsong Chapel — Rhythms Of Grace [Английский]
+  https://holychords.pro/32067

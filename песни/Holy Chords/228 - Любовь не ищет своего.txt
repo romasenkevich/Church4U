@@ -1,0 +1,66 @@
+Дмитрий Шлетгауэр — Любовь не ищет своего
+Источник: https://holychords.pro/228
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>D#m                             H                               F#    G#m</chopds>
+<text>Мне больно смотреть, как ходишь ты, один среди ночей,</text>
+<chopds>D#m                            H                              F#          G#m</chopds>
+<text>Мне жалко смотреть, как ищешь ты, любви средь пустоты.</text>
+<chopds>D#m  F#                    H                        G#m                 C#</chopds>
+<text>Я и сам вчера о ней мечтал и плакал по ночам,</text>
+<chopds>               F#                            H                     G#m                        C#</chopds>
+<text>Кто-то нежно вдруг меня обнял, и в сердце мне сказал: Ты знай.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D#m                H                 F#                            C#</chopds>
+<text>Любовь не ищет своего, любовь не оставит одного,</text>
+<chopds>D#m                   H                     F#                           C#</chopds>
+<text>Она будет ждать тебя года, любовь не устанет никогда,</text>
+<chopds>F#                   G#m                    H         G#m  C#</chopds>
+<text>Она будет греть тебя в пути, ты её храни.</text>
+<chopds>D#m                H                                 F#                        C#                       D#m  C#  H  C#</chopds>
+<text>И если так нужно умрёт за тебя, потом воскреснет навсегда.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Она никогда не мыслит зла, она ко всем добра,</text>
+<text>Она не могла жить для себя - в этот мир пришла.</text>
+<text>Может, ищешь ты её не там и плачешь по ночам,</text>
+<text>Может ты её уже встречал и просто не узнал. Но знай.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>D#m                H                 F#                            C#</chopds>
+<text>Любовь не ищет своего, любовь не оставит одного,</text>
+<chopds>D#m                   H                     F#                           C#</chopds>
+<text>Она будет ждать тебя года, любовь не устанет никогда,</text>
+<chopds>F#                   G#m                    H         G#m  C#</chopds>
+<text>Она будет греть тебя в пути, ты её храни.</text>
+<chopds>D#m                H                                 F#                        C#</chopds>
+<text>И если так нужно умрёт за тебя, потом воскреснет навсегда.</text>
+<chopds>D#m                  H                            F#                        C#                  D#m</chopds>
+<text>Однажды она умерла за тебя, потом воскресла навсегда.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>G#m                                D#m G#m                                 D#m</chopds>
+<text>Когда закончатся века, восхищен в небо буду я,</text>
+<chopds>G#m                               D#m               H               C#</chopds>
+<text>Когда закроются глаза, буду с ней всегда.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- FECG Lahr — Любовь не ищет своего [Русский]
+  https://holychords.pro/42000
+- Дмитрий Шлетгауэр — Не иска нищо Любовта [Болгарский]
+  https://holychords.pro/78392

@@ -1,0 +1,48 @@
+NG Worship — Без тормозов в хвале
+Источник: https://holychords.pro/63
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>          Hm                 D                        A</chopds>
+<text>Я не дам Тебе того, что для меня ничто,</text>
+<chopds>             Hm                         D                       A</chopds>
+<text>Я поколенье тех, кто твёрдо до конца идет.</text>
+<chopds>                       Hm                       D                        A</chopds>
+<text>Мой сумасшедший танец - это только для Тебя,</text>
+<chopds>                  Hm                      D                             A</chopds>
+<text>Я жил ничем, я был никем, но Ты мне шанс дал!!!!!</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>Hm D    A</chopds>
+<text>О - о - оу</text>
+<chopds>                        Hm                   D                A</chopds>
+<text>Я буду танцевать пред Тобою мой Бог.</text>
+<chopds>Hm D         A</chopds>
+<text>О - о - ооу</text>
+<chopds>                              Hm                   D                A</chopds>
+<text>Ты пленил моё сердце, я навеки с Тобой.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Я знаю всё, что нужно быть без тормозов в хвале,</text>
+<text>Ты моя радость, счастье смысл в моей судьбе.</text>
+<text>я буду, прыгать, кричать и славить вновь и вновь.</text>
+<text>Падут оковы неба, и сойдет Твой поздний дождь</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>        Hm                               A</chopds>
+<text>Это Ты свободу дал мне,</text>
+<chopds>         D                              Em</chopds>
+<text>Это Ты оправдал меня,</text>
+<chopds>        Hm                                A</chopds>
+<text>Это Ты во тьме зажёг свет,</text>
+<chopds>           D                                        Em</chopds>
+<text>Хочу Имя Твоё кричать всегда: "Иисус"</text>
+</blocks>

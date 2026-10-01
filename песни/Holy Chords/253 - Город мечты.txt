@@ -1,0 +1,44 @@
+Armageddon — Город мечты
+Источник: https://holychords.pro/253
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>Dm           C       Bb                        A</chopds>
+<text>Ярким светом Он к Себе манит,</text>
+<chopds>Dm                C     Bb                       A</chopds>
+<text>Сердце к свету тянет как магнит,</text>
+<chopds>        Gm            Am            Dm</chopds>
+<text>Нас захвати крепкою рукою,</text>
+<chopds>   Gm              Am           Dm</chopds>
+<text>И поведи вслед за Тобою.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                    Gm     Am        Dm</chopds>
+<text>В городе все мечты сбываются,</text>
+<chopds>               Gm         Am      Dm</chopds>
+<text>В городе ярко светит свет,</text>
+<chopds>                      Gm          Am   Dm</chopds>
+<text>В жизни всё только начинается,</text>
+<chopds>    Gm               Am                    Dm</chopds>
+<text>В жизни чудесам предела нет.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Нас покроет славою Своей,</text>
+<text>Мы так жаждем, к нам приди скорей,</text>
+<text>Нас захвати крепкою рукою,</text>
+<text>И поведи вслед за Тобою.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Вдохом с неба наполняй меня,</text>
+<text>Не хочу я жить здесь без Тебя,</text>
+<text>Нас захвати крепкою рукою,</text>
+<text>И поведи вслед за Тобою.</text>
+</blocks>

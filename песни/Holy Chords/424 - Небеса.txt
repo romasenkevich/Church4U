@@ -1,0 +1,44 @@
+Слово Жизни Music — Небеса
+Источник: https://holychords.pro/424
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>E                    F#m                               A                    H</chopds>
+<text>Вспоминаю тот день, когда наполнил моё сердце</text>
+<chopds>                     C#m               H/D#              A</chopds>
+<text>Дал мне смысл в жизни этой служить Тебе</text>
+<chopds>E                  F#m                       A                           H</chopds>
+<text>Пустота исчезла когда нашёл я путь к спасению</text>
+<chopds>                  C#m            H/D#             A</chopds>
+<text>Теперь я новое творение в Тебе мой Бог</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>E       F#m                                 A           H</chopds>
+<text>Небеса - вот наша цель и до конца</text>
+<chopds>                                 C#m          H/D#                          A</chopds>
+<text>Мы сможем это путь пройти, ведь с нами Ты!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Обновил мышление Ты показал пример прощения</text>
+<text>Теперь стою на Твоем слове стремлюсь к Тебе</text>
+<text>Я обрел в душе покой мир во мне и Дух Святой</text>
+<text>Направляет, Воздаем хвалу Тебе</text>
+</blocks>
+
+<blocks>
+<videlit_line>Мост</videlit_line>
+<chopds>F#m                   A             E                             H</chopds>
+<text>Ведь с нами Ты, с Тобой приходит в моё сердце мир</text>
+<chopds>F#m                   A          E                 H</chopds>
+<text>Ведь с нами Ты, Твоя рука навеки нас хранит</text>
+<chopds>F#m                   A             E                             H</chopds>
+<text>Ведь с нами Ты, с Тобой поднимем крылья как орлы</text>
+<chopds>F#m                   A     C#m                       H</chopds>
+<text>Ведь с нами Ты идём мы к небесам.</text>
+</blocks>

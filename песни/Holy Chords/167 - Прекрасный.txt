@@ -1,0 +1,64 @@
+Алексей Каратаев — Прекрасный
+Источник: https://holychords.pro/167
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>           G                       A                D/F#</chopds>
+<text>Прекрасная, прекрасная Твоя любовь, мой Бог</text>
+<chopds>            G                       A                           Hm</chopds>
+<text>Мне милость и любовь Твой крест явил</text>
+<chopds>       G                  A                          D/F#</chopds>
+<text>Никто увидеть и понять на всей Земле не мог</text>
+<chopds>         G                        A                     D</chopds>
+<text>Как Ты прекрасен, и как Ты велик</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>                                G           A</chopds>
+<text>Прекрасный, Тебя люблю</text>
+<chopds>                           G              A</chopds>
+<text>Чудесный, Тобой я живу</text>
+<chopds>                                G      A                     D</chopds>
+<text>Прекрасный, Тебе пою я всей душой</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Великая, великая Слава в Небесах</text>
+<text>Могущество Твоё над всей Землёй</text>
+<text>Мой дух поёт Тебе, Господь, я вижу чудеса</text>
+<text>Как Ты прекрасен, как велик, Бог мой</text>
+</blocks>
+
+<blocks>
+<videlit_line>Бридж</videlit_line>
+<chopds>              G                              A</chopds>
+<text>Ты открыл для меня Свои Небеса</text>
+<chopds>       D/H                                     A/C#</chopds>
+<text>Любовью мне сердце пленил</text>
+<chopds>             G                                 A                                       D</chopds>
+<text>Знаю нет ничего в этом мире прекрасней чем Ты</text>
+</blocks>
+
+<blocks>
+<videlit_line>Концовка</videlit_line>
+<chopds>      G               A      G/H                     A/C#</chopds>
+<text>Тебе душа поёт Тебе душа поёт</text>
+<chopds>      G               A                              D</chopds>
+<text>Тебе душа поёт прекрасный Господь.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Tim Hughes — Beautiful One [Английский]
+  https://holychords.pro/27375
+- Tim Hughes — Как Ты Прекрасен [Русский]
+  https://holychords.pro/55155
+- Божий Дар Київ (God's Gift) — Чудовий Ти [Украинский]
+  https://holychords.pro/63492
+- Tim Hughes — Прекрасний є Ти [Украинский]
+  https://holychords.pro/79099

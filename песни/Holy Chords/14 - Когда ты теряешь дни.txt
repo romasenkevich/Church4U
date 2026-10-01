@@ -1,0 +1,48 @@
+Теплый дождь — Когда ты теряешь дни
+Источник: https://holychords.pro/14
+
+==================================================
+
+<blocks>
+<videlit_line>1 Куплет</videlit_line>
+<chopds>Dm                        Gm/D</chopds>
+<text>Когда ты теряешь дни</text>
+<chopds>     Gm                Am</chopds>
+<text>Я плачу любя тебя</text>
+<chopds>       Dm                   Gm/D</chopds>
+<text>На что ты меняешь жизнь</text>
+<chopds>    Gm                        A</chopds>
+<text>Зачем продаёшь себя</text>
+<chopds>       Bb</chopds>
+<text>Мне так бесконечно жаль</text>
+<chopds>         Gm                      A</chopds>
+<text>Я с тобой разделю печаль</text>
+<chopds>         Bb</chopds>
+<text>Я хочу за тебя страдать</text>
+<chopds>  Gm                         A</chopds>
+<text>Всё, что хранил отдать</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>         Bb                                    Gm</chopds>
+<text>Мог Бог, сокрушаясь плачет вновь</text>
+<chopds>                                Dm  C</chopds>
+<text>Ты заменил Его собой</text>
+<chopds>          Bb                                  Gm</chopds>
+<text>Он ждёт, Его покой, любя зовёт</text>
+<chopds>                                    Dm    Am</chopds>
+<text>Тебя найдёт Его рассвет...</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 Куплет</videlit_line>
+<text>Неужели не видишь, как</text>
+<text>Истекают твои часы.</text>
+<text>Неужели не слышишь ты</text>
+<text>Голос зовёт внутри.</text>
+<text>И бессонница по ночам</text>
+<text>Истерзала тебя совсем,</text>
+<text>Ты просыпаешься по утрам</text>
+<text>Только не знаешь зачем.</text>
+</blocks>

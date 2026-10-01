@@ -1,0 +1,65 @@
+Новый Иерусалим — Кто
+Источник: https://holychords.pro/381
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>G              G/H   C           G/H   G    G/H   C   G/H</chopds>
+<text>Кто играет струнами дождей?</text>
+<chopds>G                  G/H  C               G/H  G    G/H   C   G/H</chopds>
+<text>Кто раскрасил землю для людей?</text>
+<chopds>       Em                 Em/D</chopds>
+<text>Кто зажигает звёздам свет</text>
+<chopds>               A/C#               C</chopds>
+<text>В движении бесконечном лет,</text>
+<chopds>         G                  C            D             G   G/H   C   G/H</chopds>
+<text>Кто на любой вопрос даёт ответ?</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Чья внутри у нас с тобой любовь?</text>
+<text>Кто толкает в наших венах кровь?</text>
+<text>И побеждая боль и страх,</text>
+<text>Кто учит нас летать в мечтах?</text>
+<text>Кто держит этот мир в Своих руках?</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>C        D                  Em    A</chopds>
+<text>Я ответ не дописал.</text>
+<chopds>                 C     D                   G   G/H   C   G/H</chopds>
+<text>Прости меня - реши всё сам.</text>
+</blocks>
+
+<blocks>
+<videlit_line>3 куплет</videlit_line>
+<text>Чьи плывут над нами небеса?</text>
+<text>Кто вращает время на часах?</text>
+<text>Кто написал для нас сюжет,</text>
+<text>В котором слёз и боли нет?</text>
+<text>Кто на любой вопрос нам даст ответ?</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<text>Я ответ не дописал.</text>
+<text>Прости меня - реши всё сам.</text>
+</blocks>
+
+<blocks>
+<videlit_line>4 куплет</videlit_line>
+<text>Кто откроет двери в Небеса?</text>
+<text>Если станут стрелки на часах?</text>
+<text>Кто нас прощает и не раз,</text>
+<text>Кто знает наш последний час?</text>
+<text>И кто в последний миг спасает нас?</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<text>Я ответ не дописал.</text>
+<text>Да ты и так всё знаешь сам.</text>
+</blocks>

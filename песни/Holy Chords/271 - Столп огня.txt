@@ -1,0 +1,64 @@
+Краеугольный камень — Столп огня
+Источник: https://holychords.pro/271
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>             C#m                A</chopds>
+<text>Надо мной, над тобой</text>
+<chopds>       F#m                 G#</chopds>
+<text>И у нас над головой.</text>
+<chopds>             C#m                        A</chopds>
+<text>Шумит ветер, стонет пламя</text>
+<chopds>       F#m                    H</chopds>
+<text>И горит победы знамя.</text>
+<chopds>  A                                  E</chopds>
+<text>Нас ведут добра дороги</text>
+<chopds>F#m                            C#m</chopds>
+<text>Зло бросается под ноги.</text>
+<chopds>   A                                     E</chopds>
+<text>Мы рождённые в пустыне</text>
+<chopds>F#m                                 G#</chopds>
+<text>Бог назначил нас святыми.</text>
+</blocks>
+
+<blocks>
+<videlit_line>Припев</videlit_line>
+<chopds>              C#m                                A</chopds>
+<text>Столп огня нас ведёт среди ночи</text>
+<chopds>            F#m                         G#</chopds>
+<text>Раздвигает моря, если хочет.</text>
+<chopds>                 A                           F#m</chopds>
+<text>Столп огня, сила Духа Святого</text>
+<chopds>            E                        G#</chopds>
+<text>Разрушает любые оковы.</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет</videlit_line>
+<text>Его слово - Его слава</text>
+<text>Раскалённого металла</text>
+<text>Сердце силой наполняет,</text>
+<text>Духом нас соединяет.</text>
+<text>Нас ведёт одна дорога:</text>
+<text>Истина и жизнь от Бога.</text>
+<text>Те, Кто пропадал в пустыне</text>
+<text>Прославляют Его Имя.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- Simon Khorolskiy — Столб огня [Русский]
+  https://holychords.pro/3839
+- Белый Ангел — Столп огня [Русский]
+  https://holychords.pro/8687
+- Молодіжний хор Церкви ХВЄ с. Берездівці, Львівська обл. — Стовп вогню [Украинский]
+  https://holychords.pro/23886
+- Омега — Жизнь - борьба [Русский]
+  https://holychords.pro/31772
+- Неизвестен — Life’s a fight of dark and light [Английский]
+  https://holychords.pro/31773
+- BibleMyLove — Стовп вогню [Украинский]
+  https://holychords.pro/71743

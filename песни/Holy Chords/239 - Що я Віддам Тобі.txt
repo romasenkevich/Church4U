@@ -1,0 +1,32 @@
+Голгофа церква — Що я Віддам Тобі
+Источник: https://holychords.pro/239
+
+==================================================
+
+<blocks>
+<videlit_line>1 куплет</videlit_line>
+<chopds>   C              F          G</chopds>
+<text>Що я віддам Тобі?</text>
+<chopds>  C                   F          E</chopds>
+<text>Ти ж мені все віддав!</text>
+<chopds>          Am          Em                 F            C</chopds>
+<text>Воздаю Тобі славу, мого серця спів,</text>
+<chopds>          F           G     Am          F           G         C</chopds>
+<text>Життя віддаю Тобі, життя віддаю Тобі!</text>
+</blocks>
+
+<blocks>
+<videlit_line>2 куплет: *</videlit_line>
+<text>Ти на хресті страждав,</text>
+<text>Гріх мій на себе взяв.</text>
+<text>Дав прощення й спасіння, надію дав,</text>
+<text>Дитям Своїм назвав, дитям Своїм назвав.</text>
+</blocks>
+
+==================================================
+Translation songs
+
+- James & Rebekah Caggegi — What could I give [Английский]
+  https://holychords.pro/73692
+- James & Rebekah Caggegi — Чем я воздам Тебе? [Русский]
+  https://holychords.pro/73706
