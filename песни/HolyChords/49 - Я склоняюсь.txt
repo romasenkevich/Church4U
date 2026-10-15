@@ -1,36 +1,32 @@
-Слово Жизни Music — Я склоняюсь
+Номер: 49
+Автор: Слово Жизни Music
+Песня: Я склоняюсь
 BPM: 140
 Источник: https://holychords.pro/49
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>           Hm               A  D    G</chopds>
-<text>Буду петь, петь Тебе, Бог</text>
-<chopds>A          Hm        A  D    G</chopds>
-<text>О любви бесконечной</text>
-<chopds>    A        Hm           A  D   G</chopds>
-<text>Всё, что есть Тебе отдам</text>
-<chopds>     A        Hm           A  D  G</chopds>
-<text>Всей душой воспою я</text>
-</blocks>
+Куплет
+<chords>           Hm               A  D    G</chords>
+Буду петь, петь Тебе, Бог
+<chords>A          Hm        A  D    G</chords>
+О любви бесконечной
+<chords>    A        Hm           A  D   G</chords>
+Всё, что есть Тебе отдам
+<chords>     A        Hm           A  D  G</chords>
+Всей душой воспою я
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>            F#m       G                 F#m   G</chopds>
-<text>Сотвори во мне, сердце чистое</text>
-</blocks>
+Пред припев
+<chords>            F#m       G                 F#m   G</chords>
+Сотвори во мне, сердце чистое
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>             Hm                  F#m</chopds>
-<text>Я склоняюсь, я смиряюсь</text>
-<chopds>              G                        A</chopds>
-<text>Посвящаю жизнь Тебе,</text>
-<chopds>           Hm                F#m</chopds>
-<text>Дух кроткий созидаю</text>
-<chopds>              G                     A              Hm</chopds>
-<text>Наполняй меня Иисус, мою жизнь...</text>
-<text>Петь Тебе, Бог...</text>
-</blocks>
+Припев
+<chords>             Hm                  F#m</chords>
+Я склоняюсь, я смиряюсь
+<chords>              G                        A</chords>
+Посвящаю жизнь Тебе,
+<chords>           Hm                F#m</chords>
+Дух кроткий созидаю
+<chords>              G                     A              Hm</chords>
+Наполняй меня Иисус, мою жизнь...
+Петь Тебе, Бог...

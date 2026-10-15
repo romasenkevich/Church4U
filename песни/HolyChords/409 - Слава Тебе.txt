@@ -1,52 +1,46 @@
-Филип Реннер — Слава Тебе
+Номер: 409
+Автор: Филип Реннер
+Песня: Слава Тебе
 Источник: https://holychords.pro/409
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>H                 E/H           H                 E/H</chopds>
-<text>Слава Тебе, Богу в вышних</text>
-<chopds>H                 E/H           H                 E/H</chopds>
-<text>Слава Тебе, Богу в вышних</text>
-<chopds>H                 E/H           H                 E/H</chopds>
-<text>Слава Тебе, Богу в вышних</text>
-<chopds>H                 E/H           H                 E/H</chopds>
-<text>Слава Тебе, Богу в вышних</text>
-</blocks>
+Припев
+<chords>H                 E/H           H                 E/H</chords>
+Слава Тебе, Богу в вышних
+<chords>H                 E/H           H                 E/H</chords>
+Слава Тебе, Богу в вышних
+<chords>H                 E/H           H                 E/H</chords>
+Слава Тебе, Богу в вышних
+<chords>H                 E/H           H                 E/H</chords>
+Слава Тебе, Богу в вышних
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds> G#m            E              H         F#</chopds>
-<text>Во веки, во веки Ты царствуешь</text>
-<chopds>    G#m            E              H         F#</chopds>
-<text>Во веки, во веки Ты царствуешь</text>
-<chopds>    G#m            E              H         F#</chopds>
-<text>Во веки, во веки Ты царствуешь</text>
-<chopds>    G#m            E              H         F#</chopds>
-<text>Во веки, во веки Ты царствуешь</text>
-</blocks>
+Бридж
+<chords> G#m            E              H         F#</chords>
+Во веки, во веки Ты царствуешь
+<chords>    G#m            E              H         F#</chords>
+Во веки, во веки Ты царствуешь
+<chords>    G#m            E              H         F#</chords>
+Во веки, во веки Ты царствуешь
+<chords>    G#m            E              H         F#</chords>
+Во веки, во веки Ты царствуешь
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>G#m           E                H      F#</chopds>
-<text>Слава Тебе, Богу в вышних</text>
-<chopds>G#m           E                H      F#</chopds>
-<text>Слава Тебе, Богу в вышних</text>
-<chopds>G#m           E                H      F#</chopds>
-<text>Слава Тебе, Богу в вышних</text>
-<chopds>G#m           E                H      F#</chopds>
-<text>Слава Тебе, Богу в вышних</text>
-</blocks>
+Припев
+<chords>G#m           E                H      F#</chords>
+Слава Тебе, Богу в вышних
+<chords>G#m           E                H      F#</chords>
+Слава Тебе, Богу в вышних
+<chords>G#m           E                H      F#</chords>
+Слава Тебе, Богу в вышних
+<chords>G#m           E                H      F#</chords>
+Слава Тебе, Богу в вышних
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>    G#m            E              H         F#</chopds>
-<text>Во веки, во веки Ты царствуешь</text>
-<chopds>    G#m            E              H         F#</chopds>
-<text>Во веки, во веки Ты царствуешь</text>
-<chopds>    G#m            E              H         F#</chopds>
-<text>Во веки, во веки Ты царствуешь</text>
-<chopds>    G#m            E              H         F#</chopds>
-<text>Во веки, во веки Ты царствуешь</text>
-</blocks>
+Бридж
+<chords>    G#m            E              H         F#</chords>
+Во веки, во веки Ты царствуешь
+<chords>    G#m            E              H         F#</chords>
+Во веки, во веки Ты царствуешь
+<chords>    G#m            E              H         F#</chords>
+Во веки, во веки Ты царствуешь
+<chords>    G#m            E              H         F#</chords>
+Во веки, во веки Ты царствуешь

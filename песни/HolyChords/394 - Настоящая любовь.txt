@@ -1,48 +1,42 @@
-Real Ivanna — Настоящая любовь
+Номер: 394
+Автор: Real Ivanna
+Песня: Настоящая любовь
 Источник: https://holychords.pro/394
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds> Am                                                                         F</chopds>
-<text>То, как я люблю Тебя, не расскажет Тебе ветер,</text>
-<chopds>Dm7                      C                      G</chopds>
-<text>Дождь не нарисует на стекле.</text>
-<chopds>Am                               C                                      F</chopds>
-<text>То, как я люблю Тебя, не покажут Тебе свечи.</text>
-<chopds>Dm7                              C                      G</chopds>
-<text>Только лишь сердце подскажет Тебе.</text>
-</blocks>
+1 куплет
+<chords> Am                                                                         F</chords>
+То, как я люблю Тебя, не расскажет Тебе ветер,
+<chords>Dm7                      C                      G</chords>
+Дождь не нарисует на стекле.
+<chords>Am                               C                                      F</chords>
+То, как я люблю Тебя, не покажут Тебе свечи.
+<chords>Dm7                              C                      G</chords>
+Только лишь сердце подскажет Тебе.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>        Am                                    F</chopds>
-<text>Настоящая любовь не уйдёт через года,</text>
-<chopds>            C                                        G</chopds>
-<text>Не остынет в холода, не сгорит в пылу огня.</text>
-<chopds>                Am                                    F</chopds>
-<text>Кто бы что ни говорил, не найдет разрушить сил</text>
-<chopds>          C                                        G</chopds>
-<text>Настоящую любовь он никогда.</text>
-</blocks>
+Припев
+<chords>        Am                                    F</chords>
+Настоящая любовь не уйдёт через года,
+<chords>            C                                        G</chords>
+Не остынет в холода, не сгорит в пылу огня.
+<chords>                Am                                    F</chords>
+Кто бы что ни говорил, не найдет разрушить сил
+<chords>          C                                        G</chords>
+Настоящую любовь он никогда.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>То, как я люблю Тебя, не опишут Тебе звёзды,</text>
-<text>Лунный свет не выбьет на окне.</text>
-<text>То, как я люблю Тебя, не докажут мои слёзы,</text>
-<text>Только лишь сердце подскажет Тебе.</text>
-</blocks>
+2 куплет
+То, как я люблю Тебя, не опишут Тебе звёзды,
+Лунный свет не выбьет на окне.
+То, как я люблю Тебя, не докажут мои слёзы,
+Только лишь сердце подскажет Тебе.
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>                    F                           G</chopds>
-<text>Ведь она любит, не смотря ни на что,</text>
-<chopds>                     F                      G</chopds>
-<text>Ведь она верит, простираясь вперёд.</text>
-<chopds>                     F                G</chopds>
-<text>Ведь она радость в душу несёт,</text>
-<chopds>           F                                      G</chopds>
-<text>Настоящая любовь никогда не придаёт.</text>
-</blocks>
+Мост
+<chords>                    F                           G</chords>
+Ведь она любит, не смотря ни на что,
+<chords>                     F                      G</chords>
+Ведь она верит, простираясь вперёд.
+<chords>                     F                G</chords>
+Ведь она радость в душу несёт,
+<chords>           F                                      G</chords>
+Настоящая любовь никогда не придаёт.

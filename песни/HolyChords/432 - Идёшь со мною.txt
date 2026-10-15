@@ -1,51 +1,41 @@
-Просто сосуды — Идёшь со мною
+Номер: 432
+Автор: Просто сосуды
+Песня: Идёшь со мною
 Источник: https://holychords.pro/432
 
-==================================================
+---
 
-<blocks>
-<chopds>Hm D G A</chopds>
-</blocks>
+<chords>Hm D G A</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Hm                            D        G                      A</chopds>
-<text>Идёшь со мною рядом - а я не замечаю,</text>
-<chopds>Hm                       D            G                               A</chopds>
-<text>На ухо что-то шепчешь - я слов не разбираю.</text>
-<chopds>F#m                   Hm   Em                             A</chopds>
-<text>Бегу по жизни этой, боюсь всё опоздать куда-то,</text>
-<chopds>F#m            Hm             G                                               A</chopds>
-<text>И не понимаю что всё, что в жизни надо, давно со мною рядом!</text>
-</blocks>
+1 куплет
+<chords>Hm                            D        G                      A</chords>
+Идёшь со мною рядом - а я не замечаю,
+<chords>Hm                       D            G                               A</chords>
+На ухо что-то шепчешь - я слов не разбираю.
+<chords>F#m                   Hm   Em                             A</chords>
+Бегу по жизни этой, боюсь всё опоздать куда-то,
+<chords>F#m            Hm             G                                               A</chords>
+И не понимаю что всё, что в жизни надо, давно со мною рядом!
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Em              G                  Hm               A</chopds>
-<text>Бог мой, Царь мой, Свет моей жизни,</text>
-<chopds>Em         G              Hm        A</chopds>
-<text>Лишь Тобою полна душа.</text>
-<chopds>Em     G         Hm           A</chopds>
-<text>Ожидаю небесного царства,</text>
-<chopds>        Em         F#m          G/H             A/C#            Hm</chopds>
-<text>Где Ты наконец-то однажды встретишь меня!</text>
-</blocks>
+Припев
+<chords>Em              G                  Hm               A</chords>
+Бог мой, Царь мой, Свет моей жизни,
+<chords>Em         G              Hm        A</chords>
+Лишь Тобою полна душа.
+<chords>Em     G         Hm           A</chords>
+Ожидаю небесного царства,
+<chords>        Em         F#m          G/H             A/C#            Hm</chords>
+Где Ты наконец-то однажды встретишь меня!
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Лишних слов не надо, ловлю одно мгновенье,</text>
-<text>когда со мной Ты рядом - сгораю от волненья.</text>
-<text>Бегу по жизни этой, боюсь всё опоздать куда-то,</text>
-<text>И не понимаю, что всё, что в жизни надо, давно со мною рядом!</text>
-</blocks>
+2 куплет
+Лишних слов не надо, ловлю одно мгновенье,
+когда со мной Ты рядом - сгораю от волненья.
+Бегу по жизни этой, боюсь всё опоздать куда-то,
+И не понимаю, что всё, что в жизни надо, давно со мною рядом!
 
-<blocks>
-<videlit_line>3 куплет</videlit_line>
-<text>Бегу по жизни этой, боюсь всё опоздать куда-то,</text>
-<text>И не понимаю что всё, что в жизни надо, давно со мною рядом!</text>
-</blocks>
+3 куплет
+Бегу по жизни этой, боюсь всё опоздать куда-то,
+И не понимаю что всё, что в жизни надо, давно со мною рядом!
 
-<blocks>
-<videlit_line>Концовка</videlit_line>
-<chopds>Em  D/F#  G/H  A/C#  A  Hm</chopds>
-</blocks>
+Концовка
+<chords>Em  D/F#  G/H  A/C#  A  Hm</chords>

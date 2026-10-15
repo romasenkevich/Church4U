@@ -1,58 +1,42 @@
-Дарина Кочанжи — Небо тихо плачет
+Номер: 242
+Автор: Дарина Кочанжи
+Песня: Небо тихо плачет
 Источник: https://holychords.pro/242
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Gm                             Cm</chopds>
-<text>Долетели пули в спины сыновей,</text>
-<chopds>D                                Gm               D</chopds>
-<text>Полились рекою слёзы матерей,</text>
-<chopds>Gm                                 Cm</chopds>
-<text>Пересохло в горле плачущих отцов,</text>
-<chopds>D                               Gm                  D</chopds>
-<text>Не хватает нервов, не хватает слов.</text>
-</blocks>
+1 куплет
+<chords>Gm                             Cm</chords>
+Долетели пули в спины сыновей,
+<chords>D                                Gm               D</chords>
+Полились рекою слёзы матерей,
+<chords>Gm                                 Cm</chords>
+Пересохло в горле плачущих отцов,
+<chords>D                               Gm                  D</chords>
+Не хватает нервов, не хватает слов.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<chopds>Gm                               Cm</chopds>
-<text>Горю не поможешь горькою слезой,</text>
-<chopds>D                                Gm               D</chopds>
-<text>Горе не осилишь пьяною бедой</text>
-<chopds>Gm                          Cm</chopds>
-<text>И ничьей рукою бед не отвести,</text>
-<chopds>D                          Gm                  D</chopds>
-<text>Мир остановите я хочу сойти.</text>
-</blocks>
+2 куплет
+<chords>Gm                               Cm</chords>
+Горю не поможешь горькою слезой,
+<chords>D                                Gm               D</chords>
+Горе не осилишь пьяною бедой
+<chords>Gm                          Cm</chords>
+И ничьей рукою бед не отвести,
+<chords>D                          Gm                  D</chords>
+Мир остановите я хочу сойти.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds> Gm                             Cm</chopds>
-<text>Небо тихо плачет позднею грозой,</text>
-<chopds>   D                                 Gm                 D</chopds>
-<text>Небо тихо просит: "Человек, постой!</text>
-<chopds>Gm                                   Cm</chopds>
-<text>Если в своём сердце не найти любовь -</text>
-<chopds>D                             Gm</chopds>
-<text>Это повторится вновь."</text>
-</blocks>
+Припев
+<chords> Gm                             Cm</chords>
+Небо тихо плачет позднею грозой,
+<chords>   D                                 Gm                 D</chords>
+Небо тихо просит: "Человек, постой!
+<chords>Gm                                   Cm</chords>
+Если в своём сердце не найти любовь -
+<chords>D                             Gm</chords>
+Это повторится вновь."
 
-<blocks>
-<videlit_line>3 куплет</videlit_line>
-<text>Небо расскажи мне, небо дай ответ,</text>
-<text>Гибнут наши дети, тьма съедает свет</text>
-<text>Помоги, о небо, это как вместить?</text>
-<text>И кому мне верить, и кого любить?</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Yakubowskiy — Небо тихо плачет [Русский]
-  https://holychords.pro/32958
-- Церква Христа Спасителя Луцьк — Небо тихо плаче [Украинский]
-  https://holychords.pro/48022
-- Тріо Малашевич — Небо тихо плаче [Украинский]
-  https://holychords.pro/56202
+3 куплет
+Небо расскажи мне, небо дай ответ,
+Гибнут наши дети, тьма съедает свет
+Помоги, о небо, это как вместить?
+И кому мне верить, и кого любить?

@@ -1,56 +1,48 @@
-Imprintband — Шанс
+Номер: 406
+Автор: Imprintband
+Песня: Шанс
 Источник: https://holychords.pro/406
 
-==================================================
+---
 
-<blocks>
-<chopds>Em  G  D</chopds>
-</blocks>
+<chords>Em  G  D</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Em                      G            D</chopds>
-<text>Куда бежать, когда закрыты</text>
-<chopds>Em                                 G            D</chopds>
-<text>Мне в этой жизни все пути</text>
-<chopds>Em                      G                       D</chopds>
-<text>Где мне найти хоть каплю света</text>
-<chopds>Em                                       G          D</chopds>
-<text>Когда ответов больше не найти</text>
-</blocks>
+1 куплет
+<chords>Em                      G            D</chords>
+Куда бежать, когда закрыты
+<chords>Em                                 G            D</chords>
+Мне в этой жизни все пути
+<chords>Em                      G                       D</chords>
+Где мне найти хоть каплю света
+<chords>Em                                       G          D</chords>
+Когда ответов больше не найти
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>C                                   Am                                 Em</chopds>
-<text>Я задыхаюсь от бессилия, что-то тянет в низ</text>
-<chopds>                     D</chopds>
-<text>Я хочу кричать</text>
-<chopds>C                                              Am                     Em</chopds>
-<text>Смертельный холод обжигает сердце моё</text>
-<chopds>                                        D</chopds>
-<text>Я не могу больше ждать</text>
-</blocks>
+Пред припев
+<chords>C                                   Am                                 Em</chords>
+Я задыхаюсь от бессилия, что-то тянет в низ
+<chords>                     D</chords>
+Я хочу кричать
+<chords>C                                              Am                     Em</chords>
+Смертельный холод обжигает сердце моё
+<chords>                                        D</chords>
+Я не могу больше ждать
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Em                                    C                               Am</chopds>
-<text>Дай мне шанс, я прошу я хочу всё изменить</text>
-<chopds>                                     C           D</chopds>
-<text>Я смогу начать сначала слышишь.</text>
-<chopds>Em                                    C                               Am</chopds>
-<text>Дай мне шанс, я прошу я хочу всё изменить</text>
-<chopds>                                     C           D</chopds>
-<text>Я смогу начать сначала слышишь.</text>
-</blocks>
+Припев
+<chords>Em                                    C                               Am</chords>
+Дай мне шанс, я прошу я хочу всё изменить
+<chords>                                     C           D</chords>
+Я смогу начать сначала слышишь.
+<chords>Em                                    C                               Am</chords>
+Дай мне шанс, я прошу я хочу всё изменить
+<chords>                                     C           D</chords>
+Я смогу начать сначала слышишь.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<chopds>Em                                              G                   D</chopds>
-<text>Чего мне ждать? Когда надежда</text>
-<chopds>Em                              G         D</chopds>
-<text>Застыла в венах словно лёд</text>
-<chopds>Em                       G                            D</chopds>
-<text>Где мне найти, жизнь среди смерти</text>
-<chopds>Em                                          G             D</chopds>
-<text>Как мне лететь - не оборвать полёт</text>
-</blocks>
+2 куплет
+<chords>Em                                              G                   D</chords>
+Чего мне ждать? Когда надежда
+<chords>Em                              G         D</chords>
+Застыла в венах словно лёд
+<chords>Em                       G                            D</chords>
+Где мне найти, жизнь среди смерти
+<chords>Em                                          G             D</chords>
+Как мне лететь - не оборвать полёт

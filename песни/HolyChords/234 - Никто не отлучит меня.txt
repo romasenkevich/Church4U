@@ -1,44 +1,42 @@
-Дмитрий Шлетгауэр — Никто не отлучит меня
+Номер: 234
+Автор: Дмитрий Шлетгауэр
+Песня: Никто не отлучит меня
 Источник: https://holychords.pro/234
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>             Cm      Cm/Bb       Ab  Ab/G</chopds>
-<text>Вечно славить буду Тебя,</text>
-<chopds>         Fm                               Bb</chopds>
-<text>Ты сделал так много чудес.</text>
-<chopds>                 Cm      Cm/Bb    Ab  Ab/G</chopds>
-<text>Встретил Ты на пути меня,</text>
-<chopds>      Fm                          Bb</chopds>
-<text>Согрел любовью Своей.</text>
-<chopds>            Eb                Eb/D             Cm</chopds>
-<text>Я не знал что мне делать вчера</text>
-<chopds>             Fm                       Bb</chopds>
-<text>Был потерян я без Тебя.</text>
-<chopds>            Cm       Cm/Bb             Ab   Ab/G</chopds>
-<text>Ты любовью наполнил меня</text>
-<chopds>        Fm                        Bb               C#               Eb</chopds>
-<text>И теперь со мной она, навсегда,  навсегда.</text>
-</blocks>
+Куплет
+<chords>             Cm      Cm/Bb       Ab  Ab/G</chords>
+Вечно славить буду Тебя,
+<chords>         Fm                               Bb</chords>
+Ты сделал так много чудес.
+<chords>                 Cm      Cm/Bb    Ab  Ab/G</chords>
+Встретил Ты на пути меня,
+<chords>      Fm                          Bb</chords>
+Согрел любовью Своей.
+<chords>            Eb                Eb/D             Cm</chords>
+Я не знал что мне делать вчера
+<chords>             Fm                       Bb</chords>
+Был потерян я без Тебя.
+<chords>            Cm       Cm/Bb             Ab   Ab/G</chords>
+Ты любовью наполнил меня
+<chords>        Fm                        Bb               C#               Eb</chords>
+И теперь со мной она, навсегда,  навсегда.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>       Ab                             Bb</chopds>
-<text>Никто не отлучит меня</text>
-<chopds>              Eb    Eb/D      Cm</chopds>
-<text>От любви Твоей, Иисус.</text>
-<chopds>    Ab                               Bb           Eb</chopds>
-<text>Никто не отлучит меня от Тебя.</text>
-<chopds>       Ab                                    Bb</chopds>
-<text>Ни холод, ни зной никогда</text>
-<chopds>              Eb        Eb/D      Cm</chopds>
-<text>Не разлучат меня с Тобой.</text>
-<chopds>       Ab                            Bb</chopds>
-<text>Никто не отлучит меня,</text>
-<chopds>       Ab                            Bb</chopds>
-<text>Никто не отлучит меня,</text>
-<chopds>       Ab                            Bb          Eb</chopds>
-<text>Никто не отлучит меня от Тебя.</text>
-</blocks>
+Припев
+<chords>       Ab                             Bb</chords>
+Никто не отлучит меня
+<chords>              Eb    Eb/D      Cm</chords>
+От любви Твоей, Иисус.
+<chords>    Ab                               Bb           Eb</chords>
+Никто не отлучит меня от Тебя.
+<chords>       Ab                                    Bb</chords>
+Ни холод, ни зной никогда
+<chords>              Eb        Eb/D      Cm</chords>
+Не разлучат меня с Тобой.
+<chords>       Ab                            Bb</chords>
+Никто не отлучит меня,
+<chords>       Ab                            Bb</chords>
+Никто не отлучит меня,
+<chords>       Ab                            Bb          Eb</chords>
+Никто не отлучит меня от Тебя.

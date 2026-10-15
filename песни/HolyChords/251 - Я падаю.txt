@@ -1,50 +1,32 @@
-Дарина Кочанжи — Я падаю
+Номер: 251
+Автор: Дарина Кочанжи
+Песня: Я падаю
 Источник: https://holychords.pro/251
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>G#                                   Cm</chopds>
-<text>Преодолеть бы гравитацию</text>
-<chopds>                   Gm                             G#</chopds>
-<text>И не смотреть, вниз не смотреть.</text>
-<chopds>G#                                 Cm</chopds>
-<text>Как-будто чудо навигации</text>
-<chopds>               Gm                     G#</chopds>
-<text>Хочу лететь, к Тебе лететь.</text>
-</blocks>
+1 куплет
+<chords>G#                                   Cm</chords>
+Преодолеть бы гравитацию
+<chords>                   Gm                             G#</chords>
+И не смотреть, вниз не смотреть.
+<chords>G#                                 Cm</chords>
+Как-будто чудо навигации
+<chords>               Gm                     G#</chords>
+Хочу лететь, к Тебе лететь.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Cm                           Fm</chopds>
-<text>Хотела б я улететь, а крыльев нет за спиной,</text>
-<chopds>D#                        Bb/D</chopds>
-<text>Я тихо падаю в руки Твои, о Бог мой.</text>
-<chopds>Cm                                Fm</chopds>
-<text>Все отпускаю мечты, пусть будет как хочешь Ты,</text>
-<chopds>D#                           Gm/D        Cm  Am</chopds>
-<text>Я просто падаю в руки Твои.</text>
-</blocks>
+Припев
+<chords>Cm                           Fm</chords>
+Хотела б я улететь, а крыльев нет за спиной,
+<chords>D#                        Bb/D</chords>
+Я тихо падаю в руки Твои, о Бог мой.
+<chords>Cm                                Fm</chords>
+Все отпускаю мечты, пусть будет как хочешь Ты,
+<chords>D#                           Gm/D        Cm  Am</chords>
+Я просто падаю в руки Твои.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Я знаю то, что Ты несёшь меня.</text>
-<text>В Своих руках, в Святых руках.</text>
-<text>Я верю где-то там Ты ждёшь меня,</text>
-<text>На небеса, на небеса.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Simon Khorolskiy — Я падаю [Русский]
-  https://holychords.pro/2956
-- Дарина Кочанжи — I falling [Английский]
-  https://holychords.pro/31352
-- Raya_rai — Я падаю [Русский]
-  https://holychords.pro/31902
-- Дарина Кочанжи — Я падаю [Украинский]
-  https://holychords.pro/46405
-- Denis Poselyanov — Мені б здолати гравітацію [Украинский]
-  https://holychords.pro/73950
+2 куплет
+Я знаю то, что Ты несёшь меня.
+В Своих руках, в Святых руках.
+Я верю где-то там Ты ждёшь меня,
+На небеса, на небеса.

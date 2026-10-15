@@ -1,34 +1,32 @@
-Филип Реннер — Хочу быть с Тобой
+Номер: 414
+Автор: Филип Реннер
+Песня: Хочу быть с Тобой
 Источник: https://holychords.pro/414
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>G                                            C</chopds>
-<text>В Твоем присутствии стою я,</text>
-<chopds>               G                 C</chopds>
-<text>Растворяюсь в Тебе,</text>
-<chopds>G                                   C</chopds>
-<text>Твоим дыханием дышу я.</text>
-<chopds>          Am          D                C</chopds>
-<text>Я нуждаюсь лишь в Тебе.</text>
-<chopds>             D   C               G</chopds>
-<text>Я прошу быть с Тобой</text>
-<chopds>             D   C               G</chopds>
-<text>Я хочу быть с Тобой</text>
-<chopds>     C                      G</chopds>
-<text>Я весь Твой, я весь Твой</text>
-</blocks>
+Куплет
+<chords>G                                            C</chords>
+В Твоем присутствии стою я,
+<chords>               G                 C</chords>
+Растворяюсь в Тебе,
+<chords>G                                   C</chords>
+Твоим дыханием дышу я.
+<chords>          Am          D                C</chords>
+Я нуждаюсь лишь в Тебе.
+<chords>             D   C               G</chords>
+Я прошу быть с Тобой
+<chords>             D   C               G</chords>
+Я хочу быть с Тобой
+<chords>     C                      G</chords>
+Я весь Твой, я весь Твой
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Em                     C                    G                    D</chopds>
-<text>Ты Великий, Ты Святый, Ты верный Бог</text>
-<chopds>Em                     C                    G                    D</chopds>
-<text>Ты Великий, Ты Святый, Ты верный Бог</text>
-<chopds>          D   C               G</chopds>
-<text>Я хочу быть с Тобой</text>
-<chopds>         D    C               G</chopds>
-<text>Я хочу быть с Тобой</text>
-</blocks>
+Припев
+<chords>Em                     C                    G                    D</chords>
+Ты Великий, Ты Святый, Ты верный Бог
+<chords>Em                     C                    G                    D</chords>
+Ты Великий, Ты Святый, Ты верный Бог
+<chords>          D   C               G</chords>
+Я хочу быть с Тобой
+<chords>         D    C               G</chords>
+Я хочу быть с Тобой

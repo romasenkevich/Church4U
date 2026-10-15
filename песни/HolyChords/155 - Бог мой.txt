@@ -1,34 +1,30 @@
-Виталий Ефремочкин — Бог мой
+Номер: 155
+Автор: Виталий Ефремочкин
+Песня: Бог мой
 Источник: https://holychords.pro/155
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>Cm        G#                      A#</chopds>
-<text>Я склоняюсь пред Тобой,</text>
-<chopds>Cm          G#                        A#        Gm</chopds>
-<text>Руки свои поднимая ввысь к небу.</text>
-<chopds>Cm           G#                                 A#</chopds>
-<text>Ты - моя радость, Ты - мой покой</text>
-<chopds>Cm              G#                            A#      Gm</chopds>
-<text>Жажду Тебя, к Тебе стремлюсь сердцем.</text>
-</blocks>
+Куплет
+<chords>Cm        G#                      A#</chords>
+Я склоняюсь пред Тобой,
+<chords>Cm          G#                        A#        Gm</chords>
+Руки свои поднимая ввысь к небу.
+<chords>Cm           G#                                 A#</chords>
+Ты - моя радость, Ты - мой покой
+<chords>Cm              G#                            A#      Gm</chords>
+Жажду Тебя, к Тебе стремлюсь сердцем.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Cm    G#       A#</chopds>
-<text>Бог мой, славлю Тебя я сердцем.</text>
-<chopds>Cm    G#     A#</chopds>
-<text>Бог мой, Ты - жизнь моя.</text>
-<chopds>Cm    G#          A#</chopds>
-<text>Бог мой, хочу я услышать голос Твой,</text>
-<chopds>G#                  A#</chopds>
-<text>Идти за Тобой.</text>
-</blocks>
+Припев
+<chords>Cm    G#       A#</chords>
+Бог мой, славлю Тебя я сердцем.
+<chords>Cm    G#     A#</chords>
+Бог мой, Ты - жизнь моя.
+<chords>Cm    G#          A#</chords>
+Бог мой, хочу я услышать голос Твой,
+<chords>G#                  A#</chords>
+Идти за Тобой.
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>      Cm                 G#                  A#</chopds>
-<text>Ты - Царь мой, Бог мой, Иисус</text>
-</blocks>
+Мост
+<chords>      Cm                 G#                  A#</chords>
+Ты - Царь мой, Бог мой, Иисус

@@ -1,71 +1,49 @@
-Hillsong Ukraine — Мы всё отдаём Тебе
+Номер: 307
+Автор: Hillsong Ukraine
+Песня: Мы всё отдаём Тебе
 Источник: https://holychords.pro/307
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>H</chopds>
-<text>Мы всё отдаём Тебе, Тебе.</text>
-<text>Мы всё отдаём для Божьих дел.</text>
-<text>Мы всё отдаём Тебе, Тебе.</text>
-<text>Мы всё отдаём для Божьих дел.</text>
-</blocks>
+Припев
+<chords>H</chords>
+Мы всё отдаём Тебе, Тебе.
+Мы всё отдаём для Божьих дел.
+Мы всё отдаём Тебе, Тебе.
+Мы всё отдаём для Божьих дел.
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<text>Бог Отец Наш, дал свободу,</text>
-<text>И надежду во Имя Иисуса,</text>
-<text>Отдадим мы, наши жизни,</text>
-<text>И Спаситель любовью нашёл нас.</text>
-</blocks>
+1 куплет
+Бог Отец Наш, дал свободу,
+И надежду во Имя Иисуса,
+Отдадим мы, наши жизни,
+И Спаситель любовью нашёл нас.
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>E             G#m            H</chopds>
-<text>В Тебе ожили мы, что бы истину нести,</text>
-<chopds>E                G#m                   Gb</chopds>
-<text>Ты наши жизни изменил.</text>
-</blocks>
+Пред припев
+<chords>E             G#m            H</chords>
+В Тебе ожили мы, что бы истину нести,
+<chords>E                G#m                   Gb</chords>
+Ты наши жизни изменил.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Твой призыв в нас, будет вечно,</text>
-<text>И делами тебя мы прославим,</text>
-<text>Всё что в сердце,  для Тебя Бог,</text>
-<text>Как заря наша жизнь пусть сияет.</text>
-</blocks>
+2 куплет
+Твой призыв в нас, будет вечно,
+И делами тебя мы прославим,
+Всё что в сердце,  для Тебя Бог,
+Как заря наша жизнь пусть сияет.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                        H</chopds>
-<text>Мы всё отдаём Тебе, Тебе.</text>
-<chopds>                         E           G#m             E</chopds>
-<text>Мы всё отдаём для Божьих дел.</text>
-<chopds>                        H</chopds>
-<text>Мы всё отдаём Тебе, Тебе.</text>
-<chopds>                        E            G#m             E</chopds>
-<text>Мы всё отдаём для Божьих дел.</text>
-</blocks>
+Припев
+<chords>                        H</chords>
+Мы всё отдаём Тебе, Тебе.
+<chords>                         E           G#m             E</chords>
+Мы всё отдаём для Божьих дел.
+<chords>                        H</chords>
+Мы всё отдаём Тебе, Тебе.
+<chords>                        E            G#m             E</chords>
+Мы всё отдаём для Божьих дел.
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>C#m                  H                       F#</chopds>
-<text>Ты словом нам глаза открыл, Тебя можем видеть.</text>
-<chopds>C#m                 H                 F#</chopds>
-<text>Путь наш и истина и жизнь..</text>
-<chopds>C#m                         H                      F#</chopds>
-<text>Мы жизнью своей Тебя почтим, Ты освободил нас, освободил нас.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Hillsong Ukraine — Мы всё отдаём (Go) [Русский]
-  https://holychords.pro/32566
-- Hillsong United — Go [Английский]
-  https://holychords.pro/48833
-- Илья Рябов — Мы все воспоём хвалу [Русский]
-  https://holychords.pro/57016
-- Hillsong United — Залишимо все [Украинский]
-  https://holychords.pro/61840
+Мост
+<chords>C#m                  H                       F#</chords>
+Ты словом нам глаза открыл, Тебя можем видеть.
+<chords>C#m                 H                 F#</chords>
+Путь наш и истина и жизнь..
+<chords>C#m                         H                      F#</chords>
+Мы жизнью своей Тебя почтим, Ты освободил нас, освободил нас.

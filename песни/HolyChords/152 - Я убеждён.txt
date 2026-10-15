@@ -1,61 +1,47 @@
-Виталий Ефремочкин — Я убеждён
+Номер: 152
+Автор: Виталий Ефремочкин
+Песня: Я убеждён
 Источник: https://holychords.pro/152
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Em                                     C                D            Em    C   D</chopds>
-<text>Я убеждён, когда молюсь Ты слышишь</text>
-<chopds>  Em                                C          D                     Em     C   D</chopds>
-<text>Я убеждён, когда пою Ты рядом</text>
-</blocks>
+1 куплет
+<chords>Em                                     C                D            Em    C   D</chords>
+Я убеждён, когда молюсь Ты слышишь
+<chords>  Em                                C          D                     Em     C   D</chords>
+Я убеждён, когда пою Ты рядом
 
-<blocks>
-<videlit_line>Запев</videlit_line>
-<chopds>      C      D</chopds>
-<text>И верю я</text>
-<chopds>    Em                                               C</chopds>
-<text>Историю творим молитвой мы</text>
-<text>﻿</text>
-</blocks>
+Запев
+<chords>      C      D</chords>
+И верю я
+<chords>    Em                                               C</chords>
+Историю творим молитвой мы
+﻿
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>        Em                                        C</chopds>
-<text>И я молю приди Иисус, молю приди Иисус</text>
-<chopds>        G                                           D</chopds>
-<text>Молю приди Иисус, и я молю  приди Иисус</text>
-<text>﻿</text>
-</blocks>
+Припев
+<chords>        Em                                        C</chords>
+И я молю приди Иисус, молю приди Иисус
+<chords>        G                                           D</chords>
+Молю приди Иисус, и я молю  приди Иисус
+﻿
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<chopds>                Em                                         C</chopds>
-<text>Ты мой меч скала и щит Ты тот Бог, что исцелит</text>
-<chopds>        G                              D</chopds>
-<text>Ты лилия долин яркая звезда свети</text>
-<chopds>         Em                                          C</chopds>
-<text>Ты драгоценный Бог первый и последний во всём</text>
-<chopds>                         G                           D</chopds>
-<text>Кто, чтоб не говорил и я молю приди</text>
-<text>﻿</text>
-</blocks>
+2 куплет
+<chords>                Em                                         C</chords>
+Ты мой меч скала и щит Ты тот Бог, что исцелит
+<chords>        G                              D</chords>
+Ты лилия долин яркая звезда свети
+<chords>         Em                                          C</chords>
+Ты драгоценный Бог первый и последний во всём
+<chords>                         G                           D</chords>
+Кто, чтоб не говорил и я молю приди
+﻿
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>       Em                                  G</chopds>
-<text>И в каждое собрание в каждом поколении</text>
-<chopds> D                                            Am</chopds>
-<text>Во все церкви на земле, пусть придёт Иисус</text>
-<chopds>                               Em                                  G</chopds>
-<text>Пусть придёт Иисус, пусть придёт Иисус</text>
-<chopds>                                 D                                    Am</chopds>
-<text>Пусть придёт Иисус, пусть придёт Иисус</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Jake Hamilton — Convinced [Английский]
-  https://holychords.pro/3979
+Мост
+<chords>       Em                                  G</chords>
+И в каждое собрание в каждом поколении
+<chords> D                                            Am</chords>
+Во все церкви на земле, пусть придёт Иисус
+<chords>                               Em                                  G</chords>
+Пусть придёт Иисус, пусть придёт Иисус
+<chords>                                 D                                    Am</chords>
+Пусть придёт Иисус, пусть придёт Иисус

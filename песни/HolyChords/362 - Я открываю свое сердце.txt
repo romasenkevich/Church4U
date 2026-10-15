@@ -1,33 +1,29 @@
-Holy Generation — Я открываю свое сердце
+Номер: 362
+Автор: Holy Generation
+Песня: Я открываю свое сердце
 Источник: https://holychords.pro/362
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>Fm  Fm A#m Cm</chopds>
-</blocks>
+Интро
+<chords>Fm  Fm A#m Cm</chords>
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>Abmaj7</chopds>
-<text>Я открываю своё сердце пред Тобой</text>
-<chopds>     Fm</chopds>
-<text>Великий Бог</text>
-<chopds>Abmaj7</chopds>
-<text>И пред Тобой склонюсь в хвале</text>
-<chopds>       Fm</chopds>
-<text>Ты Бог живой</text>
-</blocks>
+Куплет
+<chords>Abmaj7</chords>
+Я открываю своё сердце пред Тобой
+<chords>     Fm</chords>
+Великий Бог
+<chords>Abmaj7</chords>
+И пред Тобой склонюсь в хвале
+<chords>       Fm</chords>
+Ты Бог живой
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>      Cm                             A#m</chopds>
-<text>Наполни мое сердце Дух Святой</text>
-<chopds>      Fm</chopds>
-<text>Своей живой водой</text>
-<chopds>Cm                                    A#m</chopds>
-<text>Наполни мое сердце Дух Святой</text>
-<chopds>      Fm</chopds>
-<text>И будь со мной</text>
-</blocks>
+Припев
+<chords>      Cm                             A#m</chords>
+Наполни мое сердце Дух Святой
+<chords>      Fm</chords>
+Своей живой водой
+<chords>Cm                                    A#m</chords>
+Наполни мое сердце Дух Святой
+<chords>      Fm</chords>
+И будь со мной

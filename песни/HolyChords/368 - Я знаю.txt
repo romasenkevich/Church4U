@@ -1,49 +1,45 @@
-Holy Generation — Я знаю
+Номер: 368
+Автор: Holy Generation
+Песня: Я знаю
 Источник: https://holychords.pro/368
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>H                                            F#</chopds>
-<text>В имени Твоем черпаю силы.</text>
-<chopds>E                                         C#m</chopds>
-<text>Именем Твоим освободился от оков.</text>
-<chopds>                  H                                              F#</chopds>
-<text>С Тобою горы превратились в равнины.</text>
-<chopds>E                                            C#m</chopds>
-<text>Никто и никогда не сравнится с Тобой.</text>
-</blocks>
+1 куплет
+<chords>H                                            F#</chords>
+В имени Твоем черпаю силы.
+<chords>E                                         C#m</chords>
+Именем Твоим освободился от оков.
+<chords>                  H                                              F#</chords>
+С Тобою горы превратились в равнины.
+<chords>E                                            C#m</chords>
+Никто и никогда не сравнится с Тобой.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>        H                                    D#m</chopds>
-<text>Я знаю, Искупитель мой жив,</text>
-<chopds>                 C#m                           E      F#</chopds>
-<text>Он восстановит меня из праха.</text>
-<chopds>       H                                      D#m</chopds>
-<text>Я знаю, Искупитель мой жив,</text>
-<chopds>       C#m                     E                      F#</chopds>
-<text>И я во плоти моей узрю Его славу.</text>
-</blocks>
+Припев
+<chords>        H                                    D#m</chords>
+Я знаю, Искупитель мой жив,
+<chords>                 C#m                           E      F#</chords>
+Он восстановит меня из праха.
+<chords>       H                                      D#m</chords>
+Я знаю, Искупитель мой жив,
+<chords>       C#m                     E                      F#</chords>
+И я во плоти моей узрю Его славу.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<chopds>H                                                   F#</chopds>
-<text>Голос Твой врачует мои раны.</text>
-<chopds>E                                             C#m</chopds>
-<text>Свет Твой освещает мне путь.</text>
-<chopds>H                                     F#</chopds>
-<text>Я живу Твоими чудесами.</text>
-<chopds>E                         C#m</chopds>
-<text>С Тобой я ничего не боюсь.</text>
-<text>Мост :</text>
-<chopds>G#m                   H                              C#m</chopds>
-<text>Ибо Ты не оставишь моей души в аде</text>
-<chopds>                                Emaj7</chopds>
-<text>И не дашь святым увидеть тление.</text>
-<chopds>G#m                            H                       C#m</chopds>
-<text>Ты укажешь мне путь в жизни моей</text>
-<chopds>                                       Emaj7</chopds>
-<text>Радость и блаженство в руке Твоей</text>
-</blocks>
+2 куплет
+<chords>H                                                   F#</chords>
+Голос Твой врачует мои раны.
+<chords>E                                             C#m</chords>
+Свет Твой освещает мне путь.
+<chords>H                                     F#</chords>
+Я живу Твоими чудесами.
+<chords>E                         C#m</chords>
+С Тобой я ничего не боюсь.
+Мост :
+<chords>G#m                   H                              C#m</chords>
+Ибо Ты не оставишь моей души в аде
+<chords>                                Emaj7</chords>
+И не дашь святым увидеть тление.
+<chords>G#m                            H                       C#m</chords>
+Ты укажешь мне путь в жизни моей
+<chords>                                       Emaj7</chords>
+Радость и блаженство в руке Твоей

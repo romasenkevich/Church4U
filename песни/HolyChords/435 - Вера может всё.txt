@@ -1,52 +1,48 @@
-Алексей Грудинский — Вера может всё
+Номер: 435
+Автор: Алексей Грудинский
+Песня: Вера может всё
 Источник: https://holychords.pro/435
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>E                             A             H7</chopds>
-<text>У каждой битвы есть причина</text>
-<chopds>E                             A          H7</chopds>
-<text>У каждого сраженья срок</text>
-<chopds>E                                  A         H7</chopds>
-<text>И будешь только молодчина</text>
-<chopds>E                          A          H7</chopds>
-<text>А если ты открыл замок</text>
-<chopds>E                           A          H7</chopds>
-<text>Смотри, гора упала в море</text>
-<chopds>E                                A       H7</chopds>
-<text>На сердце высохла слеза</text>
-<chopds>E                            A         H7</chopds>
-<text>Знай сотворили это Трое</text>
-<chopds>E                                        A     H7</chopds>
-<text>Твой Бог живущий в небесах</text>
-</blocks>
+1 куплет
+<chords>E                             A             H7</chords>
+У каждой битвы есть причина
+<chords>E                             A          H7</chords>
+У каждого сраженья срок
+<chords>E                                  A         H7</chords>
+И будешь только молодчина
+<chords>E                          A          H7</chords>
+А если ты открыл замок
+<chords>E                           A          H7</chords>
+Смотри, гора упала в море
+<chords>E                                A       H7</chords>
+На сердце высохла слеза
+<chords>E                            A         H7</chords>
+Знай сотворили это Трое
+<chords>E                                        A     H7</chords>
+Твой Бог живущий в небесах
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>E                         A  H7</chopds>
-<text>Вера может всё</text>
-<chopds>E                         A  H7</chopds>
-<text>Вера может всё о-о</text>
-<chopds>E                         A            H7</chopds>
-<text>Вера может всё даже горы толкать</text>
-<chopds>E                         A  H7</chopds>
-<text>Вера может всё</text>
-<chopds>E                         A  H7</chopds>
-<text>Вера может всё о-о</text>
-<chopds>E                         A         H7</chopds>
-<text>Вера может всё это надо понять</text>
-</blocks>
+Припев
+<chords>E                         A  H7</chords>
+Вера может всё
+<chords>E                         A  H7</chords>
+Вера может всё о-о
+<chords>E                         A            H7</chords>
+Вера может всё даже горы толкать
+<chords>E                         A  H7</chords>
+Вера может всё
+<chords>E                         A  H7</chords>
+Вера может всё о-о
+<chords>E                         A         H7</chords>
+Вера может всё это надо понять
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>И в каждое сомненья выстрел</text>
-<text>Она мой Щит моя защита</text>
-<text>Она то семя, что упало</text>
-<text>И что так долго прорастала</text>
-<text>Она дарованная свыше</text>
-<text>Отцом небесным от начала</text>
-<text>И Он её конечно слышит</text>
-<text>Когда она к нему взывала</text>
-</blocks>
+2 куплет
+И в каждое сомненья выстрел
+Она мой Щит моя защита
+Она то семя, что упало
+И что так долго прорастала
+Она дарованная свыше
+Отцом небесным от начала
+И Он её конечно слышит
+Когда она к нему взывала

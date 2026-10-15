@@ -1,41 +1,37 @@
-Ксения Кузнецова — Я нуждаюсь в Тебе, Иисус
+Номер: 121
+Автор: Ксения Кузнецова
+Песня: Я нуждаюсь в Тебе, Иисус
 BPM: 140
 Источник: https://holychords.pro/121
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>           F#m             D   E                  C#m</chopds>
-<text>Я к Тебе прибегу, сердце изолью</text>
-<chopds>    F#m          D          E    C#m</chopds>
-<text>Тебе воспою хвалу</text>
-<chopds>            F#m       D  E        C#m</chopds>
-<text>Я к Тебе приду и склонюсь</text>
-<chopds>        F#m             D         E   C#m</chopds>
-<text>Твое Имя превознесу</text>
-</blocks>
+Куплет
+<chords>           F#m             D   E                  C#m</chords>
+Я к Тебе прибегу, сердце изолью
+<chords>    F#m          D          E    C#m</chords>
+Тебе воспою хвалу
+<chords>            F#m       D  E        C#m</chords>
+Я к Тебе приду и склонюсь
+<chords>        F#m             D         E   C#m</chords>
+Твое Имя превознесу
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>             F#m                        C#m</chopds>
-<text> Я нуждаюсь в Тебе, Иисус</text>
-<chopds>                    F#m                      C#m</chopds>
-<text>Жизнью всей Тебе поклонюсь</text>
-<chopds>                    A                 D           E   C#m</chopds>
-<text>Вновь и вновь говорю: я Твой</text>
-<chopds>           Hm                         C#sus4        C#</chopds>
-<text>Говори со мной, говори со мной</text>
-</blocks>
+Припев
+<chords>             F#m                        C#m</chords>
+Я нуждаюсь в Тебе, Иисус
+<chords>                    F#m                      C#m</chords>
+Жизнью всей Тебе поклонюсь
+<chords>                    A                 D           E   C#m</chords>
+Вновь и вновь говорю: я Твой
+<chords>           Hm                         C#sus4        C#</chords>
+Говори со мной, говори со мной
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>  F#m      Hm    D                     E</chopds>
-<text>Слава Тебе, Всемогущий Бог</text>
-<chopds>  F#m       Hm        D                           E</chopds>
-<text>Слава Тебе, Могущественный Бог</text>
-<chopds>  F#m      Hm    D          E</chopds>
-<text>Слава Тебе, Бог Святой</text>
-<chopds>       F#m        Hm   D   E</chopds>
-<text>Господь мой</text>
-</blocks>
+Мост
+<chords>  F#m      Hm    D                     E</chords>
+Слава Тебе, Всемогущий Бог
+<chords>  F#m       Hm        D                           E</chords>
+Слава Тебе, Могущественный Бог
+<chords>  F#m      Hm    D          E</chords>
+Слава Тебе, Бог Святой
+<chords>       F#m        Hm   D   E</chords>
+Господь мой

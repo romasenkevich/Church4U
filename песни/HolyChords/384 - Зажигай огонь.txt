@@ -1,45 +1,35 @@
-Вадим Ятковский — Зажигай огонь
+Номер: 384
+Автор: Вадим Ятковский
+Песня: Зажигай огонь
 Источник: https://holychords.pro/384
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds> Em           C/E   D/E                  Em</chopds>
-<text>Зажигай огонь у меня внутри,</text>
-<chopds>C               Am                 Hm                  Em</chopds>
-<text>Я хочу гореть светом Божьей любви.</text>
-<chopds>   Em               C/E  D/F#         G</chopds>
-<text>Свои руки к небу я возношу,</text>
-<chopds>C               Am            Hm      C</chopds>
-<text>Иисус Тебе сердце я отдаю</text>
-<chopds>C              Am            Hm     Em</chopds>
-<text>Иисус Тебе сердце я отдаю</text>
-<chopds>Em C/E | Em Hm/E |</chopds>
-</blocks>
+Припев
+<chords> Em           C/E   D/E                  Em</chords>
+Зажигай огонь у меня внутри,
+<chords>C               Am                 Hm                  Em</chords>
+Я хочу гореть светом Божьей любви.
+<chords>   Em               C/E  D/F#         G</chords>
+Свои руки к небу я возношу,
+<chords>C               Am            Hm      C</chords>
+Иисус Тебе сердце я отдаю
+<chords>C              Am            Hm     Em</chords>
+Иисус Тебе сердце я отдаю
+<chords>Em C/E | Em Hm/E |</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Em               C/E                     Em                      C/E</chopds>
-<text>Пусть уходят все сомнения и печали прочь.</text>
-<chopds>Em                       C/E                       Em                          C/E</chopds>
-<text>Он пришел, чтоб дать спасение, Он пришел помочь.</text>
-<chopds>D                         A/C#                        C                                        Em</chopds>
-<text>Загорелась на небе звезда, и светом пронзила всю тьму.</text>
-<chopds>D                                A/C#                            C                                 Hsus  H</chopds>
-<text>Знай теперь Иисус рядом всегда, ты только доверься Ему.</text>
-</blocks>
+1 куплет
+<chords>Em               C/E                     Em                      C/E</chords>
+Пусть уходят все сомнения и печали прочь.
+<chords>Em                       C/E                       Em                          C/E</chords>
+Он пришел, чтоб дать спасение, Он пришел помочь.
+<chords>D                         A/C#                        C                                        Em</chords>
+Загорелась на небе звезда, и светом пронзила всю тьму.
+<chords>D                                A/C#                            C                                 Hsus  H</chords>
+Знай теперь Иисус рядом всегда, ты только доверься Ему.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Пусть пылает, а не тлеет первая любовь,</text>
-<text>Радость сердце наполняет, благодатью вновь.</text>
-<text>Даже, если небо снова молчит, Бог слышит голос твой,</text>
-<text>Открывай свои уста, не молчи, провозглашай и пой.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Вадим Ятковский — Боже, дай вогню [Украинский]
-  https://holychords.pro/82128
+2 куплет
+Пусть пылает, а не тлеет первая любовь,
+Радость сердце наполняет, благодатью вновь.
+Даже, если небо снова молчит, Бог слышит голос твой,
+Открывай свои уста, не молчи, провозглашай и пой.

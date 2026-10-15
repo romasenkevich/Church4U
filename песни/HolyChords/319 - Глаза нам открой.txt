@@ -1,48 +1,40 @@
-Hillsong Ukraine — Глаза нам открой
+Номер: 319
+Автор: Hillsong Ukraine
+Песня: Глаза нам открой
 Источник: https://holychords.pro/319
 
-==================================================
+---
 
-<blocks>
-<chopds>Ab Eb Fm C#</chopds>
-</blocks>
+<chords>Ab Eb Fm C#</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>        Ab                            Eb           Fm        C#</chopds>
-<text>Мне являют звезды как Ты, Бог, велик</text>
-<chopds>         Ab                     Eb     Fm      C#</chopds>
-<text>Возглашает небо чудеса Твои</text>
-<chopds>                         Ab                           Eb       Fm</chopds>
-<text>По всей земле видят славу Твою, и я</text>
-<chopds> C#                       Ab                 Eb</chopds>
-<text>Знать хочу все больше Тебя</text>
-</blocks>
+1 куплет
+<chords>        Ab                            Eb           Fm        C#</chords>
+Мне являют звезды как Ты, Бог, велик
+<chords>         Ab                     Eb     Fm      C#</chords>
+Возглашает небо чудеса Твои
+<chords>                         Ab                           Eb       Fm</chords>
+По всей земле видят славу Твою, и я
+<chords> C#                       Ab                 Eb</chords>
+Знать хочу все больше Тебя
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>И в морях и в небесах слышна хвала</text>
-<text>Восклицает все творенье для Тебя</text>
-<text>По всей земле пусть слышат хвалу, и я</text>
-<text>Знать хочу все больше Тебя</text>
-</blocks>
+2 куплет
+И в морях и в небесах слышна хвала
+Восклицает все творенье для Тебя
+По всей земле пусть слышат хвалу, и я
+Знать хочу все больше Тебя
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                             Ab                                  Fm</chopds>
-<text>Глаза нам открой, о Бог наши сердца открой</text>
-<chopds>              C#                                             Ab</chopds>
-<text>Чтобы видеть силу всех Твоих чудес</text>
-<chopds> Ab                                          Fm</chopds>
-<text>По милости Твоей видим и живем</text>
-<chopds>           C#                                       Ab</chopds>
-<text>И спасенье наше навсегда в Тебе</text>
-</blocks>
+Припев
+<chords>                             Ab                                  Fm</chords>
+Глаза нам открой, о Бог наши сердца открой
+<chords>              C#                                             Ab</chords>
+Чтобы видеть силу всех Твоих чудес
+<chords> Ab                                          Fm</chords>
+По милости Твоей видим и живем
+<chords>           C#                                       Ab</chords>
+И спасенье наше навсегда в Тебе
 
-<blocks>
-<videlit_line>3 куплет</videlit_line>
-<text>Ты забрал грехи и новый старт нам дал</text>
-<text>Через крест нас примирил и свет послал</text>
-<text>Любовь Твоя мне сильно нужна, и я</text>
-<text>Знать хочу все больше Тебя</text>
-</blocks>
+3 куплет
+Ты забрал грехи и новый старт нам дал
+Через крест нас примирил и свет послал
+Любовь Твоя мне сильно нужна, и я
+Знать хочу все больше Тебя

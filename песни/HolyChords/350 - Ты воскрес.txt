@@ -1,17 +1,17 @@
-Филип Реннер — Ты воскрес
+Номер: 350
+Автор: Филип Реннер
+Песня: Ты воскрес
 BPM: 74
 Источник: https://holychords.pro/350
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>               Am                        Fmaj7</chopds>
-<text>Ты воскрес, Царь воскрес</text>
-<chopds>             C                                            Em/H</chopds>
-<text>Ты победу одержал, к новой жизни нас призвал</text>
-<chopds>                Am                        Fmaj7</chopds>
-<text>Ты воскрес, Царь воскрес</text>
-<chopds>              C                                             C/H</chopds>
-<text>Ад и смерть Он победил, за меня Ты кровь пролил</text>
-</blocks>
+Припев
+<chords>               Am                        Fmaj7</chords>
+Ты воскрес, Царь воскрес
+<chords>             C                                            Em/H</chords>
+Ты победу одержал, к новой жизни нас призвал
+<chords>                Am                        Fmaj7</chords>
+Ты воскрес, Царь воскрес
+<chords>              C                                             C/H</chords>
+Ад и смерть Он победил, за меня Ты кровь пролил

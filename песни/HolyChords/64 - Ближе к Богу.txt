@@ -1,40 +1,28 @@
-NG Worship — Ближе к Богу
+Номер: 64
+Автор: NG Worship
+Песня: Ближе к Богу
 Источник: https://holychords.pro/64
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>                      Em             G</chopds>
-<text>Ты даешь огонь Свой</text>
-<chopds>                     Em      G</chopds>
-<text>Отдаюсь Тебе я</text>
-<chopds>                              Em      G</chopds>
-<text>Дух Святой приходит</text>
-<chopds>                               C</chopds>
-<text>Взрывает изнутри все</text>
-</blocks>
+Куплет
+<chords>                      Em             G</chords>
+Ты даешь огонь Свой
+<chords>                     Em      G</chords>
+Отдаюсь Тебе я
+<chords>                              Em      G</chords>
+Дух Святой приходит
+<chords>                               C</chords>
+Взрывает изнутри все
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                Em                       G</chopds>
-<text>Ближе к Богу, ближе к Богу</text>
-<chopds>                   C                   D2</chopds>
-<text>Ближе к Богу, ближе я</text>
-</blocks>
+Припев
+<chords>                Em                       G</chords>
+Ближе к Богу, ближе к Богу
+<chords>                   C                   D2</chords>
+Ближе к Богу, ближе я
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>                     C                         G</chopds>
-<text>Любовь Христа переполняет</text>
-<chopds>              C                  G</chopds>
-<text>Изнутри горит огнём</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Sinach — Наполняй [Русский]
-  https://holychords.pro/8194
-- M.Worship — Ближе к Богу [Русский]
-  https://holychords.pro/27520
+Бридж
+<chords>                     C                         G</chords>
+Любовь Христа переполняет
+<chords>              C                  G</chords>
+Изнутри горит огнём

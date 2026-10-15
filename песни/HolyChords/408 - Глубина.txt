@@ -1,51 +1,45 @@
-Филип Реннер — Глубина
+Номер: 408
+Автор: Филип Реннер
+Песня: Глубина
 Источник: https://holychords.pro/408
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>            C#m</chopds>
-<text>Твоей славой окружённый я проснулся сутра,</text>
-<chopds>A</chopds>
-<text>Если мне так больно, ты ожидаешь меня,</text>
-<chopds>            E                                                          F#m</chopds>
-<text>Ожидаешь меня, ожидаешь меня, Иисус!</text>
-<chopds>        C#m</chopds>
-<text>Даже если упал я, Ты поднимешь меня.</text>
-<chopds>                  A</chopds>
-<text>Найти ответ на вопросы я смогу лишь в Тебе.</text>
-<chopds>                 E                                              F#m</chopds>
-<text>Ты ожидаешь меня, ожидаешь меня, Иисус!</text>
-</blocks>
+1 куплет
+<chords>            C#m</chords>
+Твоей славой окружённый я проснулся сутра,
+<chords>A</chords>
+Если мне так больно, ты ожидаешь меня,
+<chords>            E                                                          F#m</chords>
+Ожидаешь меня, ожидаешь меня, Иисус!
+<chords>        C#m</chords>
+Даже если упал я, Ты поднимешь меня.
+<chords>                  A</chords>
+Найти ответ на вопросы я смогу лишь в Тебе.
+<chords>                 E                                              F#m</chords>
+Ты ожидаешь меня, ожидаешь меня, Иисус!
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                      A                                          E</chopds>
-<text>Я хочу войти в глубину, увидеть славу Твою</text>
-<chopds>                    Hsus4   H       Hsus4   H</chopds>
-<text>В Твоём присутствии, о Иисус!</text>
-<chopds>         F#m                                 E</chopds>
-<text>Лишь там, в глубине, утону я в Тебе,</text>
-<chopds>                    Hsus4   H       Hsus4   H</chopds>
-<text>В Твоём присутствии, о Иисус!</text>
-</blocks>
+Припев
+<chords>                      A                                          E</chords>
+Я хочу войти в глубину, увидеть славу Твою
+<chords>                    Hsus4   H       Hsus4   H</chords>
+В Твоём присутствии, о Иисус!
+<chords>         F#m                                 E</chords>
+Лишь там, в глубине, утону я в Тебе,
+<chords>                    Hsus4   H       Hsus4   H</chords>
+В Твоём присутствии, о Иисус!
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>В Твоей славе хочу я ходить каждый день,</text>
-<text>Когда страх и сомненья терзают меня,</text>
-<text>Ты ожидаешь меня, ожидаешь меня, Иисус!</text>
-</blocks>
+2 куплет
+В Твоей славе хочу я ходить каждый день,
+Когда страх и сомненья терзают меня,
+Ты ожидаешь меня, ожидаешь меня, Иисус!
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>C#m                 H             A</chopds>
-<text>Я утону в Твоей любви,</text>
-<chopds>       C#m                   H              A</chopds>
-<text>С Тобой достигну я глубины!</text>
-<chopds>      C#m                   H              A</chopds>
-<text>Всё больше познаю я Тебя,</text>
-<chopds>                          F#m         A</chopds>
-<text>Когда в глубине, в Твоей любви!</text>
-</blocks>
+Мост
+<chords>C#m                 H             A</chords>
+Я утону в Твоей любви,
+<chords>       C#m                   H              A</chords>
+С Тобой достигну я глубины!
+<chords>      C#m                   H              A</chords>
+Всё больше познаю я Тебя,
+<chords>                          F#m         A</chords>
+Когда в глубине, в Твоей любви!

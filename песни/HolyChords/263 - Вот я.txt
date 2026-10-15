@@ -1,54 +1,46 @@
-Просто сосуды — Вот я
+Номер: 263
+Автор: Просто сосуды
+Песня: Вот я
 Источник: https://holychords.pro/263
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>C               F                C  G</chopds>
-<text>Видел славу я Твою,</text>
-<chopds>C             F                       C  G</chopds>
-<text>Для Тебя теперь живу.</text>
-<chopds>C                  F                           C  G</chopds>
-<text>Святый, Святый, Cвятый Бог,</text>
-<chopds>C          F                            C  G</chopds>
-<text>Изменить меня Ты смог!</text>
-</blocks>
+1 куплет
+<chords>C               F                C  G</chords>
+Видел славу я Твою,
+<chords>C             F                       C  G</chords>
+Для Тебя теперь живу.
+<chords>C                  F                           C  G</chords>
+Святый, Святый, Cвятый Бог,
+<chords>C          F                            C  G</chords>
+Изменить меня Ты смог!
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>F      C  G         Am</chopds>
-<text>Вот я! Я в Твоих руках!</text>
-<chopds>F      C                       G</chopds>
-<text>Вот я! Пошли меня!</text>
-<chopds>F      C  G         Am</chopds>
-<text>Вот я! Я в Твоих руках!</text>
-<chopds>F      C                       G</chopds>
-<text>Вот я! Пошли меня!</text>
-</blocks>
+Припев
+<chords>F      C  G         Am</chords>
+Вот я! Я в Твоих руках!
+<chords>F      C                       G</chords>
+Вот я! Пошли меня!
+<chords>F      C  G         Am</chords>
+Вот я! Я в Твоих руках!
+<chords>F      C                       G</chords>
+Вот я! Пошли меня!
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Прикоснулся Ты ко мне</text>
-<text>Своим Словом в тишине,</text>
-<text>И послал меня в народы</text>
-<text>Возвещать Твою свободу!</text>
-</blocks>
+2 куплет
+Прикоснулся Ты ко мне
+Своим Словом в тишине,
+И послал меня в народы
+Возвещать Твою свободу!
 
-<blocks>
-<videlit_line>Запев</videlit_line>
-<chopds>F               C            Dm                               A</chopds>
-<text>Снова слышу я в сердце своем: "Кого Мне послать?"</text>
-</blocks>
+Запев
+<chords>F               C            Dm                               A</chords>
+Снова слышу я в сердце своем: "Кого Мне послать?"
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>G     D  A         Hm</chopds>
-<text>Вот я! Я в Твоих руках!</text>
-<chopds>G     D                       A</chopds>
-<text>Вот я! Пошли меня!</text>
-<chopds>G     D  A         Hm</chopds>
-<text>Вот я! Я в Твоих руках!</text>
-<chopds>G     D                       A</chopds>
-<text>Вот я! Пошли меня!</text>
-</blocks>
+Припев
+<chords>G     D  A         Hm</chords>
+Вот я! Я в Твоих руках!
+<chords>G     D                       A</chords>
+Вот я! Пошли меня!
+<chords>G     D  A         Hm</chords>
+Вот я! Я в Твоих руках!
+<chords>G     D                       A</chords>
+Вот я! Пошли меня!

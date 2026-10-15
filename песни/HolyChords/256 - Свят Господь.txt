@@ -1,86 +1,54 @@
-Павел Плахотин — Свят Господь
+Номер: 256
+Автор: Павел Плахотин
+Песня: Свят Господь
 Источник: https://holychords.pro/256
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Gm  F                                Bb    Cm  D                                Gm</chopds>
-<text>Ты ярче, чем солнца свет, Ты бездна святой любви.</text>
-<chopds>Gm       F                      Bb   Cm        D                            Gm</chopds>
-<text>Нет, знаю, другого нет, есть, знаю, есть только Ты.</text>
-</blocks>
+1 куплет
+<chords>Gm  F                                Bb    Cm  D                                Gm</chords>
+Ты ярче, чем солнца свет, Ты бездна святой любви.
+<chords>Gm       F                      Bb   Cm        D                            Gm</chords>
+Нет, знаю, другого нет, есть, знаю, есть только Ты.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                Gm                     D#                      F                    Bb</chopds>
-<text>Свят Господь, свят Господь, славит Господа земля.</text>
-<chopds>                Gm                    Cm                    D           Gm</chopds>
-<text>Свят Господь, свят Господь, славят горы и моря.</text>
-<chopds>                Gm                     D#                       F                          Bb</chopds>
-<text>Свят Господь, свят Господь, все преклонимся пред Ним,</text>
-<chopds>                Gm                    Cm                       D                       Gm</chopds>
-<text>Свят Господь, свят Господь, свят Господь - наш Элохим.</text>
-</blocks>
+Припев
+<chords>                Gm                     D#                      F                    Bb</chords>
+Свят Господь, свят Господь, славит Господа земля.
+<chords>                Gm                    Cm                    D           Gm</chords>
+Свят Господь, свят Господь, славят горы и моря.
+<chords>                Gm                     D#                       F                          Bb</chords>
+Свят Господь, свят Господь, все преклонимся пред Ним,
+<chords>                Gm                    Cm                       D                       Gm</chords>
+Свят Господь, свят Господь, свят Господь - наш Элохим.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<chopds>Gm    F                   Bb  Cm    D                         Gm</chopds>
-<text>Ты славою облечён, Ты вечно превознесён.</text>
-<chopds>Gm       F                      Bb     Cm  D                            D#     F</chopds>
-<text>Ты начало и Ты конец, Ты Бог мой, Ты мой Отец.</text>
-</blocks>
+2 куплет
+<chords>Gm    F                   Bb  Cm    D                         Gm</chords>
+Ты славою облечён, Ты вечно превознесён.
+<chords>Gm       F                      Bb     Cm  D                            D#     F</chords>
+Ты начало и Ты конец, Ты Бог мой, Ты мой Отец.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                 Gm                    D#                      F                  Bb</chopds>
-<text>Свят Господь, свят Господь, славит Господа земля.</text>
-<chopds>                Gm                     Cm                      D              Gm</chopds>
-<text>Свят Господь, свят Господь, славит вся Вселенная.</text>
-<chopds>                Gm                     D#                         F                        Bb</chopds>
-<text>Свят Господь, свят Господь, все преклонимся пред Ним,</text>
-<chopds>                Gm                    Cm                        D                  D#  F</chopds>
-<text>Свят Господь, свят Господь, свят Господь - наш Элохим.</text>
-</blocks>
+Припев
+<chords>                 Gm                    D#                      F                  Bb</chords>
+Свят Господь, свят Господь, славит Господа земля.
+<chords>                Gm                     Cm                      D              Gm</chords>
+Свят Господь, свят Господь, славит вся Вселенная.
+<chords>                Gm                     D#                         F                        Bb</chords>
+Свят Господь, свят Господь, все преклонимся пред Ним,
+<chords>                Gm                    Cm                        D                  D#  F</chords>
+Свят Господь, свят Господь, свят Господь - наш Элохим.
 
-<blocks>
-<videlit_line>3 куплет: модуляция +2</videlit_line>
-<chopds>Am   G                                 C      Dm  E                          Am</chopds>
-<text>Ты жизнь, Ты сама любовь, Ты Агнец, проливший кровь.</text>
-<chopds>Am   G                                   C          Dm    E                        Am</chopds>
-<text>Ты славный Спаситель мой, Иисус, Ты мой Господь живой.</text>
-</blocks>
+3 куплет: модуляция +2
+<chords>Am   G                                 C      Dm  E                          Am</chords>
+Ты жизнь, Ты сама любовь, Ты Агнец, проливший кровь.
+<chords>Am   G                                   C          Dm    E                        Am</chords>
+Ты славный Спаситель мой, Иисус, Ты мой Господь живой.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                 Am                     F                      G                      C</chopds>
-<text>Свят Господь, свят Господь, славит Господа земля!</text>
-<chopds>                Am                    Dm                       E                 Am</chopds>
-<text>Свят Господь, свят Господь, славит вся Вселенная!</text>
-<chopds>                Am                       F                         G                          C</chopds>
-<text>Свят Господь, свят Господь, все преклонимся пред Ним,</text>
-<chopds>                Am                    Dm                       E                      F    G</chopds>
-<text>Свят Господь, свят Господь, свят Господь - наш Элохим.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Виктория Гагарина — Свят Господь [Русский]
-  https://holychords.pro/4258
-- Надія Sol Family Church — Свят Господь [Русский]
-  https://holychords.pro/23149
-- Молодіжний хор Церкви ХВЄ с. Берездівці, Львівська обл. — Свят Господь! [Украинский]
-  https://holychords.pro/23646
-- Павел Плахотин — Святий Бог
-  https://holychords.pro/42512
-- Християнська надія — Свят Господь [Украинский]
-  https://holychords.pro/46990
-- Павел Плахотин — Свят Е Бог, Господ Бог [Болгарский]
-  https://holychords.pro/66020
-- Християнин — Ти - світло мого життя [Украинский]
-  https://holychords.pro/66455
-- Gospel Ministry Church — Свят Господь [Русский]
-  https://holychords.pro/72820
-- Павел Плахотин — Ту сан миро светлыма [Цыганский]
-  https://holychords.pro/72979
+Припев
+<chords>                 Am                     F                      G                      C</chords>
+Свят Господь, свят Господь, славит Господа земля!
+<chords>                Am                    Dm                       E                 Am</chords>
+Свят Господь, свят Господь, славит вся Вселенная!
+<chords>                Am                       F                         G                          C</chords>
+Свят Господь, свят Господь, все преклонимся пред Ним,
+<chords>                Am                    Dm                       E                      F    G</chords>
+Свят Господь, свят Господь, свят Господь - наш Элохим.

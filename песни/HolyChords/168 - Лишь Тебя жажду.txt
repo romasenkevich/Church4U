@@ -1,50 +1,42 @@
-Алексей Каратаев — Лишь Тебя жажду
+Номер: 168
+Автор: Алексей Каратаев
+Песня: Лишь Тебя жажду
 Источник: https://holychords.pro/168
 
-==================================================
+---
 
-<blocks>
-<chopds>A    E</chopds>
-</blocks>
+<chords>A    E</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>A</chopds>
-<text>Для Тебя живу, воздаю хвалу</text>
-<chopds>C#m                          H</chopds>
-<text>Победитель Ты, лишь Тебя я жажду</text>
-<chopds>A</chopds>
-<text>Ты такой, как есть, не меняешься</text>
-<chopds>C#m                          H                                C#m</chopds>
-<text>Ты Великий Бог, лишь Тебя жажду</text>
-</blocks>
+1 куплет
+<chords>A</chords>
+Для Тебя живу, воздаю хвалу
+<chords>C#m                          H</chords>
+Победитель Ты, лишь Тебя я жажду
+<chords>A</chords>
+Ты такой, как есть, не меняешься
+<chords>C#m                          H                                C#m</chords>
+Ты Великий Бог, лишь Тебя жажду
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>         A                        C#m       E</chopds>
-<text>Вся жизнь моя сильна Тобою,</text>
-<chopds>       A                  C#m         E</chopds>
-<text>Душа полна Твоей любовью</text>
-<chopds>         A                  C#m                     H</chopds>
-<text>На всей земле, яви нам Свою волю.</text>
-</blocks>
+Пред припев
+<chords>         A                        C#m       E</chords>
+Вся жизнь моя сильна Тобою,
+<chords>       A                  C#m         E</chords>
+Душа полна Твоей любовью
+<chords>         A                  C#m                     H</chords>
+На всей земле, яви нам Свою волю.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>E    E/G#     A</chopds>
-<text>Иисус, Тебя прославлю</text>
-<chopds>C#m  E/G#  A</chopds>
-<text>Иисус, любовь моя,</text>
-<chopds>E/G#                A</chopds>
-<text>Сердцем Тебя желаю,</text>
-<chopds>C#m  E/G#  A            H</chopds>
-<text>Жажду я лишь Тебя.</text>
-</blocks>
+Припев
+<chords>E    E/G#     A</chords>
+Иисус, Тебя прославлю
+<chords>C#m  E/G#  A</chords>
+Иисус, любовь моя,
+<chords>E/G#                A</chords>
+Сердцем Тебя желаю,
+<chords>C#m  E/G#  A            H</chords>
+Жажду я лишь Тебя.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Свет Ты нам явил и любовь открыл,</text>
-<text>Совершенный Бог, лишь Тебя жажду,</text>
-<text>Ты меня поднял, Свою силу дал,</text>
-<text>О Тебе пою, лишь Тебя жажду.</text>
-</blocks>
+2 куплет
+Свет Ты нам явил и любовь открыл,
+Совершенный Бог, лишь Тебя жажду,
+Ты меня поднял, Свою силу дал,
+О Тебе пою, лишь Тебя жажду.

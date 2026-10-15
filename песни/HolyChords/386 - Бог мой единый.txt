@@ -1,45 +1,39 @@
-Вадим Ятковский — Бог мой единый
+Номер: 386
+Автор: Вадим Ятковский
+Песня: Бог мой единый
 Источник: https://holychords.pro/386
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>| Em  Am  C  H7 | Em  Am  C  H7  Em |</chopds>
-</blocks>
+Интро
+<chords>| Em  Am  C  H7 | Em  Am  C  H7  Em |</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>              Em                  Am</chopds>
-<text>Поднимаю я руки к Господу</text>
-<chopds>       C                             H7</chopds>
-<text>Иисусу я принадлежу.</text>
-<chopds>         Em                    Am</chopds>
-<text>Богу истины - Он Единственный</text>
-<chopds>               C          H7      Em</chopds>
-<text>Кому славу и честь воздаю!</text>
-</blocks>
+1 куплет
+<chords>              Em                  Am</chords>
+Поднимаю я руки к Господу
+<chords>       C                             H7</chords>
+Иисусу я принадлежу.
+<chords>         Em                    Am</chords>
+Богу истины - Он Единственный
+<chords>               C          H7      Em</chords>
+Кому славу и честь воздаю!
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds> Am</chopds>
-<text>Бог мой Единый, Святый и Сильный</text>
-<chopds>Em</chopds>
-<text>Я Тебя люблю и Тебе пою</text>
-<chopds> Am</chopds>
-<text>Бог Вездесущий и Всемогущий</text>
-<chopds>Em</chopds>
-<text>За Твою любовь я благодарю</text>
-<text>Бог мой Единый, Святый и Сильный</text>
-<text>Любящий меня я Его дитя</text>
-<text>Бог Неизменный, Благословенный</text>
-<text>Только на Тебя уповаю я</text>
-</blocks>
+Припев
+<chords> Am</chords>
+Бог мой Единый, Святый и Сильный
+<chords>Em</chords>
+Я Тебя люблю и Тебе пою
+<chords> Am</chords>
+Бог Вездесущий и Всемогущий
+<chords>Em</chords>
+За Твою любовь я благодарю
+Бог мой Единый, Святый и Сильный
+Любящий меня я Его дитя
+Бог Неизменный, Благословенный
+Только на Тебя уповаю я
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Поклоняюсь я Тебе Господи</text>
-<text>И Тебе Одному я служу</text>
-<text>Буду воспевать, буду прославлять</text>
-<text>Твое имя я благословлю!</text>
-</blocks>
+2 куплет
+Поклоняюсь я Тебе Господи
+И Тебе Одному я служу
+Буду воспевать, буду прославлять
+Твое имя я благословлю!

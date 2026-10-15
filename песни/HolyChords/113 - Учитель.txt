@@ -1,81 +1,57 @@
-Они — Учитель
+Номер: 113
+Автор: Они
+Песня: Учитель
 Источник: https://holychords.pro/113
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>F#m  D  E  C#m  D  Hm  F#m  D</chopds>
-</blocks>
+Интро
+<chords>F#m  D  E  C#m  D  Hm  F#m  D</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>     F#m                             E</chopds>
-<text>Рыбацкую лодку волною качало</text>
-<chopds>       D                               Hm                C#</chopds>
-<text>Народ на Него приходил посмотреть.</text>
-<chopds>  F#m                            E</chopds>
-<text>И Он о любви говорил им немало,</text>
-<chopds>       D                           Hm              E</chopds>
-<text>А люди дивились Его простоте!</text>
-<chopds>         A                                   E</chopds>
-<text>И где-то вдали солнца луч догорая</text>
-<chopds>      F#m                              D               E</chopds>
-<text>Ласкал Его трепетно светом своим</text>
-<chopds>       F#m                             E</chopds>
-<text>Простые слова, а душа умилялась</text>
-<chopds>      D         E                       A</chopds>
-<text>И таяло сердце в груди!</text>
-</blocks>
+1 куплет
+<chords>     F#m                             E</chords>
+Рыбацкую лодку волною качало
+<chords>       D                               Hm                C#</chords>
+Народ на Него приходил посмотреть.
+<chords>  F#m                            E</chords>
+И Он о любви говорил им немало,
+<chords>       D                           Hm              E</chords>
+А люди дивились Его простоте!
+<chords>         A                                   E</chords>
+И где-то вдали солнца луч догорая
+<chords>      F#m                              D               E</chords>
+Ласкал Его трепетно светом своим
+<chords>       F#m                             E</chords>
+Простые слова, а душа умилялась
+<chords>      D         E                       A</chords>
+И таяло сердце в груди!
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds> F#m                            Hm     E                   F#m</chopds>
-<text>Возлюби всей душою Господа своего!</text>
-<chopds>F#m                                Hm  D          C#           F#m</chopds>
-<text>Честен будь перед собою и не суди никого!</text>
-<chopds>F#m                           Hm            E                            F#m</chopds>
-<text>Гневаясь не согрешайте, в сердце храня любовь!</text>
-<chopds>  D                                Hm          D             C#           F#m</chopds>
-<text>Боль и обиды прощайте, благословляйте врагов.</text>
-</blocks>
+Припев
+<chords> F#m                            Hm     E                   F#m</chords>
+Возлюби всей душою Господа своего!
+<chords>F#m                                Hm  D          C#           F#m</chords>
+Честен будь перед собою и не суди никого!
+<chords>F#m                           Hm            E                            F#m</chords>
+Гневаясь не согрешайте, в сердце храня любовь!
+<chords>  D                                Hm          D             C#           F#m</chords>
+Боль и обиды прощайте, благословляйте врагов.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Когда на Голгофе Христа распинали</text>
-<text>Народ на Него приходил посмотреть.</text>
-<text>Смеясь, издевались и в душу плевали</text>
-<text>А Он о любви им хотел говорить.</text>
-<text>Прости им Отец, они право не знают</text>
-<text>Не ведают грешные, что говорят</text>
-<text>А кровь все текла, этот мир покрывая</text>
-<text>Лишь чуть затуманился взгляд...</text>
-</blocks>
+2 куплет
+Когда на Голгофе Христа распинали
+Народ на Него приходил посмотреть.
+Смеясь, издевались и в душу плевали
+А Он о любви им хотел говорить.
+Прости им Отец, они право не знают
+Не ведают грешные, что говорят
+А кровь все текла, этот мир покрывая
+Лишь чуть затуманился взгляд...
 
-<blocks>
-<videlit_line>3 куплет</videlit_line>
-<text>Рыбацкую лодку волною качает</text>
-<text>Склонились над книгою ученики</text>
-<text>Простые слова они тихо читают</text>
-<text>И вторит им эхо в ночи...</text>
-</blocks>
+3 куплет
+Рыбацкую лодку волною качает
+Склонились над книгою ученики
+Простые слова они тихо читают
+И вторит им эхо в ночи...
 
-<blocks>
-<videlit_line>Концовка</videlit_line>
-<chopds>    D                               Hm      D           C#       F#m</chopds>
-<text>Злом на зло не отвечайте и берегите любовь!</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- FECG Lahr — Рыбацкую лодку волною качало [Русский]
-  https://holychords.pro/42602
-- Они — Учитель [Украинский]
-  https://holychords.pro/49300
-- Скиния Worship — Рыбацкую лодку волною качало [Русский]
-  https://holychords.pro/55133
-- Slavic Christian Center Tacoma — Рибальський той човен все хвиля гойдала [Украинский]
-  https://holychords.pro/77738
-- Они — Рибацький човен хвиля тихо гойдала [Украинский]
-  https://holychords.pro/83307
+Концовка
+<chords>    D                               Hm      D           C#       F#m</chords>
+Злом на зло не отвечайте и берегите любовь!

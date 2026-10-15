@@ -1,70 +1,52 @@
-Hillsong Ukraine — Воспрянь
+Номер: 315
+Автор: Hillsong Ukraine
+Песня: Воспрянь
 Источник: https://holychords.pro/315
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>G#m      E   H       F#       C#   H</chopds>
-</blocks>
+Интро
+<chords>G#m      E   H       F#       C#   H</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>                         H                       E                          H</chopds>
-<text>Есть яркий свет, сильнее солнца светит нам</text>
-<chopds>       F#/A#        G#m                          H   E</chopds>
-<text>Он ночь прогнал, и нет в нём тени.</text>
-<chopds>                 H                      E                    H          F#/A#    G#m    E</chopds>
-<text>Верим мы, что если горы все падут, не угаснет Он.</text>
-</blocks>
+1 куплет
+<chords>                         H                       E                          H</chords>
+Есть яркий свет, сильнее солнца светит нам
+<chords>       F#/A#        G#m                          H   E</chords>
+Он ночь прогнал, и нет в нём тени.
+<chords>                 H                      E                    H          F#/A#    G#m    E</chords>
+Верим мы, что если горы все падут, не угаснет Он.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>               F#                 G#m                 E            H</chopds>
-<text>Ты воспрянь, через ночь проведёт Он нас,</text>
-<chopds>                       F#            G#m                E    H</chopds>
-<text>Мужайся вновь, и надежду храни.</text>
-</blocks>
+Припев
+<chords>               F#                 G#m                 E            H</chords>
+Ты воспрянь, через ночь проведёт Он нас,
+<chords>                       F#            G#m                E    H</chords>
+Мужайся вновь, и надежду храни.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>В нём падший мир победу смерти одержал,</text>
-<text>И в ранах дал нам свободу.</text>
-<text>Только Он, страх забрал, ведь знаем нас не подведет.</text>
-</blocks>
+2 куплет
+В нём падший мир победу смерти одержал,
+И в ранах дал нам свободу.
+Только Он, страх забрал, ведь знаем нас не подведет.
 
-<blocks>
-<videlit_line>Бридж 1</videlit_line>
-<chopds>G#m              E</chopds>
-<text>Наши беды, и слёзы все,</text>
-<chopds>H                      F#/A#</chopds>
-<text>Бог надежда, победил Он всё.</text>
-<text>Все паденья, весь наш страх,</text>
-<text>Бог любовь, победил Он все.</text>
-<text>Наши скорби, и всю боль,</text>
-<text>Бог целитель, победил Он всё.</text>
-<text>Наше бремя, весь наш стыд,</text>
-<text>Он свобода, победил Он все.</text>
-</blocks>
+Бридж 1
+<chords>G#m              E</chords>
+Наши беды, и слёзы все,
+<chords>H                      F#/A#</chords>
+Бог надежда, победил Он всё.
+Все паденья, весь наш страх,
+Бог любовь, победил Он все.
+Наши скорби, и всю боль,
+Бог целитель, победил Он всё.
+Наше бремя, весь наш стыд,
+Он свобода, победил Он все.
 
-<blocks>
-<videlit_line>Бридж 2</videlit_line>
-<chopds>H                    E</chopds>
-<text>Наши беды, и слёзы все,</text>
-<chopds>F#                G#m</chopds>
-<text>Бог надежда, победил Он всё.</text>
-<text>Все паденья, весь наш страх,</text>
-<text>Бог любовь, победил Он все.</text>
-<text>Бог защита, Бог Наш дар,</text>
-<text>Бог свобода, победил Он всё.</text>
-<text>Бог нам крепость, Бог - приют,</text>
-<text>Бог наш с нами, победил Он все.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Hillsong United — Take Heart [Английский]
-  https://holychords.pro/37193
-- Hillsong United — Серце візьми [Украинский]
-  https://holychords.pro/37194
+Бридж 2
+<chords>H                    E</chords>
+Наши беды, и слёзы все,
+<chords>F#                G#m</chords>
+Бог надежда, победил Он всё.
+Все паденья, весь наш страх,
+Бог любовь, победил Он все.
+Бог защита, Бог Наш дар,
+Бог свобода, победил Он всё.
+Бог нам крепость, Бог - приют,
+Бог наш с нами, победил Он все.

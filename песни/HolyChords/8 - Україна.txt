@@ -1,44 +1,38 @@
-Спасіння Вишневе — Україна
+Номер: 8
+Автор: Спасіння Вишневе
+Песня: Україна
 Источник: https://holychords.pro/8
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Am E Am         G C  A</chopds>
-<text>Україна,    Україна!</text>
-<chopds>  Dm         C         E         F        Dm  G Am</chopds>
-<text>Благословенна Богом земля - Україна!</text>
-</blocks>
+Припев
+<chords>Am E Am         G C  A</chords>
+Україна,    Україна!
+<chords>  Dm         C         E         F        Dm  G Am</chords>
+Благословенна Богом земля - Україна!
 
-<blocks>
-<videlit_line>1 Куплет</videlit_line>
-<chopds>    Am</chopds>
-<text>Край наш - осяяний сонцем!</text>
-<chopds>  Am                           G</chopds>
-<text>Край наш - зелені ліси!</text>
-<chopds>    C                  G         Am</chopds>
-<text>Край наш - омріяний Богом!</text>
-<chopds>    F                     G               Am</chopds>
-<text>Край наш - щасливий для всіх!</text>
-</blocks>
+1 Куплет
+<chords>    Am</chords>
+Край наш - осяяний сонцем!
+<chords>  Am                           G</chords>
+Край наш - зелені ліси!
+<chords>    C                  G         Am</chords>
+Край наш - омріяний Богом!
+<chords>    F                     G               Am</chords>
+Край наш - щасливий для всіх!
 
-<blocks>
-<videlit_line>2 Куплет</videlit_line>
-<text>Край наш, віддай славу Богу!</text>
-<text>Край наш, - ти Божа краса!</text>
-<text>Край наш, - ти знаєш дорогу!</text>
-<text>Край наш, прямуй в Небеса!</text>
-</blocks>
+2 Куплет
+Край наш, віддай славу Богу!
+Край наш, - ти Божа краса!
+Край наш, - ти знаєш дорогу!
+Край наш, прямуй в Небеса!
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>      Dm                             Am</chopds>
-<text>Благословенні поля, благословенні ліси,</text>
-<chopds>        F                        G               Am</chopds>
-<text>Благословенна Земля твоя, Україно!</text>
-<chopds>       Dm                                              Am</chopds>
-<text>Господь дасть мудрість царям, Господь підніме дітей,</text>
-<chopds>        F                               G                      Am</chopds>
-<text>І Ймення Господнє прославиться на Україні!</text>
-</blocks>
+Бридж
+<chords>      Dm                             Am</chords>
+Благословенні поля, благословенні ліси,
+<chords>        F                        G               Am</chords>
+Благословенна Земля твоя, Україно!
+<chords>       Dm                                              Am</chords>
+Господь дасть мудрість царям, Господь підніме дітей,
+<chords>        F                               G                      Am</chords>
+І Ймення Господнє прославиться на Україні!

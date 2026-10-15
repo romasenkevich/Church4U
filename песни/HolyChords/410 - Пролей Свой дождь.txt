@@ -1,19 +1,13 @@
-Филип Реннер — Пролей Свой дождь
+Номер: 410
+Автор: Филип Реннер
+Песня: Пролей Свой дождь
 Источник: https://holychords.pro/410
 
-==================================================
+---
 
-<blocks>
-<chopds>G</chopds>
-<text>Пролей Свой дождь,</text>
-<chopds>         C</chopds>
-<text>Пролей Свой дождь,</text>
-<chopds>      Em/H             D              G</chopds>
-<text>Пролей Свой дождь на нас.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Renner Worship — Pour Down Your Rain [Английский]
-  https://holychords.pro/15732
+<chords>G</chords>
+Пролей Свой дождь,
+<chords>         C</chords>
+Пролей Свой дождь,
+<chords>      Em/H             D              G</chords>
+Пролей Свой дождь на нас.

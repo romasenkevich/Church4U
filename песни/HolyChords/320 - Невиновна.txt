@@ -1,60 +1,50 @@
-Екатерина Топчий — Невиновна
+Номер: 320
+Автор: Екатерина Топчий
+Песня: Невиновна
 Источник: https://holychords.pro/320
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>               D#                   A#/D</chopds>
-<text>Вот я стою пред Судьею всех судов,</text>
-<chopds>                    Cm               G#</chopds>
-<text>Жду приговор, и не счесть моих грехов,</text>
-<chopds>                 D#                      A#/D</chopds>
-<text>А стыд и боль терзают душу мою,</text>
-<chopds>                    Cm                        G#</chopds>
-<text>Настал тот день, ответ за жизнь я отдаю....</text>
-</blocks>
+1 куплет
+<chords>               D#                   A#/D</chords>
+Вот я стою пред Судьею всех судов,
+<chords>                    Cm               G#</chords>
+Жду приговор, и не счесть моих грехов,
+<chords>                 D#                      A#/D</chords>
+А стыд и боль терзают душу мою,
+<chords>                    Cm                        G#</chords>
+Настал тот день, ответ за жизнь я отдаю....
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>A#/D                 D#/G            G#</chopds>
-<text>Вдруг глянул мне Судья в глаза,</text>
-<chopds>A#/D    D#/G      D#</chopds>
-<text>Он улыбнулся и сказал:</text>
-</blocks>
+Пред припев
+<chords>A#/D                 D#/G            G#</chords>
+Вдруг глянул мне Судья в глаза,
+<chords>A#/D    D#/G      D#</chords>
+Он улыбнулся и сказал:
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>D#                 A#/D</chopds>
-<text>Я люблю тебя и знаю,</text>
-<chopds>Cm                     G#</chopds>
-<text>Я жизнь отдал, спасая.</text>
-<chopds>D#            A#/D</chopds>
-<text>Уплачена за грех цена,</text>
-<chopds>Cm                  G#</chopds>
-<text>Вердикт мой: "Невиновна!!!"</text>
-</blocks>
+Припев
+<chords>D#                 A#/D</chords>
+Я люблю тебя и знаю,
+<chords>Cm                     G#</chords>
+Я жизнь отдал, спасая.
+<chords>D#            A#/D</chords>
+Уплачена за грех цена,
+<chords>Cm                  G#</chords>
+Вердикт мой: "Невиновна!!!"
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Не может быть, как это можно понять,</text>
-<text>Что за грехи, и вдруг дана благодать??</text>
-<text>Свободна я, и в изумлении смотрю -</text>
-<text>Вижу крест пред собой, слёзы льются рекой, это мог приговор быть мой!</text>
-</blocks>
+2 куплет
+Не может быть, как это можно понять,
+Что за грехи, и вдруг дана благодать??
+Свободна я, и в изумлении смотрю -
+Вижу крест пред собой, слёзы льются рекой, это мог приговор быть мой!
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<text>И вижу я опять тот взгляд,</text>
-<text>Слова любви с креста летят</text>
-</blocks>
+Пред припев
+И вижу я опять тот взгляд,
+Слова любви с креста летят
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>D#                                     A#/D</chopds>
-<text>И на коленях я благодарю</text>
-<chopds>Cm                               G#</chopds>
-<text>Тебя, мой Бог, за всю любовь Твою,</text>
-<chopds>D#                                     A#/D Cm                               G#</chopds>
-<text>О, Боже мой, как милости полны Твои слова!!!</text>
-</blocks>
+Бридж
+<chords>D#                                     A#/D</chords>
+И на коленях я благодарю
+<chords>Cm                               G#</chords>
+Тебя, мой Бог, за всю любовь Твою,
+<chords>D#                                     A#/D Cm                               G#</chords>
+О, Боже мой, как милости полны Твои слова!!!

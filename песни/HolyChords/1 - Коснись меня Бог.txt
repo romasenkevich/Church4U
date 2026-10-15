@@ -8,16 +8,16 @@ BPM: 138
 ---
 
 интро
-<chords>Hm  A/C#  D</chopds>
+<chords>Hm  A/C#  D</chords>
 
 1 куплет
-<chopds>Hm               A/C#        D</chopds>
+<chords>Hm               A/C#        D</chords>
 Ты дал мне новую песню
-<chopds>           Hm           A/C#           D</chopds>
+<chords>           Hm           A/C#           D</chords>
 На устах моих каждый день
-<chopds>Hm              A/C#                   D</chopds>
+<chords>Hm              A/C#                   D</chords>
 Наполнил жизнь мою смыслом
-<chopds>           Hm      A/C#         D</chopds>
+<chords>           Hm      A/C#         D</chords>
 Доверяю я лишь Тебе
 
 2 куплет
@@ -27,21 +27,21 @@ BPM: 138
 И веди меня в глубину
 
 Пред припев
-<chopds>Em           F#m  Hm</chopds>
+<chords>Em           F#m  Hm</chords>
 И в этой жизни одно лишь важно
-<chopds>G                Em  Hm</chopds>
+<chords>G                Em  Hm</chords>
 Искать Твоё  лицо
-<chopds>Em                    F#m  Hm</chopds>
+<chords>Em                    F#m  Hm</chords>
 Мы ждем момент, когда однажды
-<chopds>G</chopds>
+<chords>G</chords>
 Мы встретимся с Тобой
 
 Припев
-<chopds>Hm                                             G</chopds>
+<chords>Hm                                             G</chords>
 Коснись меня Бог Своей славой и наполни Твой дом
-<chopds>D                                              A</chopds>
+<chords>D                                              A</chords>
 Своим святым присутствием Дух Святой мы так ждём
-<chopds>Hm                                          G</chopds>
+<chords>Hm                                          G</chords>
 Мы Твоя Церковь наполняй нас мы жаждем Тебя
-<chopds>D                               A</chopds>
+<chords>D                               A</chords>
 Изливай Дух Святой

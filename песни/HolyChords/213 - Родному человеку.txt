@@ -1,60 +1,46 @@
-Светлана Малова — Родному человеку
+Номер: 213
+Автор: Светлана Малова
+Песня: Родному человеку
 Источник: https://holychords.pro/213
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>| Dm /// | E /// | Am /// | F /// |</chopds>
-<chopds>| Dm /// | E /// | Am /// | Am /// |</chopds>
-</blocks>
+Интро
+<chords>| Dm /// | E /// | Am /// | F /// |</chords>
+<chords>| Dm /// | E /// | Am /// | Am /// |</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>       Am                                                Em</chopds>
-<text>Мне хорошо, когда со мной ты рядом,</text>
-<chopds>  Dm                     G                           C</chopds>
-<text>И я люблю смотреть в твои глаза.</text>
-<chopds>                 Dm      G                C</chopds>
-<text>Мне никого другого и не надо.</text>
-<chopds>   Dm                  G                 C</chopds>
-<text>Я благодарна Богу за тебя!</text>
-<chopds>                 Dm      G                C</chopds>
-<text>Мне никого другого и не надо.</text>
-<chopds>   Dm                  E                  Am</chopds>
-<text>Я благодарна Богу за тебя!</text>
-</blocks>
+1 куплет
+<chords>       Am                                                Em</chords>
+Мне хорошо, когда со мной ты рядом,
+<chords>  Dm                     G                           C</chords>
+И я люблю смотреть в твои глаза.
+<chords>                 Dm      G                C</chords>
+Мне никого другого и не надо.
+<chords>   Dm                  G                 C</chords>
+Я благодарна Богу за тебя!
+<chords>                 Dm      G                C</chords>
+Мне никого другого и не надо.
+<chords>   Dm                  E                  Am</chords>
+Я благодарна Богу за тебя!
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Я не люблю на долго расставаться,</text>
-<text>И я всегда скучаю по тебе.</text>
-<text>Мне нравится в тебе не сомневаться,</text>
-<text>Ведь ты же послан Богом только мне!</text>
-</blocks>
+2 куплет
+Я не люблю на долго расставаться,
+И я всегда скучаю по тебе.
+Мне нравится в тебе не сомневаться,
+Ведь ты же послан Богом только мне!
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>        Dm            E          Am</chopds>
-<text>Мне нравится твоя улыбка,</text>
-<chopds>    Dm            G                          C</chopds>
-<text>В её сиянье столько доброты!</text>
-<chopds>           Dm              E              Am</chopds>
-<text>Жизнь без тебя - была ошибкой,</text>
-<chopds>       Dm                      E                               Am</chopds>
-<text>Мне очень сильно нравишься весь ты!</text>
-</blocks>
+Припев
+<chords>        Dm            E          Am</chords>
+Мне нравится твоя улыбка,
+<chords>    Dm            G                          C</chords>
+В её сиянье столько доброты!
+<chords>           Dm              E              Am</chords>
+Жизнь без тебя - была ошибкой,
+<chords>       Dm                      E                               Am</chords>
+Мне очень сильно нравишься весь ты!
 
-<blocks>
-<videlit_line>3 куплет</videlit_line>
-<text>Мне хорошо, когда со мной ты рядом,</text>
-<text>Когда я чувствую твоё тепло,</text>
-<text>Другого счастья, даром, мне не надо,</text>
-<text>Хочу я сохранить, что нам дано!</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Светлана Малова — Ти мені даний, як дарунок з Неба [Украинский]
-  https://holychords.pro/85280
+3 куплет
+Мне хорошо, когда со мной ты рядом,
+Когда я чувствую твоё тепло,
+Другого счастья, даром, мне не надо,
+Хочу я сохранить, что нам дано!

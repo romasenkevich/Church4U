@@ -1,30 +1,26 @@
-Слово Жизни Music — Дух Святой приди
+Номер: 54
+Автор: Слово Жизни Music
+Песня: Дух Святой приди
 Источник: https://holychords.pro/54
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>C#m G#m F#m G#m   C#m      G#m      F#m</chopds>
-<text>Мы ищем, мы любим, мы ждем Тебя.</text>
-<chopds>C#m  G#m  F#m      G#m  C#m  G#m       F#m</chopds>
-<text>Коснись нас Своей силой, зажги сердца.</text>
-<chopds>  A                E             H     A           E        H</chopds>
-<text>Пусть с небес придёт царствие Твоё.</text>
-</blocks>
+Куплет
+<chords>C#m G#m F#m G#m   C#m      G#m      F#m</chords>
+Мы ищем, мы любим, мы ждем Тебя.
+<chords>C#m  G#m  F#m      G#m  C#m  G#m       F#m</chords>
+Коснись нас Своей силой, зажги сердца.
+<chords>  A                E             H     A           E        H</chords>
+Пусть с небес придёт царствие Твоё.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                                 E                            G#m</chopds>
-<text>Дух Святой, приди, Дух Святой, коснись,</text>
-<chopds>                 F#m       E                 A    H</chopds>
-<text>Мы так жаждем, Бог, мы так жаждем.</text>
-</blocks>
+Припев
+<chords>                                 E                            G#m</chords>
+Дух Святой, приди, Дух Святой, коснись,
+<chords>                 F#m       E                 A    H</chords>
+Мы так жаждем, Бог, мы так жаждем.
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>C#m    A  H</chopds>
-<text>Ждём Тебя,</text>
-<chopds>        C#m A               H         F#m     (A)</chopds>
-<text> Приди в Своей славе, Иисус.</text>
-</blocks>
+Мост
+<chords>C#m    A  H</chords>
+Ждём Тебя,
+<chords>        C#m A               H         F#m     (A)</chords>
+Приди в Своей славе, Иисус.

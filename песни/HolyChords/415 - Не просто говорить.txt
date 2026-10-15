@@ -1,22 +1,20 @@
-Филип Реннер — Не просто говорить
+Номер: 415
+Автор: Филип Реннер
+Песня: Не просто говорить
 Источник: https://holychords.pro/415
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>F#m           E               F#m     E</chopds>
-<text>Дай мне сердце Твоё</text>
-<chopds>F#m             E             F#m    E</chopds>
-<text>Дай мне мысли Твои</text>
-<chopds>F#m                             E                                F#m        E</chopds>
-<text>Помоги идти все глубже, глубже в Тебе, Господь</text>
-</blocks>
+Куплет
+<chords>F#m           E               F#m     E</chords>
+Дай мне сердце Твоё
+<chords>F#m             E             F#m    E</chords>
+Дай мне мысли Твои
+<chords>F#m                             E                                F#m        E</chords>
+Помоги идти все глубже, глубже в Тебе, Господь
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>D                          A/C#                                   E</chopds>
-<text>Не просто говорить, не просто петь слова</text>
-<chopds>                                    F#m</chopds>
-<text>Не просто ждать, я жажду сердцем!</text>
-</blocks>
+Припев
+<chords>D                          A/C#                                   E</chords>
+Не просто говорить, не просто петь слова
+<chords>                                    F#m</chords>
+Не просто ждать, я жажду сердцем!

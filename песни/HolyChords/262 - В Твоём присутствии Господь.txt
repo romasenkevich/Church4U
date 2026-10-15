@@ -1,39 +1,35 @@
-Просто сосуды — В Твоём присутствии Господь
+Номер: 262
+Автор: Просто сосуды
+Песня: В Твоём присутствии Господь
 Источник: https://holychords.pro/262
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>F                       C          G        Am    F             C             G             Am</chopds>
-<text>В Твоём присутствии Господь,  я осознал, как был не прав.</text>
-<chopds>F                   C       G       Am    F                                        G</chopds>
-<text>Что славы я искал себе, Твоей любви не замечал.</text>
-<chopds>F             C            G     Am    F                 C          G       Am</chopds>
-<text>Что-то делал для Тебя, а сердце оставлял себе,</text>
-<chopds>F                  C           G        Am  F                                         G</chopds>
-<text>В Твои я мысли не вникал, а думал только о себе.</text>
-</blocks>
+1 куплет
+<chords>F                       C          G        Am    F             C             G             Am</chords>
+В Твоём присутствии Господь,  я осознал, как был не прав.
+<chords>F                   C       G       Am    F                                        G</chords>
+Что славы я искал себе, Твоей любви не замечал.
+<chords>F             C            G     Am    F                 C          G       Am</chords>
+Что-то делал для Тебя, а сердце оставлял себе,
+<chords>F                  C           G        Am  F                                         G</chords>
+В Твои я мысли не вникал, а думал только о себе.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>C                G/H          Am      Am/G              F             D/F#</chopds>
-<text>Пред Тобой стою, жизнь свою Тебе я отдаю, отдаю.</text>
-<chopds>Dm                 Dm/C               Am  F  C                           G      Am</chopds>
-<text>Лишь для Тебя теперь живу,         и о Тебе лишь я пою.</text>
-<chopds>F                      C                  G                 Am - Am/G  D/F#                                 G</chopds>
-<text>Все мои надежды, и все мои мечты,                       О Тебе, и только Ты…</text>
-<chopds>F  C  G  F (2раза)</chopds>
-</blocks>
+Припев
+<chords>C                G/H          Am      Am/G              F             D/F#</chords>
+Пред Тобой стою, жизнь свою Тебе я отдаю, отдаю.
+<chords>Dm                 Dm/C               Am  F  C                           G      Am</chords>
+Лишь для Тебя теперь живу,         и о Тебе лишь я пою.
+<chords>F                      C                  G                 Am - Am/G  D/F#                                 G</chords>
+Все мои надежды, и все мои мечты,                       О Тебе, и только Ты…
+<chords>F  C  G  F (2раза)</chords>
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<chopds>F                       C         G        Am   F               C        G       Am</chopds>
-<text>В Твоём присутствии Господь,  увидел я Твою любовь,</text>
-<chopds>F                C            G        Am  F                      D/F#                      G</chopds>
-<text>Как умирал Ты на кресте,   что б я мог жить, и жил я вновь.</text>
-<chopds>F                     C            G        Am   F               C          G        Am</chopds>
-<text>Сосуд мой сильно сокрушён, и наполняешь Ты меня,</text>
-<chopds>F                          C         G   Am F                      D/F#          G</chopds>
-<text>Пусть через трещины его,   течёт Твоей любви река.</text>
-</blocks>
+2 куплет
+<chords>F                       C         G        Am   F               C        G       Am</chords>
+В Твоём присутствии Господь,  увидел я Твою любовь,
+<chords>F                C            G        Am  F                      D/F#                      G</chords>
+Как умирал Ты на кресте,   что б я мог жить, и жил я вновь.
+<chords>F                     C            G        Am   F               C          G        Am</chords>
+Сосуд мой сильно сокрушён, и наполняешь Ты меня,
+<chords>F                          C         G   Am F                      D/F#          G</chords>
+Пусть через трещины его,   течёт Твоей любви река.

@@ -1,60 +1,52 @@
-Алла Чепикова — Открываю сердце Тебе
+Номер: 479
+Автор: Алла Чепикова
+Песня: Открываю сердце Тебе
 Источник: https://holychords.pro/479
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>            Am                     Am/G#    Am/G                Am/F#</chopds>
-<text>Открываю сердце Тебе, наполняешь душу во мне</text>
-<chopds>           Dm7                    Am</chopds>
-<text>Ты Своим теплом, Своим теплом.</text>
-<chopds>          Am                      Am/G#    Am/G                Am/F#</chopds>
-<text>Забываю с Тобой одним суеты моей жизни дни,</text>
-<chopds>           Dm7            Am</chopds>
-<text>Когда рядом Ты, рядом Ты.</text>
-</blocks>
+1 куплет
+<chords>            Am                     Am/G#    Am/G                Am/F#</chords>
+Открываю сердце Тебе, наполняешь душу во мне
+<chords>           Dm7                    Am</chords>
+Ты Своим теплом, Своим теплом.
+<chords>          Am                      Am/G#    Am/G                Am/F#</chords>
+Забываю с Тобой одним суеты моей жизни дни,
+<chords>           Dm7            Am</chords>
+Когда рядом Ты, рядом Ты.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>       Dm7</chopds>
-<text>Проходят дни наши, мы летим.</text>
-<chopds>           Am                              Am/C</chopds>
-<text>Сменяются годы один другим,</text>
-<chopds>    H7                       E7</chopds>
-<text>И тают они как звук,</text>
-<chopds>            Am               (A)</chopds>
-<text>Навсегда, навсегда, навсегда.</text>
-</blocks>
+Припев
+<chords>       Dm7</chords>
+Проходят дни наши, мы летим.
+<chords>           Am                              Am/C</chords>
+Сменяются годы один другим,
+<chords>    H7                       E7</chords>
+И тают они как звук,
+<chords>            Am               (A)</chords>
+Навсегда, навсегда, навсегда.
 
-<blocks>
-<videlit_line>1 Бридж</videlit_line>
-<chopds>Dm G7 Cmaj7 Fmaj7</chopds>
-<text>И на грешной Земле часть даруешь ты мне,</text>
-<chopds>Dm/H E7 Am</chopds>
-<text>Чтобы верить, чтобы любить.</text>
-<chopds>Dm7 G Cmaj7 Fmaj7</chopds>
-<text>Чтоб Тебя, Боже мой,</text>
-<chopds>Dm/H E7 Am</chopds>
-<text>Чтоб Тебя не забыть.</text>
-</blocks>
+1 Бридж
+<chords>Dm G7 Cmaj7 Fmaj7</chords>
+И на грешной Земле часть даруешь ты мне,
+<chords>Dm/H E7 Am</chords>
+Чтобы верить, чтобы любить.
+<chords>Dm7 G Cmaj7 Fmaj7</chords>
+Чтоб Тебя, Боже мой,
+<chords>Dm/H E7 Am</chords>
+Чтоб Тебя не забыть.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Когда путь проходил во тьме, когда разум не верил Тебе –</text>
-<text>Ты прости меня, прости меня.</text>
-<text>Как идти по Твоим следам, так любить, как любил Ты Сам,</text>
-<text>Научи меня, научи меня.</text>
-</blocks>
+2 куплет
+Когда путь проходил во тьме, когда разум не верил Тебе –
+Ты прости меня, прости меня.
+Как идти по Твоим следам, так любить, как любил Ты Сам,
+Научи меня, научи меня.
 
-<blocks>
-<videlit_line>2 Бридж</videlit_line>
-<chopds>Dm7 G7 Cmaj7</chopds>
-<text>Срывает ветер дней страницы,</text>
-<chopds>Dm7 E7 Am7</chopds>
-<text>И вдаль летят они, как птицы.</text>
-<chopds>Dm7 G7 Cmaj7</chopds>
-<text>И в суете таких летящих дней</text>
-<chopds>Dm7 Am/E E7 Am</chopds>
-<text>Нам помоги быть всё мудрей.</text>
-</blocks>
+2 Бридж
+<chords>Dm7 G7 Cmaj7</chords>
+Срывает ветер дней страницы,
+<chords>Dm7 E7 Am7</chords>
+И вдаль летят они, как птицы.
+<chords>Dm7 G7 Cmaj7</chords>
+И в суете таких летящих дней
+<chords>Dm7 Am/E E7 Am</chords>
+Нам помоги быть всё мудрей.

@@ -1,26 +1,24 @@
-Слово Жизни Music — Творец красоты
+Номер: 425
+Автор: Слово Жизни Music
+Песня: Творец красоты
 Источник: https://holychords.pro/425
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>D                               F#m  D                      F#m</chopds>
-<text>Создатель всей земли, Творец красоты,</text>
-<chopds>D                             F#m</chopds>
-<text>Нет подобного Тебе.</text>
-<chopds>D                                F#m  D                           F#m</chopds>
-<text>Весь мир в Твоей руке, Ты умер на кресте.</text>
-<chopds>D                               F#m     G</chopds>
-<text>Нет подобного Тебе, Тебе.</text>
-</blocks>
+Куплет
+<chords>D                               F#m  D                      F#m</chords>
+Создатель всей земли, Творец красоты,
+<chords>D                             F#m</chords>
+Нет подобного Тебе.
+<chords>D                                F#m  D                           F#m</chords>
+Весь мир в Твоей руке, Ты умер на кресте.
+<chords>D                               F#m     G</chords>
+Нет подобного Тебе, Тебе.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>  D                A           G                              D   A   G</chopds>
-<text>Сердце моё исцелил, Ты дал мне воздух.</text>
-<chopds>   D           A              G</chopds>
-<text>Жизнь мою искупил,</text>
-<chopds>                     F#m                        G                  D   F#m</chopds>
-<text>Ты знал меня прежде чем создал, Иисус.</text>
-</blocks>
+Припев
+<chords>  D                A           G                              D   A   G</chords>
+Сердце моё исцелил, Ты дал мне воздух.
+<chords>   D           A              G</chords>
+Жизнь мою искупил,
+<chords>                     F#m                        G                  D   F#m</chords>
+Ты знал меня прежде чем создал, Иисус.

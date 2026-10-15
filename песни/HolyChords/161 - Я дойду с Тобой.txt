@@ -1,72 +1,48 @@
-Алексей Каратаев — Я дойду с Тобой
+Номер: 161
+Автор: Алексей Каратаев
+Песня: Я дойду с Тобой
 Источник: https://holychords.pro/161
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>Gm                 D#/G</chopds>
-<text>За Тобой иду, Ты стоишь, стою</text>
-<chopds>A#/F                   F                    Gm7  D# A# F</chopds>
-<text>За своей мечтой, я дойду...</text>
-</blocks>
+Интро
+<chords>Gm                 D#/G</chords>
+За Тобой иду, Ты стоишь, стою
+<chords>A#/F                   F                    Gm7  D# A# F</chords>
+За своей мечтой, я дойду...
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>D#                   Gm7                         F</chopds>
-<text>Все Твои пути, все Твои мечты</text>
-<chopds>                A#     F/A                D#</chopds>
-<text>Верю что исполнить смогу</text>
-<chopds>                          Gm7                         F</chopds>
-<text>Нет таких как Ты, воспоет земля</text>
-<chopds>                 A#      F/A            D# F</chopds>
-<text>Всей душой Тебя вознесу.</text>
-</blocks>
+1 куплет
+<chords>D#                   Gm7                         F</chords>
+Все Твои пути, все Твои мечты
+<chords>                A#     F/A                D#</chords>
+Верю что исполнить смогу
+<chords>                          Gm7                         F</chords>
+Нет таких как Ты, воспоет земля
+<chords>                 A#      F/A            D# F</chords>
+Всей душой Тебя вознесу.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Gm7                D#</chopds>
-<text>За Тобой иду, Ты стоишь, стою</text>
-<chopds>A#                       F</chopds>
-<text>За своей мечтой я дойду с Тобой</text>
-<chopds>Gm7                    D#</chopds>
-<text>Возлюбил меня как никто другой</text>
-<chopds>A#                       F</chopds>
-<text>За своей мечтой я дойду с Тобой.</text>
-</blocks>
+Припев
+<chords>Gm7                D#</chords>
+За Тобой иду, Ты стоишь, стою
+<chords>A#                       F</chords>
+За своей мечтой я дойду с Тобой
+<chords>Gm7                    D#</chords>
+Возлюбил меня как никто другой
+<chords>A#                       F</chords>
+За своей мечтой я дойду с Тобой.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Свет Твоей любви озарил меня</text>
-<text>Буду жить и славить Тебя</text>
-<text>Нет таких как Ты воспоет земля</text>
-<text>Мое сердце лишь для Тебя, Тебя мой Бог</text>
-</blocks>
+2 куплет
+Свет Твоей любви озарил меня
+Буду жить и славить Тебя
+Нет таких как Ты воспоет земля
+Мое сердце лишь для Тебя, Тебя мой Бог
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>D#                          A#                 F</chopds>
-<text>Для меня Ты приготовил вечность,</text>
-<chopds>D#                                     A#       F</chopds>
-<text>Для меня путь к свободе неземной.</text>
-<chopds>D#                         A#                     F</chopds>
-<text>Для меня открыл Ты бесконечность,</text>
-<chopds>D#  F</chopds>
-<text>       Я дойду с Тобой!</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- New Beginnings Worship — За Тобой пойду [Русский]
-  https://holychords.pro/37
-- Влад Фонки — Буду вслід іти [Украинский]
-  https://holychords.pro/2768
-- Chris Tomlin — I will follow [Английский]
-  https://holychords.pro/23135
-- 4U Band — Тільки там де ти, завжди буду я [Украинский]
-  https://holychords.pro/24643
-- Петро Грифель — За Тобою йду [Украинский]
-  https://holychords.pro/34496
-- Живе Слово c.Гора — За Тобою йду [Украинский]
-  https://holychords.pro/47280
+Мост
+<chords>D#                          A#                 F</chords>
+Для меня Ты приготовил вечность,
+<chords>D#                                     A#       F</chords>
+Для меня путь к свободе неземной.
+<chords>D#                         A#                     F</chords>
+Для меня открыл Ты бесконечность,
+<chords>D#  F</chords>
+Я дойду с Тобой!

@@ -1,56 +1,30 @@
-Ольга Маріна — Ветер дует сильно
+Номер: 377
+Автор: Ольга Маріна
+Песня: Ветер дует сильно
 Источник: https://holychords.pro/377
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds> C#m</chopds>
-<text>Ветер дует сильно, водам не утопить меня.</text>
-<chopds>C#m</chopds>
-<text>Ветер дует сильно, но я держусь в Твоих руках.</text>
-</blocks>
+Куплет
+<chords> C#m</chords>
+Ветер дует сильно, водам не утопить меня.
+<chords>C#m</chords>
+Ветер дует сильно, но я держусь в Твоих руках.
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>F#m                                            C#m</chopds>
-<text>Я не живу тем, что я вижу, иду за тем во что я верю,</text>
-<chopds>F#m                                                        A                         G#</chopds>
-<text>Я не смотрю на обстоятельства, вижу Твою любовь.</text>
-</blocks>
+Пред припев
+<chords>F#m                                            C#m</chords>
+Я не живу тем, что я вижу, иду за тем во что я верю,
+<chords>F#m                                                        A                         G#</chords>
+Я не смотрю на обстоятельства, вижу Твою любовь.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>C#m                                   E                        A         F#m</chopds>
-<text>Радость в Господе моём - это моя сила!!!</text>
-<chopds>C#m                                   E                        A         F#m</chopds>
-<text>Радость в Господе моём - это моя сила!!!</text>
-</blocks>
+Припев
+<chords>C#m                                   E                        A         F#m</chords>
+Радость в Господе моём - это моя сила!!!
+<chords>C#m                                   E                        A         F#m</chords>
+Радость в Господе моём - это моя сила!!!
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>                  E                                   A              F#m               C#m</chopds>
-<text>Радость наполняет все внутри, наполняет все внутри!</text>
-<chopds>                   E                                  A            H                              E</chopds>
-<text>Радость наполняет все внутри, льется из сердца моего!</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Виталий Ефремочкин — Радость в Господе моём [Русский]
-  https://holychords.pro/4673
-- Виталий Ефремочкин — Радость в Господе моём [Русский]
-  https://holychords.pro/28114
-- KCLCWORSHIP — Радость в Господе моём [Русский]
-  https://holychords.pro/30261
-- DNG worship — Радость в Господе моем [Русский]
-  https://holychords.pro/34238
-- Fernandinho — A Alegria do Senhor [Португальский]
-  https://holychords.pro/34239
-- Анна Левицкая — Радость в Господе моём [Русский]
-  https://holychords.pro/34290
-- Добра Новина Трускавець — Радість в Господі моїм [Украинский]
-  https://holychords.pro/46198
-- Світлана Жура — Радість в Господі [Украинский]
-  https://holychords.pro/55677
+Бридж
+<chords>                  E                                   A              F#m               C#m</chords>
+Радость наполняет все внутри, наполняет все внутри!
+<chords>                   E                                  A            H                              E</chords>
+Радость наполняет все внутри, льется из сердца моего!

@@ -1,70 +1,42 @@
-Виталий Ефремочкин — Вот я здесь
+Номер: 419
+Автор: Виталий Ефремочкин
+Песня: Вот я здесь
 Источник: https://holychords.pro/419
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>D                                      Hm7</chopds>
-<text>Прими жертву Ты мою, на колени становлюсь,</text>
-<chopds>G                                          A</chopds>
-<text>Бог мой, Ты все для меня</text>
-<chopds>D                                           Hm7</chopds>
-<text>Жизнь ничто, раз нет Тебя, направляй меня всегда,</text>
-<chopds>G                                           A</chopds>
-<text>Ты - любовь, что держит нас</text>
-</blocks>
+Куплет
+<chords>D                                      Hm7</chords>
+Прими жертву Ты мою, на колени становлюсь,
+<chords>G                                          A</chords>
+Бог мой, Ты все для меня
+<chords>D                                           Hm7</chords>
+Жизнь ничто, раз нет Тебя, направляй меня всегда,
+<chords>G                                           A</chords>
+Ты - любовь, что держит нас
 
-<blocks>
-<videlit_line>Запев</videlit_line>
-<chopds>      A/G  G    A/G  G         D</chopds>
-<text>Живу, чтоб славить Тебя</text>
-<chopds>     A/G   G    A/G  G        Hm  G   A</chopds>
-<text>Живу, чтоб славить Тебя</text>
-</blocks>
+Запев
+<chords>      A/G  G    A/G  G         D</chords>
+Живу, чтоб славить Тебя
+<chords>     A/G   G    A/G  G        Hm  G   A</chords>
+Живу, чтоб славить Тебя
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>D                             Asus</chopds>
-<text>Вот, я здесь, чтоб славить Тебя,</text>
-<chopds>Em7                          G</chopds>
-<text>Всем, что я есть, славить Тебя,</text>
-<chopds>D                      Asus</chopds>
-<text>Поклоняясь в духе и истине,</text>
-<chopds>Em7                        G</chopds>
-<text>Возносим руки, славя Тебя</text>
-</blocks>
+Припев
+<chords>D                             Asus</chords>
+Вот, я здесь, чтоб славить Тебя,
+<chords>Em7                          G</chords>
+Всем, что я есть, славить Тебя,
+<chords>D                      Asus</chords>
+Поклоняясь в духе и истине,
+<chords>Em7                        G</chords>
+Возносим руки, славя Тебя
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>D</chopds>
-<text>Буду славить Тебя, вечно</text>
-<chopds>Asus</chopds>
-<text>Буду славить Тебя!</text>
-<chopds>Em7                           D/F#</chopds>
-<text>Буду славить Тебя, вечно</text>
-<chopds>  G</chopds>
-<text>Буду славить Тебя!</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Deluge — Worshiping You [Английский]
-  https://holychords.pro/645
-- D1 Worship — Вот я здесь [Русский]
-  https://holychords.pro/28683
-- Краеугольный Камень Новосибирск — Вот я здесь, чтоб славить Тебя [Русский]
-  https://holychords.pro/30569
-- WOG.Worship — Вот я здесь [Русский]
-  https://holychords.pro/32562
-- Новая Жизнь Екатеринбург — Вот я здесь, чтоб славить Тебя [Русский]
-  https://holychords.pro/35717
-- Jonathan Stockstill — Worshiping You [Английский]
-  https://holychords.pro/38737
-- Свідоцтво Христа Тернопіль — Ось я тут [Украинский]
-  https://holychords.pro/43288
-- M.Worship — Возношу Тебе хвалу [Русский]
-  https://holychords.pro/52125
-- Артем Драгун — Вот я здесь [Русский]
-  https://holychords.pro/74824
+Мост
+<chords>D</chords>
+Буду славить Тебя, вечно
+<chords>Asus</chords>
+Буду славить Тебя!
+<chords>Em7                           D/F#</chords>
+Буду славить Тебя, вечно
+<chords>  G</chords>
+Буду славить Тебя!

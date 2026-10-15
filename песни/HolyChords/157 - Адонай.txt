@@ -1,66 +1,40 @@
-Виталий Ефремочкин — Адонай
+Номер: 157
+Автор: Виталий Ефремочкин
+Песня: Адонай
 BPM: 140
 Источник: https://holychords.pro/157
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>Am  G  F  G</chopds>
-</blocks>
+Интро
+<chords>Am  G  F  G</chords>
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>Am              G        Dm                         Am</chopds>
-<text>Бог Вечности, Господь неба и земли</text>
-<chopds> F                                   C                        G</chopds>
-<text>Тайна сокрыта в Тебе, Бог Израиля</text>
-<chopds>        Am                             G  Dm                           Am</chopds>
-<text>Да придет Царство Твоё воля да будет Твоя</text>
-<chopds>           F                                              C                                   G</chopds>
-<text>Ты слышишь крик наших сердец побеждающий Царь.</text>
-</blocks>
+Куплет
+<chords>Am              G        Dm                         Am</chords>
+Бог Вечности, Господь неба и земли
+<chords> F                                   C                        G</chords>
+Тайна сокрыта в Тебе, Бог Израиля
+<chords>        Am                             G  Dm                           Am</chords>
+Да придет Царство Твоё воля да будет Твоя
+<chords>           F                                              C                                   G</chords>
+Ты слышишь крик наших сердец побеждающий Царь.
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>    F                        G               F                   G</chopds>
-<text>Увидит вся земля славу вечного Царя.</text>
-</blocks>
+Пред припев
+<chords>    F                        G               F                   G</chords>
+Увидит вся земля славу вечного Царя.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>        Am            F</chopds>
-<text>Адонай, Адонай!</text>
-<chopds>                C                               G</chopds>
-<text>Преклонится всё скажет вся земля</text>
-<chopds>        Am            F</chopds>
-<text>Адонай, Адонай!</text>
-<chopds>           C                               G</chopds>
-<text>Ты один есть Бог Ты один есть Царь.</text>
-</blocks>
+Припев
+<chords>        Am            F</chords>
+Адонай, Адонай!
+<chords>                C                               G</chords>
+Преклонится всё скажет вся земля
+<chords>        Am            F</chords>
+Адонай, Адонай!
+<chords>           C                               G</chords>
+Ты один есть Бог Ты один есть Царь.
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds> C                               F</chopds>
-<text>Ты Господь неба и земли</text>
-<chopds>                  C                                    G</chopds>
-<text>Ты наш Бог, нет другого как Ты.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- DNG worship — Адонай [Русский]
-  https://holychords.pro/29126
-- Paul Wilbur — Adonai [Английский]
-  https://holychords.pro/34280
-- Paul Wilbur — Адонай [Украинский]
-  https://holychords.pro/35288
-- KCLCWORSHIP — Адонай [Русский]
-  https://holychords.pro/42797
-- Paul Wilbur — Адонай [Русский]
-  https://holychords.pro/43395
-- Світло Життя Боярка — Адонай [Украинский]
-  https://holychords.pro/59140
-- Церковь Вефиль Денвер — Адонай [Русский]
-  https://holychords.pro/60645
+Мост
+<chords> C                               F</chords>
+Ты Господь неба и земли
+<chords>                  C                                    G</chords>
+Ты наш Бог, нет другого как Ты.

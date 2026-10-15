@@ -1,40 +1,34 @@
-Алексей Каратаев — Ты моя
+Номер: 163
+Автор: Алексей Каратаев
+Песня: Ты моя
 Источник: https://holychords.pro/163
 
-==================================================
+---
 
-<blocks>
-<chopds>C D Hm Em C D G</chopds>
-</blocks>
+<chords>C D Hm Em C D G</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>C            D                Hm            Em</chopds>
-<text>Тебя я повстречал в душе огонь пылал,</text>
-<chopds>C                      D                       G</chopds>
-<text>Когда взглянул в твои глаза.</text>
-<chopds>C               D                 Hm               Em</chopds>
-<text>Как не реальный сон я помню до сих пор</text>
-<chopds>C                   D                    G</chopds>
-<text>Сказала мне, что ты моя</text>
-</blocks>
+1 куплет
+<chords>C            D                Hm            Em</chords>
+Тебя я повстречал в душе огонь пылал,
+<chords>C                      D                       G</chords>
+Когда взглянул в твои глаза.
+<chords>C               D                 Hm               Em</chords>
+Как не реальный сон я помню до сих пор
+<chords>C                   D                    G</chords>
+Сказала мне, что ты моя
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>C          D  Hm      Em</chopds>
-<text>Ты моя, чудесная</text>
-<chopds>C              D                        G</chopds>
-<text>Слаще, чем я мог мечтать</text>
-<chopds>C                       D  Hm             Em</chopds>
-<text>Ты Больше чем, прекрасная,</text>
-<chopds>Am             C  Am              D       G</chopds>
-<text>И как же так, что ты моя навек</text>
-</blocks>
+Припев
+<chords>C          D  Hm      Em</chords>
+Ты моя, чудесная
+<chords>C              D                        G</chords>
+Слаще, чем я мог мечтать
+<chords>C                       D  Hm             Em</chords>
+Ты Больше чем, прекрасная,
+<chords>Am             C  Am              D       G</chords>
+И как же так, что ты моя навек
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Я об одном просил, о Боже дай нам сил</text>
-<text>Любовь до неба пронести,</text>
-<text>И даже если шторм я верю, мы вдвоем</text>
-<text>С тобою сможем все пройти.</text>
-</blocks>
+2 куплет
+Я об одном просил, о Боже дай нам сил
+Любовь до неба пронести,
+И даже если шторм я верю, мы вдвоем
+С тобою сможем все пройти.

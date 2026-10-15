@@ -1,33 +1,29 @@
-Посольство Божье Симферополь — Аромат любви
+Номер: 344
+Автор: Посольство Божье Симферополь
+Песня: Аромат любви
 Источник: https://holychords.pro/344
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>Hm  F#m  G  D  A</chopds>
-</blocks>
+Интро
+<chords>Hm  F#m  G  D  A</chords>
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>                         Hm</chopds>
-<text>Как сладок Твой нектар - пьянящий</text>
-<chopds>                     A                                  F#</chopds>
-<text>Как нежен аромат Твоей любви.</text>
-<chopds>                    G</chopds>
-<text>Наполнил силою - животворящей</text>
-<chopds>       Em                           F#</chopds>
-<text>Мы ветви, Иисус, Твои</text>
-</blocks>
+Куплет
+<chords>                         Hm</chords>
+Как сладок Твой нектар - пьянящий
+<chords>                     A                                  F#</chords>
+Как нежен аромат Твоей любви.
+<chords>                    G</chords>
+Наполнил силою - животворящей
+<chords>       Em                           F#</chords>
+Мы ветви, Иисус, Твои
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>          Hm                                         G</chopds>
-<text>Растекается аромат любви в сердце моем,</text>
-<chopds>             Em                                                            F#</chopds>
-<text>Для Тебя Иисус, для Тебя, мой Бог, приготовлен он.</text>
-<chopds>       Hm                                                G</chopds>
-<text>Я хочу любить, я хочу творить ради Тебя</text>
-<chopds>         Em                                                               F#</chopds>
-<text>Моё сердце горит, потому что любит Тебя.</text>
-</blocks>
+Припев
+<chords>          Hm                                         G</chords>
+Растекается аромат любви в сердце моем,
+<chords>             Em                                                            F#</chords>
+Для Тебя Иисус, для Тебя, мой Бог, приготовлен он.
+<chords>       Hm                                                G</chords>
+Я хочу любить, я хочу творить ради Тебя
+<chords>         Em                                                               F#</chords>
+Моё сердце горит, потому что любит Тебя.

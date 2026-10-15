@@ -1,57 +1,41 @@
-Русавуки — В искании счастья
+Номер: 227
+Автор: Русавуки
+Песня: В искании счастья
 Источник: https://holychords.pro/227
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>Dm Am Bb Dm</chopds>
-</blocks>
+Интро
+<chords>Dm Am Bb Dm</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>       Gm                     A                         Dm  C</chopds>
-<text>В искании счастья я пришёл к Тебе.</text>
-<chopds>         Gm                    A                     Dm   C</chopds>
-<text>Вся прелесть мира не дала душе.</text>
-<chopds>     Gm                C                             F   Dm</chopds>
-<text>Покоя, счастья не нашёл нигде,</text>
-<chopds>                    Gm  Bb                   A</chopds>
-<text>Только в Тебе, только в Тебе.</text>
-</blocks>
+1 куплет
+<chords>       Gm                     A                         Dm  C</chords>
+В искании счастья я пришёл к Тебе.
+<chords>         Gm                    A                     Dm   C</chords>
+Вся прелесть мира не дала душе.
+<chords>     Gm                C                             F   Dm</chords>
+Покоя, счастья не нашёл нигде,
+<chords>                    Gm  Bb                   A</chords>
+Только в Тебе, только в Тебе.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                         Gm        C                    F   Dm</chopds>
-<text>Христос, с Тобой я жизнь пройду,</text>
-<chopds>                      Gm         A           Dm   C</chopds>
-<text>В словах Твоих покой найду.</text>
-<chopds>                              Gm          C       F    Dm</chopds>
-<text>Твой подвиг – свет в пути моём,</text>
-<chopds>                   Gm          A           Dm</chopds>
-<text>Он приведёт в небесный дом.</text>
-</blocks>
+Припев
+<chords>                         Gm        C                    F   Dm</chords>
+Христос, с Тобой я жизнь пройду,
+<chords>                      Gm         A           Dm   C</chords>
+В словах Твоих покой найду.
+<chords>                              Gm          C       F    Dm</chords>
+Твой подвиг – свет в пути моём,
+<chords>                   Gm          A           Dm</chords>
+Он приведёт в небесный дом.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Дорога счастья, что ведёт к Тебе,</text>
-<text>Ведёт чрез море с волнами в борьбе.</text>
-<text>И если даже я начну тонуть,</text>
-<text>Ты руку дашь, как дал Петру.</text>
-</blocks>
+2 куплет
+Дорога счастья, что ведёт к Тебе,
+Ведёт чрез море с волнами в борьбе.
+И если даже я начну тонуть,
+Ты руку дашь, как дал Петру.
 
-<blocks>
-<videlit_line>3 куплет</videlit_line>
-<text>Мне виден берег, что даёт покой,</text>
-<text>Страны, которой не найдёшь другой.</text>
-<text>Смысл жизни вот в чём – только во Христе,</text>
-<text>Любви в полноте Давшего мне.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- FECG Lahr — В искании счастья я пришёл к Тебе [Русский]
-  https://holychords.pro/41997
-- Русавуки — Шукав я щастя [Украинский]
-  https://holychords.pro/68156
+3 куплет
+Мне виден берег, что даёт покой,
+Страны, которой не найдёшь другой.
+Смысл жизни вот в чём – только во Христе,
+Любви в полноте Давшего мне.

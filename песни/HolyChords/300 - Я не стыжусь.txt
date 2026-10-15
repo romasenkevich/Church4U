@@ -1,38 +1,34 @@
-Hillsong Ukraine — Я не стыжусь
+Номер: 300
+Автор: Hillsong Ukraine
+Песня: Я не стыжусь
 Источник: https://holychords.pro/300
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>Em  G  C  Am  Em  G  C  Am</chopds>
-<text>В миг, когда Ты жизнь мою спас</text>
-<chopds>Em  G  C  Am</chopds>
-<text>Весь мой мир стал другим</text>
-<chopds>Em  G  C  Am  Em  G  C  Am</chopds>
-<text>Видят пусть все Ты - Свобода</text>
-<chopds>Em  G  C  Am</chopds>
-<text>Свет в мою тьму пролил</text>
-</blocks>
+Куплет
+<chords>Em  G  C  Am  Em  G  C  Am</chords>
+В миг, когда Ты жизнь мою спас
+<chords>Em  G  C  Am</chords>
+Весь мой мир стал другим
+<chords>Em  G  C  Am  Em  G  C  Am</chords>
+Видят пусть все Ты - Свобода
+<chords>Em  G  C  Am</chords>
+Свет в мою тьму пролил
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>C                        G         D          C</chopds>
-<text>В объятья Свои меня позвал</text>
-<chopds>                           G              D</chopds>
-<text>И жизнь мне вечную дал</text>
-</blocks>
+Пред припев
+<chords>C                        G         D          C</chords>
+В объятья Свои меня позвал
+<chords>                           G              D</chords>
+И жизнь мне вечную дал
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>G                                     D</chopds>
-<text>Я не стыжусь благовестия, Бог</text>
-<chopds>        Em                C</chopds>
-<text>Спасла меня Твоя любовь</text>
-<chopds>       G        D</chopds>
-<text>Меня Ты оживил</text>
-<chopds>Em                                   C</chopds>
-<text>Дал жизнь мне воскресший Сын</text>
-<chopds>A ---- 5-5-6-6-3-3---3-3-5-5----------5-5-6-6-3-3-3-3-6-6----------</chopds>
-<chopds>E 3-3---------------3-3---------6-6-3-3--------------------------6-6-5-5</chopds>
-</blocks>
+Припев
+<chords>G                                     D</chords>
+Я не стыжусь благовестия, Бог
+<chords>        Em                C</chords>
+Спасла меня Твоя любовь
+<chords>       G        D</chords>
+Меня Ты оживил
+<chords>Em                                   C</chords>
+Дал жизнь мне воскресший Сын
+<chords>A ---- 5-5-6-6-3-3---3-3-5-5----------5-5-6-6-3-3-3-3-6-6----------</chords>
+<chords>E 3-3---------------3-3---------6-6-3-3--------------------------6-6-5-5</chords>

@@ -1,73 +1,65 @@
-Siloam Church — Планета
+Номер: 24
+Автор: Siloam Church
+Песня: Планета
 Источник: https://holychords.pro/24
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>Am              Dm               G</chopds>
-<text>Я, как блуждающая планета</text>
-<chopds>     C                             F</chopds>
-<text>Куда не пойду не найду я ответа</text>
-<chopds>        Dm                                            E</chopds>
-<text>Моя жизнь опустошена словно слеза,</text>
-<chopds>        Dm                                            E</chopds>
-<text>А на серце печаль будто снова гроза</text>
-<chopds>         Am            F                            G</chopds>
-<text>Моя жизнь это как неизбежный туман,</text>
-<chopds>        C                               F</chopds>
-<text>Это будто цветок нерасцветший,</text>
-<chopds>   Dm                 E</chopds>
-<text>Себя теряю,  снова обман,</text>
-<chopds>                        F  G        Am</chopds>
-<text>Не найти никого, кто безгрешен.</text>
-</blocks>
+Куплет
+<chords>Am              Dm               G</chords>
+Я, как блуждающая планета
+<chords>     C                             F</chords>
+Куда не пойду не найду я ответа
+<chords>        Dm                                            E</chords>
+Моя жизнь опустошена словно слеза,
+<chords>        Dm                                            E</chords>
+А на серце печаль будто снова гроза
+<chords>         Am            F                            G</chords>
+Моя жизнь это как неизбежный туман,
+<chords>        C                               F</chords>
+Это будто цветок нерасцветший,
+<chords>   Dm                 E</chords>
+Себя теряю,  снова обман,
+<chords>                        F  G        Am</chords>
+Не найти никого, кто безгрешен.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Am                    F</chopds>
-<text>Сотни тысяч звёзд надо мной,</text>
-<chopds>         C                          G</chopds>
-<text>Они манят меня окрыляя,</text>
-<chopds>Am               F</chopds>
-<text>Знаю небо дом мой родной,</text>
-<chopds>         C                                    G</chopds>
-<text>Мое сердце о нем лишь мечтает.</text>
-</blocks>
+Припев
+<chords>Am                    F</chords>
+Сотни тысяч звёзд надо мной,
+<chords>         C                          G</chords>
+Они манят меня окрыляя,
+<chords>Am               F</chords>
+Знаю небо дом мой родной,
+<chords>         C                                    G</chords>
+Мое сердце о нем лишь мечтает.
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>Hm           G                               A</chopds>
-<text>Жизнь, осенний листок закружила,</text>
-<chopds>       F#m                          G</chopds>
-<text>Подбросила вверх, и забыла,</text>
-<chopds>          Em                           F#m</chopds>
-<text>Под ногами людей сотни тысяч таких</text>
-<chopds>                       G  A           Hm</chopds>
-<text>Не найти никого, кто безгрешен.</text>
-</blocks>
+Куплет
+<chords>Hm           G                               A</chords>
+Жизнь, осенний листок закружила,
+<chords>       F#m                          G</chords>
+Подбросила вверх, и забыла,
+<chords>          Em                           F#m</chords>
+Под ногами людей сотни тысяч таких
+<chords>                       G  A           Hm</chords>
+Не найти никого, кто безгрешен.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Hm                   G</chopds>
-<text>Сотни тысяч звёзд надо мной,</text>
-<chopds>          D                          A</chopds>
-<text>Они манят меня окрыляя,</text>
-<chopds>Hm              G</chopds>
-<text>Знаю небо дом мой родной,</text>
-<chopds>         D                                    A</chopds>
-<text>Мое сердце о нем лишь мечтает.</text>
-</blocks>
+Припев
+<chords>Hm                   G</chords>
+Сотни тысяч звёзд надо мной,
+<chords>          D                          A</chords>
+Они манят меня окрыляя,
+<chords>Hm              G</chords>
+Знаю небо дом мой родной,
+<chords>         D                                    A</chords>
+Мое сердце о нем лишь мечтает.
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>            Em                         G</chopds>
-<text>И если солнце греть мне перестанет</text>
-<chopds> Hm                            D</chopds>
-<text>Не устрашусь, ведь Ты рядом идешь,</text>
-<chopds>     Em                          G</chopds>
-<text>Пускай планет всех в небе не станет,</text>
-<chopds>Hm                      D</chopds>
-<text>Я не боюсь, Ты меня ведешь.</text>
-<chopds>Em F# G A Hm</chopds>
-</blocks>
+Бридж
+<chords>            Em                         G</chords>
+И если солнце греть мне перестанет
+<chords> Hm                            D</chords>
+Не устрашусь, ведь Ты рядом идешь,
+<chords>     Em                          G</chords>
+Пускай планет всех в небе не станет,
+<chords>Hm                      D</chords>
+Я не боюсь, Ты меня ведешь.
+<chords>Em F# G A Hm</chords>

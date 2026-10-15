@@ -1,58 +1,50 @@
-Алексей Каратаев — Твоя любовь сильна
+Номер: 164
+Автор: Алексей Каратаев
+Песня: Твоя любовь сильна
 Источник: https://holychords.pro/164
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Gm                     Eb</chopds>
-<text>Господь Ты моя скала</text>
-<chopds>Bb                                          F</chopds>
-<text>Своей рукою держишь Ты меня</text>
-<chopds>   Gm                          Eb   Bb   F</chopds>
-<text>Твоя любовь сильна</text>
-<chopds>Gm                     Eb</chopds>
-<text>Бывает что неверен я</text>
-<chopds>Bb                                            F</chopds>
-<text>Но милость Божья сохранит меня</text>
-<chopds>   Gm                          Eb   Bb   F</chopds>
-<text>Твоя любовь сильна</text>
-</blocks>
+1 куплет
+<chords>Gm                     Eb</chords>
+Господь Ты моя скала
+<chords>Bb                                          F</chords>
+Своей рукою держишь Ты меня
+<chords>   Gm                          Eb   Bb   F</chords>
+Твоя любовь сильна
+<chords>Gm                     Eb</chords>
+Бывает что неверен я
+<chords>Bb                                            F</chords>
+Но милость Божья сохранит меня
+<chords>   Gm                          Eb   Bb   F</chords>
+Твоя любовь сильна
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Eb        Bb                        F       Cm</chopds>
-<text>Ты во веки все Тот же, я знаю, все Ты можешь</text>
-<chopds>Eb                      Bb                         F                      Cm</chopds>
-<text>Пусть будут слезы в ночи, но утром будет радость</text>
-</blocks>
+Припев
+<chords>Eb        Bb                        F       Cm</chords>
+Ты во веки все Тот же, я знаю, все Ты можешь
+<chords>Eb                      Bb                         F                      Cm</chords>
+Пусть будут слезы в ночи, но утром будет радость
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Пусть бурей сильной бушует шторм</text>
-<text>Я безопасен в имени Твоем.</text>
-<text>Твоя любовь сильна</text>
-<text>Тернист и нелегок путь</text>
-<text>Как много раз хотел я повернуть</text>
-<text>Но так любовь сильна, Твоя, Твоя...</text>
-</blocks>
+2 куплет
+Пусть бурей сильной бушует шторм
+Я безопасен в имени Твоем.
+Твоя любовь сильна
+Тернист и нелегок путь
+Как много раз хотел я повернуть
+Но так любовь сильна, Твоя, Твоя...
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Eb        Bb                        F       Cm</chopds>
-<text>Ты во веки все Тот же, я знаю, все Ты можешь</text>
-<chopds>Eb                      Bb                         F                      Cm</chopds>
-<text>Пусть будут слёзы в ночи, но утром будет радость</text>
-<chopds>Eb  Bb                         F           Cm</chopds>
-<text>И пусть шумят ветра я уповаю на Тебя.</text>
-<chopds>Eb            Bb                  F          Cm</chopds>
-<text>Я знаю - Ты не оставишь Твоя любовь сильна</text>
-</blocks>
+Припев
+<chords>Eb        Bb                        F       Cm</chords>
+Ты во веки все Тот же, я знаю, все Ты можешь
+<chords>Eb                      Bb                         F                      Cm</chords>
+Пусть будут слёзы в ночи, но утром будет радость
+<chords>Eb  Bb                         F           Cm</chords>
+И пусть шумят ветра я уповаю на Тебя.
+<chords>Eb            Bb                  F          Cm</chords>
+Я знаю - Ты не оставишь Твоя любовь сильна
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>Eb               Gm                            F</chopds>
-<text>Лишь Ты жизнь мою изменил навсегда мой Бог</text>
-<chopds>Eb               Gm                            F</chopds>
-<text>Лишь Ты жизнь мою изменил навсегда мой Бог</text>
-</blocks>
+Бридж
+<chords>Eb               Gm                            F</chords>
+Лишь Ты жизнь мою изменил навсегда мой Бог
+<chords>Eb               Gm                            F</chords>
+Лишь Ты жизнь мою изменил навсегда мой Бог

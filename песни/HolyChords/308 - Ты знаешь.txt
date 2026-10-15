@@ -1,60 +1,52 @@
-Hillsong Ukraine — Ты знаешь
+Номер: 308
+Автор: Hillsong Ukraine
+Песня: Ты знаешь
 Источник: https://holychords.pro/308
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Hm                                                   E            D</chopds>
-<text>Весь мир Ты держишь на ладони своей,</text>
-<chopds>Hm                                     E                  D</chopds>
-<text>И по кусочкам Ты собрал наши жизни все.</text>
-<chopds>Hm                                    E                           D</chopds>
-<text>Ты оживил нас и открыл нам Свой план,</text>
-<chopds>Hm                                                           E                D</chopds>
-<text>И держишь нас, Ты держишь в крепких руках.</text>
-</blocks>
+1 куплет
+<chords>Hm                                                   E            D</chords>
+Весь мир Ты держишь на ладони своей,
+<chords>Hm                                     E                  D</chords>
+И по кусочкам Ты собрал наши жизни все.
+<chords>Hm                                    E                           D</chords>
+Ты оживил нас и открыл нам Свой план,
+<chords>Hm                                                           E                D</chords>
+И держишь нас, Ты держишь в крепких руках.
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>Hm                                      E                      D</chopds>
-<text>Теперь всегда возглашать будем громко всем,</text>
-<chopds>Hm                                     E                   D</chopds>
-<text>Мы без конца возглашать будем о Тебе,</text>
-<chopds>Hm                                                    E</chopds>
-<text>Ты знаешь, ведь знаешь для нас Ты Свой план,</text>
-<chopds>Hm                                                    A                       D</chopds>
-<text>Ты знаешь, ведь знаешь для нас Ты Свой план.</text>
-</blocks>
+Пред припев
+<chords>Hm                                      E                      D</chords>
+Теперь всегда возглашать будем громко всем,
+<chords>Hm                                     E                   D</chords>
+Мы без конца возглашать будем о Тебе,
+<chords>Hm                                                    E</chords>
+Ты знаешь, ведь знаешь для нас Ты Свой план,
+<chords>Hm                                                    A                       D</chords>
+Ты знаешь, ведь знаешь для нас Ты Свой план.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>      Hm                              D                E</chopds>
-<text>И всё в нас Твоё, в Тебе и доверяем мы,</text>
-<chopds>      Hm                                    D                   E</chopds>
-<text>И всё в нас Твоё, - ведь мы Твои на вечно,</text>
-<chopds>      Hm                              D                 E</chopds>
-<text>И всё в нас Твоё, в Тебе, и доверяем мы,</text>
-<chopds>Hm                                                         D                       E</chopds>
-<text>Ведь знаешь, ведь знаешь для нас Ты Свой план.</text>
-</blocks>
+Припев
+<chords>      Hm                              D                E</chords>
+И всё в нас Твоё, в Тебе и доверяем мы,
+<chords>      Hm                                    D                   E</chords>
+И всё в нас Твоё, - ведь мы Твои на вечно,
+<chords>      Hm                              D                 E</chords>
+И всё в нас Твоё, в Тебе, и доверяем мы,
+<chords>Hm                                                         D                       E</chords>
+Ведь знаешь, ведь знаешь для нас Ты Свой план.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>И нам не нужно наслаждения мирских,</text>
-<text>Не поддадимся по желанию мы плотских,</text>
-<text>Всё что блестит сейчас на этой земле,</text>
-<text>Нельзя сравнить с Благодатью Твоей.</text>
-</blocks>
+2 куплет
+И нам не нужно наслаждения мирских,
+Не поддадимся по желанию мы плотских,
+Всё что блестит сейчас на этой земле,
+Нельзя сравнить с Благодатью Твоей.
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>  Hm                         D</chopds>
-<text>Огонь в нас зажигаешь,</text>
-<chopds>          A                        E</chopds>
-<text>С Твоею верой стучат сердца в нас.</text>
-<chopds>     Hm                               D</chopds>
-<text>Любовь Твою мы желаем,</text>
-<chopds>        A                                       E</chopds>
-<text>Живём мы с целью, с Твоею целью.</text>
-</blocks>
+Мост
+<chords>  Hm                         D</chords>
+Огонь в нас зажигаешь,
+<chords>          A                        E</chords>
+С Твоею верой стучат сердца в нас.
+<chords>     Hm                               D</chords>
+Любовь Твою мы желаем,
+<chords>        A                                       E</chords>
+Живём мы с целью, с Твоею целью.

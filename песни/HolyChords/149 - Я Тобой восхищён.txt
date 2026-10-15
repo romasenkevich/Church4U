@@ -1,35 +1,29 @@
-Виталий Ефремочкин — Я Тобой восхищён
+Номер: 149
+Автор: Виталий Ефремочкин
+Песня: Я Тобой восхищён
 Источник: https://holychords.pro/149
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>              D        G     Hm            A</chopds>
-<text>Посвящаю всё Тебе, мой Бог</text>
-<chopds>          D        F            A</chopds>
-<text>Отдаю Тебе всю жизнь</text>
-<chopds>               D                G           Hm                       G</chopds>
-<text>Ты забрал мой грех, Господь, омыл меня</text>
-</blocks>
+1 куплет
+<chords>              D        G     Hm            A</chords>
+Посвящаю всё Тебе, мой Бог
+<chords>          D        F            A</chords>
+Отдаю Тебе всю жизнь
+<chords>               D                G           Hm                       G</chords>
+Ты забрал мой грех, Господь, омыл меня
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                     G          D          Em     Hm</chopds>
-<text>Люблю Тебя, Господь, пою Тебе</text>
-<chopds>                   G        D    Em       Hm</chopds>
-<text>Искуплен я Тобою на кресте</text>
-</blocks>
+Припев
+<chords>                     G          D          Em     Hm</chords>
+Люблю Тебя, Господь, пою Тебе
+<chords>                   G        D    Em       Hm</chords>
+Искуплен я Тобою на кресте
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Я в Твоих руках, Мой Бог Святой</text>
-<text>И Твоя любовь меня пленила</text>
-<text>Своей жизнью я стремлюсь познать Тебя</text>
-</blocks>
+2 куплет
+Я в Твоих руках, Мой Бог Святой
+И Твоя любовь меня пленила
+Своей жизнью я стремлюсь познать Тебя
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>G      Hm                A</chopds>
-<text>Я Тобой восхищён</text>
-</blocks>
+Бридж
+<chords>G      Hm                A</chords>
+Я Тобой восхищён

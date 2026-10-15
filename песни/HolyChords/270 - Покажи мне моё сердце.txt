@@ -1,64 +1,50 @@
-Краеугольный камень — Покажи мне моё сердце
+Номер: 270
+Автор: Краеугольный камень
+Песня: Покажи мне моё сердце
 Источник: https://holychords.pro/270
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Em               D</chopds>
-<text>Покажи мне мое сердце,</text>
-<chopds>   C         Am             H</chopds>
-<text>Что там на глубине.</text>
-<chopds>    Em                       D</chopds>
-<text>Я так хочу, чтоб не было тесно</text>
-<chopds>    C           D             Em</chopds>
-<text>Твоему Духу во мне.</text>
-</blocks>
+1 куплет
+<chords>Em               D</chords>
+Покажи мне мое сердце,
+<chords>   C         Am             H</chords>
+Что там на глубине.
+<chords>    Em                       D</chords>
+Я так хочу, чтоб не было тесно
+<chords>    C           D             Em</chords>
+Твоему Духу во мне.
 
-<blocks>
-<videlit_line>ПредПрипев</videlit_line>
-<chopds>G                D</chopds>
-<text>Чтобы Твое дыханье</text>
-<chopds>F                              Am</chopds>
-<text>Наполняло мой дом,</text>
-<chopds>G          D</chopds>
-<text>Это мое желанье -</text>
-<chopds>Am</chopds>
-<text>Самое главное,</text>
-<chopds>C          D</chopds>
-<text>Я прошу Тебя</text>
-</blocks>
+ПредПрипев
+<chords>G                D</chords>
+Чтобы Твое дыханье
+<chords>F                              Am</chords>
+Наполняло мой дом,
+<chords>G          D</chords>
+Это мое желанье -
+<chords>Am</chords>
+Самое главное,
+<chords>C          D</chords>
+Я прошу Тебя
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Em       C  Am                D</chopds>
-<text>Дай мне сердце святое,</text>
-<chopds>Em     G Am          H</chopds>
-<text>Сердце чистое дай.</text>
-<chopds>Em C          D       Hm</chopds>
-<text>Боже - мое упованье</text>
-<chopds>C              G             D              C</chopds>
-<text>Только Ты меня не отпускай,</text>
-<chopds>C       Am            D            Em</chopds>
-<text>От Себя меня не отпускай.</text>
-</blocks>
+Припев
+<chords>Em       C  Am                D</chords>
+Дай мне сердце святое,
+<chords>Em     G Am          H</chords>
+Сердце чистое дай.
+<chords>Em C          D       Hm</chords>
+Боже - мое упованье
+<chords>C              G             D              C</chords>
+Только Ты меня не отпускай,
+<chords>C       Am            D            Em</chords>
+От Себя меня не отпускай.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<chopds>Em                      D</chopds>
-<text>Подари новую песню</text>
-<chopds>C          Am             H</chopds>
-<text>О Своей вечной любви,</text>
-<chopds>Em                     D</chopds>
-<text>Я так хочу быть с Тобой вместе</text>
-<chopds>C         D                 Em</chopds>
-<text>Каждый миг во все мои дни.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Краеугольный камень — Покажи що в моїм серці [Украинский]
-  https://holychords.pro/33840
-- Александр Контузоров — Дай мне сердце святое [Русский]
-  https://holychords.pro/61707
+2 куплет
+<chords>Em                      D</chords>
+Подари новую песню
+<chords>C          Am             H</chords>
+О Своей вечной любви,
+<chords>Em                     D</chords>
+Я так хочу быть с Тобой вместе
+<chords>C         D                 Em</chords>
+Каждый миг во все мои дни.

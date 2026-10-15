@@ -1,66 +1,54 @@
-Дарина Кочанжи — Бог - дорога моя
+Номер: 244
+Автор: Дарина Кочанжи
+Песня: Бог - дорога моя
 Источник: https://holychords.pro/244
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>      F                            C                  Dm   Dm/C</chopds>
-<text>Так мало дней мы вместе провели,</text>
-<chopds>      Bb                     C                              F</chopds>
-<text>Но очень много важных слов сказали.</text>
-<chopds>       A7                                              Dm   Dm/C</chopds>
-<text>Мы все из разных уголков земли,</text>
-<chopds>                        Gm    Gm7               C</chopds>
-<text>Но встретиться давно уже мечтали.</text>
-<chopds>  F                         C                          Dm   Dm/C</chopds>
-<text>А те кто шли путём Христа до нас</text>
-<chopds>       Bb                     C                       F</chopds>
-<text>Мечтали лишь о том что мы имеем</text>
-<chopds>      A7                                               Dm   Dm/C</chopds>
-<text>Общение среди счастливых глаз</text>
-<chopds>               Gm  Gm7             C</chopds>
-<text>Согретое Его благословеньем.</text>
-</blocks>
+1 куплет
+<chords>      F                            C                  Dm   Dm/C</chords>
+Так мало дней мы вместе провели,
+<chords>      Bb                     C                              F</chords>
+Но очень много важных слов сказали.
+<chords>       A7                                              Dm   Dm/C</chords>
+Мы все из разных уголков земли,
+<chords>                        Gm    Gm7               C</chords>
+Но встретиться давно уже мечтали.
+<chords>  F                         C                          Dm   Dm/C</chords>
+А те кто шли путём Христа до нас
+<chords>       Bb                     C                       F</chords>
+Мечтали лишь о том что мы имеем
+<chords>      A7                                               Dm   Dm/C</chords>
+Общение среди счастливых глаз
+<chords>               Gm  Gm7             C</chords>
+Согретое Его благословеньем.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>F             C        Dm   Dm/C              Bb</chopds>
-<text>Бог - дорога моя, а небо - мой дом,</text>
-<chopds>   F                Gm     C</chopds>
-<text>И вы все моя семья,</text>
-<chopds>F                C                  Dm       Dm/C     Bb</chopds>
-<text>Нам Христом нужно жить, едиными быть</text>
-<chopds>     F           Gm         C</chopds>
-<text>И уверует вся земля!</text>
-</blocks>
+Припев
+<chords>F             C        Dm   Dm/C              Bb</chords>
+Бог - дорога моя, а небо - мой дом,
+<chords>   F                Gm     C</chords>
+И вы все моя семья,
+<chords>F                C                  Dm       Dm/C     Bb</chords>
+Нам Христом нужно жить, едиными быть
+<chords>     F           Gm         C</chords>
+И уверует вся земля!
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>За шагом шаг дорога в Отчий дом,</text>
-<text>Когда то в небе встретимся с Тобой</text>
-<text>И песню эту может быть споем</text>
-<text>И до небес дотронемся рукою.</text>
-<text>Ну а пока мы на земле живем,</text>
-<text>Едины словно капли в море будем</text>
-<text>И весть благую миру понесем</text>
-<text>Спасение - подарок Бога людям.</text>
-</blocks>
+2 куплет
+За шагом шаг дорога в Отчий дом,
+Когда то в небе встретимся с Тобой
+И песню эту может быть споем
+И до небес дотронемся рукою.
+Ну а пока мы на земле живем,
+Едины словно капли в море будем
+И весть благую миру понесем
+Спасение - подарок Бога людям.
 
-<blocks>
-<videlit_line>Припев: +2</videlit_line>
-<chopds>G            D        Em   Em/D               C</chopds>
-<text>Бог - дорога моя, а небо - мой дом,</text>
-<chopds>   G               Am      D</chopds>
-<text>И вы все моя семья,</text>
-<chopds>G               D                   Em      Em/D       C</chopds>
-<text>Нам Христом нужно жить, едиными быть</text>
-<chopds>     G           Am       D    (G)</chopds>
-<text>И уверует вся земля!</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Дарина Кочанжи — Бог - дорога моя [Украинский]
-  https://holychords.pro/69382
+Припев: +2
+<chords>G            D        Em   Em/D               C</chords>
+Бог - дорога моя, а небо - мой дом,
+<chords>   G               Am      D</chords>
+И вы все моя семья,
+<chords>G               D                   Em      Em/D       C</chords>
+Нам Христом нужно жить, едиными быть
+<chords>     G           Am       D    (G)</chords>
+И уверует вся земля!

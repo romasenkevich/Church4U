@@ -1,60 +1,38 @@
-Виталий Ефремочкин — Великий Бог
+Номер: 146
+Автор: Виталий Ефремочкин
+Песня: Великий Бог
 Источник: https://holychords.pro/146
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>        Em                       C</chopds>
-<text>Ты был, Ты есть и Ты грядёшь</text>
-<chopds>          G                               D</chopds>
-<text>Ты спас, искупил, Ты Отец и Ты Сын</text>
-<chopds>          Em                       C</chopds>
-<text>Твой Дух на мне и огонь внутри</text>
-<chopds>              G                                       D</chopds>
-<text>Ты Защитник, Создатель, Начало, Конец</text>
-</blocks>
+1 куплет
+<chords>        Em                       C</chords>
+Ты был, Ты есть и Ты грядёшь
+<chords>          G                               D</chords>
+Ты спас, искупил, Ты Отец и Ты Сын
+<chords>          Em                       C</chords>
+Твой Дух на мне и огонь внутри
+<chords>              G                                       D</chords>
+Ты Защитник, Создатель, Начало, Конец
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                  Em                       C</chopds>
-<text>Великий Бог, Великий Бог</text>
-<chopds>                    G                        D</chopds>
-<text>Великий Бог, Великий Бог</text>
-</blocks>
+Припев
+<chords>                  Em                       C</chords>
+Великий Бог, Великий Бог
+<chords>                    G                        D</chords>
+Великий Бог, Великий Бог
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Господь Ты всё в Ком имею нужду</text>
-<text>Чтоб закончить дела что Ты мне поручил</text>
-<text>Оставляю теперь всё ради Тебя,</text>
-<text>Вот я, Господь мой используй меня</text>
-</blocks>
+2 куплет
+Господь Ты всё в Ком имею нужду
+Чтоб закончить дела что Ты мне поручил
+Оставляю теперь всё ради Тебя,
+Вот я, Господь мой используй меня
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>               Em</chopds>
-<text>Ты так благ, благ Бог мой</text>
-<chopds>                 C</chopds>
-<text>Ты так благ, благ Бог мой</text>
-<chopds>                  D</chopds>
-<text>Ты так благ, благ Бог мой</text>
-<chopds>              Am</chopds>
-<text>Ты благой ко мне Господь</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Jake Hamilton — The Great I Am [Английский]
-  https://holychords.pro/4000
-- G12 Lietuva Worship Band — Великий Бог [Русский]
-  https://holychords.pro/26715
-- Jake Hamilton — Великий Бог [Украинский]
-  https://holychords.pro/34674
-- LF band — Великий Бог [Украинский]
-  https://holychords.pro/45816
-- Revelations — Великий Бог [Украинский]
-  https://holychords.pro/75055
-- Jake Hamilton — Великий Я Есмь [Русский]
-  https://holychords.pro/77621
+Мост
+<chords>               Em</chords>
+Ты так благ, благ Бог мой
+<chords>                 C</chords>
+Ты так благ, благ Бог мой
+<chords>                  D</chords>
+Ты так благ, благ Бог мой
+<chords>              Am</chords>
+Ты благой ко мне Господь

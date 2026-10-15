@@ -1,44 +1,38 @@
-JoyYouth Worship — Бог нас любит
+Номер: 462
+Автор: JoyYouth Worship
+Песня: Бог нас любит
 Источник: https://holychords.pro/462
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>D</chopds>
-<text>Бог нас любит, знаю я,</text>
-<chopds>G/H                  Bb      C</chopds>
-<text>Так нас учит Библия,</text>
-<chopds>D</chopds>
-<text>Обо всех печется Он.</text>
-<chopds>G/H                    Bb        C</chopds>
-<text>Слабы мы, но Он силён.</text>
-</blocks>
+1 куплет
+<chords>D</chords>
+Бог нас любит, знаю я,
+<chords>G/H                  Bb      C</chords>
+Так нас учит Библия,
+<chords>D</chords>
+Обо всех печется Он.
+<chords>G/H                    Bb        C</chords>
+Слабы мы, но Он силён.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>D</chopds>
-<text>Аллилуйя!   Аллилуйя!</text>
-<chopds>G/H               Bb        C</chopds>
-<text>Аллилуйя!   Аллилуйя!</text>
-<chopds>D</chopds>
-<text>Аллилуйя!   Аллилуйя!</text>
-<chopds>G/H               Bb        C</chopds>
-<text>Аллилуйя!   Аллилуйя!</text>
-</blocks>
+Припев
+<chords>D</chords>
+Аллилуйя!   Аллилуйя!
+<chords>G/H               Bb        C</chords>
+Аллилуйя!   Аллилуйя!
+<chords>D</chords>
+Аллилуйя!   Аллилуйя!
+<chords>G/H               Bb        C</chords>
+Аллилуйя!   Аллилуйя!
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>По любви и доброте</text>
-<text>Принял смерть Он на кресте.</text>
-<text>Он грехи мои простил,</text>
-<text>Чтобы в Царство мне войти.</text>
-</blocks>
+2 куплет
+По любви и доброте
+Принял смерть Он на кресте.
+Он грехи мои простил,
+Чтобы в Царство мне войти.
 
-<blocks>
-<videlit_line>3 куплет</videlit_line>
-<text>Боже, я с Тобой живу,</text>
-<text>Лишь в Тебе покой найду.</text>
-<text>Чистый свет - любовь Твоя -</text>
-<text>Не померкнет никогда.</text>
-</blocks>
+3 куплет
+Боже, я с Тобой живу,
+Лишь в Тебе покой найду.
+Чистый свет - любовь Твоя -
+Не померкнет никогда.

@@ -1,71 +1,59 @@
-Lena Isayev — Почему ты молчишь
+Номер: 283
+Автор: Lena Isayev
+Песня: Почему ты молчишь
 Источник: https://holychords.pro/283
 
-==================================================
+---
 
-<blocks>
-<chopds>Em C D Em</chopds>
-</blocks>
+<chords>Em C D Em</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>           Em                                          C</chopds>
-<text>Почему ты молчишь? Не рассказывая людям,</text>
-<chopds>                D                                      Am            H</chopds>
-<text>Как Господь тебя спас, как тебя оправдал</text>
-<chopds>          Em                                             C</chopds>
-<text>Твоё сердце очистил, жизнь тебе подарил</text>
-<chopds>            D                                    Am                                        D</chopds>
-<text>От вины искупил, в небо двери, в небо двери открыл</text>
-</blocks>
+1 куплет
+<chords>           Em                                          C</chords>
+Почему ты молчишь? Не рассказывая людям,
+<chords>                D                                      Am            H</chords>
+Как Господь тебя спас, как тебя оправдал
+<chords>          Em                                             C</chords>
+Твоё сердце очистил, жизнь тебе подарил
+<chords>            D                                    Am                                        D</chords>
+От вины искупил, в небо двери, в небо двери открыл
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>           C                     D                Em</chopds>
-<text>Почему не дорожишь ты уплаченной ценой</text>
-<chopds>                  C                       D                     Em</chopds>
-<text>Что Христос придя на землю, заплатил уже давно</text>
-<chopds>                 C                     D            G   D/F#   Em</chopds>
-<text>Так пойди и расскажи, о спасении людей</text>
-<chopds>       Am                    Hm                       C                       D</chopds>
-<text>И о том какой любовью, возлюбил тебя Христос</text>
-</blocks>
+Припев
+<chords>           C                     D                Em</chords>
+Почему не дорожишь ты уплаченной ценой
+<chords>                  C                       D                     Em</chords>
+Что Христос придя на землю, заплатил уже давно
+<chords>                 C                     D            G   D/F#   Em</chords>
+Так пойди и расскажи, о спасении людей
+<chords>       Am                    Hm                       C                       D</chords>
+И о том какой любовью, возлюбил тебя Христос
 
-<blocks>
-<videlit_line>instrumental</videlit_line>
-<chopds>Em Am Hm Em | Em Am Hm C</chopds>
-</blocks>
+instrumental
+<chords>Em Am Hm Em | Em Am Hm C</chords>
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<chopds>                     Fm                                         C#</chopds>
-<text>Сколько в мире гибнут душ, и не знают о Христе</text>
-<chopds>          D#                                             Bbm          C</chopds>
-<text>И живут беспечной жизнью, не думая о том</text>
-<chopds>              Fm                                                            C#</chopds>
-<text>Что их жизнь прерваться может, мы не знаем что нас ждет</text>
-<chopds>             D#                                                   Bbm                        C</chopds>
-<text>Так давайте мы расскажем что Христос давно их ждёт</text>
-<chopds>                 C#                         D#</chopds>
-<text>что Христос давно их ждёт</text>
-</blocks>
+2 куплет
+<chords>                     Fm                                         C#</chords>
+Сколько в мире гибнут душ, и не знают о Христе
+<chords>          D#                                             Bbm          C</chords>
+И живут беспечной жизнью, не думая о том
+<chords>              Fm                                                            C#</chords>
+Что их жизнь прерваться может, мы не знаем что нас ждет
+<chords>             D#                                                   Bbm                        C</chords>
+Так давайте мы расскажем что Христос давно их ждёт
+<chords>                 C#                         D#</chords>
+что Христос давно их ждёт
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>           C#                 D#                Fm</chopds>
-<text>Почему не дорожишь ты уплаченной ценой</text>
-<chopds>                 C#                     D#                     Fm</chopds>
-<text>Что Христос придя на землю, заплатил уже давно</text>
-<chopds>                C#                  D#            G#  D#/G  Fm</chopds>
-<text>Так пойди и расскажи, о спасении людей</text>
-<chopds>      Bbm                  Cm                       C#                      D#</chopds>
-<text>И о том какой любовью, возлюбил тебя Христос</text>
-</blocks>
+Припев
+<chords>           C#                 D#                Fm</chords>
+Почему не дорожишь ты уплаченной ценой
+<chords>                 C#                     D#                     Fm</chords>
+Что Христос придя на землю, заплатил уже давно
+<chords>                C#                  D#            G#  D#/G  Fm</chords>
+Так пойди и расскажи, о спасении людей
+<chords>      Bbm                  Cm                       C#                      D#</chords>
+И о том какой любовью, возлюбил тебя Христос
 
-<blocks>
-<videlit_line>Концовка</videlit_line>
-<chopds>      Bbm                  Cm                       C#                      D#</chopds>
-<text>И о том какой любовью, возлюбил тебя Христос</text>
-<chopds>      Bbm                  Cm                       C#  D#                    | Fm  D#  C#  C | Fm  D#  C#  C | Fm |</chopds>
-<text>И о том какой любовью, возлюбил тебя Христос</text>
-</blocks>
+Концовка
+<chords>      Bbm                  Cm                       C#                      D#</chords>
+И о том какой любовью, возлюбил тебя Христос
+<chords>      Bbm                  Cm                       C#  D#                    | Fm  D#  C#  C | Fm  D#  C#  C | Fm |</chords>
+И о том какой любовью, возлюбил тебя Христос

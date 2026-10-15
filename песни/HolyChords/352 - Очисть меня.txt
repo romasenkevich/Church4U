@@ -1,57 +1,45 @@
-Филип Реннер — Очисть меня
+Номер: 352
+Автор: Филип Реннер
+Песня: Очисть меня
 Источник: https://holychords.pro/352
 
-==================================================
+---
 
-<blocks>
-<chopds>|C#m  E  A  | C#m  E  H |</chopds>
-<chopds>| C#m  E  A | C#m  A  H |</chopds>
-</blocks>
+<chords>|C#m  E  A  | C#m  E  H |</chords>
+<chords>| C#m  E  A | C#m  A  H |</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>C#m       E/H</chopds>
-<text>Я не могу дальше идти,</text>
-<chopds>F#m                 A</chopds>
-<text>Потерял себя, упал на колени я.</text>
-<chopds>C#m                       E/H</chopds>
-<text>Мне нужно лишь, держатся за Тебя</text>
-<chopds>F#m                       A</chopds>
-<text>Держатся за Тебя</text>
-<chopds>C#m7 E/G# A</chopds>
-<text>Иисус,</text>
-<chopds>C#m7 A H</chopds>
-<text>Иисус.</text>
-</blocks>
+1 куплет
+<chords>C#m       E/H</chords>
+Я не могу дальше идти,
+<chords>F#m                 A</chords>
+Потерял себя, упал на колени я.
+<chords>C#m                       E/H</chords>
+Мне нужно лишь, держатся за Тебя
+<chords>F#m                       A</chords>
+Держатся за Тебя
+<chords>C#m7 E/G# A</chords>
+Иисус,
+<chords>C#m7 A H</chords>
+Иисус.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Наполняй сердце моё</text>
-<text>Жизнь моя теперь в Твоих руках</text>
-<text>В смирении, припаду ко Христу</text>
-<text>Тобою лишь живу</text>
-</blocks>
+2 куплет
+Наполняй сердце моё
+Жизнь моя теперь в Твоих руках
+В смирении, припаду ко Христу
+Тобою лишь живу
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>E               G#m/D#</chopds>
-<text>Очисть меня, возьми меня,</text>
-<chopds>A                 E/G#</chopds>
-<text>В Славе Твоей свободен я</text>
-<chopds>F#m7         E/G#</chopds>
-<text>Очисть меня, возьми меня.</text>
-<chopds>A                     Hsus                   A</chopds>
-<text>Вся жизнь моя в Твоих руках.</text>
-<chopds>F#m              C#m     H</chopds>
-<text>Очистить меня Иисус</text>
-<chopds>                          A          F#m</chopds>
-<text>Очистить меня, мой Бог</text>
-<chopds>                     C#m    H       A  F#m  C#m  H</chopds>
-<text>Очистить меня Иисус.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Renner Worship — Empty Me [Английский]
-  https://holychords.pro/15730
+Припев
+<chords>E               G#m/D#</chords>
+Очисть меня, возьми меня,
+<chords>A                 E/G#</chords>
+В Славе Твоей свободен я
+<chords>F#m7         E/G#</chords>
+Очисть меня, возьми меня.
+<chords>A                     Hsus                   A</chords>
+Вся жизнь моя в Твоих руках.
+<chords>F#m              C#m     H</chords>
+Очистить меня Иисус
+<chords>                          A          F#m</chords>
+Очистить меня, мой Бог
+<chords>                     C#m    H       A  F#m  C#m  H</chords>
+Очистить меня Иисус.

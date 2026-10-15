@@ -1,37 +1,31 @@
-Игорь Яловец — Я падаю
+Номер: 61
+Автор: Игорь Яловец
+Песня: Я падаю
 Источник: https://holychords.pro/61
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>Gm F Dm Bb Cm Bb Am D</chopds>
-</blocks>
+Интро
+<chords>Gm F Dm Bb Cm Bb Am D</chords>
 
-<blocks>
-<videlit_line>1 Куплет</videlit_line>
-<chopds>      Gm            D#                     Cm               D</chopds>
-<text>Душа моя опять одна, душа моя тоской полна.</text>
-<chopds>   Gm                    D#             Cm                     D</chopds>
-<text>Уходят дни, бегут года, уходим мы и на всегда.</text>
-<chopds>   Cm             D                             D#                   D</chopds>
-<text>И я стою опять один, над пропастью, и белый дым.</text>
-<chopds>        Gm                    D#                     Cm                          D</chopds>
-<text>Молю Тебя - дай до любить, и жизнь свою с Тобой прожить.</text>
-</blocks>
+1 Куплет
+<chords>      Gm            D#                     Cm               D</chords>
+Душа моя опять одна, душа моя тоской полна.
+<chords>   Gm                    D#             Cm                     D</chords>
+Уходят дни, бегут года, уходим мы и на всегда.
+<chords>   Cm             D                             D#                   D</chords>
+И я стою опять один, над пропастью, и белый дым.
+<chords>        Gm                    D#                     Cm                          D</chords>
+Молю Тебя - дай до любить, и жизнь свою с Тобой прожить.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>    Gm                           D                Cm         D         Gm</chopds>
-<text>Я падаю, Господи падаю, спаси Ты душу мою.</text>
-<chopds>   Gm      Bb                 D              Cm                D               Gm</chopds>
-<text>Я падаю, Господи падаю, боюсь я к Тебе не дойду.</text>
-</blocks>
+Припев
+<chords>    Gm                           D                Cm         D         Gm</chords>
+Я падаю, Господи падаю, спаси Ты душу мою.
+<chords>   Gm      Bb                 D              Cm                D               Gm</chords>
+Я падаю, Господи падаю, боюсь я к Тебе не дойду.
 
-<blocks>
-<videlit_line>2 Куплет</videlit_line>
-<text>Взгляну опять на небеса, хочу найти Твои глаза.</text>
-<text>Дай руку мне и помоги, и душу мне Ты сохрани.</text>
-<text>И буду я служить Тебе, и буду я идти к Тебе.</text>
-<text>Зимой в метель и в дни дождей, но Ты меня лишь обогрей.</text>
-</blocks>
+2 Куплет
+Взгляну опять на небеса, хочу найти Твои глаза.
+Дай руку мне и помоги, и душу мне Ты сохрани.
+И буду я служить Тебе, и буду я идти к Тебе.
+Зимой в метель и в дни дождей, но Ты меня лишь обогрей.

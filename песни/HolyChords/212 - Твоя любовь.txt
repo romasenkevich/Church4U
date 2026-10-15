@@ -1,54 +1,46 @@
-Слово Жизни Music — Твоя любовь
+Номер: 212
+Автор: Слово Жизни Music
+Песня: Твоя любовь
 BPM: 136
 Источник: https://holychords.pro/212
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>G                                       C</chopds>
-<text>Твоя любовь словно солнце</text>
-<chopds>       Em                  C</chopds>
-<text>Согрела нас своим теплом</text>
-<chopds>G                                       C</chopds>
-<text>Твоя любовь словно ветер</text>
-<chopds>   Em                       C              G C Em C</chopds>
-<text>Уносит нас в объятия Твои</text>
-</blocks>
+1 куплет
+<chords>G                                       C</chords>
+Твоя любовь словно солнце
+<chords>       Em                  C</chords>
+Согрела нас своим теплом
+<chords>G                                       C</chords>
+Твоя любовь словно ветер
+<chords>   Em                       C              G C Em C</chords>
+Уносит нас в объятия Твои
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Твоя любовь исцеляет</text>
-<text>В сердца даёт надежду вновь</text>
-<text>В Твоей любви я нуждаюсь</text>
-<text>Как воздух для меня Твоя любовь</text>
-</blocks>
+2 куплет
+Твоя любовь исцеляет
+В сердца даёт надежду вновь
+В Твоей любви я нуждаюсь
+Как воздух для меня Твоя любовь
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>C             Am  Em            D</chopds>
-<text>Ты со мной в моих слёзах</text>
-<chopds>C             Am     Em         D</chopds>
-<text>И Твой Дух ведёт меня в глубину</text>
-<chopds>C      Am  Em  D</chopds>
-<text>Освяти моё сердце, Бог</text>
-<chopds>C               D                       G C Em C</chopds>
-<text>Дай познать Твою любовь</text>
-</blocks>
+Припев
+<chords>C             Am  Em            D</chords>
+Ты со мной в моих слёзах
+<chords>C             Am     Em         D</chords>
+И Твой Дух ведёт меня в глубину
+<chords>C      Am  Em  D</chords>
+Освяти моё сердце, Бог
+<chords>C               D                       G C Em C</chords>
+Дай познать Твою любовь
 
-<blocks>
-<videlit_line>3 куплет</videlit_line>
-<text>Твоя любовь безусловна</text>
-<text>Не ищет Своего</text>
-<text>Твоя любовь не многословна</text>
-<text>В безмолвии я чувствую Твою любовь.</text>
-<chopds>C  Am  Em  D</chopds>
-</blocks>
+3 куплет
+Твоя любовь безусловна
+Не ищет Своего
+Твоя любовь не многословна
+В безмолвии я чувствую Твою любовь.
+<chords>C  Am  Em  D</chords>
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>                  C    G                    D</chopds>
-<text>Твоя любовь дала мне жизнь.</text>
-<chopds>                  C    G                    D</chopds>
-<text>Твоя любовь дала мне жизнь.</text>
-</blocks>
+Мост
+<chords>                  C    G                    D</chords>
+Твоя любовь дала мне жизнь.
+<chords>                  C    G                    D</chords>
+Твоя любовь дала мне жизнь.

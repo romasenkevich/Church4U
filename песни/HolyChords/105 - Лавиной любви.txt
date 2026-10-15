@@ -1,65 +1,49 @@
-Hillsong Ukraine — Лавиной любви
+Номер: 105
+Автор: Hillsong Ukraine
+Песня: Лавиной любви
 BPM: 84
 Источник: https://holychords.pro/105
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>    Bbm              C#</chopds>
-<text>Прекрасный Бог</text>
-<chopds>     G#            F#          Bbm   C#</chopds>
-<text>Оставил величие Своё</text>
-<chopds>      G#                   F#           Bbm         C#</chopds>
-<text>И жизнь мне вернул, явив любовь</text>
-<chopds>      G#               F#          Bbm         C#   G#</chopds>
-<text>К свету из тьмы меня вознёс</text>
-</blocks>
+1 куплет
+<chords>    Bbm              C#</chords>
+Прекрасный Бог
+<chords>     G#            F#          Bbm   C#</chords>
+Оставил величие Своё
+<chords>      G#                   F#           Bbm         C#</chords>
+И жизнь мне вернул, явив любовь
+<chords>      G#               F#          Bbm         C#   G#</chords>
+К свету из тьмы меня вознёс
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Царь стал рабом</text>
-<text>Святость сменив на мой позор</text>
-<text>Хотя гордым путь был грешный мой</text>
-<text>Ты принял в вечный Свой покой</text>
-</blocks>
+2 куплет
+Царь стал рабом
+Святость сменив на мой позор
+Хотя гордым путь был грешный мой
+Ты принял в вечный Свой покой
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>   F#   C#                  G#                     F#</chopds>
-<text>И я здесь преклонюсь пред Тобой опять</text>
-<chopds>     C#                G#              F#</chopds>
-<text>Лавиной любви Ты настиг меня</text>
-<chopds>           C#                 G#           Bbm      G#   F#</chopds>
-<text>Ни с чем не сравнится любовь Твоя</text>
-<chopds>                                 Bbm</chopds>
-<text>Что сердце мне зажгла</text>
-</blocks>
+Припев
+<chords>   F#   C#                  G#                     F#</chords>
+И я здесь преклонюсь пред Тобой опять
+<chords>     C#                G#              F#</chords>
+Лавиной любви Ты настиг меня
+<chords>           C#                 G#           Bbm      G#   F#</chords>
+Ни с чем не сравнится любовь Твоя
+<chords>                                 Bbm</chords>
+Что сердце мне зажгла
 
-<blocks>
-<videlit_line>3 куплет</videlit_line>
-<text>Спаситель и Друг</text>
-<text>В сердце мое вдохнул Ты жизнь</text>
-<text>И Словом мой путь Ты осветил</text>
-<text>Любовью навек меня смирил</text>
-</blocks>
+3 куплет
+Спаситель и Друг
+В сердце мое вдохнул Ты жизнь
+И Словом мой путь Ты осветил
+Любовью навек меня смирил
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>Bbm         G#/C               C#</chopds>
-<text>Жизнь отдам и всё, что во мне</text>
-<chopds>     F#                                        C#   G#</chopds>
-<text>Тебя всей душой так люблю я</text>
-<chopds> Bbm        G#/C             C#</chopds>
-<text>Жизнь отдам и сердцем я всем</text>
-<chopds>     F#                        C#   G#</chopds>
-<text>Тебя, Иисус, обожаю</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Hillsong United — Like An Avalanche [Английский]
-  https://holychords.pro/3892
-- Юлія Кучинська — Милість Твоя є лавиною [Украинский]
-  https://holychords.pro/33125
+Бридж
+<chords>Bbm         G#/C               C#</chords>
+Жизнь отдам и всё, что во мне
+<chords>     F#                                        C#   G#</chords>
+Тебя всей душой так люблю я
+<chords> Bbm        G#/C             C#</chords>
+Жизнь отдам и сердцем я всем
+<chords>     F#                        C#   G#</chords>
+Тебя, Иисус, обожаю

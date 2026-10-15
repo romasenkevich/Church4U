@@ -1,42 +1,36 @@
-Алексей Каратаев — Яви Свою славу
+Номер: 189
+Автор: Алексей Каратаев
+Песня: Яви Свою славу
 Источник: https://holychords.pro/189
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>H</chopds>
-<text>С небес к нам приходит Дух Господень</text>
-<chopds>      D#m                                C#</chopds>
-<text>Приходит Его Дух наполняет меня свободой,</text>
-<chopds>H</chopds>
-<text>Прошу яви мне Свою славу,</text>
-<chopds>   D#m                            C#</chopds>
-<text>Увижу Твою славу уже я не буду прежним</text>
-</blocks>
+Припев
+<chords>H</chords>
+С небес к нам приходит Дух Господень
+<chords>      D#m                                C#</chords>
+Приходит Его Дух наполняет меня свободой,
+<chords>H</chords>
+Прошу яви мне Свою славу,
+<chords>   D#m                            C#</chords>
+Увижу Твою славу уже я не буду прежним
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>D#m                                  G#m</chopds>
-<text>Ты- мой свет среди ночи Твой - огонь горит внутри</text>
-<chopds>D#m                             G#m</chopds>
-<text>Всемогущий Бог-Ты нужен мне</text>
-<chopds>D#m                                  G#m</chopds>
-<text>Больше чем могу я знать больше чем могу сказать</text>
-<chopds>D#m                             G#m</chopds>
-<text>Всемогущий Бог-Ты нужен мне</text>
-</blocks>
+1 куплет
+<chords>D#m                                  G#m</chords>
+Ты- мой свет среди ночи Твой - огонь горит внутри
+<chords>D#m                             G#m</chords>
+Всемогущий Бог-Ты нужен мне
+<chords>D#m                                  G#m</chords>
+Больше чем могу я знать больше чем могу сказать
+<chords>D#m                             G#m</chords>
+Всемогущий Бог-Ты нужен мне
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>      H                      D#m              C#</chopds>
-<text>Тебя - я ищу в Тебе – я нуждаюсь</text>
-<chopds>      H                      D#m              C#</chopds>
-<text>Тебя - я ищу в Тебе – я нуждаюсь</text>
-</blocks>
+Пред припев
+<chords>      H                      D#m              C#</chords>
+Тебя - я ищу в Тебе – я нуждаюсь
+<chords>      H                      D#m              C#</chords>
+Тебя - я ищу в Тебе – я нуждаюсь
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Отведи меня прошу прямо к сердцу Своему</text>
-<text>Всемогущий Бог-Ты нужен мне</text>
-</blocks>
+2 куплет
+Отведи меня прошу прямо к сердцу Своему
+Всемогущий Бог-Ты нужен мне

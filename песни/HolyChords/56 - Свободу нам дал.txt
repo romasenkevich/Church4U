@@ -1,62 +1,46 @@
-Слово Жизни Music — Свободу нам дал
+Номер: 56
+Автор: Слово Жизни Music
+Песня: Свободу нам дал
 Источник: https://holychords.pro/56
 
-==================================================
+---
 
-<blocks>
-<chopds>Bb   Dm    Gm    D#</chopds>
-</blocks>
+<chords>Bb   Dm    Gm    D#</chords>
 
-<blocks>
-<videlit_line>1 Куплет</videlit_line>
-<chopds> Bb                                  F/A</chopds>
-<text>Бог искупил нас, и поём, что прощены.</text>
-<chopds>           Gm                                          D#                         Cm</chopds>
-<text>Твой огонь горит внутри, наш огонь горит внутри.</text>
-<chopds>        Bb                                  F/A</chopds>
-<text>Нас не остановишь,  за Тобою мы бежим,</text>
-<chopds>           Gm                                          D#                         Cm</chopds>
-<text>Твой огонь горит внутри, наш огонь горит внутри.</text>
-</blocks>
+1 Куплет
+<chords> Bb                                  F/A</chords>
+Бог искупил нас, и поём, что прощены.
+<chords>           Gm                                          D#                         Cm</chords>
+Твой огонь горит внутри, наш огонь горит внутри.
+<chords>        Bb                                  F/A</chords>
+Нас не остановишь,  за Тобою мы бежим,
+<chords>           Gm                                          D#                         Cm</chords>
+Твой огонь горит внутри, наш огонь горит внутри.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>       Bb                                F/A                            Gm             D#</chopds>
-<text>Свободу нам дал, разбиты все оковы милостью Бога.</text>
-<chopds>Bb                             F/A                                     Gm           D#</chopds>
-<text>Истинный путь укажет Божье Слово в небо дорогу.</text>
-<chopds>      Bb                               Dm/A                        Gm                         D#</chopds>
-<text>И огонь, что теперь горит внутри, ничто не сможет угасить.</text>
-<chopds>       Bb                              D#</chopds>
-<text>Свободу нам дал, и вся слава Богу.</text>
-</blocks>
+Припев
+<chords>       Bb                                F/A                            Gm             D#</chords>
+Свободу нам дал, разбиты все оковы милостью Бога.
+<chords>Bb                             F/A                                     Gm           D#</chords>
+Истинный путь укажет Божье Слово в небо дорогу.
+<chords>      Bb                               Dm/A                        Gm                         D#</chords>
+И огонь, что теперь горит внутри, ничто не сможет угасить.
+<chords>       Bb                              D#</chords>
+Свободу нам дал, и вся слава Богу.
 
-<blocks>
-<videlit_line>2 Куплет</videlit_line>
-<text>Бог воскресил нас, и живем мы для Него,</text>
-<text>Эту страсть не угасить, нашу страсть не угасить.</text>
-<text>Нас не остановишь, за Тобою мы бежим,</text>
-<text>Твой огонь не угасить, наш огонь не угасить.</text>
-</blocks>
+2 Куплет
+Бог воскресил нас, и живем мы для Него,
+Эту страсть не угасить, нашу страсть не угасить.
+Нас не остановишь, за Тобою мы бежим,
+Твой огонь не угасить, наш огонь не угасить.
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>D#</chopds>
-<text>Был погребен Ты, но воскрес,</text>
-<chopds>D#                                           Bb</chopds>
-<text>Был погребен Ты, но воскрес, мы славим! Славим!</text>
-<chopds>D#</chopds>
-<text>Так возлюбил Ты этот мир,</text>
-<chopds>D#                                 Bb</chopds>
-<text>Так возлюбил и будем петь, мы славим! Славим!</text>
-<chopds>                     Bb/C        D#</chopds>
-<text> Будем славить!</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Emmanuil Worship Kiev — Свободу нам дав [Украинский]
-  https://holychords.pro/30138
-- Matt Redman — We are the free [Английский]
-  https://holychords.pro/30147
+Мост
+<chords>D#</chords>
+Был погребен Ты, но воскрес,
+<chords>D#                                           Bb</chords>
+Был погребен Ты, но воскрес, мы славим! Славим!
+<chords>D#</chords>
+Так возлюбил Ты этот мир,
+<chords>D#                                 Bb</chords>
+Так возлюбил и будем петь, мы славим! Славим!
+<chords>                     Bb/C        D#</chords>
+Будем славить!

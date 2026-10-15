@@ -1,75 +1,57 @@
-Слово Жизни Music — Ты извлек меня
+Номер: 15
+Автор: Слово Жизни Music
+Песня: Ты извлек меня
 BPM: 95
 Источник: https://holychords.pro/15
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 Куплет</videlit_line>
-<chopds>           H                                         E</chopds>
-<text>Ты извлек меня, Ты извлек меня Бог</text>
-<chopds>G#m</chopds>
-<text>Из глубокого рва.</text>
-<chopds>       H                                E</chopds>
-<text>Я пою Тебе, я пою Тебе Бог</text>
-<chopds>G#m</chopds>
-<text>Что Ты спас меня</text>
-</blocks>
+1 Куплет
+<chords>           H                                         E</chords>
+Ты извлек меня, Ты извлек меня Бог
+<chords>G#m</chords>
+Из глубокого рва.
+<chords>       H                                E</chords>
+Я пою Тебе, я пою Тебе Бог
+<chords>G#m</chords>
+Что Ты спас меня
 
-<blocks>
-<videlit_line>Вставка</videlit_line>
-<chopds>E  C#m   G#m                                  H</chopds>
-<text>    Нет никого кто сравнится с Тобой</text>
-<chopds>E  C#m        G#m                         H</chopds>
-<text>    Нет не вернусь я назад на Тебе только взгляд мой</text>
-</blocks>
+Вставка
+<chords>E  C#m   G#m                                  H</chords>
+Нет никого кто сравнится с Тобой
+<chords>E  C#m        G#m                         H</chords>
+Нет не вернусь я назад на Тебе только взгляд мой
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>G#m                  E</chopds>
-<text>Я посвящаю Тебе мои мысли</text>
-<chopds>H               F#</chopds>
-<text>Мои песни, мою жизнь</text>
-<chopds>G#m                   E</chopds>
-<text>Я отдаю Бог Тебе все сомнения</text>
-<chopds>H                  F#</chopds>
-<text>Все, проблемы страхи забери</text>
-</blocks>
+Припев
+<chords>G#m                  E</chords>
+Я посвящаю Тебе мои мысли
+<chords>H               F#</chords>
+Мои песни, мою жизнь
+<chords>G#m                   E</chords>
+Я отдаю Бог Тебе все сомнения
+<chords>H                  F#</chords>
+Все, проблемы страхи забери
 
-<blocks>
-<videlit_line>2 Куплет</videlit_line>
-<text>Каждый день мой Бог, наполняешь меня</text>
-<text>Через Слово Твое</text>
-<text>Укрепляешь Бог, наполняешь мой дух</text>
-<text>Силой и огнем</text>
-</blocks>
+2 Куплет
+Каждый день мой Бог, наполняешь меня
+Через Слово Твое
+Укрепляешь Бог, наполняешь мой дух
+Силой и огнем
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>C#m</chopds>
-<text>Мне не хватит слов и песен</text>
-<chopds>E</chopds>
-<text>Чтобы описать любовь</text>
-<chopds>H</chopds>
-<text>Что пленила мое сердце</text>
-<chopds>F#</chopds>
-<text>И покрыла все собой</text>
-<chopds>C#m</chopds>
-<text>Буду петь Тебе я громче</text>
-<chopds>E</chopds>
-<text>Буду восклицать я вновь</text>
-<chopds>H</chopds>
-<text>Жажду больше Твоей Славы</text>
-<chopds>F#</chopds>
-<text>Здесь, о Великий Бог.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Слово Жизни Music — Ты извлек меня [Русский]
-  https://holychords.pro/7421
-- Слово Жизни Music — Ти підняв мене [Украинский]
-  https://holychords.pro/76344
-- Слово Жизни Music — Ты извлек меня [Русский]
-  https://holychords.pro/82231
+Бридж
+<chords>C#m</chords>
+Мне не хватит слов и песен
+<chords>E</chords>
+Чтобы описать любовь
+<chords>H</chords>
+Что пленила мое сердце
+<chords>F#</chords>
+И покрыла все собой
+<chords>C#m</chords>
+Буду петь Тебе я громче
+<chords>E</chords>
+Буду восклицать я вновь
+<chords>H</chords>
+Жажду больше Твоей Славы
+<chords>F#</chords>
+Здесь, о Великий Бог.

@@ -1,57 +1,49 @@
-Imprintband — Бог мой
+Номер: 439
+Автор: Imprintband
+Песня: Бог мой
 BPM: 132
 Источник: https://holychords.pro/439
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Hm            G              A                    Hm</chopds>
-<text>Когда я вижу небо, его святую синь,</text>
-<chopds>Hm       G                          A                      Hm</chopds>
-<text>Я думаю о том, что сделал Божий Сын!</text>
-<chopds>Hm                               G                                 A                           Hm</chopds>
-<text>Мне никогда б не видеть солнца, не поднять к небу глаз,</text>
-<chopds>Hm                       G                          A                   Hm</chopds>
-<text>Если б Он не пролил кровь и не избавил нас.</text>
-</blocks>
+1 куплет
+<chords>Hm            G              A                    Hm</chords>
+Когда я вижу небо, его святую синь,
+<chords>Hm       G                          A                      Hm</chords>
+Я думаю о том, что сделал Божий Сын!
+<chords>Hm                               G                                 A                           Hm</chords>
+Мне никогда б не видеть солнца, не поднять к небу глаз,
+<chords>Hm                       G                          A                   Hm</chords>
+Если б Он не пролил кровь и не избавил нас.
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>D                                   A/C#                      Hm</chopds>
-<text>Мне никогда б не видеть святость неба,</text>
-<chopds>D                                   A/C#                      Hm</chopds>
-<text>И не взлететь на крыльях в эту синеву.</text>
-<chopds>D                                 A/C#                      Hm</chopds>
-<text>Я жаждал, как голодный жаждет хлеба.</text>
-<chopds>D                          A/C#                     Hm</chopds>
-<text>Я просто погибал в глубоком рву.</text>
-</blocks>
+Пред припев
+<chords>D                                   A/C#                      Hm</chords>
+Мне никогда б не видеть святость неба,
+<chords>D                                   A/C#                      Hm</chords>
+И не взлететь на крыльях в эту синеву.
+<chords>D                                 A/C#                      Hm</chords>
+Я жаждал, как голодный жаждет хлеба.
+<chords>D                          A/C#                     Hm</chords>
+Я просто погибал в глубоком рву.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>  G                     A  Hm                          A</chopds>
-<text>Бог мой, Бог мой, как мне благодарить Тебя?</text>
-<chopds>Em                    A                           Hm   A</chopds>
-<text>Бог мой, Бог мой, где найти слова?</text>
-<chopds>  G                     A  Hm                      A</chopds>
-<text>Бог мой, Бог мой, Ты первая любовь моя!</text>
-<chopds>Em                    A                         Hm</chopds>
-<text>Бог мой, Бог мой, я люблю Тебя!</text>
-</blocks>
+Припев
+<chords>  G                     A  Hm                          A</chords>
+Бог мой, Бог мой, как мне благодарить Тебя?
+<chords>Em                    A                           Hm   A</chords>
+Бог мой, Бог мой, где найти слова?
+<chords>  G                     A  Hm                      A</chords>
+Бог мой, Бог мой, Ты первая любовь моя!
+<chords>Em                    A                         Hm</chords>
+Бог мой, Бог мой, я люблю Тебя!
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Когда я вижу святость, что миру Ты явил,</text>
-<text>Прошу лишь об одном: дай веры и любви.</text>
-<text>Ты дал мне жизнь и я хочу, так прожить её,</text>
-<text>Чтобы, придя к Тебе сказать: Господь, я сделал все!</text>
-</blocks>
+2 куплет
+Когда я вижу святость, что миру Ты явил,
+Прошу лишь об одном: дай веры и любви.
+Ты дал мне жизнь и я хочу, так прожить её,
+Чтобы, придя к Тебе сказать: Господь, я сделал все!
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<text>Я не искал богатства, власти, славы,</text>
-<text>Я ждал и жаждал Одного Тебя!</text>
-<text>Я шел Твоим путем дорогой правды,</text>
-<text>Не важно радуясь или скорбя.</text>
-</blocks>
+Пред припев
+Я не искал богатства, власти, славы,
+Я ждал и жаждал Одного Тебя!
+Я шел Твоим путем дорогой правды,
+Не важно радуясь или скорбя.

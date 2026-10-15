@@ -1,117 +1,101 @@
-Милана — Завет милости
+Номер: 345
+Автор: Милана
+Песня: Завет милости
 Источник: https://holychords.pro/345
 
-==================================================
+---
 
-<blocks>
-<chopds>Hm  F#m  G  Em</chopds>
-</blocks>
+<chords>Hm  F#m  G  Em</chords>
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>Hm</chopds>
-<text>Мой Господь, снова я ищу Тебя,</text>
-<chopds>A</chopds>
-<text>Снова жаждет дух Тебя,</text>
-<chopds>G</chopds>
-<text>Снова я прошу огня, о Бог мой!</text>
-<chopds>Hm</chopds>
-<text>Твой завет в моем сердце говорит,</text>
-<chopds>A</chopds>
-<text>Словно пламенем горит,</text>
-<chopds>G</chopds>
-<text>Благодатью путь открыт сквозь сердце.</text>
-</blocks>
+Куплет
+<chords>Hm</chords>
+Мой Господь, снова я ищу Тебя,
+<chords>A</chords>
+Снова жаждет дух Тебя,
+<chords>G</chords>
+Снова я прошу огня, о Бог мой!
+<chords>Hm</chords>
+Твой завет в моем сердце говорит,
+<chords>A</chords>
+Словно пламенем горит,
+<chords>G</chords>
+Благодатью путь открыт сквозь сердце.
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>A                               G</chopds>
-<text>Я вечностью дышу склоняясь пред Тобой,</text>
-<chopds>A                           G</chopds>
-<text>Я о любви кричу увидев образ Твой,</text>
-</blocks>
+Пред припев
+<chords>A                               G</chords>
+Я вечностью дышу склоняясь пред Тобой,
+<chords>A                           G</chords>
+Я о любви кричу увидев образ Твой,
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Hm                   F#m</chopds>
-<text>И я пойду туда, куда ведёт Твой Дух,</text>
-<chopds>G                             Em                       A</chopds>
-<text>С Тобою навсегда, Ты знаешь всё, мой Друг.</text>
-<chopds>Hm                                F#m</chopds>
-<text>Твоя любовь как свет, на моём пути,</text>
-<chopds>G                          Em                 A</chopds>
-<text>И милости завет в душе моей горит.</text>
-</blocks>
+Припев
+<chords>Hm                   F#m</chords>
+И я пойду туда, куда ведёт Твой Дух,
+<chords>G                             Em                       A</chords>
+С Тобою навсегда, Ты знаешь всё, мой Друг.
+<chords>Hm                                F#m</chords>
+Твоя любовь как свет, на моём пути,
+<chords>G                          Em                 A</chords>
+И милости завет в душе моей горит.
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>Hm</chopds>
-<text>Мой Господь, снова я ищу Тебя,</text>
-<chopds>A</chopds>
-<text>Снова жаждет дух Тебя,</text>
-<chopds>G</chopds>
-<text>Снова я прошу огня, о Бог мой!</text>
-<chopds>Hm</chopds>
-<text>Твой завет в моем сердце говорит,</text>
-<chopds>A</chopds>
-<text>Словно пламенем горит,</text>
-<chopds>G</chopds>
-<text>Благодатью путь открыт сквозь сердце.</text>
-</blocks>
+Куплет
+<chords>Hm</chords>
+Мой Господь, снова я ищу Тебя,
+<chords>A</chords>
+Снова жаждет дух Тебя,
+<chords>G</chords>
+Снова я прошу огня, о Бог мой!
+<chords>Hm</chords>
+Твой завет в моем сердце говорит,
+<chords>A</chords>
+Словно пламенем горит,
+<chords>G</chords>
+Благодатью путь открыт сквозь сердце.
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>A                               G</chopds>
-<text>Я вечностью дышу, склоняясь пред Тобой,</text>
-<chopds>A                           G</chopds>
-<text>Я о любви кричу, увидев образ Твой,</text>
-</blocks>
+Пред припев
+<chords>A                               G</chords>
+Я вечностью дышу, склоняясь пред Тобой,
+<chords>A                           G</chords>
+Я о любви кричу, увидев образ Твой,
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Hm                   F#m</chopds>
-<text>И я пойду туда, куда ведёт Твой Дух,</text>
-<chopds>G                             D</chopds>
-<text>С Тобою навсегда, Ты знаешь всё мой друг.</text>
-<chopds>Hm                             F#m</chopds>
-<text>Твоя любовь как свет, на моём пути,</text>
-<chopds>G                           D</chopds>
-<text>И милости завет в душе моей горит.</text>
-<chopds>| Hm | A | G | D  A/C# |</chopds>
-</blocks>
+Припев
+<chords>Hm                   F#m</chords>
+И я пойду туда, куда ведёт Твой Дух,
+<chords>G                             D</chords>
+С Тобою навсегда, Ты знаешь всё мой друг.
+<chords>Hm                             F#m</chords>
+Твоя любовь как свет, на моём пути,
+<chords>G                           D</chords>
+И милости завет в душе моей горит.
+<chords>| Hm | A | G | D  A/C# |</chords>
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>Hm                        F#m</chopds>
-<text>Зная сердце Отца, я пойду за Тобой,</text>
-<chopds>G                          Em            A</chopds>
-<text>Исцеляя сердца, принося Твой покой</text>
-<chopds>Hm                        F#m</chopds>
-<text>Зная сердце Отца, я пойду за Тобой,</text>
-<chopds>G                             D         A/C#</chopds>
-<text>Исцеляя сердца, принося Твой покой</text>
-<chopds>Hm                        F#m</chopds>
-<text>Зная сердце Отца, я пойду за Тобой,</text>
-<chopds>G                             D         A/C#</chopds>
-<text>Исцеляя сердца, принося Твой покой</text>
-</blocks>
+Мост
+<chords>Hm                        F#m</chords>
+Зная сердце Отца, я пойду за Тобой,
+<chords>G                          Em            A</chords>
+Исцеляя сердца, принося Твой покой
+<chords>Hm                        F#m</chords>
+Зная сердце Отца, я пойду за Тобой,
+<chords>G                             D         A/C#</chords>
+Исцеляя сердца, принося Твой покой
+<chords>Hm                        F#m</chords>
+Зная сердце Отца, я пойду за Тобой,
+<chords>G                             D         A/C#</chords>
+Исцеляя сердца, принося Твой покой
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Hm                   F#m</chopds>
-<text>И я пойду туда, куда ведёт Твой Дух,</text>
-<chopds>G                             D</chopds>
-<text>С Тобою навсегда, Ты знаешь всё, мой Друг.</text>
-<chopds>Hm                             F#m</chopds>
-<text>Твоя любовь как свет, на моём пути,</text>
-<chopds>G                          Em</chopds>
-<text>И милости завет в душе моей горит.</text>
-<chopds>         Hm                         F#m</chopds>
-<text>В душе моей горит Твоя любовь, Отец,</text>
-<chopds>     G                         D</chopds>
-<text>Она меня хранит, как милости венец.</text>
-<chopds>      Hm                                  F#m</chopds>
-<text>Я вечностью дышу, склоняясь пред Тобой,</text>
-<chopds>    G                                         D</chopds>
-<text>Я о любви кричу, увидев образ Твой!</text>
-</blocks>
+Припев
+<chords>Hm                   F#m</chords>
+И я пойду туда, куда ведёт Твой Дух,
+<chords>G                             D</chords>
+С Тобою навсегда, Ты знаешь всё, мой Друг.
+<chords>Hm                             F#m</chords>
+Твоя любовь как свет, на моём пути,
+<chords>G                          Em</chords>
+И милости завет в душе моей горит.
+<chords>         Hm                         F#m</chords>
+В душе моей горит Твоя любовь, Отец,
+<chords>     G                         D</chords>
+Она меня хранит, как милости венец.
+<chords>      Hm                                  F#m</chords>
+Я вечностью дышу, склоняясь пред Тобой,
+<chords>    G                                         D</chords>
+Я о любви кричу, увидев образ Твой!

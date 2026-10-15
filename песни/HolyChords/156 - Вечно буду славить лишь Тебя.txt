@@ -1,61 +1,41 @@
-Виталий Ефремочкин — Вечно буду славить лишь Тебя
+Номер: 156
+Автор: Виталий Ефремочкин
+Песня: Вечно буду славить лишь Тебя
 BPM: 150
 Источник: https://holychords.pro/156
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>Cm</chopds>
-<text>Бог излил любовь на всех нас</text>
-<chopds>        Bb</chopds>
-<text>Он даровал прощение (излил любовь)</text>
-<chopds>    Cm</chopds>
-<text>В Его имени спасенье</text>
-<chopds> Bb</chopds>
-<text>Радость, исцеление (в имени Его)</text>
-<chopds>     Cm</chopds>
-<text>Ты Бог Создатель, мира Князь</text>
-<chopds>        Bb</chopds>
-<text>Ты первый и последний (Иисус)</text>
-<chopds>    Ab</chopds>
-<text>Я буду петь, буду кричать</text>
-<chopds>       Bb</chopds>
-<text>О милости Твоей (о милости Твоей)</text>
-</blocks>
+Куплет
+<chords>Cm</chords>
+Бог излил любовь на всех нас
+<chords>        Bb</chords>
+Он даровал прощение (излил любовь)
+<chords>    Cm</chords>
+В Его имени спасенье
+<chords> Bb</chords>
+Радость, исцеление (в имени Его)
+<chords>     Cm</chords>
+Ты Бог Создатель, мира Князь
+<chords>        Bb</chords>
+Ты первый и последний (Иисус)
+<chords>    Ab</chords>
+Я буду петь, буду кричать
+<chords>       Bb</chords>
+О милости Твоей (о милости Твоей)
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                        Cm                         Ab</chopds>
-<text>Вечно буду славить лишь Тебя</text>
-<chopds>                Bb                           Fm</chopds>
-<text>Ты открыл нам двери в небеса</text>
-<chopds>                   Cm                       Ab</chopds>
-<text>Воспою Тебя ведь Ты Святой</text>
-<chopds>             Bb               Fm</chopds>
-<text>Аллилуйя (Аллилуйя)</text>
-</blocks>
+Припев
+<chords>                        Cm                         Ab</chords>
+Вечно буду славить лишь Тебя
+<chords>                Bb                           Fm</chords>
+Ты открыл нам двери в небеса
+<chords>                   Cm                       Ab</chords>
+Воспою Тебя ведь Ты Святой
+<chords>             Bb               Fm</chords>
+Аллилуйя (Аллилуйя)
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>          Fm              Ab</chopds>
-<text>Аллилуйя, Аллилуйя</text>
-<chopds>          Cm                   Bb</chopds>
-<text>Аллилуйя, Ты Святой</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Виталий Ефремочкин — Вечно буду славить [Русский]
-  https://holychords.pro/772
-- 4U Band — Вечно [Русский]
-  https://holychords.pro/4746
-- Спасіння Вишневе — Вечно буду славить [Русский]
-  https://holychords.pro/16921
-- Виталий Ефремочкин — Вічно буду славити тебе [Украинский]
-  https://holychords.pro/40471
-- LF band — Вічно Буду Славити [Украинский]
-  https://holychords.pro/42959
-- Світлана Жура — Вічно прославлятиму Тебе [Украинский]
-  https://holychords.pro/55676
+Мост
+<chords>          Fm              Ab</chords>
+Аллилуйя, Аллилуйя
+<chords>          Cm                   Bb</chords>
+Аллилуйя, Ты Святой

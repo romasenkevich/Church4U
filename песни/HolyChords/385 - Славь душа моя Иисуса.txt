@@ -1,48 +1,42 @@
-Вадим Ятковский — Славь душа моя Иисуса
+Номер: 385
+Автор: Вадим Ятковский
+Песня: Славь душа моя Иисуса
 Источник: https://holychords.pro/385
 
-==================================================
+---
 
-<blocks>
-<chopds>G D Am Em</chopds>
-</blocks>
+<chords>G D Am Em</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Em                      D                     G</chopds>
-<text>Во дворы Господни восхожу</text>
-<chopds>C                         D                     G</chopds>
-<text>Прославляю Бога в вышине</text>
-<chopds>Am                   H7                    C</chopds>
-<text>О как сильно я тебя люблю</text>
-<chopds>Am                  H7                       Em</chopds>
-<text>Расскажу я мой Господь Тебе</text>
-<text>И в ответ наполнишь Ты меня</text>
-<text>Изольёшь от Духа Твоего</text>
-<text>Потечёт живой воды река</text>
-<text>Сердце переполнится моё</text>
-</blocks>
+1 куплет
+<chords>Em                      D                     G</chords>
+Во дворы Господни восхожу
+<chords>C                         D                     G</chords>
+Прославляю Бога в вышине
+<chords>Am                   H7                    C</chords>
+О как сильно я тебя люблю
+<chords>Am                  H7                       Em</chords>
+Расскажу я мой Господь Тебе
+И в ответ наполнишь Ты меня
+Изольёшь от Духа Твоего
+Потечёт живой воды река
+Сердце переполнится моё
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>    G                      D     Am                  Em</chopds>
-<text>Славь душа моя! Славь душа моя!</text>
-<chopds>    G                      D        Am    C</chopds>
-<text>Славь душа моя! Иисуса!</text>
-<chopds>    Em                    Am     D                     G</chopds>
-<text>Славь душа моя! Славь душа моя!</text>
-<chopds>   Em                   Am     G  H  Em</chopds>
-<text>Славь душа моя! Иису-у-са!</text>
-</blocks>
+Припев
+<chords>    G                      D     Am                  Em</chords>
+Славь душа моя! Славь душа моя!
+<chords>    G                      D        Am    C</chords>
+Славь душа моя! Иисуса!
+<chords>    Em                    Am     D                     G</chords>
+Славь душа моя! Славь душа моя!
+<chords>   Em                   Am     G  H  Em</chords>
+Славь душа моя! Иису-у-са!
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Дай мне духа откровения</text>
-<text>И премудрости твоей Отец</text>
-<text>Чтобы смог постигнуть я Тебя</text>
-<text>И величие Твоё во мне</text>
-<text>К Иисусу руки возношу</text>
-<text>В духе поклоняюсь пред Тобой</text>
-<text>Об одном Тебя Господь прошу</text>
-<text>Помоги мне быть всегда с Тобой.</text>
-</blocks>
+2 куплет
+Дай мне духа откровения
+И премудрости твоей Отец
+Чтобы смог постигнуть я Тебя
+И величие Твоё во мне
+К Иисусу руки возношу
+В духе поклоняюсь пред Тобой
+Об одном Тебя Господь прошу
+Помоги мне быть всегда с Тобой.

@@ -1,71 +1,51 @@
-Слово Жизни Music — Будем петь Тебе
+Номер: 50
+Автор: Слово Жизни Music
+Песня: Будем петь Тебе
 Источник: https://holychords.pro/50
 
-==================================================
+---
 
-<blocks>
-<videlit_line>intro: capo +1</videlit_line>
-<chopds>G  Em  C  D</chopds>
-</blocks>
+intro: capo +1
+<chords>G  Em  C  D</chords>
 
-<blocks>
-<videlit_line>1 Куплет</videlit_line>
-<chopds>        G                                       Em</chopds>
-<text>Когда перед Тобой стою одетый в славу, Бог, Твою,</text>
-<chopds> C                                                            D</chopds>
-<text>Радость в сердце, этот день придет,</text>
-<chopds>         G                                             Em</chopds>
-<text>Когда не будет больше слез, боль уйдет и страх пройдет</text>
-<chopds>  C                                             D</chopds>
-<text>Воля, Бог, исполнится Твоя.</text>
-</blocks>
+1 Куплет
+<chords>        G                                       Em</chords>
+Когда перед Тобой стою одетый в славу, Бог, Твою,
+<chords> C                                                            D</chords>
+Радость в сердце, этот день придет,
+<chords>         G                                             Em</chords>
+Когда не будет больше слез, боль уйдет и страх пройдет
+<chords>  C                                             D</chords>
+Воля, Бог, исполнится Твоя.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                 C  D         Em  Hm</chopds>
-<text>Будем славить, славить,</text>
-<chopds>            C                   D                           G    D/F#</chopds>
-<text>В присутствии Твоем мы будем петь.</text>
-<chopds>                 C   D        Hm        Em</chopds>
-<text>Будем славить, славить, Бог,</text>
-<chopds>        C                      D            G</chopds>
-<text>Царю петь Аллилуйя вовек.</text>
-</blocks>
+Припев
+<chords>                 C  D         Em  Hm</chords>
+Будем славить, славить,
+<chords>            C                   D                           G    D/F#</chords>
+В присутствии Твоем мы будем петь.
+<chords>                 C   D        Hm        Em</chords>
+Будем славить, славить, Бог,
+<chords>        C                      D            G</chords>
+Царю петь Аллилуйя вовек.
 
-<blocks>
-<videlit_line>2 Куплет</videlit_line>
-<text>В тот день увижу я Тебя сердцем чистым, без греха,</text>
-<text>Как велика ко мне любовь Твоя.</text>
-<text>Но до тех пор верю я  заплатил Ты за меня,</text>
-<text>Все, что есть, кладу к ногам Твоим.</text>
-</blocks>
+2 Куплет
+В тот день увижу я Тебя сердцем чистым, без греха,
+Как велика ко мне любовь Твоя.
+Но до тех пор верю я  заплатил Ты за меня,
+Все, что есть, кладу к ногам Твоим.
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>             Em                 Hm</chopds>
-<text>Там нет слёз, скорби нет,</text>
-<chopds>                C                    D               G</chopds>
-<text>Нет вины, и навсегда исчезнет грех.</text>
-<chopds>D/F#   Em          Hm</chopds>
-<text>Боли нет, и страха нет,</text>
-<chopds>                C                                       D</chopds>
-<text>Будем видеть мы Тебя, смотреть в Твои глаза</text>
-</blocks>
+Мост
+<chords>             Em                 Hm</chords>
+Там нет слёз, скорби нет,
+<chords>                C                    D               G</chords>
+Нет вины, и навсегда исчезнет грех.
+<chords>D/F#   Em          Hm</chords>
+Боли нет, и страха нет,
+<chords>                C                                       D</chords>
+Будем видеть мы Тебя, смотреть в Твои глаза
 
-<blocks>
-<videlit_line>instrumental</videlit_line>
-<chopds>Em C G D</chopds>
-<chopds>Em C G D</chopds>
-<chopds>Am C</chopds>
-<chopds>Am C G</chopds>
-</blocks>
-
-==================================================
-Translation songs
-
-- Юлія Кучинська — Вічна Алелуя [Украинский]
-  https://holychords.pro/22524
-- Matt Redman — Endless Hallelujah [Английский]
-  https://holychords.pro/22538
-- Юлія Кучинська — Потрібний Ти [Украинский]
-  https://holychords.pro/33761
+instrumental
+<chords>Em C G D</chords>
+<chords>Em C G D</chords>
+<chords>Am C</chords>
+<chords>Am C G</chords>

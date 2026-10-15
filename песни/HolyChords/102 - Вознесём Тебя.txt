@@ -1,54 +1,42 @@
-Hillsong Ukraine — Вознесём Тебя
+Номер: 102
+Автор: Hillsong Ukraine
+Песня: Вознесём Тебя
 Источник: https://holychords.pro/102
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 КУПЛЕТ</videlit_line>
-<chopds>   C                                Em</chopds>
-<text>Мир Ты спасти пришёл</text>
-<chopds>                     G                       C</chopds>
-<text>Меня спасти, меня спасти</text>
-<chopds>       C                                   Em</chopds>
-<text>Надежду нам дать пришёл</text>
-<chopds>                        G                            C</chopds>
-<text>Мне нужен Ты, Один лишь Ты</text>
-</blocks>
+1 КУПЛЕТ
+<chords>   C                                Em</chords>
+Мир Ты спасти пришёл
+<chords>                     G                       C</chords>
+Меня спасти, меня спасти
+<chords>       C                                   Em</chords>
+Надежду нам дать пришёл
+<chords>                        G                            C</chords>
+Мне нужен Ты, Один лишь Ты
 
-<blocks>
-<videlit_line>2 КУПЛЕТ</videlit_line>
-<text>Пламя зажег в сердцах</text>
-<text>Оно теперь горит во мне</text>
-<text>Нас пробудил сейчас</text>
-<text>Для всех людей явить Твой свет</text>
-</blocks>
+2 КУПЛЕТ
+Пламя зажег в сердцах
+Оно теперь горит во мне
+Нас пробудил сейчас
+Для всех людей явить Твой свет
 
-<blocks>
-<videlit_line>ПРЕД ПРИПЕВ</videlit_line>
-<chopds>        C                     Em</chopds>
-<text>Любовь дала свободу мне</text>
-<chopds>        G                          C</chopds>
-<text>Любовь Твоя со мной везде</text>
-<chopds>        C                        Em</chopds>
-<text>Любовью жил и принял смерть</text>
-<chopds>             G                   C</chopds>
-<text>Жить буду для Тебя</text>
-</blocks>
+ПРЕД ПРИПЕВ
+<chords>        C                     Em</chords>
+Любовь дала свободу мне
+<chords>        G                          C</chords>
+Любовь Твоя со мной везде
+<chords>        C                        Em</chords>
+Любовью жил и принял смерть
+<chords>             G                   C</chords>
+Жить буду для Тебя
 
-<blocks>
-<videlit_line>ПРИПЕВ</videlit_line>
-<chopds>                        C   Em</chopds>
-<text>Вознесем Тебя мы</text>
-<chopds>           G</chopds>
-<text>Наш Бог</text>
-<chopds>         C                              Em</chopds>
-<text>Возносим лишь Тебя мы</text>
-<chopds>                       G    C</chopds>
-<text>Превыше всех</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Hillsong Worship — Lift You Higher [Английский]
-  https://holychords.pro/5621
+ПРИПЕВ
+<chords>                        C   Em</chords>
+Вознесем Тебя мы
+<chords>           G</chords>
+Наш Бог
+<chords>         C                              Em</chords>
+Возносим лишь Тебя мы
+<chords>                       G    C</chords>
+Превыше всех

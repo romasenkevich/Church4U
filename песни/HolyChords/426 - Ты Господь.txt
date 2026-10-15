@@ -1,66 +1,50 @@
-Слово Жизни Music — Ты Господь
+Номер: 426
+Автор: Слово Жизни Music
+Песня: Ты Господь
 BPM: 114
 Источник: https://holychords.pro/426
 
-==================================================
+---
 
-<blocks>
-<chopds>Hm A G</chopds>
-</blocks>
+<chords>Hm A G</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>                         Hm                       A</chopds>
-<text>Бог мы пришли к Тебе, что бы быть вновь</text>
-<chopds>            G</chopds>
-<text>В присутствии, обрести любовь.</text>
-<chopds>               Hm                         A</chopds>
-<text>Мы с Тобою Бог, принесём мы,</text>
-<chopds>            G</chopds>
-<text>Всю хвалу к Тебе, в этом месте.</text>
-<chopds>       F#m             G                     F#m         G</chopds>
-<text>Глубоко внутри, в сердце крик души.</text>
-</blocks>
+1 куплет
+<chords>                         Hm                       A</chords>
+Бог мы пришли к Тебе, что бы быть вновь
+<chords>            G</chords>
+В присутствии, обрести любовь.
+<chords>               Hm                         A</chords>
+Мы с Тобою Бог, принесём мы,
+<chords>            G</chords>
+Всю хвалу к Тебе, в этом месте.
+<chords>       F#m             G                     F#m         G</chords>
+Глубоко внутри, в сердце крик души.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>              D                   F#m</chopds>
-<text>Ты Господь, Ты Господь,</text>
-<chopds>               G                    D        A</chopds>
-<text>Для Тебя живём, для Тебя,</text>
-<chopds>              D                   F#m</chopds>
-<text>Ты Господь, Ты Господь,</text>
-<chopds>               G                      D             A          G</chopds>
-<text>Для Тебя живём, Иисус Ты всё во всём.</text>
-<chopds>             Hm   A   G</chopds>
-<text>Для Тебя.</text>
-</blocks>
+Припев
+<chords>              D                   F#m</chords>
+Ты Господь, Ты Господь,
+<chords>               G                    D        A</chords>
+Для Тебя живём, для Тебя,
+<chords>              D                   F#m</chords>
+Ты Господь, Ты Господь,
+<chords>               G                      D             A          G</chords>
+Для Тебя живём, Иисус Ты всё во всём.
+<chords>             Hm   A   G</chords>
+Для Тебя.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Творец вселенной, Ты пришёл с небес,</text>
-<text>Человеком стал, нам надежду дал.</text>
-<text>Ты жизнь положил, за грехи мои,</text>
-<text>Кровь Свою пролил, что б я вечно жил.</text>
-<text>Пред Тобой стоим, преклоним сердца.</text>
-</blocks>
+2 куплет
+Творец вселенной, Ты пришёл с небес,
+Человеком стал, нам надежду дал.
+Ты жизнь положил, за грехи мои,
+Кровь Свою пролил, что б я вечно жил.
+Пред Тобой стоим, преклоним сердца.
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>                            G            A   F#m</chopds>
-<text>В мире нет таких как Ты,</text>
-<chopds>                          G              A   F#m</chopds>
-<text>Ты путь истина и жизнь,</text>
-<chopds>                             G           A  F#m</chopds>
-<text>По среди всей суеты,</text>
-<chopds>                            G            A  F#m</chopds>
-<text>В мире нет таких как Ты.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Aaron Gillespie — We Were Made For You [Английский]
-  https://holychords.pro/7484
-- Fonki Music — Ми народжені для хвали [Украинский]
-  https://holychords.pro/50333
+Мост
+<chords>                            G            A   F#m</chords>
+В мире нет таких как Ты,
+<chords>                          G              A   F#m</chords>
+Ты путь истина и жизнь,
+<chords>                             G           A  F#m</chords>
+По среди всей суеты,
+<chords>                            G            A  F#m</chords>
+В мире нет таких как Ты.

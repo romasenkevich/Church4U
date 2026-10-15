@@ -1,49 +1,43 @@
-Филип Реннер — На шаг ближе
+Номер: 412
+Автор: Филип Реннер
+Песня: На шаг ближе
 BPM: 162
 Источник: https://holychords.pro/412
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>E                   F#m</chopds>
-<text>Стою я здесь вся жизнь моя в Тебе</text>
-<chopds>E/G#                      A</chopds>
-<text>Я знаю рядом Ты Ты так нужен мне</text>
-<chopds>E                       F#m</chopds>
-<text>Вся жизнь моя желание одно</text>
-<chopds>E/G#                                A</chopds>
-<text>Гореть лишь для Тебя</text>
-</blocks>
+Куплет
+<chords>E                   F#m</chords>
+Стою я здесь вся жизнь моя в Тебе
+<chords>E/G#                      A</chords>
+Я знаю рядом Ты Ты так нужен мне
+<chords>E                       F#m</chords>
+Вся жизнь моя желание одно
+<chords>E/G#                                A</chords>
+Гореть лишь для Тебя
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                          E                          H                             F#m     A</chopds>
-<text>Хочу я быть на шаг ближе, на шаг ближе к Тебе</text>
-<chopds>                          E                          H                             F#m     A</chopds>
-<text>Хочу я быть на шаг ближе, на шаг ближе к Тебе</text>
-<chopds>                          E                          H                             F#m     A</chopds>
-<text>Хочу я быть на шаг ближе, на шаг ближе к Тебе</text>
-<chopds>                          E                          H                             F#m     A</chopds>
-<text>Хочу я быть на шаг ближе, на шаг ближе к Тебе</text>
-</blocks>
+Припев
+<chords>                          E                          H                             F#m     A</chords>
+Хочу я быть на шаг ближе, на шаг ближе к Тебе
+<chords>                          E                          H                             F#m     A</chords>
+Хочу я быть на шаг ближе, на шаг ближе к Тебе
+<chords>                          E                          H                             F#m     A</chords>
+Хочу я быть на шаг ближе, на шаг ближе к Тебе
+<chords>                          E                          H                             F#m     A</chords>
+Хочу я быть на шаг ближе, на шаг ближе к Тебе
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>               E                              H</chopds>
-<text>Лишь один, только Ты один,</text>
-<chopds>                      C#m        E/H              A</chopds>
-<text>Все чем я живу, все чем я дышу.</text>
-<chopds>                      E                                       H</chopds>
-<text>Ещё один день, он только для Тебя,</text>
-<chopds>                              C#m      E/H                       A</chopds>
-<text>В присутствии Твоем хочу я быть всегда</text>
-</blocks>
+Куплет
+<chords>               E                              H</chords>
+Лишь один, только Ты один,
+<chords>                      C#m        E/H              A</chords>
+Все чем я живу, все чем я дышу.
+<chords>                      E                                       H</chords>
+Ещё один день, он только для Тебя,
+<chords>                              C#m      E/H                       A</chords>
+В присутствии Твоем хочу я быть всегда
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>E           H/D#       C#m    E/H      A</chopds>
-<text>Иисус, Иисус, Ты первая любовь</text>
-<chopds>E           H/D#       C#m    E/H      A</chopds>
-<text>Иисус, Иисус, Ты первая любовь</text>
-</blocks>
+Бридж
+<chords>E           H/D#       C#m    E/H      A</chords>
+Иисус, Иисус, Ты первая любовь
+<chords>E           H/D#       C#m    E/H      A</chords>
+Иисус, Иисус, Ты первая любовь

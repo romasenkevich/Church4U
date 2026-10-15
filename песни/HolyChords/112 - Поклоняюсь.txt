@@ -1,56 +1,50 @@
-Они — Поклоняюсь
+Номер: 112
+Автор: Они
+Песня: Поклоняюсь
 Источник: https://holychords.pro/112
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Cm         A#                      G#              A#</chopds>
-<text>Я склоняюсь пред Тобой, мой Царь</text>
-<chopds>Cm        A#                      G#              A#</chopds>
-<text>Я склоняюсь пред Тобой, мой Бог</text>
-<chopds>Cm         A#                      G#      A#</chopds>
-<text>Знаю, любишь Ты меня Иисус</text>
-<chopds>Cm          A#                           G#                A#</chopds>
-<text>Знаю, слышишь Ты мой каждый вздох</text>
-</blocks>
+1 куплет
+<chords>Cm         A#                      G#              A#</chords>
+Я склоняюсь пред Тобой, мой Царь
+<chords>Cm        A#                      G#              A#</chords>
+Я склоняюсь пред Тобой, мой Бог
+<chords>Cm         A#                      G#      A#</chords>
+Знаю, любишь Ты меня Иисус
+<chords>Cm          A#                           G#                A#</chords>
+Знаю, слышишь Ты мой каждый вздох
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>             Cm    A# G#                A#</chopds>
-<text>Поклоняюсь!  Сердце отдаю Тебе</text>
-<chopds>         Cm     A#  G#                   A#</chopds>
-<text>Нуждаюсь!  Дух Святой живи во мне</text>
-<chopds>      D#         Fm                 G</chopds>
-<text>Наполни! Ты меня Своей любовью</text>
-<chopds> Cm           Fm                       G</chopds>
-<text>Бог мой! Быть хочу с Тобой!</text>
-<chopds>            Cm  F  D#  A#</chopds>
-<text>Поклоняюсь!</text>
-</blocks>
+Припев
+<chords>             Cm    A# G#                A#</chords>
+Поклоняюсь!  Сердце отдаю Тебе
+<chords>         Cm     A#  G#                   A#</chords>
+Нуждаюсь!  Дух Святой живи во мне
+<chords>      D#         Fm                 G</chords>
+Наполни! Ты меня Своей любовью
+<chords> Cm           Fm                       G</chords>
+Бог мой! Быть хочу с Тобой!
+<chords>            Cm  F  D#  A#</chords>
+Поклоняюсь!
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<chopds>Dm             C            A#           C</chopds>
-<text>Жажду Твоего огня! Приди!</text>
-<chopds>Dm            C                     A#         C</chopds>
-<text>Сердце Дух Святой моё зажги!</text>
-<chopds>Dm             C                       A#   C</chopds>
-<text>Сядь на троне сердца моего!</text>
-<chopds>Dm      C                     A#                     C</chopds>
-<text>Это всё, о чем молю Тебя, мой Бог!!</text>
-</blocks>
+2 куплет
+<chords>Dm             C            A#           C</chords>
+Жажду Твоего огня! Приди!
+<chords>Dm            C                     A#         C</chords>
+Сердце Дух Святой моё зажги!
+<chords>Dm             C                       A#   C</chords>
+Сядь на троне сердца моего!
+<chords>Dm      C                     A#                     C</chords>
+Это всё, о чем молю Тебя, мой Бог!!
 
-<blocks>
-<videlit_line>ПРИПЕВ</videlit_line>
-<chopds>            Dm      C  A#                 C</chopds>
-<text>Поклоняюсь! Сердце отдаю Тебе</text>
-<chopds>         Dm    C  A#                        C</chopds>
-<text>Нуждаюсь! Дух Святой живи во мне</text>
-<chopds>        F         Gm                  A</chopds>
-<text>Наполни! Ты меня Своей любовью</text>
-<chopds> Dm            Gm                      A</chopds>
-<text>Бог мой! Быть хочу с Тобой!</text>
-<chopds>            Dm  G  F  C</chopds>
-<text>Поклоняюсь!</text>
-</blocks>
+ПРИПЕВ
+<chords>            Dm      C  A#                 C</chords>
+Поклоняюсь! Сердце отдаю Тебе
+<chords>         Dm    C  A#                        C</chords>
+Нуждаюсь! Дух Святой живи во мне
+<chords>        F         Gm                  A</chords>
+Наполни! Ты меня Своей любовью
+<chords> Dm            Gm                      A</chords>
+Бог мой! Быть хочу с Тобой!
+<chords>            Dm  G  F  C</chords>
+Поклоняюсь!

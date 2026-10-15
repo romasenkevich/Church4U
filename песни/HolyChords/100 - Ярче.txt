@@ -1,78 +1,58 @@
-Hillsong Ukraine — Ярче
+Номер: 100
+Автор: Hillsong Ukraine
+Песня: Ярче
 Источник: https://holychords.pro/100
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>                  A        E                      H            C#m</chopds>
-<text>Твой свет ярче любой звезды в небесах</text>
-<chopds>                         A     E          H               C#m</chopds>
-<text>Сквозь тьму ночи Ты сияешь всегда</text>
-<chopds>                  A    E                 H                 C#m</chopds>
-<text>Иисус вовеки всё, что так нужно мне</text>
-<chopds>                   A      E        H    C#m</chopds>
-<text>В любви дал, дал, дал.</text>
-</blocks>
+1 куплет
+<chords>                  A        E                      H            C#m</chords>
+Твой свет ярче любой звезды в небесах
+<chords>                         A     E          H               C#m</chords>
+Сквозь тьму ночи Ты сияешь всегда
+<chords>                  A    E                 H                 C#m</chords>
+Иисус вовеки всё, что так нужно мне
+<chords>                   A      E        H    C#m</chords>
+В любви дал, дал, дал.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Ты со мною хранишь Ты каждый мой шаг</text>
-<text>И с любовью моё имя позвал</text>
-<text>Иисус вовеки всё, что так нужно мне</text>
-<text>В любви дал, дал, дал</text>
-</blocks>
+2 куплет
+Ты со мною хранишь Ты каждый мой шаг
+И с любовью моё имя позвал
+Иисус вовеки всё, что так нужно мне
+В любви дал, дал, дал
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>   A                 E        H                C#m</chopds>
-<text>Музыкой хвалы вознесем Тебя</text>
-<chopds>  A                E           H                C#m</chopds>
-<text>Тучи тьмы ушли танцам нет конца</text>
-<chopds>       A               E         H             C#m</chopds>
-<text>В благости Твоей мы нашли себя</text>
-<chopds>  A                   E       H    C#m</chopds>
-<text>Танцам нет конца</text>
-</blocks>
+Припев
+<chords>   A                 E        H                C#m</chords>
+Музыкой хвалы вознесем Тебя
+<chords>  A                E           H                C#m</chords>
+Тучи тьмы ушли танцам нет конца
+<chords>       A               E         H             C#m</chords>
+В благости Твоей мы нашли себя
+<chords>  A                   E       H    C#m</chords>
+Танцам нет конца
 
-<blocks>
-<videlit_line>3 куплет</videlit_line>
-<text>Дал свободу мне любовью Своей</text>
-<text>Ты - Бог вечный Тебя достаточно мне</text>
-<text>Иисус вовеки всё, что так нужно мне</text>
-<text>В любви дал, дал, дал</text>
-</blocks>
+3 куплет
+Дал свободу мне любовью Своей
+Ты - Бог вечный Тебя достаточно мне
+Иисус вовеки всё, что так нужно мне
+В любви дал, дал, дал
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>     C#m                   A     E       H</chopds>
-<text>Меня Ты светом о-о-оживил</text>
-<chopds>     C#m                   A     E        H</chopds>
-<text>Меня Ты светом о-о-оживил</text>
-<chopds>      C#m                   A        E      H</chopds>
-<text>Танцую, ведь меня освободил</text>
-<chopds>     C#m                    A      E        H</chopds>
-<text>Своим Ты светом о-о-оживил</text>
-</blocks>
+Припев
+<chords>     C#m                   A     E       H</chords>
+Меня Ты светом о-о-оживил
+<chords>     C#m                   A     E        H</chords>
+Меня Ты светом о-о-оживил
+<chords>      C#m                   A        E      H</chords>
+Танцую, ведь меня освободил
+<chords>     C#m                    A      E        H</chords>
+Своим Ты светом о-о-оживил
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>  A                     E    H             C#m</chopds>
-<text>Сердце и вся душа лишь для Тебя</text>
-<chopds>  A                      E    H          C#m</chopds>
-<text>Ты нужен мне сейчас и вовеки</text>
-<chopds>  A                         E    H             C#m</chopds>
-<text>Сердце в Твоих руках во все века</text>
-<chopds>  A                      E    H</chopds>
-<text>Ты нужен мне сейчас</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Hillsong Young & Free — Brighter (Remix) [Английский]
-  https://holychords.pro/8985
-- Hillsong Young & Free — Brighter (Live)
-  https://holychords.pro/51774
-- Hillsong Young & Free — Світло [Украинский]
-  https://holychords.pro/51790
+Бридж
+<chords>  A                     E    H             C#m</chords>
+Сердце и вся душа лишь для Тебя
+<chords>  A                      E    H          C#m</chords>
+Ты нужен мне сейчас и вовеки
+<chords>  A                         E    H             C#m</chords>
+Сердце в Твоих руках во все века
+<chords>  A                      E    H</chords>
+Ты нужен мне сейчас

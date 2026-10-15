@@ -1,66 +1,52 @@
-Слово Жизни Music — Всю вечность в объятиях Твоих
+Номер: 448
+Автор: Слово Жизни Music
+Песня: Всю вечность в объятиях Твоих
 Источник: https://holychords.pro/448
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>C#m               H        E         A</chopds>
-<text>Бог, Ты открыл нам Себя,</text>
-<chopds>C#m              H   E                 A</chopds>
-<text>Мысли Твои, сердце Твоё,</text>
-<chopds>C#m          H       E              A</chopds>
-<text>Нет ничего, что б смогло</text>
-<chopds>         C#m               H       A</chopds>
-<text>Сравниться с Тобой, Бог!</text>
-</blocks>
+1 куплет
+<chords>C#m               H        E         A</chords>
+Бог, Ты открыл нам Себя,
+<chords>C#m              H   E                 A</chords>
+Мысли Твои, сердце Твоё,
+<chords>C#m          H       E              A</chords>
+Нет ничего, что б смогло
+<chords>         C#m               H       A</chords>
+Сравниться с Тобой, Бог!
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>          H                    C#m              A</chopds>
-<text>Всю вечность в объятиях Твоих</text>
-<chopds>       E                  H           C#m                A</chopds>
-<text>Хотим провести, все вместе мы поем,</text>
-<chopds>             E                  H            C#m            A</chopds>
-<text>Все вместе мы поем о величии Твоем!</text>
-<chopds>           E                    H             C#m                A</chopds>
-<text>Ты здесь среди нас, все вместе мы поём!</text>
-</blocks>
+Припев
+<chords>          H                    C#m              A</chords>
+Всю вечность в объятиях Твоих
+<chords>       E                  H           C#m                A</chords>
+Хотим провести, все вместе мы поем,
+<chords>             E                  H            C#m            A</chords>
+Все вместе мы поем о величии Твоем!
+<chords>           E                    H             C#m                A</chords>
+Ты здесь среди нас, все вместе мы поём!
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<chopds>C#m           H       E                  A</chopds>
-<text>Свет воссиял Твой во тьме,</text>
-<chopds>C#m           H      E                 A</chopds>
-<text>Быть я хочу ближе к Тебе!</text>
-<chopds>C#m          H       E              A</chopds>
-<text>Нет ничего, что б смогло</text>
-<chopds>        C#m                 H      A</chopds>
-<text>Сравниться с Тобой, Бог!</text>
-</blocks>
+2 куплет
+<chords>C#m           H       E                  A</chords>
+Свет воссиял Твой во тьме,
+<chords>C#m           H      E                 A</chords>
+Быть я хочу ближе к Тебе!
+<chords>C#m          H       E              A</chords>
+Нет ничего, что б смогло
+<chords>        C#m                 H      A</chords>
+Сравниться с Тобой, Бог!
 
-<blocks>
-<videlit_line>Запев</videlit_line>
-<chopds>  E          A               E            A</chopds>
-<text>Ты святой Бог! Ты достоин!</text>
-<chopds>  E          A               E            A</chopds>
-<text>Ты святой Бог! Ты достоин!</text>
-</blocks>
+Запев
+<chords>  E          A               E            A</chords>
+Ты святой Бог! Ты достоин!
+<chords>  E          A               E            A</chords>
+Ты святой Бог! Ты достоин!
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>                                  H               C#m     A</chopds>
-<text>Все вместе мы поем! Аллилуйя, поем!</text>
-<chopds>                                  H               C#m     A</chopds>
-<text>Все вместе мы поем! Аллилуйя, поем!</text>
-<chopds>                             H         C#m   A</chopds>
-<text>Все что есть у нас – Твоё!</text>
-<chopds>                             H         C#m   A</chopds>
-<text>Все что есть у нас – Твоё!</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Bellarive — Taste of eternity [Английский]
-  https://holychords.pro/23739
+Бридж
+<chords>                                  H               C#m     A</chords>
+Все вместе мы поем! Аллилуйя, поем!
+<chords>                                  H               C#m     A</chords>
+Все вместе мы поем! Аллилуйя, поем!
+<chords>                             H         C#m   A</chords>
+Все что есть у нас – Твоё!
+<chords>                             H         C#m   A</chords>
+Все что есть у нас – Твоё!

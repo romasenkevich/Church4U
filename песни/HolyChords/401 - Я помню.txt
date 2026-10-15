@@ -1,41 +1,35 @@
-Real Ivanna — Я помню
+Номер: 401
+Автор: Real Ivanna
+Песня: Я помню
 Источник: https://holychords.pro/401
 
-==================================================
+---
 
-<blocks>
-<chopds>Cm Gm  Cm Gm</chopds>
-<chopds>Cm Gm  G# G</chopds>
-</blocks>
+<chords>Cm Gm  Cm Gm</chords>
+<chords>Cm Gm  G# G</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>                 Cm                      A#              Cm  Gm</chopds>
-<text>Я помню первые мгновения с Тобой</text>
-<chopds>                  Cm                      A#                  D#</chopds>
-<text>Я помню как обнял меня Своей рукой</text>
-<chopds>                 D#                     A#                        G                Cm</chopds>
-<text>Я как дитя к Тебе бежал склоняясь на колени пал</text>
-<chopds>                     G#                       A#                  Cm</chopds>
-<text>Я помню день когда Отцом Тебя назвал</text>
-</blocks>
+1 куплет
+<chords>                 Cm                      A#              Cm  Gm</chords>
+Я помню первые мгновения с Тобой
+<chords>                  Cm                      A#                  D#</chords>
+Я помню как обнял меня Своей рукой
+<chords>                 D#                     A#                        G                Cm</chords>
+Я как дитя к Тебе бежал склоняясь на колени пал
+<chords>                     G#                       A#                  Cm</chords>
+Я помню день когда Отцом Тебя назвал
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>           Cm            A#                    G         Cm</chopds>
-<text>Твои руки открыты для меня всегда</text>
-<chopds>            Cm                 A#         G    Cm</chopds>
-<text>И в объятьях любви я Отца</text>
-<chopds>                     Cm              A#               G                           Cm</chopds>
-<text>Ждешь меня Ты сейчас и как в самый первый раз</text>
-<chopds>        G#             A#     Cm       G#                A#     Cm</chopds>
-<text>Я пою "люблю Тебя", я пою "люблю Тебя"</text>
-</blocks>
+Припев
+<chords>           Cm            A#                    G         Cm</chords>
+Твои руки открыты для меня всегда
+<chords>            Cm                 A#         G    Cm</chords>
+И в объятьях любви я Отца
+<chords>                     Cm              A#               G                           Cm</chords>
+Ждешь меня Ты сейчас и как в самый первый раз
+<chords>        G#             A#     Cm       G#                A#     Cm</chords>
+Я пою "люблю Тебя", я пою "люблю Тебя"
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Я буду славить и хвалить имя Твое</text>
-<text>Ты моя жизнь в Тебе спасение мое</text>
-<text>Я руки к небу подниму, чтобы воздать Тебе хвалу!</text>
-<text>Тому, Кто жизнь мне дал любимому Отцу!</text>
-</blocks>
+2 куплет
+Я буду славить и хвалить имя Твое
+Ты моя жизнь в Тебе спасение мое
+Я руки к небу подниму, чтобы воздать Тебе хвалу!
+Тому, Кто жизнь мне дал любимому Отцу!

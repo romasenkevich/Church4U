@@ -1,34 +1,30 @@
-Слово Жизни Music — Лишь в Тебе упованье моё
+Номер: 423
+Автор: Слово Жизни Music
+Песня: Лишь в Тебе упованье моё
 Источник: https://holychords.pro/423
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>Hm            A/C#      D             G</chopds>
-<text>Лишь в Тебе упованье моё,</text>
-<chopds>Hm            A/C#  D        G</chopds>
-<text>Лишь  в  Тебе  сила моя,</text>
-<chopds>Hm  A/C#        D        Em                  G</chopds>
-<text>Одного прошу – используй меня</text>
-</blocks>
+Куплет
+<chords>Hm            A/C#      D             G</chords>
+Лишь в Тебе упованье моё,
+<chords>Hm            A/C#  D        G</chords>
+Лишь  в  Тебе  сила моя,
+<chords>Hm  A/C#        D        Em                  G</chords>
+Одного прошу – используй меня
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>Em                   D             A</chopds>
-<text>Нет сил, но Ты поведёшь за Собой,</text>
-<chopds>Em                        D              A</chopds>
-<text>Голос Твой не даст сойти с пути,</text>
-<chopds>Em                  D             A             Em</chopds>
-<text>Так хочу исполнить волю Твою</text>
-<chopds>   G             A</chopds>
-<text>Дай мне сил</text>
-</blocks>
+Пред припев
+<chords>Em                   D             A</chords>
+Нет сил, но Ты поведёшь за Собой,
+<chords>Em                        D              A</chords>
+Голос Твой не даст сойти с пути,
+<chords>Em                  D             A             Em</chords>
+Так хочу исполнить волю Твою
+<chords>   G             A</chords>
+Дай мне сил
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>    Hm     F#m              G                A</chopds>
-<text>Идти, идти… За Тобой, За Тобой…</text>
-<chopds>    Hm     F#m              G                A</chopds>
-<text>Идти, идти… За Тобой, За Тобой…</text>
-</blocks>
+Припев
+<chords>    Hm     F#m              G                A</chords>
+Идти, идти… За Тобой, За Тобой…
+<chords>    Hm     F#m              G                A</chords>
+Идти, идти… За Тобой, За Тобой…

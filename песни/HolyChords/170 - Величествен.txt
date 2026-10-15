@@ -1,42 +1,34 @@
-Алексей Каратаев — Величествен
+Номер: 170
+Автор: Алексей Каратаев
+Песня: Величествен
 Источник: https://holychords.pro/170
 
-==================================================
+---
 
-<blocks>
-<chopds>Am   F   C</chopds>
-</blocks>
+<chords>Am   F   C</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>        C                          Am                                F</chopds>
-<text>Любовь во мне живёт и надежда с небес</text>
-<chopds>           Am                          G</chopds>
-<text>Как поток наполняет меня</text>
-<chopds>   C                    Am                      F</chopds>
-<text>Мир в сердце моем это все от Тебя,</text>
-<chopds>              Am                           G</chopds>
-<text>В моем сердце любовь Твоя</text>
-</blocks>
+1 куплет
+<chords>        C                          Am                                F</chords>
+Любовь во мне живёт и надежда с небес
+<chords>           Am                          G</chords>
+Как поток наполняет меня
+<chords>   C                    Am                      F</chords>
+Мир в сердце моем это все от Тебя,
+<chords>              Am                           G</chords>
+В моем сердце любовь Твоя
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>     Am  G/H  C               Am                 G</chopds>
-<text>Величествен - Ты Святой Бог, Святой Бог</text>
-<chopds>   Am  G/H  C         Am            G</chopds>
-<text>Все поет - Ты достоин, достоин</text>
-</blocks>
+Припев
+<chords>     Am  G/H  C               Am                 G</chords>
+Величествен - Ты Святой Бог, Святой Бог
+<chords>   Am  G/H  C         Am            G</chords>
+Все поет - Ты достоин, достоин
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Лишь Ты освободил страх побежден</text>
-<text>Любовью все цепи разбил</text>
-<text>Твой свет в жизни моей горит как огонь</text>
-<text>Я на вечно свободен теперь</text>
-</blocks>
+2 куплет
+Лишь Ты освободил страх побежден
+Любовью все цепи разбил
+Твой свет в жизни моей горит как огонь
+Я на вечно свободен теперь
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>                   F                       Am                            G</chopds>
-<text>Когда я славлю Тебя поют небеса и Земля поёт</text>
-</blocks>
+Мост
+<chords>                   F                       Am                            G</chords>
+Когда я славлю Тебя поют небеса и Земля поёт

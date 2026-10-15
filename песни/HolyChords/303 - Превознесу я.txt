@@ -1,48 +1,32 @@
-Hillsong Ukraine — Превознесу я
+Номер: 303
+Автор: Hillsong Ukraine
+Песня: Превознесу я
 Источник: https://holychords.pro/303
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>         H        E</chopds>
-<text>Превознесу я</text>
-<chopds>         H        E</chopds>
-<text>Превознесу я</text>
-<chopds>         H        E</chopds>
-<text>Превознесу я</text>
-<chopds>      F#           H</chopds>
-<text>Тебя, мой Бог</text>
-</blocks>
+1 куплет
+<chords>         H        E</chords>
+Превознесу я
+<chords>         H        E</chords>
+Превознесу я
+<chords>         H        E</chords>
+Превознесу я
+<chords>      F#           H</chords>
+Тебя, мой Бог
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>     F#                  C#m</chopds>
-<text>Укроюсь я в Тебе всегда</text>
-<chopds>        F#                H</chopds>
-<text>Сокровище моё</text>
-<chopds>              F#                    C#m  H  E</chopds>
-<text>Мой Друг и Царь помазанник</text>
-<chopds>        G#m  F#</chopds>
-<text>Святой Бог</text>
-</blocks>
+Припев
+<chords>     F#                  C#m</chords>
+Укроюсь я в Тебе всегда
+<chords>        F#                H</chords>
+Сокровище моё
+<chords>              F#                    C#m  H  E</chords>
+Мой Друг и Царь помазанник
+<chords>        G#m  F#</chords>
+Святой Бог
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Ведь Ты со мною</text>
-<text>Ведь Ты со мною</text>
-<text>Ведь Ты со мною</text>
-<text>Я не боюсь</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Hillsong Worship — Тебе Я Славлю [Украинский]
-  https://holychords.pro/13171
-- Hillsong Worship — I Will Exalt You [Английский]
-  https://holychords.pro/13179
-- Brooke Ligertwood — I Will Exalt You [Английский]
-  https://holychords.pro/48943
-- Brooke Ligertwood — Тебе я славлю [Украинский]
-  https://holychords.pro/62919
+2 куплет
+Ведь Ты со мною
+Ведь Ты со мною
+Ведь Ты со мною
+Я не боюсь

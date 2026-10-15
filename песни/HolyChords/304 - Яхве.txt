@@ -1,68 +1,56 @@
-Hillsong Ukraine — Яхве
+Номер: 304
+Автор: Hillsong Ukraine
+Песня: Яхве
 Источник: https://holychords.pro/304
 
-==================================================
+---
 
-<blocks>
-<chopds>E  F#   G#m   H</chopds>
-</blocks>
+<chords>E  F#   G#m   H</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>            E          F#    G#m</chopds>
-<text>Наш Бог живет вовеки</text>
-<chopds>             E                              H   C#m7</chopds>
-<text>В любви Он с силой царит</text>
-<chopds>          E              F#          G#m</chopds>
-<text>Земля пред Ним склонится</text>
-<chopds>C#m7       H/D#   E   F#</chopds>
-<text>Превознесён Он</text>
-</blocks>
+1 куплет
+<chords>            E          F#    G#m</chords>
+Наш Бог живет вовеки
+<chords>             E                              H   C#m7</chords>
+В любви Он с силой царит
+<chords>          E              F#          G#m</chords>
+Земля пред Ним склонится
+<chords>C#m7       H/D#   E   F#</chords>
+Превознесён Он
 
-<blocks>
-<videlit_line>Запев</videlit_line>
-<chopds>        G#m               E         H     C#m7</chopds>
-<text>Стремимся к Тебе, Яхве</text>
-<chopds>    G#m         E         F#</chopds>
-<text>Вовеки Яхве, Яхве</text>
-</blocks>
+Запев
+<chords>        G#m               E         H     C#m7</chords>
+Стремимся к Тебе, Яхве
+<chords>    G#m         E         F#</chords>
+Вовеки Яхве, Яхве
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Велик Бог Всемогущий</text>
-<text>Нигде Ему равных нет</text>
-<text>Почтим и вознесем мы</text>
-<text>Бога Небес всех</text>
-</blocks>
+2 куплет
+Велик Бог Всемогущий
+Нигде Ему равных нет
+Почтим и вознесем мы
+Бога Небес всех
 
-<blocks>
-<videlit_line>Запев</videlit_line>
-<chopds>        G#m               E          H    C#m7</chopds>
-<text>Стремимся к Тебе, Яхве</text>
-<chopds>    G#m                E        F#</chopds>
-<text>Надежда в Тебе, Яхве</text>
-</blocks>
+Запев
+<chords>        G#m               E          H    C#m7</chords>
+Стремимся к Тебе, Яхве
+<chords>    G#m                E        F#</chords>
+Надежда в Тебе, Яхве
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>    H                                           F#</chopds>
-<text>Правь над всем вовеки правь над всем вовеки</text>
-<chopds>C#m7           G#m         E          F#</chopds>
-<text>Правь над всем вовеки и веки</text>
-<chopds>    H                                           F#</chopds>
-<text>Правь над всем вовеки правь над всем вовеки</text>
-<chopds>C#m7           G#m         E          F#                E   G#m   F#   H/D#</chopds>
-<text>Правь над всем вовеки и веки наш Бог</text>
-</blocks>
+Припев
+<chords>    H                                           F#</chords>
+Правь над всем вовеки правь над всем вовеки
+<chords>C#m7           G#m         E          F#</chords>
+Правь над всем вовеки и веки
+<chords>    H                                           F#</chords>
+Правь над всем вовеки правь над всем вовеки
+<chords>C#m7           G#m         E          F#                E   G#m   F#   H/D#</chords>
+Правь над всем вовеки и веки наш Бог
 
-<blocks>
-<videlit_line>Запев</videlit_line>
-<chopds>        G#m               E         H     C#m7</chopds>
-<text>Стремимся к Тебе, Яхве</text>
-<chopds>    G#m         E         F#</chopds>
-<text>Вовеки Яхве, Яхве</text>
-<chopds>        G#m               E          H    C#m7</chopds>
-<text>Стремимся к Тебе, Яхве</text>
-<chopds>    G#m                E        F#</chopds>
-<text>Надежда в Тебе, Яхве</text>
-</blocks>
+Запев
+<chords>        G#m               E         H     C#m7</chords>
+Стремимся к Тебе, Яхве
+<chords>    G#m         E         F#</chords>
+Вовеки Яхве, Яхве
+<chords>        G#m               E          H    C#m7</chords>
+Стремимся к Тебе, Яхве
+<chords>    G#m                E        F#</chords>
+Надежда в Тебе, Яхве

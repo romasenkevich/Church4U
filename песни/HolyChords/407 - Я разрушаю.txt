@@ -1,96 +1,80 @@
-Филип Реннер — Я разрушаю
+Номер: 407
+Автор: Филип Реннер
+Песня: Я разрушаю
 BPM: 131
 Источник: https://holychords.pro/407
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Вступление: х2</videlit_line>
-<chopds>A D | A D</chopds>
-</blocks>
+Вступление: х2
+<chords>A D | A D</chords>
 
-<blocks>
-<videlit_line>1 КУПЛЕТ</videlit_line>
-<chopds>F#m            E</chopds>
-<text>Отложу заботы дня,</text>
-<chopds>    D                    E</chopds>
-<text>Всё что отвлекает меня</text>
-<chopds> F#m                  E/G#</chopds>
-<text>Всё кладу у подножья Креста,</text>
-<chopds>      Hm                D</chopds>
-<text>Всего Тебе отдаю</text>
-</blocks>
+1 КУПЛЕТ
+<chords>F#m            E</chords>
+Отложу заботы дня,
+<chords>    D                    E</chords>
+Всё что отвлекает меня
+<chords> F#m                  E/G#</chords>
+Всё кладу у подножья Креста,
+<chords>      Hm                D</chords>
+Всего Тебе отдаю
 
-<blocks>
-<videlit_line>ПРИПЕВ</videlit_line>
-<chopds>                 A                             E/G#</chopds>
-<text>Я разрушаю всё то, что стеной</text>
-<chopds>                   F#m                    D</chopds>
-<text>Нас разделяет Иисус с Тобой</text>
-<chopds>                        A                            E/G#</chopds>
-<text>Всё, что мешает нам быть вдвоём</text>
-<chopds>                      F#m                       D</chopds>
-<text>Иисус так хочу встречи с Тобой</text>
-</blocks>
+ПРИПЕВ
+<chords>                 A                             E/G#</chords>
+Я разрушаю всё то, что стеной
+<chords>                   F#m                    D</chords>
+Нас разделяет Иисус с Тобой
+<chords>                        A                            E/G#</chords>
+Всё, что мешает нам быть вдвоём
+<chords>                      F#m                       D</chords>
+Иисус так хочу встречи с Тобой
 
-<blocks>
-<videlit_line>Проигрыш</videlit_line>
-<chopds>A D | A D</chopds>
-</blocks>
+Проигрыш
+<chords>A D | A D</chords>
 
-<blocks>
-<videlit_line>2 КУПЛЕТ</videlit_line>
-<chopds>F#m                               E</chopds>
-<text>Сердце стук славит лишь Тебя</text>
-<chopds> D                     E</chopds>
-<text>Бог мне дал новую жизнь</text>
-<chopds>F#m            E/G#</chopds>
-<text>Ты моя любовь навсегда</text>
-<chopds>              Hm                     D</chopds>
-<text>Не расстанемся никогда</text>
-</blocks>
+2 КУПЛЕТ
+<chords>F#m                               E</chords>
+Сердце стук славит лишь Тебя
+<chords> D                     E</chords>
+Бог мне дал новую жизнь
+<chords>F#m            E/G#</chords>
+Ты моя любовь навсегда
+<chords>              Hm                     D</chords>
+Не расстанемся никогда
 
-<blocks>
-<videlit_line>ПРИПЕВ: х2</videlit_line>
-<chopds>                 A                              E/G#</chopds>
-<text>Я разрушаю всё то, что стеной</text>
-<chopds>                   F#m                     D</chopds>
-<text>Нас разделяет Иисус с Тобой</text>
-<chopds>                       A                             E/G#</chopds>
-<text>Всё, что мешает нам быть вдвоём</text>
-<chopds>                      F#m                      D</chopds>
-<text>Иисус так хочу встречи с Тобой</text>
-</blocks>
+ПРИПЕВ: х2
+<chords>                 A                              E/G#</chords>
+Я разрушаю всё то, что стеной
+<chords>                   F#m                     D</chords>
+Нас разделяет Иисус с Тобой
+<chords>                       A                             E/G#</chords>
+Всё, что мешает нам быть вдвоём
+<chords>                      F#m                      D</chords>
+Иисус так хочу встречи с Тобой
 
-<blocks>
-<videlit_line>МОСТ</videlit_line>
-<chopds>                 D                  E</chopds>
-<text>Ты так близок мне, близок мне</text>
-<chopds>  F#m                    E</chopds>
-<text>Близок мне, Иисус</text>
-<chopds>                 D                  E</chopds>
-<text>Ты так близок мне, близок мне</text>
-<chopds>  F#m                    E</chopds>
-<text>Близок мне, Иисус</text>
-<chopds>               D                E                          F#m                           E</chopds>
-<text>Только Ты, Иисус, Ты Иисус, Только Ты, Иисус, Только Ты</text>
-<chopds>               D                E                          F#m                           E</chopds>
-<text>Только Ты, Иисус, Ты Иисус, Только Ты, Иисус, Только Ты</text>
-</blocks>
+МОСТ
+<chords>                 D                  E</chords>
+Ты так близок мне, близок мне
+<chords>  F#m                    E</chords>
+Близок мне, Иисус
+<chords>                 D                  E</chords>
+Ты так близок мне, близок мне
+<chords>  F#m                    E</chords>
+Близок мне, Иисус
+<chords>               D                E                          F#m                           E</chords>
+Только Ты, Иисус, Ты Иисус, Только Ты, Иисус, Только Ты
+<chords>               D                E                          F#m                           E</chords>
+Только Ты, Иисус, Ты Иисус, Только Ты, Иисус, Только Ты
 
-<blocks>
-<videlit_line>ПРИПЕВ: х2</videlit_line>
-<chopds>                 A                              E/G#</chopds>
-<text>Я разрушаю всё то, что стеной</text>
-<chopds>                   F#m                     D</chopds>
-<text>Нас разделяет Иисус с Тобой</text>
-<chopds>                       A                             E/G#</chopds>
-<text>Всё, что мешает нам быть вдвоём</text>
-<chopds>                      F#m                      D</chopds>
-<text>Иисус так хочу встречи с Тобой</text>
-</blocks>
+ПРИПЕВ: х2
+<chords>                 A                              E/G#</chords>
+Я разрушаю всё то, что стеной
+<chords>                   F#m                     D</chords>
+Нас разделяет Иисус с Тобой
+<chords>                       A                             E/G#</chords>
+Всё, что мешает нам быть вдвоём
+<chords>                      F#m                      D</chords>
+Иисус так хочу встречи с Тобой
 
-<blocks>
-<videlit_line>Проигрыш: х2</videlit_line>
-<chopds>A D | A D</chopds>
-</blocks>
+Проигрыш: х2
+<chords>A D | A D</chords>

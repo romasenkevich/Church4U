@@ -1,36 +1,30 @@
-Real Ivanna — К Тебе
+Номер: 219
+Автор: Real Ivanna
+Песня: К Тебе
 Источник: https://holychords.pro/219
 
-==================================================
+---
 
-<blocks>
-<chopds>| Hm A | G-A D |</chopds>
-</blocks>
+<chords>| Hm A | G-A D |</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Hm                                          A</chopds>
-<text>Ты простил мне мой грех, Ты забрал мою боль</text>
-<chopds>G                                            A                   D</chopds>
-<text>Развязал руки мне и поверил в меня</text>
-<chopds>Hm                           A</chopds>
-<text>Я искал силу в тех кто забыл про любовь</text>
-<chopds>G                                   A                                D</chopds>
-<text>Ты открыл мне глаза и наполнил меня</text>
-</blocks>
+1 куплет
+<chords>Hm                                          A</chords>
+Ты простил мне мой грех, Ты забрал мою боль
+<chords>G                                            A                   D</chords>
+Развязал руки мне и поверил в меня
+<chords>Hm                           A</chords>
+Я искал силу в тех кто забыл про любовь
+<chords>G                                   A                                D</chords>
+Ты открыл мне глаза и наполнил меня
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Без Тебя я никто, в этой жизни пустой</text>
-<text>Все вокруг суета если нет Тебя</text>
-<text>Опустился на дно, стал я веткой сухой</text>
-<text>Но Ты поднял тогда и утешил меня мой Бог</text>
-</blocks>
+2 куплет
+Без Тебя я никто, в этой жизни пустой
+Все вокруг суета если нет Тебя
+Опустился на дно, стал я веткой сухой
+Но Ты поднял тогда и утешил меня мой Бог
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>         Hm                           A                                  G</chopds>
-<text>К Тебе летит моя хвала и больше нет меня</text>
-<chopds>                                              A</chopds>
-<text>Лишь Ты живешь во мне Иисус</text>
-</blocks>
+Припев
+<chords>         Hm                           A                                  G</chords>
+К Тебе летит моя хвала и больше нет меня
+<chords>                                              A</chords>
+Лишь Ты живешь во мне Иисус

@@ -1,71 +1,63 @@
-Алексей Грудинский — Свет пролился
+Номер: 375
+Автор: Алексей Грудинский
+Песня: Свет пролился
 Источник: https://holychords.pro/375
 
-==================================================
+---
 
-<blocks>
-<chopds>Em                           C</chopds>
-<text>Свет пролился тьма ушла</text>
-<chopds>  Em                     C</chopds>
-<text>Дочь ожила, дочь Царя</text>
-<chopds>Am                                             Em</chopds>
-<text>И раскинув руки Царь в объятия зовёт</text>
-<chopds>      C                               D</chopds>
-<text>Туда где нет разлуки где любовь живёт</text>
-</blocks>
+<chords>Em                           C</chords>
+Свет пролился тьма ушла
+<chords>  Em                     C</chords>
+Дочь ожила, дочь Царя
+<chords>Am                                             Em</chords>
+И раскинув руки Царь в объятия зовёт
+<chords>      C                               D</chords>
+Туда где нет разлуки где любовь живёт
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                C</chopds>
-<text>Там где Имя словно звезда</text>
-<chopds>                  Em</chopds>
-<text>Там где слёзы Слёзы надежды</text>
-<chopds>                C</chopds>
-<text>От престола льётся река</text>
-<chopds>      Am                            D</chopds>
-<text>В этот мир где так много сомнений</text>
-<chopds>                C</chopds>
-<text>Что бы маски сняли сердца</text>
-<chopds>               Em</chopds>
-<text>Что бы дети оделись в прозрения</text>
-<chopds>          C</chopds>
-<text>Умирала но вновь ожила</text>
-<chopds>       Am                D</chopds>
-<text>Его дочь драгоценная вера</text>
-</blocks>
+Припев
+<chords>                C</chords>
+Там где Имя словно звезда
+<chords>                  Em</chords>
+Там где слёзы Слёзы надежды
+<chords>                C</chords>
+От престола льётся река
+<chords>      Am                            D</chords>
+В этот мир где так много сомнений
+<chords>                C</chords>
+Что бы маски сняли сердца
+<chords>               Em</chords>
+Что бы дети оделись в прозрения
+<chords>          C</chords>
+Умирала но вновь ожила
+<chords>       Am                D</chords>
+Его дочь драгоценная вера
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Свет пролился тьма ушла</text>
-<text>Дочь ожила , Дочь Царя</text>
-<text>Задышало сердце пробудившись для Отца</text>
-<text>Духом обновилась и за ним пошла</text>
-</blocks>
+2 куплет
+Свет пролился тьма ушла
+Дочь ожила , Дочь Царя
+Задышало сердце пробудившись для Отца
+Духом обновилась и за ним пошла
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                C</chopds>
-<text>Туда где Имя словно звезда</text>
-<chopds>                  Em</chopds>
-<text>Туда где слёзы Слёзы надежды</text>
-<chopds>                C</chopds>
-<text>От престола льётся река</text>
-<chopds>      Am                            D</chopds>
-<text>В этот мир где так много сомнений</text>
-<chopds>                C</chopds>
-<text>Что бы маски сняли сердца</text>
-<chopds>               Em</chopds>
-<text>Что бы дети оделись в прозрения</text>
-<chopds>          C</chopds>
-<text>Умирала но вновь ожила</text>
-<chopds>       Am                D</chopds>
-<text>Его дочь драгоценная вера</text>
-</blocks>
+Припев
+<chords>                C</chords>
+Туда где Имя словно звезда
+<chords>                  Em</chords>
+Туда где слёзы Слёзы надежды
+<chords>                C</chords>
+От престола льётся река
+<chords>      Am                            D</chords>
+В этот мир где так много сомнений
+<chords>                C</chords>
+Что бы маски сняли сердца
+<chords>               Em</chords>
+Что бы дети оделись в прозрения
+<chords>          C</chords>
+Умирала но вновь ожила
+<chords>       Am                D</chords>
+Его дочь драгоценная вера
 
-<blocks>
-<videlit_line>Концовка</videlit_line>
-<text>И воскресла пробудившись от сна</text>
-<text>И прижалась к Его совершенству</text>
-<text>Оставляя в дали берега</text>
-<text>Этот мир, где так много сомненья.</text>
-</blocks>
+Концовка
+И воскресла пробудившись от сна
+И прижалась к Его совершенству
+Оставляя в дали берега
+Этот мир, где так много сомненья.

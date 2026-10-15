@@ -1,46 +1,38 @@
-JoyYouth Worship — От ранней зари
+Номер: 347
+Автор: JoyYouth Worship
+Песня: От ранней зари
 Источник: https://holychords.pro/347
 
-==================================================
+---
 
-<blocks>
-<chopds>|  Hm  F#m  G  Em  |  Hm  F#m  G  |</chopds>
-</blocks>
+<chords>|  Hm  F#m  G  Em  |  Hm  F#m  G  |</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Em                      G                D                       Hm</chopds>
-<text>От ранней зари Тебя ищу встречи я жду с Тобой</text>
-<chopds>Em                     G                    D               Hm</chopds>
-<text>Видеть, мой Бог, Тебя хочу Твой обрести покой</text>
-<chopds>Em                 G                            D                        Hm</chopds>
-<text>Истинный Бог, Ты нужен мне вновь я к Тебе стремлюсь</text>
-<chopds>Em                     G                      D                        Hm</chopds>
-<text>И в предрассветной тишине я встречу Тебя, Иисус</text>
-</blocks>
+1 куплет
+<chords>Em                      G                D                       Hm</chords>
+От ранней зари Тебя ищу встречи я жду с Тобой
+<chords>Em                     G                    D               Hm</chords>
+Видеть, мой Бог, Тебя хочу Твой обрести покой
+<chords>Em                 G                            D                        Hm</chords>
+Истинный Бог, Ты нужен мне вновь я к Тебе стремлюсь
+<chords>Em                     G                      D                        Hm</chords>
+И в предрассветной тишине я встречу Тебя, Иисус
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>  G                       Hm                Em                         G</chopds>
-<text>Ты Господь Непобедимый Ты прекрасен и силён</text>
-</blocks>
+Пред припев
+<chords>  G                       Hm                Em                         G</chords>
+Ты Господь Непобедимый Ты прекрасен и силён
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>  D                  D/F#        G                        A</chopds>
-<text>Восхваляю Твоё Имя знаю, выше нет имен!</text>
-<chopds>  D                  D/F#        G                        A</chopds>
-<text>Восхваляю Твоё Имя знаю, выше нет имен!</text>
-<chopds>  D                   Am          G</chopds>
-<text>Восхваляю Твоё Имя знаю, выше нет имен!</text>
-<chopds> Hm                 F#m        G                       Em</chopds>
-<text>Восхваляю Твоё Имя знаю, выше нет имен!</text>
-</blocks>
+Припев
+<chords>  D                  D/F#        G                        A</chords>
+Восхваляю Твоё Имя знаю, выше нет имен!
+<chords>  D                  D/F#        G                        A</chords>
+Восхваляю Твоё Имя знаю, выше нет имен!
+<chords>  D                   Am          G</chords>
+Восхваляю Твоё Имя знаю, выше нет имен!
+<chords> Hm                 F#m        G                       Em</chords>
+Восхваляю Твоё Имя знаю, выше нет имен!
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>От ранней зари ищу Тебя с новым встречаюсь днём</text>
-<text>Жаждет Тебя душа моя сердце горит огнем</text>
-<text>Мой лучший Друг, моя Любовь Бог мой единственный</text>
-<text>Петь о Тебе не хватит слов Господь таинственный!</text>
-</blocks>
+2 куплет
+От ранней зари ищу Тебя с новым встречаюсь днём
+Жаждет Тебя душа моя сердце горит огнем
+Мой лучший Друг, моя Любовь Бог мой единственный
+Петь о Тебе не хватит слов Господь таинственный!

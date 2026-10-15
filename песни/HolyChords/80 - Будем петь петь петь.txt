@@ -1,48 +1,28 @@
-Виталий Ефремочкин — Будем петь петь петь
+Номер: 80
+Автор: Виталий Ефремочкин
+Песня: Будем петь петь петь
 Источник: https://holychords.pro/80
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>               E</chopds>
-<text>Будем петь, петь, петь с благодарными сердцами</text>
-<chopds>            C#m</chopds>
-<text>Будем петь, петь, петь вместе с небесами</text>
-<chopds>             H                         A                E</chopds>
-<text>Воспевать хвалу и славить Иисуса!</text>
-</blocks>
+Припев
+<chords>               E</chords>
+Будем петь, петь, петь с благодарными сердцами
+<chords>            C#m</chords>
+Будем петь, петь, петь вместе с небесами
+<chords>             H                         A                E</chords>
+Воспевать хвалу и славить Иисуса!
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>E</chopds>
-<text>Великий и Прекрасный народы все и царства</text>
-<chopds>C#m</chopds>
-<text>Перед Тобой склонятся, Божий Сын</text>
-<chopds>                          H                            A                        E</chopds>
-<text>Лишь для Тебя, лишь для Тебя вся жизнь моя</text>
-<chopds>E</chopds>
-<text>Ты нас освобождаешь с любовью направляешь</text>
-<chopds>C#m</chopds>
-<text>Огонь в нас зажигаешь, Божий Сын!</text>
-<chopds>                          H                            A                        E</chopds>
-<text>Лишь для Тебя, лишь для Тебя вся жизнь моя</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Gracetime Worship Band — Будем петь [Русский]
-  https://holychords.pro/14438
-- Chris Tomlin — Sing Sing Sing
-  https://holychords.pro/22531
-- Chris Tomlin — Будем петь, петь, петь [Русский]
-  https://holychords.pro/30758
-- Chris Tomlin — Всі, всі, всі [Украинский]
-  https://holychords.pro/35170
-- Chris Tomlin — Ми співаємо [Украинский]
-  https://holychords.pro/36488
-- Chris Tomlin — Будем славити з вдячними серцями! [Украинский]
-  https://holychords.pro/66846
-- Перемога Житомир — Ми співаємо славу разом [Украинский]
-  https://holychords.pro/68639
+Куплет
+<chords>E</chords>
+Великий и Прекрасный народы все и царства
+<chords>C#m</chords>
+Перед Тобой склонятся, Божий Сын
+<chords>                          H                            A                        E</chords>
+Лишь для Тебя, лишь для Тебя вся жизнь моя
+<chords>E</chords>
+Ты нас освобождаешь с любовью направляешь
+<chords>C#m</chords>
+Огонь в нас зажигаешь, Божий Сын!
+<chords>                          H                            A                        E</chords>
+Лишь для Тебя, лишь для Тебя вся жизнь моя

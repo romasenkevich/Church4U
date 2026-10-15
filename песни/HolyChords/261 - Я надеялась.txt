@@ -1,52 +1,46 @@
-Просто сосуды — Я надеялась
+Номер: 261
+Автор: Просто сосуды
+Песня: Я надеялась
 Источник: https://holychords.pro/261
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Bbm                G#                 F#                           Fm</chopds>
-<text>Я надеялась на человека, и так больно упала,</text>
-<chopds>Bbm                               G#                 F#                G#</chopds>
-<text>Сколько горьких я слёз пролила, но я не знала.</text>
-<chopds>       Bbm       G#  F#</chopds>
-<text>Не знала Тебя, и Твоей любви.</text>
-<chopds>H            F#                      G#  Bb</chopds>
-<text>Во мне сердце изменил.</text>
-</blocks>
+1 куплет
+<chords>Bbm                G#                 F#                           Fm</chords>
+Я надеялась на человека, и так больно упала,
+<chords>Bbm                               G#                 F#                G#</chords>
+Сколько горьких я слёз пролила, но я не знала.
+<chords>       Bbm       G#  F#</chords>
+Не знала Тебя, и Твоей любви.
+<chords>H            F#                      G#  Bb</chords>
+Во мне сердце изменил.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>D#  Bb  G#               Bb</chopds>
-<text>Иисус, Ты мой Спаситель навеки,</text>
-<chopds>D#  Bb  G#             Bb</chopds>
-<text>Иисус, сердце Тебе отдаю.</text>
-<chopds>D#  Bb  Fm             G          Cm                 Bb</chopds>
-<text>Иисус, Ты никогда не оставишь меня,</text>
-<chopds>             G#     Bb</chopds>
-<text>Я люблю Тебя, я Твоя.</text>
-</blocks>
+Припев
+<chords>D#  Bb  G#               Bb</chords>
+Иисус, Ты мой Спаситель навеки,
+<chords>D#  Bb  G#             Bb</chords>
+Иисус, сердце Тебе отдаю.
+<chords>D#  Bb  Fm             G          Cm                 Bb</chords>
+Иисус, Ты никогда не оставишь меня,
+<chords>             G#     Bb</chords>
+Я люблю Тебя, я Твоя.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Ты прости мне слабость мою, без Тебя ничего не могу я.</text>
-<text>Ты мне руку Свою протяни, к Тебе побегу я.</text>
-<text>И кто мне на небе, и кто на земле,</text>
-<text>Все мои мысли о Тебе.</text>
-<chopds>    Cm                 Bb           G#</chopds>
-<text>И кто мне на небе, и кто на земле,</text>
-<chopds>C#               G#              Bb   C</chopds>
-<text>Все мои мысли о Тебе.</text>
-</blocks>
+2 куплет
+Ты прости мне слабость мою, без Тебя ничего не могу я.
+Ты мне руку Свою протяни, к Тебе побегу я.
+И кто мне на небе, и кто на земле,
+Все мои мысли о Тебе.
+<chords>    Cm                 Bb           G#</chords>
+И кто мне на небе, и кто на земле,
+<chords>C#               G#              Bb   C</chords>
+Все мои мысли о Тебе.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>F     C    Bb                  C</chopds>
-<text>Иисус, Ты мой Спаситель навеки,</text>
-<chopds>F     C    Bb               C</chopds>
-<text>Иисус, сердце Тебе отдаю.</text>
-<chopds>F     C    Gm            A           Dm                 C</chopds>
-<text>Иисус, Ты никогда не оставишь меня,</text>
-<chopds>             Bb       C</chopds>
-<text>Я люблю Тебя, я Твоя.</text>
-</blocks>
+Припев
+<chords>F     C    Bb                  C</chords>
+Иисус, Ты мой Спаситель навеки,
+<chords>F     C    Bb               C</chords>
+Иисус, сердце Тебе отдаю.
+<chords>F     C    Gm            A           Dm                 C</chords>
+Иисус, Ты никогда не оставишь меня,
+<chords>             Bb       C</chords>
+Я люблю Тебя, я Твоя.

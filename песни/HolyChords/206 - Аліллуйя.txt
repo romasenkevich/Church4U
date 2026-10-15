@@ -1,31 +1,29 @@
-Неизвестен — Аліллуйя
+Номер: 206
+Автор: Неизвестен
+Песня: Аліллуйя
 Источник: https://holychords.pro/206
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Приспів</videlit_line>
-<chopds>  C              Em         F                 C</chopds>
-<chopds>Ха--ла-ла-ла--ла-ле--ле-лелуйя</chopds>
-<chopds>   F               C           G</chopds>
-<chopds>Ха--ла-ла-ла--ла-ле--ле-луйя</chopds>
-<chopds>  C              Em         F                 C</chopds>
-<chopds>Ха--ла-ла-ла--ла-ле--ле-лелуйя</chopds>
-<chopds>   F               C           G                    C F C G</chopds>
-<chopds>Ха--ла-ла-ла--ла-ле--ле-луйя</chopds>
-</blocks>
+Приспів
+<chords>  C              Em         F                 C</chords>
+<chords>Ха--ла-ла-ла--ла-ле--ле-лелуйя</chords>
+<chords>   F               C           G</chords>
+<chords>Ха--ла-ла-ла--ла-ле--ле-луйя</chords>
+<chords>  C              Em         F                 C</chords>
+<chords>Ха--ла-ла-ла--ла-ле--ле-лелуйя</chords>
+<chords>   F               C           G                    C F C G</chords>
+<chords>Ха--ла-ла-ла--ла-ле--ле-луйя</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>     C    Em              F                    C</chopds>
-<text>Привітай, привітай свого друга,</text>
-<chopds>     F    C               G</chopds>
-<text>Привітай привітай його.</text>
-<chopds>     C    Em              F                    C</chopds>
-<text>Привітай, привітай свого друга,</text>
-<chopds>     F    C               G                 C F C G</chopds>
-<text>Привітай привітай його.</text>
-<text>2. Усміхнись...</text>
-<text>3. Пощипай...</text>
-<text>4. Обніми...</text>
-</blocks>
+1 куплет
+<chords>     C    Em              F                    C</chords>
+Привітай, привітай свого друга,
+<chords>     F    C               G</chords>
+Привітай привітай його.
+<chords>     C    Em              F                    C</chords>
+Привітай, привітай свого друга,
+<chords>     F    C               G                 C F C G</chords>
+Привітай привітай його.
+2. Усміхнись...
+3. Пощипай...
+4. Обніми...

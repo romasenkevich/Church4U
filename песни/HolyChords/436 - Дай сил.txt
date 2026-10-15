@@ -1,76 +1,68 @@
-Они — Дай сил
+Номер: 436
+Автор: Они
+Песня: Дай сил
 Источник: https://holychords.pro/436
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Вступление</videlit_line>
-<chopds>Dm   C   Bb     Dm   C   G</chopds>
-</blocks>
+Вступление
+<chords>Dm   C   Bb     Dm   C   G</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds> Dm           C                      G</chopds>
-<text>Помоги! Не оставь! Пробуди! Силы дай!</text>
-<chopds>Gm                                          Em             A</chopds>
-<text>Не сгореть в огне обид и разочарований</text>
-<chopds>Dm            C                 G</chopds>
-<text>Эту боль не унять, как мне быть? Не понять.</text>
-<chopds>Gm                                                   Em                      A</chopds>
-<text>Но приходится признать, что жизнь порою ранит</text>
-<chopds> Gm                                  Dm</chopds>
-<text>Ты только Ты один Иисус у меня остался</text>
-<chopds> Bb                                  C</chopds>
-<text>Тот, Кто безусловно возлюбил</text>
-<chopds>     Gm                                     Dm</chopds>
-<text>Меня, только Ты один Иисус знаешь как несчастных</text>
-<chopds>Bb                                C             A</chopds>
-<text>Избавлять от боли и обид, и обид</text>
-</blocks>
+1 куплет
+<chords> Dm           C                      G</chords>
+Помоги! Не оставь! Пробуди! Силы дай!
+<chords>Gm                                          Em             A</chords>
+Не сгореть в огне обид и разочарований
+<chords>Dm            C                 G</chords>
+Эту боль не унять, как мне быть? Не понять.
+<chords>Gm                                                   Em                      A</chords>
+Но приходится признать, что жизнь порою ранит
+<chords> Gm                                  Dm</chords>
+Ты только Ты один Иисус у меня остался
+<chords> Bb                                  C</chords>
+Тот, Кто безусловно возлюбил
+<chords>     Gm                                     Dm</chords>
+Меня, только Ты один Иисус знаешь как несчастных
+<chords>Bb                                C             A</chords>
+Избавлять от боли и обид, и обид
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                     Dm</chopds>
-<text>О дай мне сил!</text>
-<chopds>                                     F</chopds>
-<text>Признать мое бессилие!</text>
-<chopds>                 C                                          G</chopds>
-<text>И душу черствую слезами окропить</text>
-<chopds>                       Dm</chopds>
-<text>Любить других!</text>
-<chopds>                                        F</chopds>
-<text>Не ждать, чтобы меня любили</text>
-<chopds>          C</chopds>
-<text>Прощать других</text>
-<chopds>                                   G</chopds>
-<text>Как Ты меня простил</text>
-<chopds>         Dm           Am</chopds>
-<text>Дай сил, дай сил</text>
-<chopds>           C                                     G</chopds>
-<text>Дай сил, о Боже дай мне сил</text>
-</blocks>
+Припев
+<chords>                     Dm</chords>
+О дай мне сил!
+<chords>                                     F</chords>
+Признать мое бессилие!
+<chords>                 C                                          G</chords>
+И душу черствую слезами окропить
+<chords>                       Dm</chords>
+Любить других!
+<chords>                                        F</chords>
+Не ждать, чтобы меня любили
+<chords>          C</chords>
+Прощать других
+<chords>                                   G</chords>
+Как Ты меня простил
+<chords>         Dm           Am</chords>
+Дай сил, дай сил
+<chords>           C                                     G</chords>
+Дай сил, о Боже дай мне сил
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Ты любил до конца, и жестокие сердца</text>
-<text>Ты любовью исцелял, к надежде воскрешая</text>
-<text>Ты страдал, Ты терпел! Отомстить не посмел</text>
-<text>Даже там, когда Тебя жестоко распинали</text>
-<text>Ты, только Ты один Иисус, претерпев распятье</text>
-<text>Нас так безусловно возлюбил..</text>
-<text>А мы.. распинаем любовь Твою..</text>
-<text>И не слышим, порой, как «люблю»</text>
-<text>Нам губы шепчут сквозь века.. С Креста!</text>
-</blocks>
+2 куплет
+Ты любил до конца, и жестокие сердца
+Ты любовью исцелял, к надежде воскрешая
+Ты страдал, Ты терпел! Отомстить не посмел
+Даже там, когда Тебя жестоко распинали
+Ты, только Ты один Иисус, претерпев распятье
+Нас так безусловно возлюбил..
+А мы.. распинаем любовь Твою..
+И не слышим, порой, как «люблю»
+Нам губы шепчут сквозь века.. С Креста!
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>    Gm                                                  Dm</chopds>
-<text>О как ужасно вдруг прозреть однажды</text>
-<chopds>                      C                                          G</chopds>
-<text>И сердца грешного увидеть темноту</text>
-<chopds>                   Gm                                           Dm</chopds>
-<text>И стало вдруг так больно, горько, страшно</text>
-<chopds>                   C                    Bb</chopds>
-<text>Что я не той была и жизнь вела не ту!</text>
-</blocks>
+Бридж
+<chords>    Gm                                                  Dm</chords>
+О как ужасно вдруг прозреть однажды
+<chords>                      C                                          G</chords>
+И сердца грешного увидеть темноту
+<chords>                   Gm                                           Dm</chords>
+И стало вдруг так больно, горько, страшно
+<chords>                   C                    Bb</chords>
+Что я не той была и жизнь вела не ту!

@@ -1,105 +1,79 @@
-Авана — Милость
+Номер: 117
+Автор: Авана
+Песня: Милость
 Источник: https://holychords.pro/117
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>Gm | C | F | F</chopds>
-<chopds>Gm | A | Dm | Dm</chopds>
-<chopds>Gm | C | F | Bb</chopds>
-<chopds>Gm | A | Dm | Dm</chopds>
-</blocks>
+Интро
+<chords>Gm | C | F | F</chords>
+<chords>Gm | A | Dm | Dm</chords>
+<chords>Gm | C | F | Bb</chords>
+<chords>Gm | A | Dm | Dm</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>                  Gm                 C          F                  Bb</chopds>
-<text>Лишь по милости Твоей я жива ещё теперь</text>
-<chopds>                   Gm                 A     Dm</chopds>
-<text>Создатель и благодарю Тебя.</text>
-<chopds>         Gm                 C               F                     Bb</chopds>
-<text>Твоя сильная рука, берегла меня всегда,</text>
-<chopds>          Gm   A                      Dm</chopds>
-<text>И это лишь милость Твоя</text>
-</blocks>
+1 куплет
+<chords>                  Gm                 C          F                  Bb</chords>
+Лишь по милости Твоей я жива ещё теперь
+<chords>                   Gm                 A     Dm</chords>
+Создатель и благодарю Тебя.
+<chords>         Gm                 C               F                     Bb</chords>
+Твоя сильная рука, берегла меня всегда,
+<chords>          Gm   A                      Dm</chords>
+И это лишь милость Твоя
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>               Gm                         A</chopds>
-<text>Пусть бегут года как вода,</text>
-<chopds>                 Gm                            A                        Dm</chopds>
-<text>Лишь бы не остыло никогда упование моё.</text>
-</blocks>
+Пред припев
+<chords>               Gm                         A</chords>
+Пусть бегут года как вода,
+<chords>                 Gm                            A                        Dm</chords>
+Лишь бы не остыло никогда упование моё.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                             Gm                 C          F</chopds>
-<text>Боже лишь на милость Твою уповаю,</text>
-<chopds>       Gm          A                Dm</chopds>
-<text>Уповаю на милость Твою.</text>
-<chopds>                             Gm                 C          F</chopds>
-<text>Боже лишь на милость Твою уповаю,</text>
-<chopds>       Gm          A                Dm</chopds>
-<text>Уповаю на милость Твою.</text>
-<chopds>       Gm          A                Dm</chopds>
-<text>Уповаю на милость Твою.</text>
-</blocks>
+Припев
+<chords>                             Gm                 C          F</chords>
+Боже лишь на милость Твою уповаю,
+<chords>       Gm          A                Dm</chords>
+Уповаю на милость Твою.
+<chords>                             Gm                 C          F</chords>
+Боже лишь на милость Твою уповаю,
+<chords>       Gm          A                Dm</chords>
+Уповаю на милость Твою.
+<chords>       Gm          A                Dm</chords>
+Уповаю на милость Твою.
 
-<blocks>
-<videlit_line>Проигрыш</videlit_line>
-<chopds>Gm | C | F | F</chopds>
-<chopds>Gm | A | Dm | Dm</chopds>
-<chopds>Gm | C | F | Bb</chopds>
-<chopds>Gm | A | Dm | Dm</chopds>
-</blocks>
+Проигрыш
+<chords>Gm | C | F | F</chords>
+<chords>Gm | A | Dm | Dm</chords>
+<chords>Gm | C | F | Bb</chords>
+<chords>Gm | A | Dm | Dm</chords>
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Уповающий на Тебя не постыдится никогда,</text>
-<text>Лишь потому что она выше суда.</text>
-<text>Твоя милость велика не достойна её я,</text>
-<text>Вся моя жизнь - это милость Твоя.</text>
-</blocks>
+2 куплет
+Уповающий на Тебя не постыдится никогда,
+Лишь потому что она выше суда.
+Твоя милость велика не достойна её я,
+Вся моя жизнь - это милость Твоя.
 
-<blocks>
-<videlit_line>Проигрыш</videlit_line>
-<chopds>Gm | C | F | Bb</chopds>
-<chopds>Gm | A | Dm | Dm</chopds>
-<chopds>Gm | C | F | Bb</chopds>
-<chopds>Gm | A | Dm | Dm</chopds>
-<chopds>Gm | A | Gm | A | Bb</chopds>
-</blocks>
+Проигрыш
+<chords>Gm | C | F | Bb</chords>
+<chords>Gm | A | Dm | Dm</chords>
+<chords>Gm | C | F | Bb</chords>
+<chords>Gm | A | Dm | Dm</chords>
+<chords>Gm | A | Gm | A | Bb</chords>
 
-<blocks>
-<videlit_line>Мост: +1</videlit_line>
-<chopds>Bb                  Ebm</chopds>
-<text>Упование моё!</text>
-</blocks>
+Мост: +1
+<chords>Bb                  Ebm</chords>
+Упование моё!
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                            Abm                Db          Gb</chopds>
-<text>Боже лишь на милость Твою уповаю,</text>
-<chopds>       Abm      Bb                Ebm</chopds>
-<text>Уповаю на милость Твою.</text>
-<chopds>                            Abm                Db          Gb</chopds>
-<text>Боже лишь на милость Твою уповаю,</text>
-<chopds>       Abm      Bb                Ebm</chopds>
-<text>Уповаю на милость Твою.</text>
-<chopds>       Abm      Bb                Ebm</chopds>
-<text>Уповаю на милость Твою.</text>
-</blocks>
+Припев
+<chords>                            Abm                Db          Gb</chords>
+Боже лишь на милость Твою уповаю,
+<chords>       Abm      Bb                Ebm</chords>
+Уповаю на милость Твою.
+<chords>                            Abm                Db          Gb</chords>
+Боже лишь на милость Твою уповаю,
+<chords>       Abm      Bb                Ebm</chords>
+Уповаю на милость Твою.
+<chords>       Abm      Bb                Ebm</chords>
+Уповаю на милость Твою.
 
-<blocks>
-<videlit_line>Концовка: x2</videlit_line>
-<chopds>Abm | Db | Gb | H</chopds>
-<chopds>Abm | Bb | Ebm</chopds>
-</blocks>
-
-==================================================
-Translation songs
-
-- Авана — Милість [Украинский]
-  https://holychords.pro/35376
-- Авана — Лиш по милості Твоїй [Украинский]
-  https://holychords.pro/76422
+Концовка: x2
+<chords>Abm | Db | Gb | H</chords>
+<chords>Abm | Bb | Ebm</chords>

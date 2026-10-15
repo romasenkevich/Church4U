@@ -1,19 +1,19 @@
-Филип Реннер — Я весь Твой
+Номер: 351
+Автор: Филип Реннер
+Песня: Я весь Твой
 Источник: https://holychords.pro/351
 
-==================================================
+---
 
-<blocks>
-<chopds>A                  Hsus</chopds>
-<text>О-о-о, я весь Твой</text>
-<chopds>    C#m                 A</chopds>
-<text>Иисус, я весь Твой</text>
-<chopds>                  A   E   Hsus</chopds>
-<text>Я весь Твой</text>
-<chopds>                  A   E   Hsus</chopds>
-<text>Я весь Твой</text>
-<chopds>      A                   F#m</chopds>
-<text>Я весь Твой, я весь Твой</text>
-<chopds>              C#m   Hsus</chopds>
-<text>Я весь Твой</text>
-</blocks>
+<chords>A                  Hsus</chords>
+О-о-о, я весь Твой
+<chords>    C#m                 A</chords>
+Иисус, я весь Твой
+<chords>                  A   E   Hsus</chords>
+Я весь Твой
+<chords>                  A   E   Hsus</chords>
+Я весь Твой
+<chords>      A                   F#m</chords>
+Я весь Твой, я весь Твой
+<chords>              C#m   Hsus</chords>
+Я весь Твой

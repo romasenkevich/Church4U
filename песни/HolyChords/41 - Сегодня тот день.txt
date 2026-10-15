@@ -1,68 +1,50 @@
-New Beginnings Worship — Сегодня тот день
+Номер: 41
+Автор: New Beginnings Worship
+Песня: Сегодня тот день
 BPM: 125
 Источник: https://holychords.pro/41
 
-==================================================
+---
 
-<blocks>
-<chopds>D  Hm  A  G</chopds>
-</blocks>
+<chords>D  Hm  A  G</chords>
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>                       D       Hm  A    G                  D       Hm    A      G</chopds>
-<text>Оставив заботы все,    забуду все прошлое,</text>
-<chopds>                           D       Hm       A  G     Em    G</chopds>
-<text>И сердце направлю я к Тебе, Иисус!</text>
-<chopds>                            D      Hm  A        G       D      Hm    A        G</chopds>
-<text>Держусь я Твоей руки, с Тобою имею все,</text>
-<chopds>                            D      Hm          A                 G           Em              G</chopds>
-<text>И знаю так много благ хранишь для нас мой Бог, мой Бог!</text>
-</blocks>
+Куплет
+<chords>                       D       Hm  A    G                  D       Hm    A      G</chords>
+Оставив заботы все,    забуду все прошлое,
+<chords>                           D       Hm       A  G     Em    G</chords>
+И сердце направлю я к Тебе, Иисус!
+<chords>                            D      Hm  A        G       D      Hm    A        G</chords>
+Держусь я Твоей руки, с Тобою имею все,
+<chords>                            D      Hm          A                 G           Em              G</chords>
+И знаю так много благ хранишь для нас мой Бог, мой Бог!
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                              D           A/C#</chopds>
-<text>Ты создал для нас этот день</text>
-<chopds>                                 Hm                             G</chopds>
-<text>В радость всем нам и для славы Своей!</text>
-<chopds>                              D             A/C#</chopds>
-<text>Ты создал для нас этот день</text>
-<chopds>                                 Hm                             G</chopds>
-<text>В радость всем нам и для славы Своей!</text>
-<chopds>Em                      D/F#</chopds>
-<text>Не боюсь, что будет завтра,</text>
-<chopds>      G                           A</chopds>
-<text>Я верю Твоим словам!</text>
-<chopds>                           D  Hm  A  G</chopds>
-<text>Сегодня тот день!</text>
-<chopds>A  D/F#  Hm  G  D</chopds>
-</blocks>
+Припев
+<chords>                              D           A/C#</chords>
+Ты создал для нас этот день
+<chords>                                 Hm                             G</chords>
+В радость всем нам и для славы Своей!
+<chords>                              D             A/C#</chords>
+Ты создал для нас этот день
+<chords>                                 Hm                             G</chords>
+В радость всем нам и для славы Своей!
+<chords>Em                      D/F#</chords>
+Не боюсь, что будет завтра,
+<chords>      G                           A</chords>
+Я верю Твоим словам!
+<chords>                           D  Hm  A  G</chords>
+Сегодня тот день!
+<chords>A  D/F#  Hm  G  D</chords>
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>      D                                   G</chopds>
-<text>Верю я Твоим словам</text>
-<chopds>      D                                   G</chopds>
-<text>Каждый день мой для Тебя</text>
-</blocks>
+Мост
+<chords>      D                                   G</chords>
+Верю я Твоим словам
+<chords>      D                                   G</chords>
+Каждый день мой для Тебя
 
-<blocks>
-<videlit_line>Концовка</videlit_line>
-<chopds>Em                   D/F#                 G                   A</chopds>
-<text>Не боюсь, что будет завтра свою боль Тебе отдам я</text>
-<chopds>Em               D/F#                     G                         A</chopds>
-<text>И пойду, как поведёшь Ты я верю Твоим словам</text>
-<chopds>                          D   Hm   A   G</chopds>
-<text>Сегодня тот день!</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Виталий Ефремочкин — Сегодня тот день [Русский]
-  https://holychords.pro/145
-- NG Worship — Для Твоей славы [Русский]
-  https://holychords.pro/6187
-- Lincoln Brewster — Today is the Day [Английский]
-  https://holychords.pro/25873
+Концовка
+<chords>Em                   D/F#                 G                   A</chords>
+Не боюсь, что будет завтра свою боль Тебе отдам я
+<chords>Em               D/F#                     G                         A</chords>
+И пойду, как поведёшь Ты я верю Твоим словам
+<chords>                          D   Hm   A   G</chords>
+Сегодня тот день!

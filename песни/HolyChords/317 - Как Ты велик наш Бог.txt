@@ -1,58 +1,42 @@
-Hillsong Ukraine — Как Ты велик наш Бог
+Номер: 317
+Автор: Hillsong Ukraine
+Песня: Как Ты велик наш Бог
 Источник: https://holychords.pro/317
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>                   C                   G                       D</chopds>
-<text>Мне всё больше Бог открывай Себя,</text>
-<chopds>               C                G                        D</chopds>
-<text>Сердце успокой тем, что вижу я.</text>
-<chopds>                     C                G                      D</chopds>
-<text>Всё, что знаю я, Ты растяни во мне.</text>
-<chopds>                  C                             D</chopds>
-<text>Ты -мой Бог, превыше всех!</text>
-</blocks>
+1 куплет
+<chords>                   C                   G                       D</chords>
+Мне всё больше Бог открывай Себя,
+<chords>               C                G                        D</chords>
+Сердце успокой тем, что вижу я.
+<chords>                     C                G                      D</chords>
+Всё, что знаю я, Ты растяни во мне.
+<chords>                  C                             D</chords>
+Ты -мой Бог, превыше всех!
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>             C            G             D    Em</chopds>
-<text>Не объять Тебя всем небесам,</text>
-<chopds>                 C           G               D</chopds>
-<text>Не вместить величие Твоё.</text>
-<chopds>                   C               G                       D        Em</chopds>
-<text>Пусть отдам всю жизнь - не смогу постичь</text>
-<chopds>                   C             G                          D</chopds>
-<text>Я до конца - как Ты велик наш Бог!</text>
-</blocks>
+Припев
+<chords>             C            G             D    Em</chords>
+Не объять Тебя всем небесам,
+<chords>                 C           G               D</chords>
+Не вместить величие Твоё.
+<chords>                   C               G                       D        Em</chords>
+Пусть отдам всю жизнь - не смогу постичь
+<chords>                   C             G                          D</chords>
+Я до конца - как Ты велик наш Бог!
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Помоги увидеть дальше, чем сейчас.</text>
-<text>Чтобы верить мне и победить свой страх,</text>
-<text>Что Ты Один царишь Господь над всем,</text>
-<text>Ты - мой Бог, превыше всех!</text>
-</blocks>
+2 куплет
+Помоги увидеть дальше, чем сейчас.
+Чтобы верить мне и победить свой страх,
+Что Ты Один царишь Господь над всем,
+Ты - мой Бог, превыше всех!
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>               C                        G                 D</chopds>
-<text>И не сможет в этом мире отделить нас.</text>
-<chopds>                       C                    G                        D                         Em</chopds>
-<text>Ничто не сможет отделить нас от Твоей любви наш Бог.</text>
-<chopds>         C                    G            D            Em</chopds>
-<text>Ни жизнь, ни смерть, знаю я теперь.</text>
-<chopds>             C                                D</chopds>
-<text>Ведь Ты - мой Бог, превыше всех!</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Hillsong Ukraine — Как Ты Велик Наш Бог [Русский]
-  https://holychords.pro/930
-- Hillsong Worship — The Greatness of Our God [Английский]
-  https://holychords.pro/13547
-- Hillsong Worship — Який Великий Бог [Украинский]
-  https://holychords.pro/35152
+Мост
+<chords>               C                        G                 D</chords>
+И не сможет в этом мире отделить нас.
+<chords>                       C                    G                        D                         Em</chords>
+Ничто не сможет отделить нас от Твоей любви наш Бог.
+<chords>         C                    G            D            Em</chords>
+Ни жизнь, ни смерть, знаю я теперь.
+<chords>             C                                D</chords>
+Ведь Ты - мой Бог, превыше всех!

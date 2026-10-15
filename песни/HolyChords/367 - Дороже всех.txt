@@ -1,32 +1,32 @@
-Holy Generation — Дороже всех
+Номер: 367
+Автор: Holy Generation
+Песня: Дороже всех
 Источник: https://holychords.pro/367
 
-==================================================
+---
 
-<blocks>
-<chopds>Em               D           C            D/F#  G</chopds>
-<text>Дороже всех желаний моих,</text>
-<chopds>Em               D          C    D/F#  G</chopds>
-<text>Дороже всех друзей.</text>
-<chopds>Em            D                 C               D/F#  G</chopds>
-<text>Ты один, Кто мой мир изменил.</text>
-<chopds>Em                     D            C   D/F#  G</chopds>
-<text>Достоин Ты всей хвалы.</text>
-<chopds>C  D</chopds>
-<chopds>           Em    D/F#            G</chopds>
-<text>Возьми всё сердце моё,</text>
-<chopds>                         C</chopds>
-<text>Всю душу мою,</text>
-<chopds>                               G         D/F#</chopds>
-<text>Собой жизнь мою – заполни.</text>
-<chopds>       Em         D/F#            G</chopds>
-<text>Господь, Тебе поклонюсь,</text>
-<chopds>                                   C</chopds>
-<text>Пред Тобою склонюсь,</text>
-<chopds>                                   G                D/F#</chopds>
-<text>Несмотря ни на что, прославлю Тебя.</text>
-<chopds>          C</chopds>
-<text>Во всем Тебе доверяю,</text>
-<chopds>         G</chopds>
-<text>Во всем на Тебя уповаю.</text>
-</blocks>
+<chords>Em               D           C            D/F#  G</chords>
+Дороже всех желаний моих,
+<chords>Em               D          C    D/F#  G</chords>
+Дороже всех друзей.
+<chords>Em            D                 C               D/F#  G</chords>
+Ты один, Кто мой мир изменил.
+<chords>Em                     D            C   D/F#  G</chords>
+Достоин Ты всей хвалы.
+<chords>C  D</chords>
+<chords>           Em    D/F#            G</chords>
+Возьми всё сердце моё,
+<chords>                         C</chords>
+Всю душу мою,
+<chords>                               G         D/F#</chords>
+Собой жизнь мою – заполни.
+<chords>       Em         D/F#            G</chords>
+Господь, Тебе поклонюсь,
+<chords>                                   C</chords>
+Пред Тобою склонюсь,
+<chords>                                   G                D/F#</chords>
+Несмотря ни на что, прославлю Тебя.
+<chords>          C</chords>
+Во всем Тебе доверяю,
+<chords>         G</chords>
+Во всем на Тебя уповаю.

@@ -1,50 +1,36 @@
-Маханаим — Адонай
+Номер: 348
+Автор: Маханаим
+Песня: Адонай
 BPM: 160
 Источник: https://holychords.pro/348
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>G#m  E  H  F#</chopds>
-</blocks>
+Интро
+<chords>G#m  E  H  F#</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>G#m                                  H</chopds>
-<text>Кто сей Царь славы, Господь великий</text>
-<chopds> F#                                       C#m</chopds>
-<text>Сильный и крепкий, в брани Своей,</text>
-<chopds> G#m                         H</chopds>
-<text>Благословен Ты, Бог Вседержитель,</text>
-<chopds>    F#                                C#m</chopds>
-<text>Слово Твоё - правды чистой елей</text>
-</blocks>
+1 куплет
+<chords>G#m                                  H</chords>
+Кто сей Царь славы, Господь великий
+<chords> F#                                       C#m</chords>
+Сильный и крепкий, в брани Своей,
+<chords> G#m                         H</chords>
+Благословен Ты, Бог Вседержитель,
+<chords>    F#                                C#m</chords>
+Слово Твоё - правды чистой елей
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>               G#m                           E</chopds>
-<text>Слава Тебе вовеки, о Адонай великий,</text>
-<chopds>             H               F#</chopds>
-<text>Господи, Господи.</text>
-<chopds>                G#m                          E</chopds>
-<text>Слава Тебе вовеки, о Адонай великий,</text>
-<chopds>             H               F#</chopds>
-<text>Господи, Господи.</text>
-</blocks>
+Припев
+<chords>               G#m                           E</chords>
+Слава Тебе вовеки, о Адонай великий,
+<chords>             H               F#</chords>
+Господи, Господи.
+<chords>                G#m                          E</chords>
+Слава Тебе вовеки, о Адонай великий,
+<chords>             H               F#</chords>
+Господи, Господи.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Кто сей Царь Славы, кроткий и дивный</text>
-<text>Пробиты руки, возложен венец</text>
-<text>Бог в Своём Сыне послал оправдание</text>
-<text>Вернул в Свою обитель заблудших овец.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Скиния Worship — Адонай [Русский]
-  https://holychords.pro/4157
-- Маханаим — Адонай [Украинский]
-  https://holychords.pro/15439
+2 куплет
+Кто сей Царь Славы, кроткий и дивный
+Пробиты руки, возложен венец
+Бог в Своём Сыне послал оправдание
+Вернул в Свою обитель заблудших овец.

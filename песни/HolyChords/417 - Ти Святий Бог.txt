@@ -1,73 +1,45 @@
-Влад Фонки — Ти Святий Бог
+Номер: 417
+Автор: Влад Фонки
+Песня: Ти Святий Бог
 Источник: https://holychords.pro/417
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Інтро</videlit_line>
-<chopds>| G | C  D |</chopds>
-</blocks>
+Інтро
+<chords>| G | C  D |</chords>
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>              G                         C</chopds>
-<text>Ти Святий Бог,  Всемогутній,</text>
-<chopds>            Am                                       D</chopds>
-<text>Ти достойний достойний хвали.</text>
-<chopds>            G                  C</chopds>
-<text>За Тобою буду йти я</text>
-<chopds>       Am           D             G         D            G</chopds>
-<text>І любити, Тебе завжди, Тебе завжди.</text>
-</blocks>
+Куплет
+<chords>              G                         C</chords>
+Ти Святий Бог,  Всемогутній,
+<chords>            Am                                       D</chords>
+Ти достойний достойний хвали.
+<chords>            G                  C</chords>
+За Тобою буду йти я
+<chords>       Am           D             G         D            G</chords>
+І любити, Тебе завжди, Тебе завжди.
 
-<blocks>
-<videlit_line>Приспів</videlit_line>
-<chopds>            C                          D</chopds>
-<text>Ти є Цар царів Ти є  Пан панів</text>
-<chopds>         Em                        Hm</chopds>
-<text>Ти могутній Бог і Господь всього,</text>
-<chopds>             C                         D</chopds>
-<text>Ти Еммануїл, той хто є завжди</text>
-<chopds>          Em                               Hm</chopds>
-<text>Ти є миру князь, Агнець Божий Ти</text>
-<chopds>           C                                       D</chopds>
-<text>Ти - живий Господь, благодать в Тобі</text>
-<chopds>        Em                    Hm</chopds>
-<text> І царюєш Ти, навіки віків,</text>
-<chopds>           C                                 D</chopds>
-<text>  Ти є Альфа, Омега, Початок, Кінець,</text>
-<chopds>              Em                                 Hm</chopds>
-<text>  Ти Спаситель, Месія, мій Друг, і Отець.</text>
-<chopds>            C                                 D                     G</chopds>
-<text>Ти є Миру Князь, я віддаю життя Тобі</text>
-</blocks>
+Приспів
+<chords>            C                          D</chords>
+Ти є Цар царів Ти є  Пан панів
+<chords>         Em                        Hm</chords>
+Ти могутній Бог і Господь всього,
+<chords>             C                         D</chords>
+Ти Еммануїл, той хто є завжди
+<chords>          Em                               Hm</chords>
+Ти є миру князь, Агнець Божий Ти
+<chords>           C                                       D</chords>
+Ти - живий Господь, благодать в Тобі
+<chords>        Em                    Hm</chords>
+І царюєш Ти, навіки віків,
+<chords>           C                                 D</chords>
+Ти є Альфа, Омега, Початок, Кінець,
+<chords>              Em                                 Hm</chords>
+Ти Спаситель, Месія, мій Друг, і Отець.
+<chords>            C                                 D                     G</chords>
+Ти є Миру Князь, я віддаю життя Тобі
 
-<blocks>
-<videlit_line>Заспів</videlit_line>
-<text>Я співаю і славлю</text>
-<text>Для Царя, що достойний,</text>
-<text>Я люблю, поклоняюсь,</text>
-<text>Перед Ним я схиляюсь.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Michael W. Smith — You are Holy (Prince of Peace) [Английский]
-  https://holychords.pro/13406
-- Наталья Доценко — Ты Святой Бог [Русский]
-  https://holychords.pro/13407
-- Ян Прадвесьнік царква — Ты - Сьвяты Бог [Белорусский]
-  https://holychords.pro/22059
-- Sonic Praise — You are Holy (Prince of Peace) [Английский]
-  https://holychords.pro/38875
-- Добра Новина Трускавець — Ти Святий Бог [Украинский]
-  https://holychords.pro/44645
-- Davidias — Princ mira [Хорватский]
-  https://holychords.pro/77950
-- Неизвестен — Ти си совршен [Македонский]
-  https://holychords.pro/80227
-- Stichting Opwekking — U bent heilig (609) [Нидерландский]
-  https://holychords.pro/80295
-- Andrea Fontes — Tu És Santo (Príncipe da Paz) [Португальский]
-  https://holychords.pro/80296
+Заспів
+Я співаю і славлю
+Для Царя, що достойний,
+Я люблю, поклоняюсь,
+Перед Ним я схиляюсь.

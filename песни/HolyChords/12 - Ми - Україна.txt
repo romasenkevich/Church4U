@@ -1,69 +1,61 @@
-Брія Блессінг — Ми - Україна
+Номер: 12
+Автор: Брія Блессінг
+Песня: Ми - Україна
 Источник: https://holychords.pro/12
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>Am G Dm E</chopds>
-</blocks>
+Интро
+<chords>Am G Dm E</chords>
 
-<blocks>
-<videlit_line>1 Куплет</videlit_line>
-<chopds>Am                 G</chopds>
-<text>Всі чорні птахи злетілись на схід</text>
-<chopds>Dm                 E</chopds>
-<text>Закрили нам сонце й світлі дні</text>
-<chopds>Am            G</chopds>
-<text>А наші летять в них страху нема</text>
-<chopds>Dm                      E                  Dm      H7</chopds>
-<text>Ще трохи й розійдеться пітьма, і знаєм ми.</text>
-</blocks>
+1 Куплет
+<chords>Am                 G</chords>
+Всі чорні птахи злетілись на схід
+<chords>Dm                 E</chords>
+Закрили нам сонце й світлі дні
+<chords>Am            G</chords>
+А наші летять в них страху нема
+<chords>Dm                      E                  Dm      H7</chords>
+Ще трохи й розійдеться пітьма, і знаєм ми.
 
-<blocks>
-<videlit_line>Приспів</videlit_line>
-<chopds>Em</chopds>
-<text>Це синьо-жовта земля</text>
-<chopds>G                       C</chopds>
-<text>Єдина наша країна</text>
-<chopds>                H7</chopds>
-<text>В нас є світле майбуття</text>
-<chopds>Em</chopds>
-<text>Так, Україна жива</text>
-<chopds>G                                     C</chopds>
-<text>З вершин хай всі заспівають разом</text>
-<chopds>        H7        Am</chopds>
-<text>Ми - Україна</text>
-</blocks>
+Приспів
+<chords>Em</chords>
+Це синьо-жовта земля
+<chords>G                       C</chords>
+Єдина наша країна
+<chords>                H7</chords>
+В нас є світле майбуття
+<chords>Em</chords>
+Так, Україна жива
+<chords>G                                     C</chords>
+З вершин хай всі заспівають разом
+<chords>        H7        Am</chords>
+Ми - Україна
 
-<blocks>
-<videlit_line>2 Куплет</videlit_line>
-<chopds>Am                 G</chopds>
-<text>О, мамо, мамо, не плач за мене молись</text>
-<chopds>Dm                 E</chopds>
-<text>Підтримуй любов'ю Ти мене</text>
-<chopds>Am            G</chopds>
-<text>І в серці завжди з Тобою я є</text>
-<chopds>Dm                      E                  Dm      H7</chopds>
-<text>І в серці моєму будеш Ти, і пам'ятай</text>
-</blocks>
+2 Куплет
+<chords>Am                 G</chords>
+О, мамо, мамо, не плач за мене молись
+<chords>Dm                 E</chords>
+Підтримуй любов'ю Ти мене
+<chords>Am            G</chords>
+І в серці завжди з Тобою я є
+<chords>Dm                      E                  Dm      H7</chords>
+І в серці моєму будеш Ти, і пам'ятай
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>E</chopds>
-<text>Небесний наш Ти Отець</text>
-<chopds>Am</chopds>
-<text>Хай прийде царство Твоє</text>
-<chopds>Dm</chopds>
-<text>Хай буде воля Твоя</text>
-<chopds>G              Dm</chopds>
-<text>Тобі вся слава й хвала</text>
-<chopds>E</chopds>
-<text>Благаєм Ти бережи</text>
-<chopds>Am</chopds>
-<text>Наших сестер і братів</text>
-<chopds>Dm</chopds>
-<text>Тримай у Своїх руках</text>
-<chopds>G                     Dm</chopds>
-<text>Й святиться Твоє Ім'я</text>
-</blocks>
+Мост
+<chords>E</chords>
+Небесний наш Ти Отець
+<chords>Am</chords>
+Хай прийде царство Твоє
+<chords>Dm</chords>
+Хай буде воля Твоя
+<chords>G              Dm</chords>
+Тобі вся слава й хвала
+<chords>E</chords>
+Благаєм Ти бережи
+<chords>Am</chords>
+Наших сестер і братів
+<chords>Dm</chords>
+Тримай у Своїх руках
+<chords>G                     Dm</chords>
+Й святиться Твоє Ім'я

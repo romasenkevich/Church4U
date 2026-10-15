@@ -1,85 +1,63 @@
-Божье прикосновение — Он воскрес
+Номер: 176
+Автор: Божье прикосновение
+Песня: Он воскрес
 Источник: https://holychords.pro/176
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>G# D# Fm</chopds>
-<chopds>C# D#sus D#</chopds>
-</blocks>
+Интро
+<chords>G# D# Fm</chords>
+<chords>C# D#sus D#</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>               G#                                   D#/G                        Fm</chopds>
-<text>Вспоминаю тот день, как когда-то большие мученья,</text>
-<chopds>    Bbm                           C#                      D#sus   D#</chopds>
-<text>Иисус на Голгофе понёс за тебя и меня.</text>
-<chopds>                C                            C/E                          Fm</chopds>
-<text>Он оставил престол, умирая за все согрешенья,</text>
-<chopds>                 Bbm                                      C#                           D#sus   D#</chopds>
-<text>В третий день же воскрес, всей славою мир возлюбя.</text>
-</blocks>
+1 куплет
+<chords>               G#                                   D#/G                        Fm</chords>
+Вспоминаю тот день, как когда-то большие мученья,
+<chords>    Bbm                           C#                      D#sus   D#</chords>
+Иисус на Голгофе понёс за тебя и меня.
+<chords>                C                            C/E                          Fm</chords>
+Он оставил престол, умирая за все согрешенья,
+<chords>                 Bbm                                      C#                           D#sus   D#</chords>
+В третий день же воскрес, всей славою мир возлюбя.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                G#                             D#/G</chopds>
-<text>Он воскрес, да звучит Ему слава,</text>
-<chopds>                Fm</chopds>
-<text>Он воскрес, пусть несётся хвала,</text>
-<chopds>                C#                         G#</chopds>
-<text>Он воскрес, аллилуйя осанна,</text>
-<chopds>             Bbm                          D#</chopds>
-<text>Он воскрес, Ему вечная честь.</text>
-<chopds>                G#                               D#/G</chopds>
-<text>Он воскрес, да звучит Ему слава,</text>
-<chopds>               Fm</chopds>
-<text>Он воскрес, пусть несётся хвала,</text>
-<chopds>              Bbm           Cm       C#</chopds>
-<text>Он воскрес, аллилуйя осанна,</text>
-<chopds>D#           Fm  C#  G#  D#  Fm  C#  G#  D#</chopds>
-<text>Он воскрес...</text>
-</blocks>
+Припев
+<chords>                G#                             D#/G</chords>
+Он воскрес, да звучит Ему слава,
+<chords>                Fm</chords>
+Он воскрес, пусть несётся хвала,
+<chords>                C#                         G#</chords>
+Он воскрес, аллилуйя осанна,
+<chords>             Bbm                          D#</chords>
+Он воскрес, Ему вечная честь.
+<chords>                G#                               D#/G</chords>
+Он воскрес, да звучит Ему слава,
+<chords>               Fm</chords>
+Он воскрес, пусть несётся хвала,
+<chords>              Bbm           Cm       C#</chords>
+Он воскрес, аллилуйя осанна,
+<chords>D#           Fm  C#  G#  D#  Fm  C#  G#  D#</chords>
+Он воскрес...
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Пусть несётся хвала, благодать перед всяким народом.</text>
-<text>И до края земли, в каждый дом вознесётся она.</text>
-<text>Каждый в сердце её мог носить день за днём, год за годом.</text>
-<text>Говорить всем о ней, помнить что воскресенье лишь в Нём.</text>
-</blocks>
+2 куплет
+Пусть несётся хвала, благодать перед всяким народом.
+И до края земли, в каждый дом вознесётся она.
+Каждый в сердце её мог носить день за днём, год за годом.
+Говорить всем о ней, помнить что воскресенье лишь в Нём.
 
-<blocks>
-<videlit_line>припев: модуляция с переходом</videlit_line>
-<chopds>Esus4  E</chopds>
-<chopds>                 A                               E/G#</chopds>
-<text>Он воскрес, да звучит Ему слава,</text>
-<chopds>               F#m</chopds>
-<text>Он воскрес, пусть несётся хвала,</text>
-<chopds>                 D                           A</chopds>
-<text>Он воскрес, аллилуйя осанна,</text>
-<chopds>               Hm                           E</chopds>
-<text>Он воскрес, Ему вечная честь.</text>
-<chopds>                 A                                E/G#</chopds>
-<text>Он воскрес, да звучит Ему слава,</text>
-<chopds>               F#m</chopds>
-<text>Он воскрес, пусть несётся хвала,</text>
-<chopds>              Hm                         E</chopds>
-<text>Он воскрес, аллилуйя осанна,</text>
-<chopds>               F#m  D  A  E        F#m  D  A  E</chopds>
-<text>Он воскрес...    Он воскрес...</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Альфа — Він Воскрес [Украинский]
-  https://holychords.pro/15631
-- Спасение Барановичи — Вспоминаю тот день, как когда-то большие мученья [Русский]
-  https://holychords.pro/43242
-- Seattle Bethany Church — Він воскрес [Украинский]
-  https://holychords.pro/56143
-- Божье прикосновение — Да звучи Богу слава [Болгарский]
-  https://holychords.pro/70913
-- Павел Пысларь — Он воскрес (symphonic version) [Русский]
-  https://holychords.pro/82033
+припев: модуляция с переходом
+<chords>Esus4  E</chords>
+<chords>                 A                               E/G#</chords>
+Он воскрес, да звучит Ему слава,
+<chords>               F#m</chords>
+Он воскрес, пусть несётся хвала,
+<chords>                 D                           A</chords>
+Он воскрес, аллилуйя осанна,
+<chords>               Hm                           E</chords>
+Он воскрес, Ему вечная честь.
+<chords>                 A                                E/G#</chords>
+Он воскрес, да звучит Ему слава,
+<chords>               F#m</chords>
+Он воскрес, пусть несётся хвала,
+<chords>              Hm                         E</chords>
+Он воскрес, аллилуйя осанна,
+<chords>               F#m  D  A  E        F#m  D  A  E</chords>
+Он воскрес...    Он воскрес...

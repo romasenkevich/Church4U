@@ -1,85 +1,69 @@
-Imprintband — За тебя
+Номер: 221
+Автор: Imprintband
+Песня: За тебя
 Источник: https://holychords.pro/221
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Intro</videlit_line>
-<chopds>Cm Bb Gm Cm Bb Gm</chopds>
-</blocks>
+Intro
+<chords>Cm Bb Gm Cm Bb Gm</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>   Cm                      Eb</chopds>
-<text>Кровь, святая кровь,</text>
-<chopds>                    Bb                                               Gm</chopds>
-<text>На землю капает с креста, как снег невинна и чиста</text>
-<chopds>                    Cm                         Eb</chopds>
-<text>Я слышу вновь, я слышу вновь</text>
-<chopds>                Bb                                              Gm</chopds>
-<text>Через года, через века, сквозь поколение этот зов:</text>
-</blocks>
+1 куплет
+<chords>   Cm                      Eb</chords>
+Кровь, святая кровь,
+<chords>                    Bb                                               Gm</chords>
+На землю капает с креста, как снег невинна и чиста
+<chords>                    Cm                         Eb</chords>
+Я слышу вновь, я слышу вновь
+<chords>                Bb                                              Gm</chords>
+Через года, через века, сквозь поколение этот зов:
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>      Ab                      Bb                             Cm             Bb</chopds>
-<text>«Дитя моё, Я за тебя отдал на муки Сына Своего</text>
-<chopds>                      Ab                    Bb                  Cm                                  Bb</chopds>
-<text>Он стал как агнец, Он отдал всего Себя, и эта кровь с креста за тебя.»</text>
-</blocks>
+Пред припев
+<chords>      Ab                      Bb                             Cm             Bb</chords>
+«Дитя моё, Я за тебя отдал на муки Сына Своего
+<chords>                      Ab                    Bb                  Cm                                  Bb</chords>
+Он стал как агнец, Он отдал всего Себя, и эта кровь с креста за тебя.»
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>          Cm            Ab                                 Eb       Bb</chopds>
-<text>За тебя боль, агония, смерть и мученья</text>
-<chopds>          Cm         Fm                                 Bb</chopds>
-<text>За тебя беззаконием распята любовь</text>
-<chopds>          Cm           Ab                                      Eb        Bb</chopds>
-<text>За тебя бесконечностью стали мгновенья</text>
-<chopds>          Cm                           Fm                             Bb</chopds>
-<text>За тебя с этих ран истекает священная кровь.</text>
-</blocks>
+Припев
+<chords>          Cm            Ab                                 Eb       Bb</chords>
+За тебя боль, агония, смерть и мученья
+<chords>          Cm         Fm                                 Bb</chords>
+За тебя беззаконием распята любовь
+<chords>          Cm           Ab                                      Eb        Bb</chords>
+За тебя бесконечностью стали мгновенья
+<chords>          Cm                           Fm                             Bb</chords>
+За тебя с этих ран истекает священная кровь.
 
-<blocks>
-<videlit_line>Interlude</videlit_line>
-<chopds>Cm Bb Gm</chopds>
-</blocks>
+Interlude
+<chords>Cm Bb Gm</chords>
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Крик, безмолвный крик,</text>
-<text>Любовь, пронзившая сердца, великой силою креста</text>
-<text>И в этот миг, священный миг,</text>
-<text>Смешалась с кровию слеза, так плачут только небеса</text>
-</blocks>
+2 куплет
+Крик, безмолвный крик,
+Любовь, пронзившая сердца, великой силою креста
+И в этот миг, священный миг,
+Смешалась с кровию слеза, так плачут только небеса
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>Fm Eb Bb</chopds>
-<text>              Это кровь за тебя</text>
-<chopds>Fm Eb Bb</chopds>
-<text>              Это боль за тебя</text>
-<chopds>Fm Eb Bb</chopds>
-<text>              Это смерть за тебя</text>
-<chopds>Fm Eb Bb</chopds>
-<text>              Этот крест за тебя</text>
-</blocks>
+Мост
+<chords>Fm Eb Bb</chords>
+Это кровь за тебя
+<chords>Fm Eb Bb</chords>
+Это боль за тебя
+<chords>Fm Eb Bb</chords>
+Это смерть за тебя
+<chords>Fm Eb Bb</chords>
+Этот крест за тебя
 
-<blocks>
-<videlit_line>Instrumental</videlit_line>
-<chopds>Dm Bb F C  Dm Gm C</chopds>
-</blocks>
+Instrumental
+<chords>Dm Bb F C  Dm Gm C</chords>
 
-<blocks>
-<videlit_line>Припев: модуляция</videlit_line>
-<chopds>        Dm                Bb                               F           C</chopds>
-<text>За тебя боль, агония, смерть и мученья</text>
-<chopds>        Dm           Gm                                C</chopds>
-<text>За тебя беззаконием распята любовь</text>
-<chopds>       Dm           Bb                                F            C</chopds>
-<text>За тебя бесконечностью стали мгновенья</text>
-<chopds>       Dm                             Gm                          C</chopds>
-<text>За тебя с этих ран истекает священная кровь.</text>
-<chopds>      Dm</chopds>
-<text>За тебя, за тебя</text>
-</blocks>
+Припев: модуляция
+<chords>        Dm                Bb                               F           C</chords>
+За тебя боль, агония, смерть и мученья
+<chords>        Dm           Gm                                C</chords>
+За тебя беззаконием распята любовь
+<chords>       Dm           Bb                                F            C</chords>
+За тебя бесконечностью стали мгновенья
+<chords>       Dm                             Gm                          C</chords>
+За тебя с этих ран истекает священная кровь.
+<chords>      Dm</chords>
+За тебя, за тебя

@@ -1,75 +1,51 @@
-4U Band — Псалом 62
+Номер: 21
+Автор: 4U Band
+Песня: Псалом 62
 BPM: 169
 Источник: https://holychords.pro/21
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>A F#m D E</chopds>
-</blocks>
+Интро
+<chords>A F#m D E</chords>
 
-<blocks>
-<videlit_line>1 Куплет</videlit_line>
-<chopds> A                 F#m</chopds>
-<text>Боже, Ты Бог мой -</text>
-<chopds>                 D                      E</chopds>
-<text>Тебя от ранней зари ищу я.</text>
-<chopds>           A            F#m</chopds>
-<text>Тебя жаждет душа моя,</text>
-<chopds>                    D                   E</chopds>
-<text>По Тебе томится плоть моя.</text>
-<chopds>                A                    F#m</chopds>
-<text>Дай мне видеть Твою славу,</text>
-<chopds>            D                     E</chopds>
-<text>Твою силу, вечный Бог.</text>
-</blocks>
+1 Куплет
+<chords> A                 F#m</chords>
+Боже, Ты Бог мой -
+<chords>                 D                      E</chords>
+Тебя от ранней зари ищу я.
+<chords>           A            F#m</chords>
+Тебя жаждет душа моя,
+<chords>                    D                   E</chords>
+По Тебе томится плоть моя.
+<chords>                A                    F#m</chords>
+Дай мне видеть Твою славу,
+<chords>            D                     E</chords>
+Твою силу, вечный Бог.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>   A   F#m    D         E</chopds>
-<text>Святый, Святый Бог!</text>
-<chopds>      A/C#  F#m  D         E</chopds>
-<text>О, Святый, Святый Бог!</text>
-</blocks>
+Припев
+<chords>   A   F#m    D         E</chords>
+Святый, Святый Бог!
+<chords>      A/C#  F#m  D         E</chords>
+О, Святый, Святый Бог!
 
-<blocks>
-<videlit_line>2 Куплет</videlit_line>
-<text>Когда вспоминаю о Тебе,</text>
-<text>О том, что сделал в жизни моей -</text>
-<text>Снова сердце в руках Твоих,</text>
-<text>Я вознесу к небу руки свои.</text>
-<text>Дай мне видеть Твою славу,</text>
-<text>Твою силу, вечный Бог!</text>
-</blocks>
+2 Куплет
+Когда вспоминаю о Тебе,
+О том, что сделал в жизни моей -
+Снова сердце в руках Твоих,
+Я вознесу к небу руки свои.
+Дай мне видеть Твою славу,
+Твою силу, вечный Бог!
 
-<blocks>
-<videlit_line>instrumental</videlit_line>
-<chopds>D E D E</chopds>
-</blocks>
+instrumental
+<chords>D E D E</chords>
 
-<blocks>
-<videlit_line>1 Бридж</videlit_line>
-<chopds>              D                     A   E</chopds>
-<text>Как люблю я, Тебя люблю я!</text>
-</blocks>
+1 Бридж
+<chords>              D                     A   E</chords>
+Как люблю я, Тебя люблю я!
 
-<blocks>
-<videlit_line>2 Бридж</videlit_line>
-<chopds>F#m              E   D               E</chopds>
-<text>Милость Твоя лучше, чем жизнь!</text>
-<chopds>  F#m    E         D             E</chopds>
-<text>Уста мои прославят Тебя!</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- GRACE CV — Псалом 62 [Украинский]
-  https://holychords.pro/40693
-- M.Worship — Псалом 62 [Русский]
-  https://holychords.pro/43284
-- B.Worship — Псалом 62 [Украинский]
-  https://holychords.pro/43291
-- M.Worship — Псалом 62 [Украинский]
-  https://holychords.pro/52937
+2 Бридж
+<chords>F#m              E   D               E</chords>
+Милость Твоя лучше, чем жизнь!
+<chords>  F#m    E         D             E</chords>
+Уста мои прославят Тебя!

@@ -1,50 +1,42 @@
-Real Ivanna — Любимый Папа
+Номер: 134
+Автор: Real Ivanna
+Песня: Любимый Папа
 Источник: https://holychords.pro/134
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>                                D                                            Hm</chopds>
-<text>Мое сердце стучит лишь в ладонях Творца!</text>
-<chopds>                           Em                          A</chopds>
-<text>Слыша голос Его оживает душа!</text>
-<chopds>                             D                                            Hm</chopds>
-<text>Когда слезы и боль когда штормы вокруг</text>
-<chopds>                                         Em                                        A</chopds>
-<text>Каждый миг Он со мной мой невидимый Друг!</text>
-</blocks>
+1 куплет
+<chords>                                D                                            Hm</chords>
+Мое сердце стучит лишь в ладонях Творца!
+<chords>                           Em                          A</chords>
+Слыша голос Его оживает душа!
+<chords>                             D                                            Hm</chords>
+Когда слезы и боль когда штормы вокруг
+<chords>                                         Em                                        A</chords>
+Каждый миг Он со мной мой невидимый Друг!
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>             G                              A</chopds>
-<text>Он ведёт меня, Он хранит меня.</text>
-</blocks>
+Пред припев
+<chords>             G                              A</chords>
+Он ведёт меня, Он хранит меня.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                        D                             A</chopds>
-<text>Любимый Папа! Любимый Папа</text>
-<chopds>  G                                                           A</chopds>
-<text>За руку взял меня и ведет по воде!</text>
-<chopds>                        D                             A</chopds>
-<text>Любимый Папа! Любимый Папа</text>
-<chopds>  G                                                           A</chopds>
-<text>За руку взял меня и ведет по воде!</text>
-</blocks>
+Припев
+<chords>                        D                             A</chords>
+Любимый Папа! Любимый Папа
+<chords>  G                                                           A</chords>
+За руку взял меня и ведет по воде!
+<chords>                        D                             A</chords>
+Любимый Папа! Любимый Папа
+<chords>  G                                                           A</chords>
+За руку взял меня и ведет по воде!
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Мое сердце стучит лишь в ладонях Творца</text>
-<text>В моей жизни звучит Его песня всегда!</text>
-<text>и не может никто разлучить нас никак</text>
-<text>Он во мне! Я - Его! Я в надежных руках!</text>
-</blocks>
+2 куплет
+Мое сердце стучит лишь в ладонях Творца
+В моей жизни звучит Его песня всегда!
+и не может никто разлучить нас никак
+Он во мне! Я - Его! Я в надежных руках!
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>                              Dm                  F</chopds>
-<text>Когда вокруг штормы и не видно дна</text>
-<chopds>                                Dm            Bb             A</chopds>
-<text>меня влечешь чтобы моя вера росла!</text>
-</blocks>
+Бридж
+<chords>                              Dm                  F</chords>
+Когда вокруг штормы и не видно дна
+<chords>                                Dm            Bb             A</chords>
+меня влечешь чтобы моя вера росла!

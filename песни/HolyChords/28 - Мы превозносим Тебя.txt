@@ -1,39 +1,29 @@
-Armageddon — Мы превозносим Тебя
+Номер: 28
+Автор: Armageddon
+Песня: Мы превозносим Тебя
 Источник: https://holychords.pro/28
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>Cm G# D# F</chopds>
-</blocks>
+Интро
+<chords>Cm G# D# F</chords>
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>  Cm                      D#</chopds>
-<text>Милость Твоя выше небес</text>
-<chopds>F                                          Cm</chopds>
-<text>Истина Твоя из рода в род</text>
-<chopds>  Cm                    D#</chopds>
-<text>Милость Твоя выше небес</text>
-<chopds>F                                           G</chopds>
-<text>Истина Твоя из рода в род</text>
-</blocks>
+Куплет
+<chords>  Cm                      D#</chords>
+Милость Твоя выше небес
+<chords>F                                          Cm</chords>
+Истина Твоя из рода в род
+<chords>  Cm                    D#</chords>
+Милость Твоя выше небес
+<chords>F                                           G</chords>
+Истина Твоя из рода в род
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                     Cm                   G#</chopds>
-<text>Мы превозносим Тебя, воля Твоя</text>
-<chopds>  D#                               F  G</chopds>
-<text>Выше небес и земли</text>
-<chopds>                     Cm                  G#</chopds>
-<text>Мы превозносим Тебя, о Господь</text>
-<chopds>         D#                                    F   G</chopds>
-<text>Воссядь на престоле хвалы</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Fonki Music — Ми величаєм Тебе [Украинский]
-  https://holychords.pro/82661
+Припев
+<chords>                     Cm                   G#</chords>
+Мы превозносим Тебя, воля Твоя
+<chords>  D#                               F  G</chords>
+Выше небес и земли
+<chords>                     Cm                  G#</chords>
+Мы превозносим Тебя, о Господь
+<chords>         D#                                    F   G</chords>
+Воссядь на престоле хвалы

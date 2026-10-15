@@ -1,66 +1,52 @@
-Игорь Сидоров — Испытанный ветром
+Номер: 331
+Автор: Игорь Сидоров
+Песня: Испытанный ветром
 Источник: https://holychords.pro/331
 
-==================================================
+---
 
-<blocks>
-<videlit_line>интро</videlit_line>
-<chopds>Em  Em/D#   G/D   Em/C#</chopds>
-<chopds>C   H</chopds>
-</blocks>
+интро
+<chords>Em  Em/D#   G/D   Em/C#</chords>
+<chords>C   H</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Em      Em/D#   G/D   Em/C#   C            H</chopds>
-<text>Как сильна любовь Твоя           для меня…</text>
-<chopds>Em      Em/D#     G/D   Em/C#   C            H</chopds>
-<text>Дай познать, как дорог я           для Тебя.</text>
-</blocks>
+1 куплет
+<chords>Em      Em/D#   G/D   Em/C#   C            H</chords>
+Как сильна любовь Твоя           для меня…
+<chords>Em      Em/D#     G/D   Em/C#   C            H</chords>
+Дай познать, как дорог я           для Тебя.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds> Am                             H</chopds>
-<text>Сила Твоя воскрешает из мертвых,</text>
-<chopds>          Em                    D</chopds>
-<text>Дыхание жизни даешь,</text>
-<chopds>      Am                                  H</chopds>
-<text>Любовью Своей поднимаешь из бренья,</text>
-<chopds>       Em                               D</chopds>
-<text>И в вечное царство ведешь.</text>
-<chopds>   Am/C                                 H</chopds>
-<text>Испытанный ветром, опаленный солнцем,</text>
-<chopds>   Em                                    D</chopds>
-<text>Иду по дороге сквозь жизни года,</text>
-<chopds>      Am/C                         H</chopds>
-<text>В ладонях ладони, и нет больше страха,</text>
-<chopds>     Em                                          D</chopds>
-<text>И что б ни случилось – Ты рядом всегда.</text>
-</blocks>
+Припев
+<chords> Am                             H</chords>
+Сила Твоя воскрешает из мертвых,
+<chords>          Em                    D</chords>
+Дыхание жизни даешь,
+<chords>      Am                                  H</chords>
+Любовью Своей поднимаешь из бренья,
+<chords>       Em                               D</chords>
+И в вечное царство ведешь.
+<chords>   Am/C                                 H</chords>
+Испытанный ветром, опаленный солнцем,
+<chords>   Em                                    D</chords>
+Иду по дороге сквозь жизни года,
+<chords>      Am/C                         H</chords>
+В ладонях ладони, и нет больше страха,
+<chords>     Em                                          D</chords>
+И что б ни случилось – Ты рядом всегда.
 
-<blocks>
-<videlit_line>Проигрыш</videlit_line>
-<chopds>C  G/H  Am   C  G/H  Am</chopds>
-</blocks>
+Проигрыш
+<chords>C  G/H  Am   C  G/H  Am</chords>
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Буду славить я Тебя день и ночь,</text>
-<text>Верю, только Ты один силен мне помочь.</text>
-</blocks>
+2 куплет
+Буду славить я Тебя день и ночь,
+Верю, только Ты один силен мне помочь.
 
-<blocks>
-<videlit_line>Проигрыш</videlit_line>
-<chopds>C  G/H  Am   C  G/H  Am</chopds>
-<chopds>C Am C Am</chopds>
-</blocks>
+Проигрыш
+<chords>C  G/H  Am   C  G/H  Am</chords>
+<chords>C Am C Am</chords>
 
-<blocks>
-<videlit_line>3 куплет</videlit_line>
-<text>Мне не страшно умирать – Ты со мной,</text>
-<text>Твоя святая благодать дала мне покой.</text>
-</blocks>
+3 куплет
+Мне не страшно умирать – Ты со мной,
+Твоя святая благодать дала мне покой.
 
-<blocks>
-<videlit_line>Coda</videlit_line>
-<chopds>C  G/H  Am   C  G/H  Am</chopds>
-</blocks>
+Coda
+<chords>C  G/H  Am   C  G/H  Am</chords>

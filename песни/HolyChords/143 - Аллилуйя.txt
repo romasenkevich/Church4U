@@ -1,48 +1,42 @@
-Виталий Ефремочкин — Аллилуйя
+Номер: 143
+Автор: Виталий Ефремочкин
+Песня: Аллилуйя
 Источник: https://holychords.pro/143
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds> Am                                    F            Em</chopds>
-<text>Тот, Кто на небе, Тебя ищу Тебя, Иисус мой</text>
-<chopds>Am                                                        F             Em</chopds>
-<text>Всего желанней мне  быть с Тобой с Тобою, Иисус</text>
-<chopds>F	                               G/F</chopds>
-<text>И все пройдет но Твоя любовь</text>
-<chopds>F	                        G</chopds>
-<text>Со мной будет вечно</text>
-</blocks>
+1 куплет
+<chords> Am                                    F            Em</chords>
+Тот, Кто на небе, Тебя ищу Тебя, Иисус мой
+<chords>Am                                                        F             Em</chords>
+Всего желанней мне  быть с Тобой с Тобою, Иисус
+<chords>F	                               G/F</chords>
+И все пройдет но Твоя любовь
+<chords>F	                        G</chords>
+Со мной будет вечно
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>C	                Gm</chopds>
-<text>Аллилуйя вовеки пусть будет</text>
-<chopds>                                            F       Dm       G</chopds>
-<text>Твое Имя превознесено Господь пою</text>
-<chopds>C                        Gm</chopds>
-<text>Аллилуйя Спаситель мой, Ты</text>
-<chopds>          F</chopds>
-<text>Прибежище, сила моя</text>
-<chopds>                                     G  C/E  F</chopds>
-<text>Всем сердцем буду я петь</text>
-<chopds>G            C</chopds>
-<text>Аллилуйя</text>
-</blocks>
+Припев
+<chords>C	                Gm</chords>
+Аллилуйя вовеки пусть будет
+<chords>                                            F       Dm       G</chords>
+Твое Имя превознесено Господь пою
+<chords>C                        Gm</chords>
+Аллилуйя Спаситель мой, Ты
+<chords>          F</chords>
+Прибежище, сила моя
+<chords>                                     G  C/E  F</chords>
+Всем сердцем буду я петь
+<chords>G            C</chords>
+Аллилуйя
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Ты праведностью покрываешь меня в руках Твоих я</text>
-<text>И враг пред Тобою не устоит со мною Ты, Бог</text>
-<text>И через кровь Твою могу</text>
-<text>Я быть в Твоей славе</text>
-</blocks>
+2 куплет
+Ты праведностью покрываешь меня в руках Твоих я
+И враг пред Тобою не устоит со мною Ты, Бог
+И через кровь Твою могу
+Я быть в Твоей славе
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<text>И вместе с твореньем с святыми с небес</text>
-<text>Я провозглашу и буду я петь</text>
-<text>Что чудесен Ты прекрасен Ты</text>
-<text>Ты достоин всей хвалы</text>
-</blocks>
+Бридж
+И вместе с твореньем с святыми с небес
+Я провозглашу и буду я петь
+Что чудесен Ты прекрасен Ты
+Ты достоин всей хвалы

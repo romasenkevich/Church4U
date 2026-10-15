@@ -1,62 +1,50 @@
-Новый Иерусалим — Линии сердца
+Номер: 382
+Автор: Новый Иерусалим
+Песня: Линии сердца
 Источник: https://holychords.pro/382
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Вступление</videlit_line>
-<chopds>Gm   Bb   Eb  Cm</chopds>
-</blocks>
+Вступление
+<chords>Gm   Bb   Eb  Cm</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Gm                Bb</chopds>
-<text>Нас узнают не по лицам,</text>
-<chopds>Eb              Cm</chopds>
-<text>Не по фото на страницах.</text>
-<chopds>Gm      Bb              Eb            Cm</chopds>
-<text>Скоро __ узнают нас, скоро.</text>
-<text>Не по цвету нашей кожи,</text>
-<text>Не по сотням дел хороших.</text>
-<text>Скоро  узнают нас, скоро.</text>
-</blocks>
+1 куплет
+<chords>Gm                Bb</chords>
+Нас узнают не по лицам,
+<chords>Eb              Cm</chords>
+Не по фото на страницах.
+<chords>Gm      Bb              Eb            Cm</chords>
+Скоро __ узнают нас, скоро.
+Не по цвету нашей кожи,
+Не по сотням дел хороших.
+Скоро  узнают нас, скоро.
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>                     G5   G5/F</chopds>
-<text>С высоты не видно лиц -</text>
-<chopds>                      G5/E    G5/Eb</chopds>
-<text>Нас читают со страниц.</text>
-</blocks>
+Пред припев
+<chords>                     G5   G5/F</chords>
+С высоты не видно лиц -
+<chords>                      G5/E    G5/Eb</chords>
+Нас читают со страниц.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>G5   G5/F                      G5/E    G5/Eb</chopds>
-<text>             По линиям сердца.</text>
-<chopds>G5   G5/F                      G5/E    G5/Eb</chopds>
-<text>             По линиям сердца.</text>
-</blocks>
+Припев
+<chords>G5   G5/F                      G5/E    G5/Eb</chords>
+По линиям сердца.
+<chords>G5   G5/F                      G5/E    G5/Eb</chords>
+По линиям сердца.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Нас узнают не по нотам, не по песен наших взлётам.</text>
-<text>Скоро узнают нас, скоро.</text>
-<text>Не по самой новой моде, не по выбору мелодий.</text>
-<text>Скоро узнают нас, скоро.</text>
-</blocks>
+2 куплет
+Нас узнают не по нотам, не по песен наших взлётам.
+Скоро узнают нас, скоро.
+Не по самой новой моде, не по выбору мелодий.
+Скоро узнают нас, скоро.
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>                     G5   G5/F</chopds>
-<text>С высоты не слышно нот</text>
-<chopds>                      G5/E    G5/Eb</chopds>
-<text>Небо нас с тобой поймёт</text>
-</blocks>
+Пред припев
+<chords>                     G5   G5/F</chords>
+С высоты не слышно нот
+<chords>                      G5/E    G5/Eb</chords>
+Небо нас с тобой поймёт
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>G5   G5/F                      G5/E    G5/Eb</chopds>
-<text>             По линиям сердца.</text>
-<chopds>G5   G5/F                      G5/E    G5/Eb</chopds>
-<text>             По линиям сердца.</text>
-</blocks>
+Припев
+<chords>G5   G5/F                      G5/E    G5/Eb</chords>
+По линиям сердца.
+<chords>G5   G5/F                      G5/E    G5/Eb</chords>
+По линиям сердца.

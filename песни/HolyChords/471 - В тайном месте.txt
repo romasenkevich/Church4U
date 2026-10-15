@@ -1,41 +1,39 @@
-Слово Жизни Music — В тайном месте
+Номер: 471
+Автор: Слово Жизни Music
+Песня: В тайном месте
 Источник: https://holychords.pro/471
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>   C#m          A       E            H</chopds>
-<text>В тайном месте я встречаю</text>
-<chopds>C#m  A       E   H</chopds>
-<text>Иисус, Тебя</text>
-<chopds>  C#m     A           E             H</chopds>
-<text>В тишине, Господь, Тебя жду.</text>
-<chopds>  C#m     A            E</chopds>
-<text>Слышу голос Твой</text>
-</blocks>
+Куплет
+<chords>   C#m          A       E            H</chords>
+В тайном месте я встречаю
+<chords>C#m  A       E   H</chords>
+Иисус, Тебя
+<chords>  C#m     A           E             H</chords>
+В тишине, Господь, Тебя жду.
+<chords>  C#m     A            E</chords>
+Слышу голос Твой
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>           H                     A</chopds>
-<text>Ты зовешь, Ты влечёшь</text>
-<chopds>                    H            A</chopds>
-<text>Ты нужен мне, мой Бог</text>
-<text>1 бридж :</text>
-<chopds>C#m       A              E          H</chopds>
-<text>Ты так нужен мне, Иисус мой!</text>
-<chopds>C#m         A        E</chopds>
-<text>Ты всё для меня!</text>
-<text>2 бридж :</text>
-<chopds>E/G  A  C#m  H                E/G</chopds>
-<text>Ты – Тот, к кому стремлюсь я</text>
-<chopds>  A                       C#m        H</chopds>
-<text>Тот, в Ком я нуждаюсь, Иисус</text>
-<text>3 бридж :</text>
-<chopds>            A                                          C#m</chopds>
-<text>Приблизь меня к Себе, Господь мой,</text>
-<chopds>        H               A</chopds>
-<text>Ты нужен мне</text>
-<chopds>                                       C#m     H</chopds>
-<text>Приблизь меня к Себе, Бог</text>
-</blocks>
+Пред припев
+<chords>           H                     A</chords>
+Ты зовешь, Ты влечёшь
+<chords>                    H            A</chords>
+Ты нужен мне, мой Бог
+1 бридж :
+<chords>C#m       A              E          H</chords>
+Ты так нужен мне, Иисус мой!
+<chords>C#m         A        E</chords>
+Ты всё для меня!
+2 бридж :
+<chords>E/G  A  C#m  H                E/G</chords>
+Ты – Тот, к кому стремлюсь я
+<chords>  A                       C#m        H</chords>
+Тот, в Ком я нуждаюсь, Иисус
+3 бридж :
+<chords>            A                                          C#m</chords>
+Приблизь меня к Себе, Господь мой,
+<chords>        H               A</chords>
+Ты нужен мне
+<chords>                                       C#m     H</chords>
+Приблизь меня к Себе, Бог

@@ -1,44 +1,38 @@
-Екатерина Топчий — Не оставлю
+Номер: 324
+Автор: Екатерина Топчий
+Песня: Не оставлю
 Источник: https://holychords.pro/324
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>    Em                  D                         C                          H7</chopds>
-<text>Оставлена, оставлена… Так нагло шепчет враг.</text>
-<chopds>      Em                      D                       Am                    H7</chopds>
-<text>Душа стрелой отравлена, и сброшена в овраг.</text>
-<chopds>        Em                 D                   Am                      H7</chopds>
-<text>Не сбудутся желания, не в силах Бог помочь…</text>
-<chopds>          Em                    D                Am                      H7</chopds>
-<text>То вражьи всё старания, гони все мысли прочь</text>
-</blocks>
+1 куплет
+<chords>    Em                  D                         C                          H7</chords>
+Оставлена, оставлена… Так нагло шепчет враг.
+<chords>      Em                      D                       Am                    H7</chords>
+Душа стрелой отравлена, и сброшена в овраг.
+<chords>        Em                 D                   Am                      H7</chords>
+Не сбудутся желания, не в силах Бог помочь…
+<chords>          Em                    D                Am                      H7</chords>
+То вражьи всё старания, гони все мысли прочь
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Em                             D</chopds>
-<text>Не оставлю, не оставлю</text>
-<chopds>C                       H7</chopds>
-<text>Не покину Я тебя.</text>
-<chopds>                 Em                     D</chopds>
-<text>Скоро в скорби переплавлю,</text>
-<chopds>         Am               H7</chopds>
-<text>И помилую любя.</text>
-</blocks>
+Припев
+<chords>Em                             D</chords>
+Не оставлю, не оставлю
+<chords>C                       H7</chords>
+Не покину Я тебя.
+<chords>                 Em                     D</chords>
+Скоро в скорби переплавлю,
+<chords>         Am               H7</chords>
+И помилую любя.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text> У Меня есть всё для счастья,</text>
-<text>Подниму на высоту,</text>
-<text>И приму в судьбе участье</text>
-<text>Всю открою красоту…</text>
-</blocks>
+2 куплет
+У Меня есть всё для счастья,
+Подниму на высоту,
+И приму в судьбе участье
+Всю открою красоту…
 
-<blocks>
-<videlit_line>3 куплет</videlit_line>
-<text>Не потеряна надежда</text>
-<text>Я – Твой Бог, твой Господин!</text>
-<text>Белоснежную одежду</text>
-<text>Приготовил Я, - Один.</text>
-</blocks>
+3 куплет
+Не потеряна надежда
+Я – Твой Бог, твой Господин!
+Белоснежную одежду
+Приготовил Я, - Один.

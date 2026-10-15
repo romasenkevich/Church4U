@@ -1,38 +1,34 @@
-Holy Generation — Поклоняюсь
+Номер: 364
+Автор: Holy Generation
+Песня: Поклоняюсь
 Источник: https://holychords.pro/364
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Em7                            Am9</chopds>
-<text>Знаю я, что Ты всегда рядом,</text>
-<chopds>D                 C                        G</chopds>
-<text>Под крылом Твоим нашел радость,</text>
-<chopds>Em7                        Am9</chopds>
-<text>У источников живой воды напился.</text>
-<chopds>D        C                        G</chopds>
-<text>Бог мой, я здесь, чтоб поклониться.</text>
-<chopds>Em    Em/D#  Em/D  Em/C#  Em/C                 Em/H              Em/C  Em/D</chopds>
-<text>Поклоняюсь, поклоняюсь, поклоняюсь, Богу, Творцу неба и земли.</text>
-<chopds>Em  Em/D#   Em/D   Em/C#    Em/C              Em/H       Em/C    Em/D</chopds>
-<text>Поклоняюсь, поклоняюсь, поклоняюсь, Богу, Отцу вечности.</text>
-</blocks>
+1 куплет
+<chords>Em7                            Am9</chords>
+Знаю я, что Ты всегда рядом,
+<chords>D                 C                        G</chords>
+Под крылом Твоим нашел радость,
+<chords>Em7                        Am9</chords>
+У источников живой воды напился.
+<chords>D        C                        G</chords>
+Бог мой, я здесь, чтоб поклониться.
+<chords>Em    Em/D#  Em/D  Em/C#  Em/C                 Em/H              Em/C  Em/D</chords>
+Поклоняюсь, поклоняюсь, поклоняюсь, Богу, Творцу неба и земли.
+<chords>Em  Em/D#   Em/D   Em/C#    Em/C              Em/H       Em/C    Em/D</chords>
+Поклоняюсь, поклоняюсь, поклоняюсь, Богу, Отцу вечности.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<chopds>Em7                            Am9</chopds>
-<text>Знаю я, что Ты в меня веришь.</text>
-<chopds>D           C                      G</chopds>
-<text>Возлюбил дух во мне до ревности.</text>
-<chopds>Em7                              Am9</chopds>
-<text>И в глазах Твоих нашел прощенье.</text>
-<chopds>D         C                         G</chopds>
-<text>Склоняюсь пред Тобой в поклонении.</text>
-</blocks>
+2 куплет
+<chords>Em7                            Am9</chords>
+Знаю я, что Ты в меня веришь.
+<chords>D           C                      G</chords>
+Возлюбил дух во мне до ревности.
+<chords>Em7                              Am9</chords>
+И в глазах Твоих нашел прощенье.
+<chords>D         C                         G</chords>
+Склоняюсь пред Тобой в поклонении.
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>Am                 Hm                C         D</chopds>
-<text>Ты - мой мир, мой свет, моя сила, мой ответ.</text>
-</blocks>
+Бридж
+<chords>Am                 Hm                C         D</chords>
+Ты - мой мир, мой свет, моя сила, мой ответ.

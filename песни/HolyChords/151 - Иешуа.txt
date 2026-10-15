@@ -1,86 +1,44 @@
-Виталий Ефремочкин — Иешуа
+Номер: 151
+Автор: Виталий Ефремочкин
+Песня: Иешуа
 BPM: 140
 Источник: https://holychords.pro/151
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>     Dm  Am</chopds>
-<text>Иешуа</text>
-<chopds>       Bb  C  Dm</chopds>
-<text>Иешуа</text>
-</blocks>
+Куплет
+<chords>     Dm  Am</chords>
+Иешуа
+<chords>       Bb  C  Dm</chords>
+Иешуа
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>   Dm                               Am</chopds>
-<text>Приходи ко мне, Господь мой,</text>
-<chopds>  Bb            C            Dm</chopds>
-<text>Мой Возлюбленный.</text>
-<chopds>   Dm                           Am</chopds>
-<text>Ждёт Тебя Твоя Невеста,</text>
-<chopds>                      Bb     C            Dm</chopds>
-<text>Церковь ждёт Тебя, гряди.</text>
-</blocks>
+Припев
+<chords>   Dm                               Am</chords>
+Приходи ко мне, Господь мой,
+<chords>  Bb            C            Dm</chords>
+Мой Возлюбленный.
+<chords>   Dm                           Am</chords>
+Ждёт Тебя Твоя Невеста,
+<chords>                      Bb     C            Dm</chords>
+Церковь ждёт Тебя, гряди.
 
-<blocks>
-<videlit_line>Инструментал</videlit_line>
-<chopds>О-О-О-О</chopds>
-<chopds>Dm  C  G/H  Bb x2</chopds>
-<chopds>Dm</chopds>
-</blocks>
+Инструментал
+<chords>О-О-О-О</chords>
+<chords>Dm  C  G/H  Bb x2</chords>
+<chords>Dm</chords>
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>     Em  Hm</chopds>
-<text>Иешуа</text>
-<chopds>       C  D  Em</chopds>
-<text>Иешуа</text>
-</blocks>
+Куплет
+<chords>     Em  Hm</chords>
+Иешуа
+<chords>       C  D  Em</chords>
+Иешуа
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>   Em                               Hm</chopds>
-<text>Приходи ко мне, Господь мой,</text>
-<chopds>  C            D            Em</chopds>
-<text>Мой Возлюбленный.</text>
-<chopds>   Em                           Hm</chopds>
-<text>Ждёт Тебя Твоя Невеста,</text>
-<chopds>                      C     D            Em</chopds>
-<text>Церковь ждёт Тебя, гряди.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Ольга Маріна — Иешуа [Русский]
-  https://holychords.pro/774
-- Краеугольный камень Челябинск — Иешуа [Русский]
-  https://holychords.pro/27664
-- Неизвестен — Иешуа [Русский]
-  https://holychords.pro/32063
-- NG Band Riga — Иешуа [Русский]
-  https://holychords.pro/32898
-- Анастасия Зиновкина — Иешуа (Live) [Русский]
-  https://holychords.pro/43830
-- Fernandinho — Yeshua [Португальский]
-  https://holychords.pro/43831
-- Fernandinho — Єшуа [Украинский]
-  https://holychords.pro/43899
-- M.Worship — Иешуа [Русский]
-  https://holychords.pro/44004
-- Fernandinho — Єшуа [Украинский]
-  https://holychords.pro/44211
-- Надія Sol Family Church — Єшуа [Украинский]
-  https://holychords.pro/44687
-- Fernandinho — Єшуа [Украинский]
-  https://holychords.pro/51797
-- Неизвестен — Ієшуа (Ти прийшов спасти народ свій.) [Украинский]
-  https://holychords.pro/55000
-- New Hope Church Katowice — Приходи ко мне [Русский]
-  https://holychords.pro/72469
-- Виталий Ефремочкин — Yeshua [Испанский]
-  https://holychords.pro/79283
-- Трајче Ефремов — Јешуа [Македонский]
-  https://holychords.pro/80314
+Припев
+<chords>   Em                               Hm</chords>
+Приходи ко мне, Господь мой,
+<chords>  C            D            Em</chords>
+Мой Возлюбленный.
+<chords>   Em                           Hm</chords>
+Ждёт Тебя Твоя Невеста,
+<chords>                      C     D            Em</chords>
+Церковь ждёт Тебя, гряди.

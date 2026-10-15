@@ -1,44 +1,34 @@
-Ксения Кузнецова — Бог я стою пред Тобой
+Номер: 122
+Автор: Ксения Кузнецова
+Песня: Бог я стою пред Тобой
 Источник: https://holychords.pro/122
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>C#            G#                 F#</chopds>
-<text>Бог, я стою пред Тобою,</text>
-<chopds>C#                    G#              F#</chopds>
-<text>Вся жизнь моя для Тебя.</text>
-<chopds>C#                 G#           A#m                   F#</chopds>
-<text>Ты, как никто возлюбил и на кресте заплатил</text>
-<chopds>C#                 G#              F#</chopds>
-<text>Кровью Своей за меня.</text>
-<chopds>C#                    G#        F#</chopds>
-<text>Был перед всеми унижен,</text>
-<chopds>C#          G#              F#</chopds>
-<text>Ты умирал за меня,</text>
-<chopds>C#                 G#               A#m                 F#</chopds>
-<text>Ты все грехи мне простил, новую жизнь подарил,</text>
-<chopds>C#               G#                   F#</chopds>
-<text>Омыла меня Кровь Твоя</text>
-</blocks>
+Куплет
+<chords>C#            G#                 F#</chords>
+Бог, я стою пред Тобою,
+<chords>C#                    G#              F#</chords>
+Вся жизнь моя для Тебя.
+<chords>C#                 G#           A#m                   F#</chords>
+Ты, как никто возлюбил и на кресте заплатил
+<chords>C#                 G#              F#</chords>
+Кровью Своей за меня.
+<chords>C#                    G#        F#</chords>
+Был перед всеми унижен,
+<chords>C#          G#              F#</chords>
+Ты умирал за меня,
+<chords>C#                 G#               A#m                 F#</chords>
+Ты все грехи мне простил, новую жизнь подарил,
+<chords>C#               G#                   F#</chords>
+Омыла меня Кровь Твоя
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>C#  G#                    A#m          F#</chopds>
-<text>Иисус, сердце своё я отдаю Тебе навек,</text>
-<chopds>C#                G#                 F#</chopds>
-<text>Самый Любимый и Близкий</text>
-<chopds>C#                     G#                  A#m                 F#</chopds>
-<text>Дай мне прожить для Тебя жизнь ,о которой Ты мечтал,</text>
-<chopds>C#              G#                F#</chopds>
-<text>Когда творил Ты меня.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- FECG Lahr — Бог я стою пред Тобою [Русский]
-  https://holychords.pro/37468
-- FECG Lahr — Боже, пред Теб аз стоя [Болгарский]
-  https://holychords.pro/57005
+Припев
+<chords>C#  G#                    A#m          F#</chords>
+Иисус, сердце своё я отдаю Тебе навек,
+<chords>C#                G#                 F#</chords>
+Самый Любимый и Близкий
+<chords>C#                     G#                  A#m                 F#</chords>
+Дай мне прожить для Тебя жизнь ,о которой Ты мечтал,
+<chords>C#              G#                F#</chords>
+Когда творил Ты меня.

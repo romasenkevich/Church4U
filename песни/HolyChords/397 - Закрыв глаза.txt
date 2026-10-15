@@ -1,57 +1,57 @@
-Татьяна Прохор — Закрыв глаза
+Номер: 397
+Автор: Татьяна Прохор
+Песня: Закрыв глаза
 Источник: https://holychords.pro/397
 
-==================================================
+---
 
-<blocks>
-<chopds>Hm      F#m7                     G</chopds>
-<text>1. Закрыв глаза, сложив ладони</text>
-<chopds>    Hm   F#m7                    G</chopds>
-<text>Я разговор начну с Тобой...</text>
-<chopds>           Em                            F#</chopds>
-<text>В смиреньи, стоя на коленях</text>
-<chopds>          G                  F#</chopds>
-<text>Шепчу: "О Боже, Боже мой!"</text>
-<chopds>           Hm         F#m7                         G</chopds>
-<text>2. В моём виденьи вновь предстанут</text>
-<chopds>       Hm    F#m7              G</chopds>
-<text>Картины жуткие до боли..</text>
-<chopds>    Em                              F#</chopds>
-<text>И там Тебя я расспинаю</text>
-<chopds>        Em                  F#</chopds>
-<text>Как буд-то поневоле..</text>
-<chopds>        Hm      F#m7                   G</chopds>
-<text>3. И вот толпа людей кричащих,</text>
-<chopds>      Hm     F#m7                G</chopds>
-<text>И время вечностью казалось,</text>
-<chopds>     Em                           F#</chopds>
-<text>И звук ударов доносящих,</text>
-<chopds>G                                  F#</chopds>
-<text>Эхом в небо подымались...</text>
-<text>Модуляция...</text>
-<chopds>         Dm           C             Hb   C</chopds>
-<text>4. И три креста, и я стою</text>
-<chopds>      Dm         C                    Hb   A</chopds>
-<text>Мученья вижу,боль Твою</text>
-<chopds>     Gm                                A</chopds>
-<text>Как я могла, о мой Иисус?</text>
-<chopds>        Gm                      A</chopds>
-<text>Прости меня... молю...</text>
-<text>Проигрыш...</text>
-<chopds>                    Dm             Am7      Hb               C</chopds>
-<text>5. Пред величьем Твоим колени склоню</text>
-<chopds>        Dm               Am7                              Hb</chopds>
-<text>И о милости Твоей, Господь, я прошу</text>
-<chopds>               Gm           A</chopds>
-<text>Не прожить и дня мне без Тебя</text>
-<chopds>                 Gm                           A</chopds>
-<text>Мой Господь -Ты жизнь моя!</text>
-<chopds>               Dm      Am7              Hb  C</chopds>
-<text>6. Прошли столетия с тех пор</text>
-<chopds>     Dm        Am7                Hb</chopds>
-<text>Была там распята любовь</text>
-<chopds>    Gm                                     A</chopds>
-<text>И капли той святой крови</text>
-<chopds>                     Gm                            A</chopds>
-<text>Спасенье в мир нам принесли.</text>
-</blocks>
+<chords>Hm      F#m7                     G</chords>
+1. Закрыв глаза, сложив ладони
+<chords>    Hm   F#m7                    G</chords>
+Я разговор начну с Тобой...
+<chords>           Em                            F#</chords>
+В смиреньи, стоя на коленях
+<chords>          G                  F#</chords>
+Шепчу: "О Боже, Боже мой!"
+<chords>           Hm         F#m7                         G</chords>
+2. В моём виденьи вновь предстанут
+<chords>       Hm    F#m7              G</chords>
+Картины жуткие до боли..
+<chords>    Em                              F#</chords>
+И там Тебя я расспинаю
+<chords>        Em                  F#</chords>
+Как буд-то поневоле..
+<chords>        Hm      F#m7                   G</chords>
+3. И вот толпа людей кричащих,
+<chords>      Hm     F#m7                G</chords>
+И время вечностью казалось,
+<chords>     Em                           F#</chords>
+И звук ударов доносящих,
+<chords>G                                  F#</chords>
+Эхом в небо подымались...
+Модуляция...
+<chords>         Dm           C             Hb   C</chords>
+4. И три креста, и я стою
+<chords>      Dm         C                    Hb   A</chords>
+Мученья вижу,боль Твою
+<chords>     Gm                                A</chords>
+Как я могла, о мой Иисус?
+<chords>        Gm                      A</chords>
+Прости меня... молю...
+Проигрыш
+<chords>                    Dm             Am7      Hb               C</chords>
+5. Пред величьем Твоим колени склоню
+<chords>        Dm               Am7                              Hb</chords>
+И о милости Твоей, Господь, я прошу
+<chords>               Gm           A</chords>
+Не прожить и дня мне без Тебя
+<chords>                 Gm                           A</chords>
+Мой Господь -Ты жизнь моя!
+<chords>               Dm      Am7              Hb  C</chords>
+6. Прошли столетия с тех пор
+<chords>     Dm        Am7                Hb</chords>
+Была там распята любовь
+<chords>    Gm                                     A</chords>
+И капли той святой крови
+<chords>                     Gm                            A</chords>
+Спасенье в мир нам принесли.

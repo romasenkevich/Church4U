@@ -1,95 +1,59 @@
-Hillsong United — Touch the Sky
+Номер: 195
+Автор: Hillsong United
+Песня: Touch the Sky
 Источник: https://holychords.pro/195
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Verse 1</videlit_line>
-<chopds>A/C#                     D                      Esus</chopds>
-<text>What fortunes lies beyond the stars</text>
-<chopds>                             F#m                       A/C#</chopds>
-<text>Those dazzling heights too vast to climb</text>
-<chopds>                D                  Esus</chopds>
-<text>I got so high to fall so far</text>
-<chopds>                     F#m</chopds>
-<text>But I found heaven as love swept low</text>
-</blocks>
+Verse 1
+<chords>A/C#                     D                      Esus</chords>
+What fortunes lies beyond the stars
+<chords>                             F#m                       A/C#</chords>
+Those dazzling heights too vast to climb
+<chords>                D                  Esus</chords>
+I got so high to fall so far
+<chords>                     F#m</chords>
+But I found heaven as love swept low
 
-<blocks>
-<videlit_line>Chorus</videlit_line>
-<chopds>A/C#                D                Esus</chopds>
-<text>My heart beating, my soul breathing</text>
-<chopds>           F#m                    A/C#</chopds>
-<text>I found my life when I laid it down</text>
-<chopds>              D             Esus</chopds>
-<text>Upward falling, spirit soaring</text>
-<chopds>              E</chopds>
-<text>I touch the sky when my knees hit the ground</text>
-<chopds>A/C#  D  Esus   F#m</chopds>
-</blocks>
+Chorus
+<chords>A/C#                D                Esus</chords>
+My heart beating, my soul breathing
+<chords>           F#m                    A/C#</chords>
+I found my life when I laid it down
+<chords>              D             Esus</chords>
+Upward falling, spirit soaring
+<chords>              E</chords>
+I touch the sky when my knees hit the ground
+<chords>A/C#  D  Esus   F#m</chords>
 
-<blocks>
-<videlit_line>Verse 2</videlit_line>
-<chopds>A/C#              D                    Esus</chopds>
-<text> What treasure waits within Your scars</text>
-<chopds>             F#m                   A/C#</chopds>
-<text>This gift of freedom gold can&amp;amp;#039;t buy</text>
-<chopds>             D                   Esus</chopds>
-<text>I bought the world and sold my heart</text>
-<chopds>           F#m</chopds>
-<text>You traded heaven to have me again</text>
-<chopds>A/C#   D   Esus    F#m</chopds>
-<chopds>A/C#   D   Esus    F#m</chopds>
-</blocks>
+Verse 2
+<chords>A/C#              D                    Esus</chords>
+What treasure waits within Your scars
+<chords>             F#m                   A/C#</chords>
+This gift of freedom gold can&amp;amp;#039;t buy
+<chords>             D                   Esus</chords>
+I bought the world and sold my heart
+<chords>           F#m</chords>
+You traded heaven to have me again
+<chords>A/C#   D   Esus    F#m</chords>
+<chords>A/C#   D   Esus    F#m</chords>
 
-<blocks>
-<videlit_line>Bridge</videlit_line>
-<chopds>A/C#                     D</chopds>
-<text>Find me here at Your feet again</text>
-<chopds>      Esus                 F#m</chopds>
-<text>Everything I am, reaching out, I surrender</text>
-<chopds>A/C#                    D</chopds>
-<text>Come sweep me up in Your love again</text>
-<chopds>       Esus</chopds>
-<text>And my soul will dance</text>
-<chopds>       F#m</chopds>
-<text>On the wings of forever</text>
-</blocks>
+Bridge
+<chords>A/C#                     D</chords>
+Find me here at Your feet again
+<chords>      Esus                 F#m</chords>
+Everything I am, reaching out, I surrender
+<chords>A/C#                    D</chords>
+Come sweep me up in Your love again
+<chords>       Esus</chords>
+And my soul will dance
+<chords>       F#m</chords>
+On the wings of forever
 
-<blocks>
-<videlit_line>Ending</videlit_line>
-<chopds>           D                Esus</chopds>
-<text>Upward falling, spirit soaring</text>
-<chopds>              F#m</chopds>
-<text>I touch the sky</text>
-<chopds>                         A/C#   D   Esus   E</chopds>
-<text>When my knees hit the ground</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- IFound Worship — Коснусь Небес [Русский]
-  https://holychords.pro/196
-- Elenyi — Touch the Sky / Tocar el Cielo [Английский]
-  https://holychords.pro/10439
-- EfectoMusic — Tocar el Cielo [Испанский]
-  https://holychords.pro/10440
-- 79 Band — Небес коснусь [Русский]
-  https://holychords.pro/14882
-- Living Water Worship — Touch The Sky [Английский]
-  https://holychords.pro/16477
-- Hillsong United — Доторкнутися до небес [Украинский]
-  https://holychords.pro/28094
-- Alfa Church — Небес коснусь [Русский]
-  https://holychords.pro/28877
-- Skeemans Worship — Небес торкнусь (Acoustic Live) [Украинский]
-  https://holychords.pro/35965
-- Hillsong United — Небес торкнусь [Украинский]
-  https://holychords.pro/36599
-- 2Worship — Небес торкнусь [Украинский]
-  https://holychords.pro/48113
-- WOG.Worship — Небес коснусь [Русский]
-  https://holychords.pro/55465
-- Hillsong United — Небес торкнусь [Украинский]
-  https://holychords.pro/60022
+Ending
+<chords>           D                Esus</chords>
+Upward falling, spirit soaring
+<chords>              F#m</chords>
+I touch the sky
+<chords>                         A/C#   D   Esus   E</chords>
+When my knees hit the ground

@@ -1,65 +1,57 @@
-Hillsong Ukraine — Бог всей земли
+Номер: 297
+Автор: Hillsong Ukraine
+Песня: Бог всей земли
 BPM: 140
 Источник: https://holychords.pro/297
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Dm         F                  G     A</chopds>
-<text>Не найти мне нигде Такую любовь,</text>
-<chopds>Dm         F            G       A</chopds>
-<text>Которую подарил мне</text>
-<chopds>Dm      F          G        A</chopds>
-<text>Я живу, дышу свободно теперь</text>
-<chopds>Dm      F           G       A</chopds>
-<text>Он - мой Спаситель! Ее!</text>
-</blocks>
+1 куплет
+<chords>Dm         F                  G     A</chords>
+Не найти мне нигде Такую любовь,
+<chords>Dm         F            G       A</chords>
+Которую подарил мне
+<chords>Dm      F          G        A</chords>
+Я живу, дышу свободно теперь
+<chords>Dm      F           G       A</chords>
+Он - мой Спаситель! Ее!
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Каждый день я молюсь, и прошу об одном</text>
-<text>Всегда будь рядом</text>
-<text>Я хочу исполнять Твою Волю всегда</text>
-<text>Жить для Тебя, Бог</text>
-</blocks>
+2 куплет
+Каждый день я молюсь, и прошу об одном
+Всегда будь рядом
+Я хочу исполнять Твою Волю всегда
+Жить для Тебя, Бог
 
-<blocks>
-<videlit_line>Пед припев</videlit_line>
-<chopds>Dm         Am   C                            G</chopds>
-<text>Открой небо, пролей на меня Свой огонь</text>
-<chopds>Dm                  Am   C                       G</chopds>
-<text>Я здесь на время, мой Бог, вот я - для Тебя!</text>
-</blocks>
+Пред припев
+<chords>Dm         Am   C                            G</chords>
+Открой небо, пролей на меня Свой огонь
+<chords>Dm                  Am   C                       G</chords>
+Я здесь на время, мой Бог, вот я - для Тебя!
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Dm                          Bb</chopds>
-<text>Всем людям на земле нужен Бог</text>
-<chopds>F                        C</chopds>
-<text>Прощение, милость и любовь</text>
-<chopds>Dm                Bb</chopds>
-<text>Не важно, как считаешь ты</text>
-<chopds>G                        C</chopds>
-<text>Он остаётся Богом всей земли</text>
-<chopds>Dm             Bb</chopds>
-<text>Отдал Себя, чтоб жили мы</text>
-<chopds>F                      C</chopds>
-<text>В свободе, мире, радости</text>
-<chopds>Dm                  Bb</chopds>
-<text>Мой Бог cилён и может всё</text>
-<chopds>F/A   C</chopds>
-<text>Поверь в Него!</text>
-</blocks>
+Припев
+<chords>Dm                          Bb</chords>
+Всем людям на земле нужен Бог
+<chords>F                        C</chords>
+Прощение, милость и любовь
+<chords>Dm                Bb</chords>
+Не важно, как считаешь ты
+<chords>G                        C</chords>
+Он остаётся Богом всей земли
+<chords>Dm             Bb</chords>
+Отдал Себя, чтоб жили мы
+<chords>F                      C</chords>
+В свободе, мире, радости
+<chords>Dm                  Bb</chords>
+Мой Бог cилён и может всё
+<chords>F/A   C</chords>
+Поверь в Него!
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>Dm</chopds>
-<text>Направляй всю жизнь мою</text>
-<chopds>Bb                Gm</chopds>
-<text>Я знаю, что Ты рядом</text>
-<chopds>Dm         Am</chopds>
-<text>Проявляй через меня</text>
-<chopds>Bb                   C</chopds>
-<text>О, Бог, любовь Свою к людям</text>
-</blocks>
+Мост
+<chords>Dm</chords>
+Направляй всю жизнь мою
+<chords>Bb                Gm</chords>
+Я знаю, что Ты рядом
+<chords>Dm         Am</chords>
+Проявляй через меня
+<chords>Bb                   C</chords>
+О, Бог, любовь Свою к людям

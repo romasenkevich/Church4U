@@ -1,62 +1,56 @@
-Вячеслав Маслов — Ты явил Свою любовь
+Номер: 214
+Автор: Вячеслав Маслов
+Песня: Ты явил Свою любовь
 Источник: https://holychords.pro/214
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>Fm</chopds>
-<text>Ты явил Свою любовь</text>
-<chopds>Bbm</chopds>
-<text>В день, когда лилась Святая кровь</text>
-<chopds>Ab                                         Eb</chopds>
-<text>И страдая, думал обо мне</text>
-<chopds>Fm</chopds>
-<text>Этой жертвой навсегда</text>
-<chopds>Bbm</chopds>
-<text>Примирил с Отцом меня</text>
-<chopds>Ab                                         Eb</chopds>
-<text>Иисус благодарю Тебя</text>
-</blocks>
+1 куплет
+<chords>Fm</chords>
+Ты явил Свою любовь
+<chords>Bbm</chords>
+В день, когда лилась Святая кровь
+<chords>Ab                                         Eb</chords>
+И страдая, думал обо мне
+<chords>Fm</chords>
+Этой жертвой навсегда
+<chords>Bbm</chords>
+Примирил с Отцом меня
+<chords>Ab                                         Eb</chords>
+Иисус благодарю Тебя
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>C#</chopds>
-<text>Снял пелену с моих очей</text>
-<chopds>Bbm                                               Fm                Eb</chopds>
-<text>И сердца тьму проник Твой Божий свет</text>
-<chopds>C#</chopds>
-<text>Ты душу искупил сполна</text>
-<chopds>Bbm                             Fm  Eb</chopds>
-<text>Как велика Твоя цена</text>
-</blocks>
+Пред припев
+<chords>C#</chords>
+Снял пелену с моих очей
+<chords>Bbm                                               Fm                Eb</chords>
+И сердца тьму проник Твой Божий свет
+<chords>C#</chords>
+Ты душу искупил сполна
+<chords>Bbm                             Fm  Eb</chords>
+Как велика Твоя цена
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>Ab</chopds>
-<text>Благодарю Тебя Иисус</text>
-<chopds>Eb/G                                        Fm   C#   Eb</chopds>
-<text>За жертву и Голгофский крест</text>
-<chopds>Ab</chopds>
-<text>За воскресение Твоё</text>
-<chopds>Eb/G                                    Fm   C#   Eb</chopds>
-<text>И за жизнь вечную в Тебе</text>
-<chopds>Ab</chopds>
-<text>Благодарю Тебя Иисус</text>
-<chopds>Eb/G                                  Fm   C#   Eb</chopds>
-<text>За путь открытый в небеса</text>
-<chopds>Ab</chopds>
-<text>За исцеление моё</text>
-<chopds>Eb/G                            Fm   C#   Eb</chopds>
-<text>И за свободу от греха</text>
-</blocks>
+Припев
+<chords>Ab</chords>
+Благодарю Тебя Иисус
+<chords>Eb/G                                        Fm   C#   Eb</chords>
+За жертву и Голгофский крест
+<chords>Ab</chords>
+За воскресение Твоё
+<chords>Eb/G                                    Fm   C#   Eb</chords>
+И за жизнь вечную в Тебе
+<chords>Ab</chords>
+Благодарю Тебя Иисус
+<chords>Eb/G                                  Fm   C#   Eb</chords>
+За путь открытый в небеса
+<chords>Ab</chords>
+За исцеление моё
+<chords>Eb/G                            Fm   C#   Eb</chords>
+И за свободу от греха
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Не забыть мне никогда</text>
-<text>Этот день, когда Ты спас меня</text>
-<text>Реки потекли воды живой</text>
-<text>Ангелы пришли в восторг</text>
-<text>Громко пел небесный хор</text>
-<text>А я прыгал выше всяких гор</text>
-</blocks>
+2 куплет
+Не забыть мне никогда
+Этот день, когда Ты спас меня
+Реки потекли воды живой
+Ангелы пришли в восторг
+Громко пел небесный хор
+А я прыгал выше всяких гор

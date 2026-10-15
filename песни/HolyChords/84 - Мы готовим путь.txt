@@ -1,28 +1,20 @@
-Виталий Ефремочкин — Мы готовим путь
+Номер: 84
+Автор: Виталий Ефремочкин
+Песня: Мы готовим путь
 Источник: https://holychords.pro/84
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>        A2            C#m                      A2           C#m</chopds>
-<text>Господь моё сердце разум мой обнови</text>
-<chopds>            A2                   C#m       Hsus        A2</chopds>
-<text>Чтобы я превознести смог выше и выше</text>
-<chopds>                   C#m    Hsus       A2</chopds>
-<text>Имя Твоё выше, выше, выше.</text>
-</blocks>
+Куплет
+<chords>        A2            C#m                      A2           C#m</chords>
+Господь моё сердце разум мой обнови
+<chords>            A2                   C#m       Hsus        A2</chords>
+Чтобы я превознести смог выше и выше
+<chords>                   C#m    Hsus       A2</chords>
+Имя Твоё выше, выше, выше.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                            E                               H</chopds>
-<text>Мы готовим путь, мы готовим путь,</text>
-<chopds>                         C#m  H         A2</chopds>
-<text>Мы готовим путь для Него.</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- Евгений Сафонов — Мы готовим путь [Русский]
-  https://holychords.pro/12454
+Припев
+<chords>                            E                               H</chords>
+Мы готовим путь, мы готовим путь,
+<chords>                         C#m  H         A2</chords>
+Мы готовим путь для Него.

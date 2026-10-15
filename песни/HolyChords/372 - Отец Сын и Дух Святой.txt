@@ -1,36 +1,34 @@
-Алексей Грудинский — Отец Сын и Дух Святой
+Номер: 372
+Автор: Алексей Грудинский
+Песня: Отец Сын и Дух Святой
 Источник: https://holychords.pro/372
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>Am                                    F</chopds>
-<text>Поднимаю очи в небо и смотрю с надеждой я</text>
-<chopds>          C                       G</chopds>
-<text>Приди, любовь моя</text>
-<chopds>Am                                        F</chopds>
-<text>Иисус ты мой Спаситель сердце жаждет лишь Тебя</text>
-<chopds>          C                       G</chopds>
-<text>Приди, любовь моя</text>
-<chopds>F                                               G</chopds>
-<text>Оставляя день вчерашний моё сердце встречи жаждет</text>
-<chopds>  Am</chopds>
-<text>Знаю Ты меня ждёшь</text>
-<chopds>F                                       G</chopds>
-<text>Я Живу и прославляю я люблю и я мечтаю</text>
-<chopds>  Am</chopds>
-<text>Знаю Ты меня ждёшь</text>
-</blocks>
+Куплет
+<chords>Am                                    F</chords>
+Поднимаю очи в небо и смотрю с надеждой я
+<chords>          C                       G</chords>
+Приди, любовь моя
+<chords>Am                                        F</chords>
+Иисус ты мой Спаситель сердце жаждет лишь Тебя
+<chords>          C                       G</chords>
+Приди, любовь моя
+<chords>F                                               G</chords>
+Оставляя день вчерашний моё сердце встречи жаждет
+<chords>  Am</chords>
+Знаю Ты меня ждёшь
+<chords>F                                       G</chords>
+Я Живу и прославляю я люблю и я мечтаю
+<chords>  Am</chords>
+Знаю Ты меня ждёшь
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                 F          G         Am</chopds>
-<text>Отец и Сын и Дух Святой</text>
-<chopds>                 F          G         Am</chopds>
-<text>Отец и Сын и Дух Святой</text>
-<chopds>                 F          G         Am</chopds>
-<text>Отец и Сын и Дух Святой</text>
-<chopds>                 F          G         Am</chopds>
-<text>Отец и Сын и Дух Святой</text>
-</blocks>
+Припев
+<chords>                 F          G         Am</chords>
+Отец и Сын и Дух Святой
+<chords>                 F          G         Am</chords>
+Отец и Сын и Дух Святой
+<chords>                 F          G         Am</chords>
+Отец и Сын и Дух Святой
+<chords>                 F          G         Am</chords>
+Отец и Сын и Дух Святой

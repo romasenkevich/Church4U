@@ -1,40 +1,34 @@
-Hillsong Ukraine — Правит Бог
+Номер: 500
+Автор: Hillsong Ukraine
+Песня: Правит Бог
 Источник: https://holychords.pro/500
 
-==================================================
+---
 
-<blocks>
-<chopds>G  D  C</chopds>
-</blocks>
+<chords>G  D  C</chords>
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>    G          D                 C          G</chopds>
-<text>Святый Бог наш, Святый Бог</text>
-<chopds>D/F#     Em           A         Dsus    D</chopds>
-<text>Всё творение преклонится</text>
-<chopds>G         D       C        G  D/F#</chopds>
-<text>Аллилуйя, аллилуйя</text>
-<chopds>Em       A/C#          Dsus   D</chopds>
-<text>Богу в вышних слава</text>
-</blocks>
+Куплет
+<chords>    G          D                 C          G</chords>
+Святый Бог наш, Святый Бог
+<chords>D/F#     Em           A         Dsus    D</chords>
+Всё творение преклонится
+<chords>G         D       C        G  D/F#</chords>
+Аллилуйя, аллилуйя
+<chords>Em       A/C#          Dsus   D</chords>
+Богу в вышних слава
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>          G/H                C</chopds>
-<text>Буду петь, буду петь,</text>
-<chopds>Esus4  E        C    Dsus   D</chopds>
-<text>Славить, я вечно</text>
-</blocks>
+Пред припев
+<chords>          G/H                C</chords>
+Буду петь, буду петь,
+<chords>Esus4  E        C    Dsus   D</chords>
+Славить, я вечно
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                 G           Em  D</chopds>
-<text>Правит Бог, правит Бог</text>
-<chopds>         G/H  C       G         Dsus   D</chopds>
-<text>В Небесах Святой Господь наш</text>
-<chopds>               Em                Asus</chopds>
-<text>Правит Бог, правит Бог</text>
-<chopds>        A         C    D</chopds>
-<text>Во все века</text>
-</blocks>
+Припев
+<chords>                 G           Em  D</chords>
+Правит Бог, правит Бог
+<chords>         G/H  C       G         Dsus   D</chords>
+В Небесах Святой Господь наш
+<chords>               Em                Asus</chords>
+Правит Бог, правит Бог
+<chords>        A         C    D</chords>
+Во все века

@@ -1,48 +1,40 @@
-Hillsong Ukraine — Сиять во тьме
+Номер: 312
+Автор: Hillsong Ukraine
+Песня: Сиять во тьме
 Источник: https://holychords.pro/312
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>                  A                  F#m                   D</chopds>
-<text>Спасает Бог, если славим в свободе,</text>
-<chopds>                                 A           F#m          D</chopds>
-<text>Всё прошлое уйдёт, если ищем Его мы,</text>
-<chopds>                                A                           F#m              D</chopds>
-<text>Преграду устрани, пролей в сердца Свою славу,</text>
-<chopds>                      A             F#m               D</chopds>
-<text>Ты раствори, наш позор благодатью.</text>
-</blocks>
+1 куплет
+<chords>                  A                  F#m                   D</chords>
+Спасает Бог, если славим в свободе,
+<chords>                                 A           F#m          D</chords>
+Всё прошлое уйдёт, если ищем Его мы,
+<chords>                                A                           F#m              D</chords>
+Преграду устрани, пролей в сердца Свою славу,
+<chords>                      A             F#m               D</chords>
+Ты раствори, наш позор благодатью.
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>Hm          F#m        D</chopds>
-<text>Посвящены мы, о-о-ооо, о-о-ооо,</text>
-<chopds>Hm          F#m                D</chopds>
-<text>Посвящены мы в Тебе.</text>
-</blocks>
+Пред припев
+<chords>Hm          F#m        D</chords>
+Посвящены мы, о-о-ооо, о-о-ооо,
+<chords>Hm          F#m                D</chords>
+Посвящены мы в Тебе.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>    A</chopds>
-<text>Сиять во тьме будет свет Твой,</text>
-<chopds>     E</chopds>
-<text>Сиять во тьме будет свет, будет свет,</text>
-<chopds> F#m                   D</chopds>
-<text>Твой, мы с тобой,</text>
-</blocks>
+Припев
+<chords>    A</chords>
+Сиять во тьме будет свет Твой,
+<chords>     E</chords>
+Сиять во тьме будет свет, будет свет,
+<chords> F#m                   D</chords>
+Твой, мы с тобой,
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Ему хвалу всегда, в небеса возносите,</text>
-<text>Надежду в нас, укрепляет Спаситель.</text>
-</blocks>
+2 куплет
+Ему хвалу всегда, в небеса возносите,
+Надежду в нас, укрепляет Спаситель.
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>         E         F#m  D</chopds>
-<text>Любовь Твоя. О-о-о, о-о-о</text>
-<chopds>         E         F#m  D</chopds>
-<text>Любовь Твоя. О-о-о, о-о-о</text>
-</blocks>
+Мост
+<chords>         E         F#m  D</chords>
+Любовь Твоя. О-о-о, о-о-о
+<chords>         E         F#m  D</chords>
+Любовь Твоя. О-о-о, о-о-о

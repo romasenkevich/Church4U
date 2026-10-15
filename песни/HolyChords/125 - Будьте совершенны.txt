@@ -1,48 +1,44 @@
-Артём Янский — Будьте совершенны
+Номер: 125
+Автор: Артём Янский
+Песня: Будьте совершенны
 Источник: https://holychords.pro/125
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                             C                           D</chopds>
-<text>Будьте совершенны, как Он свят,</text>
-<chopds>               G                  D      Em</chopds>
-<text>А кто свят, тот на небо взят.</text>
-<chopds>                       C                              D</chopds>
-<text>Света достигай на пути Христа,</text>
-<chopds>                   Hm                   Em</chopds>
-<text>Начнётся жизнь с чистого листа.</text>
-</blocks>
+Припев
+<chords>                             C                           D</chords>
+Будьте совершенны, как Он свят,
+<chords>               G                  D      Em</chords>
+А кто свят, тот на небо взят.
+<chords>                       C                              D</chords>
+Света достигай на пути Христа,
+<chords>                   Hm                   Em</chords>
+Начнётся жизнь с чистого листа.
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>        Em                         Hm</chopds>
-<text>Блаженные нищие духом,</text>
-<chopds>         C              D                Em</chopds>
-<text>Ибо их есть царство небес.</text>
-<chopds>       Em                                  Hm</chopds>
-<text>Блаженство чистым сердцам,</text>
-<chopds>    C                    D</chopds>
-<text>Увидят Бога - Он воскрес.</text>
-<chopds>    Em                            Hm</chopds>
-<text>И тот заслужил блаженства,</text>
-<chopds>               C                      D               Em</chopds>
-<text>Кто с близким поступал милостиво.</text>
-<chopds>            Em                          Hm</chopds>
-<text>Счастливые, кто льёт слёзы,</text>
-<chopds>                C          D              Em</chopds>
-<text>В Сыне Бога они миротворцы.</text>
-</blocks>
+1 куплет
+<chords>        Em                         Hm</chords>
+Блаженные нищие духом,
+<chords>         C              D                Em</chords>
+Ибо их есть царство небес.
+<chords>       Em                                  Hm</chords>
+Блаженство чистым сердцам,
+<chords>    C                    D</chords>
+Увидят Бога - Он воскрес.
+<chords>    Em                            Hm</chords>
+И тот заслужил блаженства,
+<chords>               C                      D               Em</chords>
+Кто с близким поступал милостиво.
+<chords>            Em                          Hm</chords>
+Счастливые, кто льёт слёзы,
+<chords>                C          D              Em</chords>
+В Сыне Бога они миротворцы.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Какая награда для нас,</text>
-<text>Если любим любящего?</text>
-<text>Любите обижающих вас,</text>
-<text>Это путь совершенного.</text>
-<text>Божьи дети миру свет,</text>
-<text>Исполняйте Божий завет.</text>
-<text>Не судите никого из людей,</text>
-<text>В вере святость покажите быстрей.</text>
-</blocks>
+2 куплет
+Какая награда для нас,
+Если любим любящего?
+Любите обижающих вас,
+Это путь совершенного.
+Божьи дети миру свет,
+Исполняйте Божий завет.
+Не судите никого из людей,
+В вере святость покажите быстрей.

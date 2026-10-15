@@ -1,86 +1,70 @@
-Ross Bramirskyy — Его любовь
+Номер: 402
+Автор: Ross Bramirskyy
+Песня: Его любовь
 Источник: https://holychords.pro/402
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Интро</videlit_line>
-<chopds>Am  F  C  G</chopds>
-</blocks>
+Интро
+<chords>Am  F  C  G</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>    Am                          F                 C                         G</chopds>
-<text>Остановите вашу веру, в дела теории людей!</text>
-<chopds>   Am                              F                           C                            G</chopds>
-<text>Чтобы хоть раз и в ваши двери стучал Господь рукой Своей.</text>
-<chopds>     Am                                  F                C                          G</chopds>
-<text>Оставьте за спиной печали, Господь всегда слезу утрет.</text>
-<chopds>    Am                        F                         C                                        G</chopds>
-<text>Я так хочу, чтоб вы узнали, что Он велик, что Он поймет тебя.</text>
-</blocks>
+1 куплет
+<chords>    Am                          F                 C                         G</chords>
+Остановите вашу веру, в дела теории людей!
+<chords>   Am                              F                           C                            G</chords>
+Чтобы хоть раз и в ваши двери стучал Господь рукой Своей.
+<chords>     Am                                  F                C                          G</chords>
+Оставьте за спиной печали, Господь всегда слезу утрет.
+<chords>    Am                        F                         C                                        G</chords>
+Я так хочу, чтоб вы узнали, что Он велик, что Он поймет тебя.
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<chopds>      F                              G                        Am</chopds>
-<text>Дверь за которой  ты стоишь отделяет тебя</text>
-<chopds>      F                      G                          F                G</chopds>
-<text>Просто скажи ты Ему - без Тебя я не могу</text>
-</blocks>
+Пред припев
+<chords>      F                              G                        Am</chords>
+Дверь за которой  ты стоишь отделяет тебя
+<chords>      F                      G                          F                G</chords>
+Просто скажи ты Ему - без Тебя я не могу
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>            F                      Am       G         F</chopds>
-<text>Оглянись и посмотри ты на Него</text>
-<chopds>               Am             G           F</chopds>
-<text>Он страдал за тебя и меня</text>
-<chopds>          Am                    G                     F</chopds>
-<text>Сам Бог Жизнь Свою за нас Отдал</text>
-<chopds>              Am   G                 F</chopds>
-<text>Что бы ты и я любовь Его принял!</text>
-<chopds>Am G</chopds>
-</blocks>
+Припев
+<chords>            F                      Am       G         F</chords>
+Оглянись и посмотри ты на Него
+<chords>               Am             G           F</chords>
+Он страдал за тебя и меня
+<chords>          Am                    G                     F</chords>
+Сам Бог Жизнь Свою за нас Отдал
+<chords>              Am   G                 F</chords>
+Что бы ты и я любовь Его принял!
+<chords>Am G</chords>
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Он создал всё на этом свете, травинку, лепесток, тебя.</text>
-<text>На этой голубой планете ты должен жить Его любя!</text>
-<text>Ты должен Господа прославить, в молитве к Богу устремись.</text>
-<text>Чтобы грехи все обезглавить, попробуй, просто помолись... ЕМУ!!!</text>
-</blocks>
+2 куплет
+Он создал всё на этом свете, травинку, лепесток, тебя.
+На этой голубой планете ты должен жить Его любя!
+Ты должен Господа прославить, в молитве к Богу устремись.
+Чтобы грехи все обезглавить, попробуй, просто помолись... ЕМУ!!!
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
-<text>Вера это все, что нужно для тебя</text>
-<text>Веруй в Него, и будешь спасен навсегда!</text>
-</blocks>
+Пред припев
+Вера это все, что нужно для тебя
+Веруй в Него, и будешь спасен навсегда!
 
-<blocks>
-<videlit_line>Запев</videlit_line>
-<chopds>Am        G                       F</chopds>
-<text>Это Любовь, это Любовь.</text>
-<chopds>Am        G                      F</chopds>
-<text>Это Любовь,это Любовь.</text>
-<chopds>     Am     G</chopds>
-<text>Любовь!</text>
-<chopds>Am  F  C  G</chopds>
-</blocks>
+Запев
+<chords>Am        G                       F</chords>
+Это Любовь, это Любовь.
+<chords>Am        G                      F</chords>
+Это Любовь,это Любовь.
+<chords>     Am     G</chords>
+Любовь!
+<chords>Am  F  C  G</chords>
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>    F                  G        Am</chopds>
-<text>Его любовь самая лучшая</text>
-<chopds>    F                  G                Am</chopds>
-<text>Его любовь самая красивая</text>
-<chopds>    F                  G               Am</chopds>
-<text>Его любовь самая любимая!</text>
-<chopds>F            G</chopds>
-<text>Его любовь!!!</text>
-</blocks>
+Мост
+<chords>    F                  G        Am</chords>
+Его любовь самая лучшая
+<chords>    F                  G                Am</chords>
+Его любовь самая красивая
+<chords>    F                  G               Am</chords>
+Его любовь самая любимая!
+<chords>F            G</chords>
+Его любовь!!!
 
-<blocks>
-<videlit_line>Запев</videlit_line>
-<text>Это Любовь, это Любовь</text>
-<text>Это Любовь, это Любовь</text>
-<text>Иешуа! Иешуа!!!</text>
-</blocks>
+Запев
+Это Любовь, это Любовь
+Это Любовь, это Любовь
+Иешуа! Иешуа!!!

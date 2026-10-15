@@ -1,34 +1,28 @@
-Виталий Ефремочкин — Песня небес
+Номер: 83
+Автор: Виталий Ефремочкин
+Песня: Песня небес
 Источник: https://holychords.pro/83
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>C#m        A                  C#m                       H</chopds>
-<text>Спасение в руках Твоих, о мой Господь</text>
-<chopds>C#m          A                      C#m                  H      C#m   A   C#m  H</chopds>
-<text>Ты восседаешь на престоле в славе и хвале.</text>
-</blocks>
+1 куплет
+<chords>C#m        A                  C#m                       H</chords>
+Спасение в руках Твоих, о мой Господь
+<chords>C#m          A                      C#m                  H      C#m   A   C#m  H</chords>
+Ты восседаешь на престоле в славе и хвале.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>    A            H    C#m     A                     H         C#m</chopds>
-<text>С ангелами поём, славим мы вместе с небесами</text>
-<chopds>  A                   H         C#m              A      H    C#m</chopds>
-<text>Вечный и славный Он - Наш Бог.</text>
-</blocks>
+Припев
+<chords>    A            H    C#m     A                     H         C#m</chords>
+С ангелами поём, славим мы вместе с небесами
+<chords>  A                   H         C#m              A      H    C#m</chords>
+Вечный и славный Он - Наш Бог.
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>    A  H  C#m    A  H  C#m</chopds>
-<text>Святой,       Святой</text>
-<chopds>    A  H  C#m    A  H  C#m</chopds>
-<text>Святой,       Святой</text>
-</blocks>
+Бридж
+<chords>    A  H  C#m    A  H  C#m</chords>
+Святой,       Святой
+<chords>    A  H  C#m    A  H  C#m</chords>
+Святой,       Святой
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Достоин только Агнец Божий принять</text>
-<text>Власть и силу, мудрость, славу, всю хвалу и честь.</text>
-</blocks>
+2 куплет
+Достоин только Агнец Божий принять
+Власть и силу, мудрость, славу, всю хвалу и честь.

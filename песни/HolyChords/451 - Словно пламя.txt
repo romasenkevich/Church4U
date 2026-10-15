@@ -1,62 +1,44 @@
-Слово Жизни Music — Словно пламя
+Номер: 451
+Автор: Слово Жизни Music
+Песня: Словно пламя
 Источник: https://holychords.pro/451
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>                 Am                                     G</chopds>
-<text>Словно пламя внутри меня горит</text>
-<chopds>                                           F                        G</chopds>
-<text>Хочу, чтоб знал весь мир, что Ты – Бог</text>
-<chopds>               Am                                 G</chopds>
-<text>Есть желание в глубине души</text>
-<chopds>                                           F                     G</chopds>
-<text>Хочу, чтоб знал весь мир, что Ты жив</text>
-<chopds>Am    F     G</chopds>
-<chopds>Dm    F     G</chopds>
-</blocks>
+1 куплет
+<chords>                 Am                                     G</chords>
+Словно пламя внутри меня горит
+<chords>                                           F                        G</chords>
+Хочу, чтоб знал весь мир, что Ты – Бог
+<chords>               Am                                 G</chords>
+Есть желание в глубине души
+<chords>                                           F                     G</chords>
+Хочу, чтоб знал весь мир, что Ты жив
+<chords>Am    F     G</chords>
+<chords>Dm    F     G</chords>
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Окружи нас присутствием Своим</text>
-<text>И все, что хочешь Ты, измени</text>
-<text>Своим Духом коснись моей души</text>
-<text>Приди и обнови, мне нужен Ты</text>
-</blocks>
+2 куплет
+Окружи нас присутствием Своим
+И все, что хочешь Ты, измени
+Своим Духом коснись моей души
+Приди и обнови, мне нужен Ты
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>                           F      Am      G</chopds>
-<text>Иисус, я нуждаюсь в Тебе</text>
-<chopds>                                F      Am         G</chopds>
-<text>Открой Свой источник во мне</text>
-<chopds>                   F       Am      G</chopds>
-<text>Я простираюсь к Тебе</text>
-<chopds>                 Dm       Am           G</chopds>
-<text>Бог, Ты всё, что нужно мне</text>
-</blocks>
+Припев
+<chords>                           F      Am      G</chords>
+Иисус, я нуждаюсь в Тебе
+<chords>                                F      Am         G</chords>
+Открой Свой источник во мне
+<chords>                   F       Am      G</chords>
+Я простираюсь к Тебе
+<chords>                 Dm       Am           G</chords>
+Бог, Ты всё, что нужно мне
 
-<blocks>
-<videlit_line>Мост</videlit_line>
-<chopds>          F                             C</chopds>
-<text>Приди, как поток воды живой</text>
-<chopds>      Am                       G</chopds>
-<text>Меня наполни Собой</text>
-<chopds>          F                      C</chopds>
-<text>Как ветер приди и обнови</text>
-<chopds>      Am                         G</chopds>
-<text>Иисус, мне нужен Ты</text>
-</blocks>
-
-==================================================
-Translation songs
-
-- New Beginnings Worship — Дух Святой [Русский]
-  https://holychords.pro/35
-- Planetshakers — Like a fire [Английский]
-  https://holychords.pro/7498
-- JesusMainstream — Словно пламя [Русский]
-  https://holychords.pro/16029
-- Matsepa — Дух Святий [Украинский]
-  https://holychords.pro/74444
+Мост
+<chords>          F                             C</chords>
+Приди, как поток воды живой
+<chords>      Am                       G</chords>
+Меня наполни Собой
+<chords>          F                      C</chords>
+Как ветер приди и обнови
+<chords>      Am                         G</chords>
+Иисус, мне нужен Ты

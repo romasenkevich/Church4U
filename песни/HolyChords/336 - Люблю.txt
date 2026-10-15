@@ -1,56 +1,50 @@
-Краеугольный камень — Люблю
+Номер: 336
+Автор: Краеугольный камень
+Песня: Люблю
 Источник: https://holychords.pro/336
 
-==================================================
+---
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>    Em                                                                Am</chopds>
-<text>В каждом пульсе сердца Твоего - люблю</text>
-<chopds> D                                                        G</chopds>
-<text>Каждое движение Твое - люблю</text>
-<chopds>     C                                                                        Am</chopds>
-<text>В каждом взгляде и в дыхании уст - люблю</text>
-<chopds>    H                                                                  Em</chopds>
-<text>В каждой капле боли Твоих уз - люблю</text>
-</blocks>
+1 куплет
+<chords>    Em                                                                Am</chords>
+В каждом пульсе сердца Твоего - люблю
+<chords> D                                                        G</chords>
+Каждое движение Твое - люблю
+<chords>     C                                                                        Am</chords>
+В каждом взгляде и в дыхании уст - люблю
+<chords>    H                                                                  Em</chords>
+В каждой капле боли Твоих уз - люблю
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<chopds>Em                                                         Am</chopds>
-<text>В каждом звуке музыки небес - люблю.</text>
-<chopds>D                                                              G</chopds>
-<text>В каждой грани истинных чудес - люблю.</text>
-<chopds>C                                                           Am</chopds>
-<text>В каждом шаге крестного пути - люблю.</text>
-<chopds>H                                                           Em</chopds>
-<text>Птицей рвется сердце из груди - люблю.</text>
-</blocks>
+2 куплет
+<chords>Em                                                         Am</chords>
+В каждом звуке музыки небес - люблю.
+<chords>D                                                              G</chords>
+В каждой грани истинных чудес - люблю.
+<chords>C                                                           Am</chords>
+В каждом шаге крестного пути - люблю.
+<chords>H                                                           Em</chords>
+Птицей рвется сердце из груди - люблю.
 
-<blocks>
-<videlit_line>Припев</videlit_line>
-<chopds>  Am                                    H7                                      Em</chopds>
-<text>А я без Твоей любви пуст, без Твоей любви глух,</text>
-<chopds>                                      C</chopds>
-<text>Без Твоей любви слеп, без Твоей любви...</text>
-<chopds>Am                                 H           Em  D  C</chopds>
-<text>Я без Твоей любви чёрств.</text>
-<chopds>Am                                  H                                       Em</chopds>
-<text>Я без Твоей любви нищ, без Твоей любви наг,</text>
-<chopds>                                     C</chopds>
-<text>Без Твоей Любви глуп, без Твоей любви…</text>
-<chopds>Am                                  H</chopds>
-<text>Я без Твоей любви мёртв.</text>
-</blocks>
+Припев
+<chords>  Am                                    H7                                      Em</chords>
+А я без Твоей любви пуст, без Твоей любви глух,
+<chords>                                      C</chords>
+Без Твоей любви слеп, без Твоей любви...
+<chords>Am                                 H           Em  D  C</chords>
+Я без Твоей любви чёрств.
+<chords>Am                                  H                                       Em</chords>
+Я без Твоей любви нищ, без Твоей любви наг,
+<chords>                                     C</chords>
+Без Твоей Любви глуп, без Твоей любви…
+<chords>Am                                  H</chords>
+Я без Твоей любви мёртв.
 
-<blocks>
-<videlit_line>3 куплет</videlit_line>
-<chopds>Em                                                            Am</chopds>
-<text>В каждой краске милости Твоей - люблю</text>
-<chopds>D                                                             G</chopds>
-<text>В каждом миге уходящих дней - люблю</text>
-<chopds>   C                                                    Am</chopds>
-<text>Каждое поднятие с колен - люблю</text>
-<chopds>H                                                  Em</chopds>
-<text>Каждое прощение измен - люблю</text>
-</blocks>
+3 куплет
+<chords>Em                                                            Am</chords>
+В каждой краске милости Твоей - люблю
+<chords>D                                                             G</chords>
+В каждом миге уходящих дней - люблю
+<chords>   C                                                    Am</chords>
+Каждое поднятие с колен - люблю
+<chords>H                                                  Em</chords>
+Каждое прощение измен - люблю

@@ -1,52 +1,46 @@
-Спасіння Вишневе — Ти - Світанок
+Номер: 18
+Автор: Спасіння Вишневе
+Песня: Ти - Світанок
 Источник: https://holychords.pro/18
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Куплет</videlit_line>
-<chopds>                Em            D                   G</chopds>
-<text>Ісус, Ти сходиш світанком в серці моїм,</text>
-<chopds>          Em                C           D</chopds>
-<text>Твоя милість мене трима.</text>
-<chopds>            Em              D                   C</chopds>
-<text>Знаю, кожного ранку чуєш Ти голос мій.</text>
-<chopds>           Em             C         D</chopds>
-<text>Ісусе, рівних Тобі нема.</text>
-</blocks>
+Куплет
+<chords>                Em            D                   G</chords>
+Ісус, Ти сходиш світанком в серці моїм,
+<chords>          Em                C           D</chords>
+Твоя милість мене трима.
+<chords>            Em              D                   C</chords>
+Знаю, кожного ранку чуєш Ти голос мій.
+<chords>           Em             C         D</chords>
+Ісусе, рівних Тобі нема.
 
-<blocks>
-<videlit_line>Перед приспів</videlit_line>
-<chopds>              C                  D</chopds>
-<text>Ти приходиш - світає в душі,</text>
-<chopds>              C                    D                 H</chopds>
-<text>Ти знаходиш найкраще в мені.</text>
-</blocks>
+Перед приспів
+<chords>              C                  D</chords>
+Ти приходиш - світає в душі,
+<chords>              C                    D                 H</chords>
+Ти знаходиш найкраще в мені.
 
-<blocks>
-<videlit_line>Приспів</videlit_line>
-<chopds>            Em         C             H</chopds>
-<text>Ти - Світанок нового дня!</text>
-<chopds> H/D#  Em          D</chopds>
-<text>Твоя милість мене наповня,</text>
-<chopds> D/F#     G    Dsus D  C</chopds>
-<text>В Тебе буду вірити я!</text>
-<chopds>H/D#     Em         D         H</chopds>
-<text>Ти - Світанок моєї душі,</text>
-<chopds>H/D#       Em         D</chopds>
-<text>Все найкраще, що є в мені,</text>
-<chopds>D/F#   G    Am        Hsus   H</chopds>
-<text>Віддаю я тільки Тобі!</text>
-</blocks>
+Приспів
+<chords>            Em         C             H</chords>
+Ти - Світанок нового дня!
+<chords> H/D#  Em          D</chords>
+Твоя милість мене наповня,
+<chords> D/F#     G    Dsus D  C</chords>
+В Тебе буду вірити я!
+<chords>H/D#     Em         D         H</chords>
+Ти - Світанок моєї душі,
+<chords>H/D#       Em         D</chords>
+Все найкраще, що є в мені,
+<chords>D/F#   G    Am        Hsus   H</chords>
+Віддаю я тільки Тобі!
 
-<blocks>
-<videlit_line>Бридж</videlit_line>
-<chopds>                 Em                D</chopds>
-<text>Тільки Тобі! Тільки Тобі!</text>
-<chopds>Hm          Em                 D</chopds>
-<text>Тільки Тобі! Тільки Тобі!</text>
-<chopds>D/F#          G                 Am</chopds>
-<text>Тільки Тобі! Тільки Тобі!</text>
-<chopds>             Hsus              H</chopds>
-<text>Тільки Тобі! Тільки Тобі!</text>
-</blocks>
+Бридж
+<chords>                 Em                D</chords>
+Тільки Тобі! Тільки Тобі!
+<chords>Hm          Em                 D</chords>
+Тільки Тобі! Тільки Тобі!
+<chords>D/F#          G                 Am</chords>
+Тільки Тобі! Тільки Тобі!
+<chords>             Hsus              H</chords>
+Тільки Тобі! Тільки Тобі!

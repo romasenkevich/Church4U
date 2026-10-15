@@ -1,41 +1,35 @@
-Голгофа церква — Ми прийшли сьогодні
+Номер: 237
+Автор: Голгофа церква
+Песня: Ми прийшли сьогодні
 Источник: https://holychords.pro/237
 
-==================================================
+---
 
-<blocks>
-<videlit_line>Інтро</videlit_line>
-<chopds>D // D/F# // | G /// D/F# / | Em7 //// | Asus4 //  A // |</chopds>
-</blocks>
+Інтро
+<chords>D // D/F# // | G /// D/F# / | Em7 //// | Asus4 //  A // |</chords>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
-<chopds>                               D   D/F#                     G</chopds>
-<text>Ми прийшли сьогодні у святий Твій дім,</text>
-<chopds>  D/F#            Em7                           Asus4</chopds>
-<text>Щоб Тобі одному славу вознести,</text>
-<chopds> A                     D  D/F#                   G</chopds>
-<text>Щоб Тобі віддати кожен свій тягар,</text>
-<chopds>D/F#                 Em7                                  Asus    A</chopds>
-<text>О Небесний Батьку, Ти - Всесильний Цар.</text>
-</blocks>
+1 куплет
+<chords>                               D   D/F#                     G</chords>
+Ми прийшли сьогодні у святий Твій дім,
+<chords>  D/F#            Em7                           Asus4</chords>
+Щоб Тобі одному славу вознести,
+<chords> A                     D  D/F#                   G</chords>
+Щоб Тобі віддати кожен свій тягар,
+<chords>D/F#                 Em7                                  Asus    A</chords>
+О Небесний Батьку, Ти - Всесильний Цар.
 
-<blocks>
-<videlit_line>Приспів</videlit_line>
-<chopds>    D              D/F#                G                  Asus4      A</chopds>
-<text>Свят, свят, свят наш Господь Вседержитель,</text>
-<chopds>D                       D/F#         G             Asus4   A</chopds>
-<text>Що Він був і що є, і що має прийти.</text>
-<chopds>   D              D/F#                G                  Asus4      A</chopds>
-<text>Свят, свят, свят наш Господь Вседержитель,</text>
-<chopds>C                        G6/H     Em7  A       D</chopds>
-<text>Що Він був і що є, і що має прийти.</text>
-</blocks>
+Приспів
+<chords>    D              D/F#                G                  Asus4      A</chords>
+Свят, свят, свят наш Господь Вседержитель,
+<chords>D                       D/F#         G             Asus4   A</chords>
+Що Він був і що є, і що має прийти.
+<chords>   D              D/F#                G                  Asus4      A</chords>
+Свят, свят, свят наш Господь Вседержитель,
+<chords>C                        G6/H     Em7  A       D</chords>
+Що Він був і що є, і що має прийти.
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Всемогутній Боже, над царями Цар,</text>
-<text>Дай води живої спрагненим серцям.</text>
-<text>Ми прийшли сьогодні у святий Твій дім,</text>
-<text>Щоб Тобі одному славу вознести.</text>
-</blocks>
+2 куплет
+Всемогутній Боже, над царями Цар,
+Дай води живої спрагненим серцям.
+Ми прийшли сьогодні у святий Твій дім,
+Щоб Тобі одному славу вознести.
