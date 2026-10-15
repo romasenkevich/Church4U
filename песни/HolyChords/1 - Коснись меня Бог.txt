@@ -1,55 +1,47 @@
-Слово Жизни Music — Коснись меня Бог
+Номер: 1
+Автор: Слово Жизни Music
+Песня: Коснись меня Бог
 Key: G
 BPM: 138
 Источник: https://holychords.pro/1
 
-==================================================
+---
 
-<blocks>
-<videlit_line>интро</videlit_line>
-<chopds>Hm  A/C#  D</chopds>
-</blocks>
+интро
+<chords>Hm  A/C#  D</chopds>
 
-<blocks>
-<videlit_line>1 куплет</videlit_line>
+1 куплет
 <chopds>Hm               A/C#        D</chopds>
-<text>Ты дал мне новую песню</text>
+Ты дал мне новую песню
 <chopds>           Hm           A/C#           D</chopds>
-<text>На устах моих каждый день</text>
+На устах моих каждый день
 <chopds>Hm              A/C#                   D</chopds>
-<text>Наполнил жизнь мою смыслом</text>
+Наполнил жизнь мою смыслом
 <chopds>           Hm      A/C#         D</chopds>
-<text>Доверяю я лишь Тебе</text>
-</blocks>
+Доверяю я лишь Тебе
 
-<blocks>
-<videlit_line>2 куплет</videlit_line>
-<text>Оставил прошлую жизнь я</text>
-<text>И стремлюсь к Тебе Одному</text>
-<text>Омой меня благодатью</text>
-<text>И веди меня в глубину</text>
-</blocks>
+2 куплет
+Оставил прошлую жизнь я
+И стремлюсь к Тебе Одному
+Омой меня благодатью
+И веди меня в глубину
 
-<blocks>
-<videlit_line>Пред припев</videlit_line>
+Пред припев
 <chopds>Em           F#m  Hm</chopds>
-<text>И в этой жизни одно лишь важно</text>
+И в этой жизни одно лишь важно
 <chopds>G                Em  Hm</chopds>
-<text>Искать Твоё  лицо</text>
+Искать Твоё  лицо
 <chopds>Em                    F#m  Hm</chopds>
-<text>Мы ждем момент, когда однажды</text>
+Мы ждем момент, когда однажды
 <chopds>G</chopds>
-<text>Мы встретимся с Тобой</text>
-</blocks>
+Мы встретимся с Тобой
 
-<blocks>
-<videlit_line>Припев</videlit_line>
+Припев
 <chopds>Hm                                             G</chopds>
-<text>Коснись меня Бог Своей славой и наполни Твой дом</text>
+Коснись меня Бог Своей славой и наполни Твой дом
 <chopds>D                                              A</chopds>
-<text>Своим святым присутствием Дух Святой мы так ждём</text>
+Своим святым присутствием Дух Святой мы так ждём
 <chopds>Hm                                          G</chopds>
-<text>Мы Твоя Церковь наполняй нас мы жаждем Тебя</text>
+Мы Твоя Церковь наполняй нас мы жаждем Тебя
 <chopds>D                               A</chopds>
-<text>Изливай Дух Святой</text>
-</blocks>
+Изливай Дух Святой
